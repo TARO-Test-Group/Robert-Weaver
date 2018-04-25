@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00112</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Thomas A. Hickey:</titleproper>
+        <subtitle>An Inventory of His Papers, 1896-1996 and undated, at the
+			 Southwest Collection/Special Collections Library</subtitle>
+        <author>Whitfield, Lynn</author>
+      </titlestmt>
+  
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">August 2000</date>
+      </publicationstmt>
+    </filedesc>
+   
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">October 2000.</date></creation>
+      <langusage>Finding aid written in
+		  <language>English.</language></langusage>
+      <descrules>Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+  
+    <revisiondesc>
+      <change>
+        <date normal="2003" era="ce" calendar="gregorian">Tue Jul 22 15:22:27 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00112 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+      <change>
+        <date normal="2017" era="ce" calendar="gregorian">June 2017</date>
+        <item>Collection level metadata was revised. All files/items were linked to their digitized counterparts.</item>
+      </change>
+    </revisiondesc>
+    
+  </eadheader>
+
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for Thomas A. Hickey Papers, 1896-1996 and
+		  undated</titleproper>
+      <author>Lynn Whitfield</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">August 2000</date>
+    </titlepage>
+  </frontmatter>
+ 
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <persname encodinganalog="100">Hickey, Thomas A.,
+			 1869-1925</persname>
+      </origination>
+     
+      <unittitle label="Title:" encodinganalog="245$a">Thomas A. Hickey Papers,
+		  
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1896-1996 and undated</unitdate></unittitle>
+     
+      <abstract label="Abstract:" encodinganalog="520$a">The papers of Thomas
+		  Aloysius Hickey, a Socialist who became an ardent speaker, organizer, and
+		  writer of the socialist movement.</abstract>
+     
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 431.1</unitid>
+     
+      <repository label="Repository:" encodinganalog="852$a">
+        <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest"  xlink:href="http://swco.ttu.edu/"> 
+          <corpname><subarea>Southwest Collection/Special Collections Library,</subarea>
+            Texas Tech University</corpname></extref>
+      </repository>
+      
+      
+      <physdesc encodinganalog="300$a" label="Quantity:"><extent>3.5 boxes and 2
+        scrapbooks (4.5 linear feet)</extent></physdesc>
+     
+      <langmaterial label="Language" encodinganalog="546$a">
+        <language langcode="eng" scriptcode="Latn">English</language>
+      </langmaterial>
+      </did>
+  
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>Born in Dublin, Ireland, in 1869, Thomas Aloysius Hickey arrived in
+		  America in 1892. Hickey joined the Socialist Labor party and the Knights of
+		  Labor in 1893 and became an ardent speaker, organizer, and writer, as well as
+		  private secretary to Eugene V. Debs. In 1900, he left the Socialist Labor Party
+		  and went on to cocreate the Socialist Trade and Labor Alliance and helped
+		  arrange several machinist strikes in New Jersey, which led to his blacklisting
+		  by employers. Moving to Butte, Montana, Hickey joined the Western Federation of
+		  Miners and helped recruit for the Socialist party.</p>
+      <p>In 1911, he moved to Hallettsville, Texas, and started a weekly
+		  newspaper called <emph render="italic">The Rebel.</emph> Over time, Hickey
+		  became a prominent figure in the socialist movement and the slogan of his paper
+		  became the official slogan of the Socialist party in Texas. He served as the
+		  socialist candidate for lieutenant governor in 1912 and was married to Clara E.
+		  Boeer that same year. The government suppressed The Rebel in 1917 under the
+		  Espionage Act and in 1918, the Nonpartisan League fired Hickey as an
+		  organizer.</p>
+      <p>In October 1919, he and other socialists organized the National
+		  Workers Drilling and Production Company. Hickey continued writing, serving as
+		  an advertising manager of the Desdemona Oil News and a correspondent for
+		  fourteen more newspapers such as the <emph render="italic">Texas Oil World
+		  </emph>and the <emph render="italic">Independent Oil and Financial Reporter.
+		  </emph> Withdrawing from the company in 1920, he moved to a farm near Stamford,
+		  Texas, and was publishing Tom Hickey's Magazine until his death on May 7, 1925,
+		  of throat cancer.</p>
+      <p>The Handbook of Texas has published this <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" 
+        xlink:href="https://tshaonline.org/handbook/online/articles/fhi55">more in-depth online biography of Thomas Aloysius Hickey.</extref></p>
+    </bioghist>
+   
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The collection contains correspondence, printed material, news
+		  clippings, financial and legal material, literary productions, and scrapbook
+		  material. The bulk of the collection is correspondence, including letters from
+		  Hickey's readers and from Socialist leaders such as Theodore Debs. The printed
+		  materials include newsletters, pamphlets, periodicals, and circulars. Principal
+		  subjects of this collection are the Socialist Party, World War I, and
+		  pacifism.</p>
+      <p>Conservation Note: In 1985 and 1986, a large number of the papers in
+			 this collection were encapsulated within Mellinex polyester film and/or
+			 deacidified using Wei T'o aerosol solution. Those pages that were not treated
+			 remain fragile and brittle. Also, some of the double-sided tape used for the
+			 encapsulation is either coming loose or sticking to other pages. Additionally,
+			 the two volume German medical book set is in very fragile condition, with the
+			 binding falling apart and pages loose. The covers are also fading and
+			 deteriorating.</p>
+    </scopecontent>
+  
+    <arrangement encodinganalog="351$a" id="a4">
+      <head>Organization</head>
+      <p>The Thomas A. Hickey Papers is organized by the following series: 
+        <list>
+          <item><ref target="ser1">Biographical Material</ref></item>
+          <item><ref target="ser2">Books</ref></item>
+          <item><ref target="ser3">Cards and Postcards</ref></item>
+          <item><ref target="ser4">Cartoons</ref></item>
+          <item><ref target="ser5">Correspondence</ref></item>
+          <item><ref target="ser6">Debs, Eugene V.</ref></item>
+          <item><ref target="ser7">Financial Materials</ref></item>
+          <item><ref target="ser8">Legal Material</ref></item>
+          <item><ref target="ser9">Literary Productions</ref></item>
+          <item><ref target="ser10">National Workers Drilling and Production Company</ref></item>
+          <item><ref target="ser11">News Clippings</ref></item>
+          <item><ref target="ser12">Newsletters and Circulars</ref></item>
+          <item><ref target="ser13">Pamphlets</ref></item>
+          <item><ref target="ser14">Additional Correspondence</ref></item>
+          <item><ref target="ser15">Additional Pamphlets</ref></item>
+          <item><ref target="ser16">Periodicals</ref></item>
+          <item><ref target="ser17">The Rebel</ref></item>
+          <item><ref target="ser18">Receipts</ref></item>
+          <item><ref target="ser19">Recipe</ref></item>
+          <item><ref target="ser20">Scrapbook Material</ref></item>
+          <item><ref target="ser21">Subscriptions and Contributions</ref></item>
+          <item><ref target="ser22">Additional Books</ref></item>
+          <item><ref target="ser23">Oversized Scrapbooks</ref></item>
+        </list></p>
+    </arrangement>
+    
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+     
+      <controlaccess>
+        <head>Subjects (Persons)</head>
+        <persname encodinganalog="600" source="lcnaf">Debs, Eugene V. (Eugene
+			 Victor), 1855-1926--Correspondence.</persname>
+        <persname encodinganalog="600" source="lcnaf">Hickey, Thomas A.,
+			 1869-1925.</persname>
+        <persname encodinganalog="600" source="lcnaf">Hickey, Thomas A.,
+			 1869-1925--Archives.</persname>
+        <persname encodinganalog="600" source="lcnaf">Hickey, Thomas A.,
+			 1869-1925--Correspondence.</persname>
+      </controlaccess>
+      
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname encodinganalog="610" source="lcnaf">Socialist Party
+			 (Tex.)</corpname>
+        <corpname encodinganalog="610" source="lcnaf">Socialist Party
+			 (U.S.)</corpname>
+      </controlaccess>
+     
+      <controlaccess>
+        <head>Places</head>
+        <geogname encodinganalog="651" source="lcnaf">United States--Politics
+			 and government--1901-1909.</geogname>
+        <geogname encodinganalog="651" source="lcnaf">United States--Politics
+			 and government--1909-1913.</geogname>
+        <geogname encodinganalog="651" source="lcnaf">United States--Politics
+			 and government--1913-1921.</geogname>
+        <geogname encodinganalog="651" source="lcnaf">United States--Politics
+			 and government--1921-1923.</geogname>
+      </controlaccess>
+     
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">Journalists--Texas.</subject>
+        <subject encodinganalog="650" source="lcsh">Labor movement--United
+			 States--Archival resources.</subject>
+        <subject encodinganalog="650" source="lcsh">Labor movement--United
+			 States--History.</subject>
+        <subject encodinganalog="650" source="lcsh">Labor unions--United
+			 States.</subject>
+        <subject encodinganalog="650" source="lcsh">Pacifism.</subject>
+        <subject encodinganalog="650" source="lcsh">Socialism--Texas--History.</subject>
+        <subject encodinganalog="650" source="lcsh">Socialism--United
+			 States--Archival resources.</subject>
+        <subject encodinganalog="650" source="lcsh">Socialists--United
+			 States--Biography.</subject>
+        <subject encodinganalog="650" source="lcsh">World War,
+			 1914-1918.</subject>
+      </controlaccess>
+   
+    </controlaccess>
+    
+    <acqinfo encodinganalog="541" id="a19">
+      <head>Accession Information</head>
+      <p>Gifts, 1979-1994</p>
+    </acqinfo>
+    
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processing Information</head>
+      <p>Processed by: Lynn Whitfield, August 2000</p>
+    </processinfo>
+    
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>Thomas A. Hickey Papers, 1896-1996 and undated, Southwest
+			 Collection/Special Collections Library, Texas Tech University, Lubbock,
+			 Texas</p>
+    </prefercite>
+    
+    <bibliography id="a10">
+      <head>Bibliography</head>
+      <bibref>Clark, Robert William. 
+        <title><emph render="italic">Thomas A. Hickey and Socialist Reform in
+				Texas, 1904-1925.</emph></title>Thesis (M.A.)--Texas Tech University, 1989.</bibref>
+      <bibref>James R. Green. 
+			 <title><emph render="italic">Grass-Roots Socialism: Radical Movements in
+				the Southwest, 1895-1943.</emph> </title>Baton Rouge: Louisiana State University
+			 Press, 1978.</bibref>
+    </bibliography>
+    
+    <relatedmaterial encodinganalog="544 1" id="a6">
+      <head>Related Materials:</head>
+      <relatedmaterial>
+        <p>
+          <repository>
+            <emph render="bold">Southwest Collection/Special Collections Library:</emph></repository></p>
+        <list type="simple">
+        <item><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" 
+          xlink:href="http://legacy.lib.utexas.edu/taro/tturb/00160/trb-00160.html">Boeer/Wolf Families Papers, 1837-1972 and undated.</extref></item>
+        <item>Thomas Hickey Family Photographs, 1920.</item>
+          <item><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" 
+            xlink:href="http://hdl.handle.net/10605/286659"></extref>Tom Hickey Magazine, 1924-1925.</item>
+      </list>
+      </relatedmaterial>
+      
+      <relatedmaterial>
+        <p>
+          <repository>
+            <emph render="bold">Southwest Collection/Special Collections Library Oral History Collection:</emph></repository></p>
+        <list>
+          <item>Carl Brannin oral history interview [sound recording], 1983.</item>
+          <item>Mina W. Lamb and Ilse Wolf oral history interview [sound recording], 1979.</item>
+        </list>
+      </relatedmaterial>
+    </relatedmaterial>
+   
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+
+      <c01 level="series" id="ser1"> <did>
+            <unittitle>Biographical Material</unittitle>
+          </did>
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/319318">Biographical Material, <unitdate era="ce" calendar="gregorian" normal="1896/1996">undated</unitdate></extref></unittitle>
+          </did>
+        </c02>    
+      </c01>
+
+        <c01 level="series" id="ser2"> <did>
+            <unittitle>Books</unittitle>
+          </did>
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/319680">Books, <unitdate era="ce" calendar="gregorian" normal="1901/1915">1901-1915</unitdate></extref></unittitle>
+          </did>
+        </c02>  
+        </c01>
+
+          <c01 level="series" id="ser3"> <did>
+            <unittitle>Cards and Postcards</unittitle>
+          </did>   
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/319681">Cards and postcards, <unitdate era="ce" calendar="gregorian" normal="1912/1914">1912-1914 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>    
+          </c01>
+
+            <c01 level="series" id="ser4"> <did>
+            <unittitle>Cartoons</unittitle>
+          </did>
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/319682">Cartoons: Political, <unitdate era="ce" calendar="gregorian" normal="1896/1996">undated</unitdate></extref></unittitle>
+          </did>
+        </c02>   
+            </c01>
+
+              <c01 level="series" id="ser5"> <did>
+            <unittitle>Correspondence</unittitle>
+          </did> 
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/319683">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1902/1922">1902-1922</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/319709">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1909/1922">1909-1922 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/319710">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1909/1923">1909-1923</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/319711">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1910/1911">1910-1911</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/319712">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1910/1912">1910-1912</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/319713">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1910/1913">1910-1913</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/319714">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1910/1920">1910-1920</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/319715">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1910/1921">1910-1921</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/319716">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1910/1921">1910-1921</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/319717">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1910/1923">1910-1923</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/319718">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1911/1920">1911-1920</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/319719">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1911/1922">1911-1922</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/319720">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1911/1924">1911-1924</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/319721">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1912/1914">1912-1914</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">19</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/319722">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1913/1924">1913-1924 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320079">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1914/1924">1914-1924</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320080">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1915/1922">1915-1922</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320137">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1915/1922">1915-1922</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320138">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1916/1923">1916-1923</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320139">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1916/1924">1916-1924</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">25</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320140">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1918/1920">1918-1920</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320141">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1918/1924">1918-1924</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">27</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320142">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1919/1923">1919-1923</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">28</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320143">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1921/1924">1921-1924</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">29</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320144">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1922/1967">1922-1967</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">30</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320145">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1896/1996">undated</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">31</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320146">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1896/1996">undated</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">32</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320147">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1916-06-18/1917-04-30">June 18, 1916-April 30, 1917</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320148">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1917-05-01/1917-05-31">May 1, 1917-May 31, 1917</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320149">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1917-07-01/1917-06-30">June 1, 1917-June 30, 1917</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320150">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1917-07-01/1917-07-30">July 1, 1917-July 30, 1917</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320151">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1917-07-01/1917-07-31">July 1, 1917-July 31, 1917</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320152">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1917-08-01/1917-09-15">August 1, 1917-September 15, 1917</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320153">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1917-09-15/1917-12-27">September 15, 1917-December 27, 1917</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320154">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1918-01-05/1918-11-26">January 5, 1918-November 26, 1918</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320155">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1918-12-03/1918-12-30">December 3, 1918-December 30, 1918</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320156">Correspondence, <unitdate era="ce" calendar="gregorian" normal="1919-01-01/1918-06-01">January 1, 1919-June 1, 1918</unitdate></extref></unittitle>
+          </did>
+        </c02>  
+              </c01>
+
+                <c01 level="series" id="ser6"> <did>
+            <unittitle>Debs, Eugene V.</unittitle>
+          </did> 
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320157">Debs, Eugene V., <unitdate era="ce" calendar="gregorian" normal="1896/1996">undated</unitdate></extref></unittitle>
+          </did>
+        </c02>   
+                </c01>
+
+                  <c01 level="series" id="ser7"> <did>
+            <unittitle>Financial Materials</unittitle>
+          </did> 
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320158">Financial Materials, <unitdate era="ce" calendar="gregorian" normal="1906/1916">1906-1916</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">12</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320159">Financial Materials, <unitdate era="ce" calendar="gregorian" normal="1908/1920">1908-1920 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320160">Financial Materials, <unitdate era="ce" calendar="gregorian" normal="1911/1917">1911-1917 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">14</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320161">Financial Materials, Stock Certificates, <unitdate era="ce" calendar="gregorian" normal="1906/1916">1906-1916</unitdate></extref></unittitle>
+          </did>
+        </c02>    
+                  </c01>
+
+   <c01 level="series" id="ser8"> <did>
+            <unittitle>Legal Material</unittitle>
+          </did>
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">15</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320162">Legal Material, <unitdate era="ce" calendar="gregorian" normal="1911/1952">1911-1952 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02> 
+   </c01>
+
+     <c01 level="series" id="ser9"> <did>
+            <unittitle>Literary Productions</unittitle>
+          </did> 
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">16</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320163">Literary Productions, <unitdate era="ce" calendar="gregorian" normal="1905/1919">1905-1919 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">17</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320164">Literary Productions, <unitdate era="ce" calendar="gregorian" normal="1911">1911 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">18</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320165">Literary Productions, <unitdate era="ce" calendar="gregorian" normal="1912/1923">1912-1923 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">19</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320166">Literary Productions, <unitdate era="ce" calendar="gregorian" normal="1914">1914 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">20</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320167">Literary Productions, <unitdate era="ce" calendar="gregorian" normal="1933">1933 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>  
+     </c01>
+
+       <c01 level="series" id="ser10"> <did>
+            <unittitle>National Workers Drilling and Production
+                Company</unittitle>
+          </did>
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">21</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320191">National Workers Drilling and Production Company, <unitdate era="ce" calendar="gregorian" normal="1919/1920">1919-1920</unitdate></extref></unittitle>
+          </did>
+        </c02>   
+       </c01>
+
+      <c01 level="series" id="ser11"> <did>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new"
+                xlink:actuate="onRequest" xlink:href="">News Clippings </extref></unittitle>
+          </did>
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">22</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320168">News Clippings, <unitdate era="ce" calendar="gregorian" normal="1909/1925">1909-1925 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">23</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320169">News Clippings, <unitdate era="ce" calendar="gregorian" normal="1916/1925">1916-1925 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>
+      </c01>
+
+      <c01 level="series" id="ser12"> <did>
+            <unittitle>Newsletters and Circulars </unittitle>
+          </did>
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">24</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320170">Newsletters and Circulars, <unitdate era="ce" calendar="gregorian" normal="1904/1923">1904-1923 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">25</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320171">Newsletters and Circulars, <unitdate era="ce" calendar="gregorian" normal="1909/1912">1909-1912 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">26</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320172">Newsletters and Circulars, <unitdate era="ce" calendar="gregorian" normal="1917/1923">1917-1923 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>  
+      </c01>
+
+      <c01 level="series" id="ser13"> <did>
+            <unittitle>Pamphlets </unittitle>
+          </did>
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">27</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320173">Pamphlets, <unitdate era="ce" calendar="gregorian" normal="1896/1996">undated</unitdate></extref></unittitle>
+          </did>
+        </c02>    
+      </c01>
+
+      <c01 level="series" id="ser14"> <did>
+            <unittitle>Additional Correspondence </unittitle>
+          </did>
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">28</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/322082">Correspondence, Boeer to Hickey, <unitdate era="ce" calendar="gregorian" normal="1991/1921">1881-1921</unitdate></extref></unittitle>
+          </did>
+        </c02> 
+      </c01>
+
+      <c01 level="series" id="ser15"> <did>
+            <unittitle>Additional Pamphlets </unittitle>
+          </did>
+
+      <c02 level="file"> <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320174">Pamphlets, <unitdate era="ce" calendar="gregorian" normal="1898/1922">1898-1922 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320175">Pamphlets, <unitdate era="ce" calendar="gregorian" normal="1904/1912">1904-1912 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320176">Pamphlets, <unitdate era="ce" calendar="gregorian" normal="1906/1917">1906-1917 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320177">Pamphlets, <unitdate era="ce" calendar="gregorian" normal="1912/1949">1912-1949 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>   
+      </c01>
+
+      <c01 level="series" id="ser16"> <did>
+            <unittitle>Periodicals</unittitle>
+          </did>
+
+      <c02 level="file"> <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320178">Periodicals, <unitdate era="ce" calendar="gregorian" normal="1896/1910">1896-1910 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">3</container>
+            <container type="folder">6</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320179">Periodicals, <unitdate era="ce" calendar="gregorian" normal="1912/1915">1912-1915</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">3</container>
+            <container type="folder">7</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320180">Periodicals: (Tom) Watson's Magazine, <unitdate era="ce" calendar="gregorian" normal="1905/1910">1905-1910</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">4</container>
+            <container type="folder">1</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320181">Periodicals: Wyland's Monthly, <unitdate era="ce" calendar="gregorian" normal="1905/1908">1905-1908</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+      </c01>
+
+      <c01 level="series" id="ser17"> <did>
+            <unittitle>The Rebel</unittitle>
+          </did>
+
+      <c02 level="file"> <did>
+            <container type="box">4</container>
+            <container type="folder">2</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320182">The Rebel paper, <unitdate era="ce" calendar="gregorian" normal="1896/1996">undated</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+      </c01>
+
+      <c01 level="series" id="ser18"> <did>
+            <unittitle>Receipts</unittitle>
+          </did>
+
+      <c02 level="file"> <did>
+            <container type="box">4</container>
+            <container type="folder">3</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320183">Receipts, <unitdate era="ce" calendar="gregorian" normal="1913/1917">1913-1917 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>  
+      </c01>
+
+      <c01 level="series" id="ser19"> <did>
+            <unittitle>Recipe</unittitle>
+          </did>
+
+      <c02 level="file"> <did>
+            <container type="box">4</container>
+            <container type="folder">4</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320184">Recipe, <unitdate era="ce" calendar="gregorian" normal="1896/1996">undated</unitdate></extref></unittitle>
+          </did>
+        </c02>    
+      </c01>
+
+      <c01 level="series" id="ser20"> <did>
+            <unittitle>Scrapbook Material </unittitle>
+          </did>
+
+      <c02 level="file"> <did>
+            <container type="box">4</container>
+            <container type="folder">5</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320185">Scrapbook Material, <unitdate era="ce" calendar="gregorian" normal="1907/1933">1907-1933 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">4</container>
+            <container type="folder">6</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320186">Scrapbook Material, <unitdate era="ce" calendar="gregorian" normal="1908/1952">1908-1952 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+      </c01>
+
+        <c01 level="series" id="ser21"> <did>
+            <unittitle>Subscriptions and Contributions </unittitle>
+          </did>
+
+      <c02 level="file"> <did>
+            <container type="box">4</container>
+            <container type="folder">7</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320187">Subscriptions and Contributions, <unitdate era="ce" calendar="gregorian" normal="1919">1919 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+        </c01>
+
+      <c01 level="series" id="ser22"> <did>
+            <unittitle>Additional Books</unittitle>
+          </did>
+
+      <c02 level="file"> <did>
+            <container type="box">4</container>
+            <container type="folder">8</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/320188">2 volume Book Set: "Bilz Das Neue Naturheilverfahren" [very fragile, damaged with loose pages and binding], <unitdate era="ce" calendar="gregorian" normal="1900">early 1900s</unitdate></extref></unittitle>
+          </did>
+        </c02>   
+      </c01>
+
+      <c01 level="series" id="ser23"> <did>
+            <unittitle>Oversized Scrapbooks </unittitle>
+          </did>
+
+      <c02 level="item"> <did>
+            <container type="box">1</container>
+            <unittitle>Scrapbook material: Periodicals and Posters, <unitdate era="ce" calendar="gregorian" normal="1910/1917">1910-1917</unitdate></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="item"> <did>
+            <container type="box">2</container>
+            <unittitle>Scrapbook material: Stanley Clark Posters, <unitdate era="ce" calendar="gregorian" normal="1896/1996">undated</unitdate></unittitle>
+          </did>
+        </c02>     
+
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

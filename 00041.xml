@@ -1,0 +1,2280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00041</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Elmer Kelton:</titleproper>
+        <subtitle>An Inventory of His Papers, 1948-1985, at the Southwest
+			 Collection/Special Collections Library</subtitle>
+        <author>Abel Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">August 2000</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">September 2000.</date></creation>
+      <langusage>Finding aid written in
+		  <language>English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Tue Jul 22 15:21:10 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00041 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the Elmer Kelton Papers,
+		  1948-1985</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">August 2000</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <persname encodinganalog="100">Kelton, Elmer</persname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Elmer Kelton Papers, 
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1948-1985</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">The papers of Elmer
+		  Kelton, a prolific western writer, from 1948-1985.</abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 524.1</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:">23 boxes and 3 wallets
+		  (23.3 linear feet) </physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>A prolific western writer, Elmer Kelton was born on April 29, 1926 at
+		  Horse Camp, east of Andrews, Texas. He wrote numerous western novels including 
+		<title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="italic" xlink:href="">The Good Ole Boys, Honor at Daybreak, </title>and 
+		<title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="italic" xlink:href="">Man Who Rode Midnight. </title>In addition to his
+		western novels, Kelton wrote numerous articles for The 
+		<title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="italic" xlink:href="">Farmer-Stockman </title>since 1964. He has also
+		been a writer for the 
+		<title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="italic" xlink:href="">San Angelo Times </title>and served as editor for
+		the 
+		<title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="italic" xlink:href="">West Texas Livestock </title>and the 
+		<title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="italic" xlink:href="">Sheep and Goat Raisers Association. </title>Since
+		1955, Kelton has been a member of the Western Writers of America.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Content</head>
+      <p>The collection, donated by Kelton over the past thirty years, is
+		  arranged in thirteen series:</p>
+      <p>Series I: Papers, 1948-1985, consists of literary productions and an
+		  inventory of short stories. The items are housed within 2 wallets.</p>
+      <p>Series II: Papers, 1952-1976 and undated, consists of literary
+		  correspondence to literary agencies, abstracts, magazine articles, manuscripts,
+		  and six cowboy photographs. The items are housed within 9 boxes.</p>
+      <p>Series III: Papers, 1964-1997 and undated, consists of manuscripts,
+		  magazine articles, printed and scrapbook materials. The items are housed within
+		  6 boxes.</p>
+      <p>Series IV: Papers, 1968-1981 and undated, consists of correspondence
+		  and manuscripts. The items are housed within 1 box.</p>
+      <p>Series V: Papers, 1971-1987 and undated, consists of manuscripts. The
+		  items are housed within 1 box.</p>
+      <p>Series VI: Papers, 1973-1993, consists of manuscript proofs and
+		  correspondence regarding <emph render="italic">The Art of James Bama, </emph>as
+		  well as correspondence, convention materials, and financial material on the
+		  Western Writers of America association. The items are housed within 1 box.</p>
+      <p>Series VII: Papers, 1977-1980 and undated, consists of manuscripts and
+		  manuscript proofs. The items are housed within 2 boxes.</p>
+      <p>Series VIII: Papers, 1980-1981 and undated, consists of correspondence
+		  and manuscripts. The items are housed within 1 box.</p>
+      <p>Series IX: Papers, 1984 and undated, consists of manuscripts. The
+		  items are housed within 1 box.</p>
+      <p>Series X: Papers, 1985, consists of correspondence and manuscript
+		  proofs. The items are housed within 1 wallet.</p>
+      <p>Series XI: Papers, 1988, consists of speeches. The items are housed
+		  within 1 wallet.</p>
+      <p>Series XII: Papers, 1989, consists of speeches. The items are housed
+		  within 1 wallet.</p>
+      <p>Series XIII: Papers, 1993, consists of manuscripts proofs, the bulk of
+		  which deal with the manuscript of <emph render="italic">Elmer Kelton Country:
+		  The Short Nonfiction of a Texas Novelist. </emph>The items are housed within 1
+		  box.</p>
+    </scopecontent>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+      <controlaccess>
+        <head>Subjects (Persons)</head>
+        <persname encodinganalog="600" source="lcnaf">Kelton, Elmer</persname>
+        <persname encodinganalog="600" source="lcnaf">Kelton,
+			 Elmer--Awards</persname>
+        <persname encodinganalog="600" source="lcnaf">Kelton,
+			 Elmer--Correspondence</persname>
+        <persname encodinganalog="600" source="lcnaf">Kelton,
+			 Elmer--Family</persname>
+        <persname encodinganalog="600" source="lcnaf">Kelton,
+			 Elmer--Interviews</persname>
+        <persname encodinganalog="600" source="lcnaf">Kelton,
+			 Elmer--Manuscripts</persname>
+        <persname encodinganalog="600" source="lcnaf">Kelton,
+			 Elmer--Sources</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname encodinganalog="610" source="lcnaf">National Cowboy Hall of
+			 Fame and Western Heritage Center--Awards</corpname>
+        <corpname encodinganalog="610" source="lcnaf">Western Writers of
+			 America--Awards</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">Authors,
+			 American--Texas</subject>
+        <subject encodinganalog="690" source="local">Spur Awards</subject>
+        <subject encodinganalog="650" source="lcsh">Western
+			 stories--Awards</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Newspapers</head>
+        <subject encodinganalog="630">San Angelo standard-times</subject>
+        <subject encodinganalog="630">West Texas livestock weekly</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <head>Acquisition</head>
+      <p>Collection accession #(s): 
+			 <num type="accession">95-0007-B, 90-0289-X, 91-0255-B, 92-0187-B,
+				92-0254-B, 95-0129-B, 97-0190-B</num></p>
+      <p>Gifts, 1968-1997 and undated</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, August 2000</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>Elmer Kelton Papers, 1948-1985 , Southwest Collection/Special
+			 Collections Library, Texas Tech University, Lubbock, Texas</p>
+    </prefercite>
+    <bibliography id="a10">
+      <head>Additional Sources</head>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Connor, Seymour V., ed. 
+			 <title xlink:type="simple" render="italic" xlink:href="">Builders of the Southwest. </title>Lubbock:
+			 Southwest Collection, Texas Technological College, 1959.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Clayton, Lawrence. 
+			 <title xlink:type="simple" render="italic" xlink:href="">Elmer Kelton. </title>Idaho: Boise State
+			 University, 1986.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Alter, Judy. 
+			 <title xlink:type="simple" render="italic" xlink:href="">Elmer Kelton and West Texas: a Literary
+				Relationship. </title>Denton.: University of North Texas Press, 1989,
+			 c1988.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Blanton, Ira Yates. 
+			 <title xlink:type="simple" render="italic" xlink:href="">The Triumph of Tradition in Six Novels of
+				Elmer Kelton, 1971-1998. </title>Thesis (Ph.D.)--Texas Tech University,
+			 1999.</bibref>
+    </bibliography>
+    <relatedmaterial encodinganalog="544 1" id="a6">
+      <p>For related materials located in the Southwest Collection/Special
+			 Collections Library, see the following collections:</p>
+      <list type="simple">
+        <item>Paul Patterson Papers, 1931-1975</item>
+        <item>Elmer Kelton oral history interview [sound recording], 1975</item>
+      </list>
+    </relatedmaterial>
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+      <c01 level="series">
+        <did>
+          <unittitle>Papers, 
+				<unitdate era="ce" calendar="gregorian">1948-1985</unitdate></unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>List of Literary Productions, 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">1</container>
+              <unittitle>List of Short Stories</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Literary Productions</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">2</container>
+              <unittitle>There's Always Another Chance, 
+					 <unitdate era="ce" calendar="gregorian">1948</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">3</container>
+              <unittitle>Lonesome Ride, 
+					 <unitdate era="ce" calendar="gregorian">1949</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">4</container>
+              <unittitle>Sheepman on the Devil's River, 
+					 <unitdate era="ce" calendar="gregorian">1949</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">5</container>
+              <unittitle>Colt Size, 
+					 <unitdate era="ce" calendar="gregorian">1949</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">6</container>
+              <unittitle>Sellout, 
+					 <unitdate era="ce" calendar="gregorian">1950</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">7</container>
+              <unittitle>North of the Big River, 
+					 <unitdate era="ce" calendar="gregorian">1950</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">8</container>
+              <unittitle>She Wolf of the Brush Country, 
+					 <unitdate era="ce" calendar="gregorian">1950</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">9</container>
+              <unittitle>The Lord Sent an Outlaw, 
+					 <unitdate era="ce" calendar="gregorian">1950</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">10</container>
+              <unittitle>Wet Weather, 
+					 <unitdate era="ce" calendar="gregorian">1951</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">11</container>
+              <unittitle>The Unsilent Partner, 
+					 <unitdate era="ce" calendar="gregorian">1951</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">12</container>
+              <unittitle>No Music for Fiddle Feet, 
+					 <unitdate era="ce" calendar="gregorian">1951</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">13</container>
+              <unittitle>A Heck of a Promise, 
+					 <unitdate era="ce" calendar="gregorian">1951</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">14</container>
+              <unittitle>One Son, 
+					 <unitdate era="ce" calendar="gregorian">1951</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">15</container>
+              <unittitle>The Bells of San Juan, 
+					 <unitdate era="ce" calendar="gregorian">1951</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">16</container>
+              <unittitle>The Fleeing Sixty, 
+					 <unitdate era="ce" calendar="gregorian">1952</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">17</container>
+              <unittitle>Showdown at Horse Well, 
+					 <unitdate era="ce" calendar="gregorian">1952</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">18</container>
+              <unittitle>Apache Patrol, 
+					 <unitdate era="ce" calendar="gregorian">1952</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">19</container>
+              <unittitle>When Happy Lost His Laughter, 
+					 <unitdate era="ce" calendar="gregorian">1952</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">20</container>
+              <unittitle>He Headed Them West, 
+					 <unitdate era="ce" calendar="gregorian">1952</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">21</container>
+              <unittitle>No Epitaph for Me, 
+					 <unitdate era="ce" calendar="gregorian">1952</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">22</container>
+              <unittitle>Yellow Devil, 
+					 <unitdate era="ce" calendar="gregorian">1952</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">23</container>
+              <unittitle>Sheep on the River, 
+					 <unitdate era="ce" calendar="gregorian">1952</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">24</container>
+              <unittitle>Sidesaddle Sweetheart, 
+					 <unitdate era="ce" calendar="gregorian">1952</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">25</container>
+              <unittitle>Climb the Big Ram, 
+					 <unitdate era="ce" calendar="gregorian">1952</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">26</container>
+              <unittitle>Sense of Duty, 
+					 <unitdate era="ce" calendar="gregorian">1952</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">27</container>
+              <unittitle>Rodeo Clown, 
+					 <unitdate era="ce" calendar="gregorian">1953</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">28</container>
+              <unittitle>Long Ride, Hard Ride, 
+					 <unitdate era="ce" calendar="gregorian">1953</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 1</container>
+              <container type="folder">29</container>
+              <unittitle>Dry Winter, 
+					 <unitdate era="ce" calendar="gregorian">1953</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 2</container>
+              <container type="folder">1</container>
+              <unittitle>The Way of the Wolf, 
+					 <unitdate era="ce" calendar="gregorian">1953</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 2</container>
+              <container type="folder">2</container>
+              <unittitle>Blind Canyon, 
+					 <unitdate era="ce" calendar="gregorian">1953</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 2</container>
+              <container type="folder">3</container>
+              <unittitle>Coward, 
+					 <unitdate era="ce" calendar="gregorian">1954</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 2</container>
+              <container type="folder">4</container>
+              <unittitle>Die By the Gun, 
+					 <unitdate era="ce" calendar="gregorian">1954</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 2</container>
+              <container type="folder">5</container>
+              <unittitle>The Moocher, 
+					 <unitdate era="ce" calendar="gregorian">1954</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 2</container>
+              <container type="folder">6</container>
+              <unittitle>Ride a Straight Road, 
+					 <unitdate era="ce" calendar="gregorian">1954</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 2</container>
+              <container type="folder">7</container>
+              <unittitle>My Gun Is the Law, 
+					 <unitdate era="ce" calendar="gregorian">1955</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 2</container>
+              <container type="folder">8</container>
+              <unittitle>Jail Break, 
+					 <unitdate era="ce" calendar="gregorian">1954</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 2</container>
+              <container type="folder">9</container>
+              <unittitle>Fighting for the Brand, 
+					 <unitdate era="ce" calendar="gregorian">1956</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 2</container>
+              <container type="folder">10</container>
+              <unittitle>The Duster, 
+					 <unitdate era="ce" calendar="gregorian">1956</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 2</container>
+              <container type="folder">11</container>
+              <unittitle>O'Malley's Wife, 
+					 <unitdate era="ce" calendar="gregorian">1957</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 2</container>
+              <container type="folder">12</container>
+              <unittitle>Land With No Law, 
+					 <unitdate era="ce" calendar="gregorian">1957</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 2</container>
+              <container type="folder">13</container>
+              <unittitle>The Black Sheep, 
+					 <unitdate era="ce" calendar="gregorian">1957</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 2</container>
+              <container type="folder">14</container>
+              <unittitle>Deadly Homecoming, 
+					 <unitdate era="ce" calendar="gregorian">1957</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 2</container>
+              <container type="folder">15</container>
+              <unittitle>Tough Reputation, 
+					 <unitdate era="ce" calendar="gregorian">1959</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 2</container>
+              <container type="folder">16</container>
+              <unittitle>The Debt of Hardy Buckelew, 
+					 <unitdate era="ce" calendar="gregorian">1959</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 2</container>
+              <container type="folder">17</container>
+              <unittitle>The 7X Bull, 
+					 <unitdate era="ce" calendar="gregorian">1961</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 2</container>
+              <container type="folder">18</container>
+              <unittitle>Man on the Wagon Tongue, 
+					 <unitdate era="ce" calendar="gregorian">1962</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 2</container>
+              <container type="folder">19</container>
+              <unittitle>Uncle Jeff and the Gunfighter, 
+					 <unitdate era="ce" calendar="gregorian">1963</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 2</container>
+              <container type="folder">20</container>
+              <unittitle>In the Line of Duty, 
+					 <unitdate era="ce" calendar="gregorian">1967</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 2</container>
+              <container type="folder">21</container>
+              <unittitle>Railroad Tragedies in the Old West, 
+					 <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 2</container>
+              <container type="folder">22</container>
+              <unittitle>Relics, 
+					 <unitdate era="ce" calendar="gregorian">1978</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 2</container>
+              <container type="folder">23</container>
+              <unittitle>Steamboats on Texas Rivers, 
+					 <unitdate era="ce" calendar="gregorian">1978</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Wallet 2</container>
+              <container type="folder">24</container>
+              <unittitle>The Last Indian Fight in Kerr County, 
+					 <unitdate era="ce" calendar="gregorian">1982</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Papers, 
+				<unitdate era="ce" calendar="gregorian">1952-1976 and undated</unitdate></unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Correspondence</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">1</container>
+              <unittitle>Literary Agencies, 
+					 <unitdate era="ce" calendar="gregorian">1952-1963 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">2</container>
+              <unittitle>Literary Agencies, 
+					 <unitdate era="ce" calendar="gregorian">1964-1976 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Literary Productions</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Manuscripts</unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">3</container>
+                <unittitle>Abstracts, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">4</container>
+                <unittitle>Farm Articles, 
+						<unitdate era="ce" calendar="gregorian">1952-1953</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">5</container>
+                <unittitle>Farm Articles, 
+						<unitdate era="ce" calendar="gregorian">1954</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">6</container>
+                <unittitle>Farm Articles, 
+						<unitdate era="ce" calendar="gregorian">1955</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">7</container>
+                <unittitle>Farm Articles, 
+						<unitdate era="ce" calendar="gregorian">1956</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">8</container>
+                <unittitle>Farm Articles, 
+						<unitdate era="ce" calendar="gregorian">1957</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">9</container>
+                <unittitle>Farm Articles, 
+						<unitdate era="ce" calendar="gregorian">1958</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">10</container>
+                <unittitle>Farm Articles, 
+						<unitdate era="ce" calendar="gregorian">1959</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">11</container>
+                <unittitle>Farm Articles, 
+						<unitdate era="ce" calendar="gregorian">1960</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">12</container>
+                <unittitle>Farm Articles, 
+						<unitdate era="ce" calendar="gregorian">1961</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">13</container>
+                <unittitle>Farm Articles, 
+						<unitdate era="ce" calendar="gregorian">1962</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">14</container>
+                <unittitle>Farm Articles, 
+						<unitdate era="ce" calendar="gregorian">1963</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Manuscripts: Magazine Article</unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">15</container>
+                <unittitle>The Bracero -- Our Good-Will Messenger in Mexico, 
+						<unitdate era="ce" calendar="gregorian">1958</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Manuscripts: Novels: Dunn, Kelly, pseud. for
+					 Kelton</unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">16</container>
+                <unittitle>Man with a Shotgun, [1] 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">17</container>
+                <unittitle>Man with a Shotgun, [2] 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Manuscripts: Novels</unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="box">Box 2</container>
+                <container type="folder">1</container>
+                <unittitle>After the Bugles, [1] 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 2</container>
+                <container type="folder">2</container>
+                <unittitle>After the Bugles, [2] 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 2</container>
+                <container type="folder">3</container>
+                <unittitle>Bowie's Mine, [1] 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 2</container>
+                <container type="folder">4</container>
+                <unittitle>Bowie's Mine, [2] 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 2</container>
+                <container type="folder">5</container>
+                <unittitle>Buffalo Wagons, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 2</container>
+                <container type="folder">6</container>
+                <unittitle>Bugles at Galiad, Notes and Typed Draft, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 3</container>
+                <container type="folder">1</container>
+                <unittitle>Bugles at Galiad, Typed Draft, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 3</container>
+                <container type="folder">2</container>
+                <unittitle>Captain's Rangers, Typed Draft, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 3</container>
+                <container type="folder">3</container>
+                <unittitle>Chacho, Typed Draft, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 3</container>
+                <container type="folder">4</container>
+                <unittitle>The Day the Cowboys Quit, Typed Draft and Galley
+						Proofs, 
+						<unitdate era="ce" calendar="gregorian">1971 and undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 4</container>
+                <container type="folder">1</container>
+                <unittitle>The Day the Cowboys Quit, Typed Drafts, [1] 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 4</container>
+                <container type="folder">2</container>
+                <unittitle>The Day the Cowboys Quit, Typed Drafts, [2] 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 4</container>
+                <container type="folder">3</container>
+                <unittitle>The Day the Cowboys Quit, Typed Drafts, [3] 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 4</container>
+                <container type="folder">4</container>
+                <unittitle>Horsehead Crossing, Typed Draft, 
+						<unitdate era="ce" calendar="gregorian">1962</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 5</container>
+                <container type="folder">1</container>
+                <unittitle>Hot Iron, Typed Draft, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 5</container>
+                <container type="folder">2</container>
+                <unittitle>Llano River, Typed Draft, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 5</container>
+                <container type="folder">3</container>
+                <unittitle>Retreat to Texas, Typed Draft, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 5</container>
+                <container type="folder">4</container>
+                <unittitle>Shadow of the Star, Typed Drafts, Uncorrected Proof
+						and Galley Proofs, 
+						<unitdate era="ce" calendar="gregorian">1959</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 5</container>
+                <container type="folder">5</container>
+                <unittitle>The Texas Rifles, Typed Draft, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 6</container>
+                <container type="folder">1</container>
+                <unittitle>This Bitter Dust, Typed Draft, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 6</container>
+                <container type="folder">2</container>
+                <unittitle>This Dry and Dusty Land, Notes, Final Copy, Typed
+						Draft, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 6</container>
+                <container type="folder">3</container>
+                <unittitle>This Dry and Dusty Land, Typed Drafts, [1] 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 6</container>
+                <container type="folder">4</container>
+                <unittitle>This Dry and Dusty Land, Typed Drafts, [2] 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 6</container>
+                <container type="folder">5</container>
+                <unittitle>This Dry and Dusty Land, Typed Drafts, [3] 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 7</container>
+                <container type="folder">1</container>
+                <unittitle>This Dry and Dusty Land, Typed Drafts, [4] 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 7</container>
+                <container type="folder">2</container>
+                <unittitle>The Time It Never Rained, Galley Proofs and Typed
+						Drafts, 
+						<unitdate era="ce" calendar="gregorian">1973 and undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 7</container>
+                <container type="folder">3</container>
+                <unittitle>The Time It Never Rained, Typed Drafts, [1] 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 7</container>
+                <container type="folder">4</container>
+                <unittitle>The Time It Never Rained, Typed Drafts, [2] 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 8</container>
+                <container type="folder">1</container>
+                <unittitle>Trail to Matamoros, Typed Draft, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 8</container>
+                <container type="folder">2</container>
+                <unittitle>The Tumbleweed Wagon, Typed Drafts, [1] 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 8</container>
+                <container type="folder">3</container>
+                <unittitle>The Tumbleweed Wagon, Typed Drafts, [2] 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 8</container>
+                <container type="folder">4</container>
+                <unittitle>Wagontongue, Galley Proof and Typed Drafts, 
+						<unitdate era="ce" calendar="gregorian">1972 and undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 8</container>
+                <container type="folder">5</container>
+                <unittitle>Wagontongue, Final Copy and Typed Drafts, 
+						<unitdate era="ce" calendar="gregorian">1972</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Manuscripts: Novels: McElroy, Lee, pseud. for
+					 Kelton</unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="box">Box 8</container>
+                <container type="folder">6</container>
+                <unittitle>Joe Pepper, Typed Drafts, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 9</container>
+                <container type="folder">1</container>
+                <unittitle>Joe Pepper, Galley Proof, 
+						<unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Manuscripts: Novels</unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="box">Box 9</container>
+                <container type="folder">2</container>
+                <unittitle>Long Way to Texas, Galley Proofs, 
+						<unitdate era="ce" calendar="gregorian">1976</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 9</container>
+                <container type="folder">3</container>
+                <unittitle>Long Way to Texas, Typed Drafts, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 9</container>
+                <container type="folder">4</container>
+                <unittitle>Sheep and Goat Raiser, Typed Drafts, 
+						<unitdate era="ce" calendar="gregorian">1957-1963</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Manuscripts: Short Stories</unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="box">Box 9</container>
+                <container type="folder">5</container>
+                <unittitle>The Black Sheep, Typed Draft, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 9</container>
+                <container type="folder">6</container>
+                <unittitle>Coward, Typed Draft, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 9</container>
+                <container type="folder">7</container>
+                <unittitle>No Music for Fiddle Feet, Typed Draft, 
+						<unitdate era="ce" calendar="gregorian">1964</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Photographs</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">Box 9</container>
+              <container type="folder">8</container>
+              <unittitle>Cowboy Pictures, 
+					 <unitdate era="ce" calendar="gregorian">1958</unitdate></unittitle>
+              <physdesc>(6 leaves)</physdesc>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Papers, 
+				<unitdate era="ce" calendar="gregorian">1964-1997 and undated</unitdate></unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Correspondence</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">1</container>
+              <unittitle>Bantam Books, 
+					 <unitdate era="ce" calendar="gregorian">1980-1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">2</container>
+              <unittitle>Doubleday, 
+					 <unitdate era="ce" calendar="gregorian">1970-1988</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">3</container>
+              <unittitle>Gordon, A. Rust, 
+					 <unitdate era="ce" calendar="gregorian">1967</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">4</container>
+              <unittitle>Jeier, Thomas, 
+					 <unitdate era="ce" calendar="gregorian">1981-1990</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">5</container>
+              <unittitle>John R. Payne Literacy Agency, 
+					 <unitdate era="ce" calendar="gregorian">1986-1990</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">6</container>
+              <unittitle>Nelson, Barry, 
+					 <unitdate era="ce" calendar="gregorian">1977</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">7</container>
+              <unittitle>Lenniger Literary Agency, Inc., 
+					 <unitdate era="ce" calendar="gregorian">1978-1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">8</container>
+              <unittitle>McKellar, Robert, 
+					 <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">9</container>
+              <unittitle>Rowland, Damaris, 
+					 <unitdate era="ce" calendar="gregorian">1987</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">10</container>
+              <unittitle>Spray, Norman, 
+					 <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">11</container>
+              <unittitle>Taylor, Charles, 
+					 <unitdate era="ce" calendar="gregorian">1966-1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">12</container>
+              <unittitle>Walker, Glen, 
+					 <unitdate era="ce" calendar="gregorian">1973</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Literary Productions</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Manuscripts</unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="box">Box 2</container>
+                <container type="folder">1</container>
+                <unittitle>Caprock (Honor At Daybreak) Final Version, 
+						<unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 2</container>
+                <container type="folder">2</container>
+                <unittitle>The Far Canyon, (Draft), 
+						<unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 2</container>
+                <container type="folder">3</container>
+                <unittitle>Farm Articles, 
+						<unitdate era="ce" calendar="gregorian">1964-1970</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 2</container>
+                <container type="folder">4</container>
+                <unittitle>Farm Articles, 
+						<unitdate era="ce" calendar="gregorian">1971-1975</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 2</container>
+                <container type="folder">5</container>
+                <unittitle>Farm Articles, 
+						<unitdate era="ce" calendar="gregorian">1975-1986</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 3</container>
+                <container type="folder">1</container>
+                <unittitle>Farm Articles, 
+						<unitdate era="ce" calendar="gregorian">1987-1991</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 3</container>
+                <container type="folder">2</container>
+                <unittitle>The Flag of Mexico, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 3</container>
+                <container type="folder">3</container>
+                <unittitle>Frank McCarthy's Book (Review Request), 
+						<unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 3</container>
+                <container type="folder">4</container>
+                <unittitle>The Good Old Boys, (Proof), 
+						<unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 3</container>
+                <container type="folder">5</container>
+                <unittitle>Honor At Daybreak, (Caprock) (Final Version?), 
+						<unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 4</container>
+                <container type="folder">1</container>
+                <unittitle>Honor At Daybreak, (Draft Copy I), 
+						<unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 4</container>
+                <container type="folder">2</container>
+                <unittitle>Honor At Daybreak, (Draft Copy II), 
+						<unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 4</container>
+                <container type="folder">3</container>
+                <unittitle>Honor At Daybreak, (Draft Copy III), 
+						<unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 4</container>
+                <container type="folder">4</container>
+                <unittitle>Honor At Daybreak, (Galley Proof), 
+						<unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 4</container>
+                <container type="folder">5</container>
+                <unittitle>Honor At Daybreak, (Ragtown Slim), Early Version, 
+						<unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 4</container>
+                <container type="folder">6</container>
+                <unittitle>Howard Terpning's Book, (Review Request) [1], 
+						<unitdate era="ce" calendar="gregorian">1991-1992</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 5</container>
+                <container type="folder">1</container>
+                <unittitle>Howard Terpning's Book, (Review Request) [2], 
+						<unitdate era="ce" calendar="gregorian">1991-1992</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 5</container>
+                <container type="folder">2</container>
+                <unittitle>Man Who Rode Midnight, (Original Text), 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 5</container>
+                <container type="folder">3</container>
+                <unittitle>Slaughter, (Final Version), 
+						<unitdate era="ce" calendar="gregorian">1992</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 5</container>
+                <container type="folder">4</container>
+                <unittitle>Sons of Texas, First Book, (Carbons), 
+						<unitdate era="ce" calendar="gregorian">1987</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 6</container>
+                <container type="folder">1</container>
+                <unittitle>Sons of Texas, Third Book, 
+						<unitdate era="ce" calendar="gregorian">1987</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 6</container>
+                <container type="folder">2</container>
+                <unittitle>Unidentified, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Printed Materials</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">Box 6</container>
+              <container type="folder">3</container>
+              <unittitle>Farm Articles, 
+					 <unitdate era="ce" calendar="gregorian">1965-1975</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">Box 6</container>
+              <container type="folder">4</container>
+              <unittitle>Farm Articles, 
+					 <unitdate era="ce" calendar="gregorian">1975-1985</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">Box 6</container>
+              <container type="folder">5</container>
+              <unittitle>Farm Articles, 
+					 <unitdate era="ce" calendar="gregorian">1987-1991</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Scrapbook Material</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">Box 6</container>
+              <container type="folder">6</container>
+              <unittitle>Fiftieth Wedding Anniversary Cards, 
+					 <unitdate era="ce" calendar="gregorian">1997</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">Box 6</container>
+              <container type="folder">7</container>
+              <unittitle>West Texas Historical Association Membership Brochure,
+					 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Papers, 
+				<unitdate era="ce" calendar="gregorian">1968-1981 and undated</unitdate></unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Lenniger Literary Agency, Inc.</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">1</container>
+              <unittitle>Correspondence, 
+					 <unitdate era="ce" calendar="gregorian">1968-1977 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Literary Productions</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Manuscripts</unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">2</container>
+                <unittitle>Eyes of the Hawk, Galley Proofs, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">3</container>
+                <unittitle>Eyes of the Hawk, Styled Sheet, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">4</container>
+                <unittitle>Eyes of the Hawk, Typed Draft, 
+						<unitdate era="ce" calendar="gregorian">1981</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Papers, 
+				<unitdate era="ce" calendar="gregorian">1971-1987 and undated</unitdate></unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Literary Productions</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Manuscripts</unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">1</container>
+                <unittitle>The Day the Cowboys Quit, Bound Copy with
+						Corrections, 
+						<unitdate era="ce" calendar="gregorian">1971</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">2</container>
+                <unittitle>The Day the Cowboys Quit, Corrected Copy, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">3</container>
+                <unittitle>The Man Who Rode Midnight, Typed Drafts, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">4</container>
+                <unittitle>The Man Who Rode Midnight, Revised Version, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">5</container>
+                <unittitle>The Time It Never Rained, Sample Book Cover, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Manuscripts: The Sons of Texas Series</unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">6</container>
+                <unittitle>Book I, The Danger, The Daring, Typed Drafts, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">7</container>
+                <unittitle>Book I, The Danger, The Glory, Revision, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Manuscripts</unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">8</container>
+                <unittitle>The Wolf and the Buffalo, Uncorrected Proof, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">9</container>
+                <unittitle>The Day the Cowboys Quit, Galley Proofs, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Papers, 
+				<unitdate era="ce" calendar="gregorian">1973-1993</unitdate></unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>The Art of James Bama</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">1</container>
+              <unittitle>Correspondence, 
+					 <unitdate era="ce" calendar="gregorian">1991-1993</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">2</container>
+              <unittitle>Manuscript Proofs [1], 
+					 <unitdate era="ce" calendar="gregorian">1992-1993</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">3</container>
+              <unittitle>Manuscript Proofs [2], 
+					 <unitdate era="ce" calendar="gregorian">1992-1993</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">4</container>
+              <unittitle>Manuscript Proofs [3], 
+					 <unitdate era="ce" calendar="gregorian">1992-1993</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">5</container>
+              <unittitle>Picture Proofs, 
+					 <unitdate era="ce" calendar="gregorian">1992-1993</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">6</container>
+              <unittitle>Research, 
+					 <unitdate era="ce" calendar="gregorian">1973-1992</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Western Writers of America</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">7</container>
+              <unittitle>Convention Materials, 
+					 <unitdate era="ce" calendar="gregorian">1989-1991</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">8</container>
+              <unittitle>Correspondence, 
+					 <unitdate era="ce" calendar="gregorian">1985-1990</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">9</container>
+              <unittitle>Financial Material, 
+					 <unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">10</container>
+              <unittitle>Newsclippings, 
+					 <unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Papers, 
+				<unitdate era="ce" calendar="gregorian">1977-1980 and undated</unitdate></unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Literary Productions</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Manuscripts: Edited Work</unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">1</container>
+                <unittitle>Pierce, V. I., "Yesterday in Ozona and Crockett
+						County," Correspondence, 
+						<unitdate era="ce" calendar="gregorian">1980</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">2</container>
+                <unittitle>Pierce, V. I., "Yesterday in Ozona and Crockett
+						County," Notes, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">3</container>
+                <unittitle>Pierce, V. I., "Yesterday in Ozona and Crockett
+						County," Typed Drafts [1], 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">4</container>
+                <unittitle>Pierce, V. I., Y"Yesterday in Ozona and Crockett
+						County," Typed Drafts [2], 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Manuscripts: Novels: The Good Old Boys</unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">5</container>
+                <unittitle>Correspondence, 
+						<unitdate era="ce" calendar="gregorian">1977-1978</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">6</container>
+                <unittitle>Galleys and Proofs, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">7</container>
+                <unittitle>Styled Sheet, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">8</container>
+                <unittitle>Typed Drafts [1], 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">9</container>
+                <unittitle>Typed Drafts [2], 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 2</container>
+                <container type="folder">1</container>
+                <unittitle>Typed Drafts [3], 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Manuscripts: Novels: The Wolf and the
+					 Buffalo</unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="box">Box 2</container>
+                <container type="folder">2</container>
+                <unittitle>Correspondence, 
+						<unitdate era="ce" calendar="gregorian">1980</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 2</container>
+                <container type="folder">3</container>
+                <unittitle>Typed Drafts [1], 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 2</container>
+                <container type="folder">4</container>
+                <unittitle>Typed Drafts [2], 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Papers, 
+				<unitdate era="ce" calendar="gregorian">1980-1981 and undated</unitdate></unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Correspondence</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">1</container>
+              <unittitle>Professional Letter, 
+					 <unitdate era="ce" calendar="gregorian">1981</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Literary Productions</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Manuscripts</unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">2</container>
+                <unittitle>Eyes of the Hawk, Typed Drafts, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">3</container>
+                <unittitle>The Wolf and the Buffalo, Proofs, 
+						<unitdate era="ce" calendar="gregorian">1980</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">4</container>
+                <unittitle>The Wolf and the Buffalo, Styled Sheets, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">5</container>
+                <unittitle>The Wolf and the Buffalo, Typed Draft, 
+						<unitdate era="ce" calendar="gregorian">1980</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Papers, 
+				<unitdate era="ce" calendar="gregorian">1981-1984 and undated</unitdate></unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Correspondence</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">1</container>
+              <unittitle>Literary Agencies, 
+					 <unitdate era="ce" calendar="gregorian">1981-1984</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Literary Productions</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Manuscripts: Non-Fiction</unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">2</container>
+                <unittitle>Frank C. McCarthy: The Old West, Galley Prints, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">3</container>
+                <unittitle>Frank C. McCarthy: The Old West, Galley Proofs, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">4</container>
+                <unittitle>Frank C. McCarthy: The Old West, Notes, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">5</container>
+                <unittitle>Frank C. McCarthy: The Old West, Prepublication
+						Brochure, 
+						<unitdate era="ce" calendar="gregorian">1981</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">6</container>
+                <unittitle>Frank C. McCarthy: The Old West, Typed Drafts, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Manuscripts: Novels</unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">7</container>
+                <unittitle>Dark Thicket, Typed Draft, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">8</container>
+                <unittitle>Medicine Hill, Typed Draft, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">9</container>
+                <unittitle>Ride For the Thicket, Typed Draft, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">10</container>
+                <unittitle>Run For the Thicket, Typed Draft, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">11</container>
+                <unittitle>Stand Proud, Galley Proof, 
+						<unitdate era="ce" calendar="gregorian">1984</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">12</container>
+                <unittitle>Stand Proud, Typed Draft, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Papers, 
+				<unitdate era="ce" calendar="gregorian">1984 and undated</unitdate></unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Literary Productions</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Manuscripts: Novels</unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">1</container>
+                <unittitle>Stand Proud, Typed Drafts, 
+						<unitdate era="ce" calendar="gregorian">1984</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">2</container>
+                <unittitle>Medicine Hill, Typed Drafts, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">3</container>
+                <unittitle>Point of Rocks, Typed Drafts, 
+						<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Papers, 
+				<unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Correspondence</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">Wallet 1</container>
+              <container type="folder">1</container>
+              <unittitle>Doubleday, 
+					 <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">Wallet 1</container>
+              <container type="folder">2</container>
+              <unittitle>Dark Thicket, Galley Proof and Draft Copy, 
+					 <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Papers, 
+				<unitdate era="ce" calendar="gregorian">1988</unitdate></unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Literary Productions</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Speech to Texas Folklore Society</unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="box">Wallet 1</container>
+                <container type="folder">1</container>
+                <unittitle>Fiction Writers are Liars and Theives, 
+						<unitdate era="ce" calendar="gregorian">April 1, 1988</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Papers, 
+				<unitdate era="ce" calendar="gregorian">1989</unitdate></unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Literary Productions</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Speech, 
+					 <unitdate era="ce" calendar="gregorian">1989</unitdate></unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="box">Wallet 1</container>
+                <container type="folder">1</container>
+                <unittitle>To West Texas Historical Association, 
+						<unitdate era="ce" calendar="gregorian">April 14, 1989</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Papers, 
+				<unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Literary Productions</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Manuscripts</unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">1</container>
+                <unittitle>Elmer Kelton Country, Draft Copy, 
+						<unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">2</container>
+                <unittitle>Elmer Kelton Country, Galley Proof, 
+						<unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">3</container>
+                <unittitle>Elmer Kelton Country, Rough Draft, 
+						<unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">4</container>
+                <unittitle>Elmer Kelton Country, Unorganized Rough Draft, 
+						<unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Printed Materials</unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="box">Box 1</container>
+                <container type="folder">5</container>
+                <unittitle>Newsclipping on Kelton, 
+						<unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00022</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Roy Davis Holt:</titleproper>
+        <subtitle>An Inventory of His Papers, 1937-1996 and undated, at the
+			 Southwest Collection/Special Collections Library</subtitle>
+        <author>Abel Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">September 2001</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">April 20, 2004.</date></creation>
+      <langusage>Finding aid written in <language>English.</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the Roy Davis Holt Papers, 1937-1996 and
+		  undated</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">August 2001</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <persname encodinganalog="100">Holt, Roy Davis, 1897-1985</persname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Roy Davis Holt Papers, 
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1937-1996 and undated</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">The collection
+		  includes research files and written works of Texas historian, Roy Davis Holt,
+		  Sr.</abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="009" label="Collection #">S 1255.2</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:">2 boxes (2.3 linear
+		  feet)</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>Roy Davis Holt was born in 1897 in Santa Anna, Texas. As a boy, he
+		  listened to stories about the early days of Texas from travelers who stopped at
+		  his home. These stories, told by Texas Rangers, Indian fighters, traders, and
+		  ranchers, fueled his interest in history.</p>
+      <p>After graduating from Trinity University with a bachelor's degree in
+		  history and economics, he attended the University of Texas, doing graduate
+		  work. While there, he was taught by Drs. Eugene Barker, Charles Ramsdell, and
+		  Walter Prescott Webb. Fellow students included future Texas historians J.
+		  Evetts Haley and William C. Holden.</p>
+      <p>After graduating from the University of Texas with a master's degree
+		  in history, Holt embarked on a career in public education. He taught history at
+		  Santa Anna and Brady, eventually becoming the high school principal. Holt also
+		  served as school superintendent in Eldorado and in Sanderson. In addition, he
+		  taught history in Killeen, and history and economics at the Mary Hardin-Baylor
+		  College extension at Fort Hood.</p>
+      <p>In addition to his teaching career, Mr. Holt was also a writer. He
+		  wrote several articles for such publications as <title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="italic" xlink:href="">The
+		  Cattleman, Sheep and Goat Raisers, True West, </title>and <title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="italic" xlink:href="">Western Horseman. </title>He also wrote four books:
+		  <title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="italic" xlink:href="">So You Don't Like Texas, Heap Many Texas Chiefs, Children
+		  Indian Captives, </title>and <title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="italic" xlink:href="">Schleicher County or Eighty
+		  Years of Development in Southwest Texas. </title>He also collected anecdotes and
+		  folklore of early Texas. Mr. Holt died in 1985. He married Mildred Pearce of
+		  Santa Anna in 1923. Their children are Roy Holt, Jr. (deceased) and Nancy
+		  Hughes.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The collection consists mainly of printed materials and scrapbook
+		  files of Roy Davis Holt, Sr. The news clipping files have a variety of topics
+		  on the history of Texas and the West. There are some correspondence and
+		  research materials. The oversized materials of images, newspapers, and S. J.
+		  Stouts' illustrations are in the second box.</p>
+    </scopecontent>
+    <arrangement encodinganalog="351$a">
+      <head>Organization</head>
+      <p>The collection is organized into the following Series: Correspondence,
+		  Research Material, Printed material, and Scrapbook Material.</p>
+    </arrangement>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+      <controlaccess>
+        <head>Subjects (Persons)</head>
+        <persname encodinganalog="600">Holt, Roy Davis, 1897-1985</persname>
+        <persname encodinganalog="600">Holt, Roy D.--Archives</persname>
+        <persname encodinganalog="600">Holt, Roy D.--Correspondence</persname>
+        <persname encodinganalog="600">Holt, Roy D.--Manuscripts</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects (Places)</head>
+        <geogname encodinganalog="651">Southwest,New--History</geogname>
+        <geogname encodinganalog="651">Texas--History</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650">Authors--Texas, West</subject>
+        <subject encodinganalog="650">Authors, American</subject>
+        <subject encodinganalog="650">Barbed wire--History</subject>
+        <subject encodinganalog="650">Children's literature</subject>
+        <subject encodinganalog="650">Educators--Texas, West</subject>
+        <subject encodinganalog="650">Historians--Texas</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <p>Collection Accession #(s): 
+		  <num type="accession">2001-0094-B</num></p>
+      <p>Gift, 2001</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, August 2001</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>Roy Davis Holt Papers, 1937-1996 and undated, Southwest
+		  Collection/Special Collections Library, Texas Tech University, Lubbock,
+		  Texas</p>
+    </prefercite>
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Byers, Chet, 
+				  <unitdate era="ce" calendar="gregorian">1937-1940</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Literary Production</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Cattle Trails to Moscow, by Sam Redford, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Research Material</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Miscellaneous Notes, 
+				  <unitdate era="ce" calendar="gregorian">1964 and
+					 undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Printed Material</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Pageant Script on Texas History, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Papers on the Constitution, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>News clippings on Roy D. Holt, 
+				  <unitdate era="ce" calendar="gregorian">1974-1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>News clippings on various topics, 
+				  <unitdate era="ce" calendar="gregorian">1958-1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Articles by Roy D. Holt, 
+				  <unitdate era="ce" calendar="gregorian">1973-1979</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>Military Song Books, 
+				  <unitdate era="ce" calendar="gregorian">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>Miscellaneous, 
+				  <unitdate era="ce" calendar="gregorian">1940-1954 and
+					 undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>National Geographic articles on the West, 
+				  <unitdate era="ce" calendar="gregorian">1940-1976</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Scrapbook Material</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle>Miscellaneous, 
+				  <unitdate era="ce" calendar="gregorian">1920-1971</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle>Texas Brags Map, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unittitle>Holt’s book information, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle>Pictorial images of Texas History, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle>Miscellaneous illustrations, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Oversized Material</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>“Central Texas” article by Dorothy E. Cummins, Lu
+				  Ellison, and A. D. Pittman from the Fort Hood Sentinel newspaper, 
+				  <unitdate era="ce" calendar="gregorian">November 22,
+					 1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle><emph render="italic">The Coleman Voice</emph>
+				  newspaper, 
+				  <unitdate era="ce" calendar="gregorian">December 24,
+					 1909</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>Killeen High School Library Club scrapbook kept by Mrs.
+				  Holt, 
+				  <unitdate era="ce" calendar="gregorian">1954-1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>Miscellaneous images and illustrations with 27 items, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>The New York Times newspaper, laminated photocopied, 
+				  <unitdate era="ce" calendar="gregorian">October 29,
+					 1902</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle>“Portfolio of Pictures and Historical Sketches of Twelve
+				  Immortal Texans” (2 copies), 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle>S. J. Stouts’ original pen and pencil illustrations used
+				  by Roy D. Holt in his books and articles (29 items), 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,2082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00107</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Elmer Lois Tarbox:</titleproper>
+        <subtitle>An Inventory of His Papers, 1863-1978 and undated, at the
+			 Southwest Collection/Special Collections Library</subtitle>
+        <author>Abel Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://www.swco.ttu.edu</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">August 2000</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">October 2000.</date></creation>
+      <langusage>Finding aid written in
+		  <language>English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Tue Jul 22 15:22:23 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00107 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for Elmer Lois Tarbox Papers, 1863-1978 and
+		  undated</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">August 2000</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <persname encodinganalog="100">Tarbox, Elmer
+			 L.</persname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Elmer L. Tarbox Papers, 
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1863-1978 and undated</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">The papers of former
+		  Texas legislator Elmer Lois Tarbox.</abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 1006.1</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:"> 12 boxes and 13
+		  scrapbooks (15.0 linear feet)</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>Elmer Lois Tarbox was a Texas legislator, World War II veteran,
+		  businessman, inventor, and philanthropist. Born in 1916 in Bishop, Oklahoma, he
+		  received a B.B.A. degree from Texas Technological College in 1939. He was
+		  active in football, basketball, and track programs, and set three NCAA records
+		  while attending Texas Technological College. Tarbox also participated in the
+		  1939 Cotton Bowl game. During World War II, he served as a pilot in the Army
+		  Air Corps in the China-Burma-India theater with the famed <emph render="doublequote">Flying Tiger</emph> Squadron. He was awarded the Air Medal,
+		  Silver Star, Purple Heart, and the Golden Eagle of China.</p>
+      <p>After his military service, Tarbox developed, patented, and marketed
+		  <emph render="doublequote">Elmer's Weights</emph>, used primarily for athletic
+		  conditioning and physical rehabilitation. He served as State Representative of
+		  West Texas' Seventy-Sixth District, Place Two, from 1966-1976 and helped
+		  establish the Schools of Law and Medicine at Texas Tech University. Diagnosed
+		  with Parkinson's Disease, he founded the Tarbox Parkinson's Disease Institute
+		  in 1972 at the Texas Tech Medical School. Tarbox and his wife, Maxine Barnett,
+		  reared four children prior to her death in 1978. Tarbox died in 1987 in
+		  Lubbock, Texas.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The collection includes correspondence, printed and scrapbook
+		  material, financial and legal material, literary productions, legislative
+		  material, and memorabilia pertaining to Tarbox's legislative career, military
+		  service, business affairs, athletic career, and personal interests. It bulks
+		  (1937-1978) with materials relating to his legislative career and Texas
+		  politics. Also included is a genealogy of the Tarbox family and a literary
+		  production (ca. 1863) concerning a soldier's account of the home front during
+		  the Civil War.</p>
+    </scopecontent>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+      <controlaccess>
+        <head>Subjects (Persons)</head>
+        <persname encodinganalog="600" source="lcnaf">Tarbox, Elmer
+			 L.</persname>
+        <persname encodinganalog="600" source="lcnaf">Tarbox, Elmer
+			 L.--Family</persname>
+        <famname encodinganalog="600" source="lcnaf">Tarbox
+			 family--Genealogy</famname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname encodinganalog="610" source="lcnaf">Canadian River Project
+			 (U.S.)</corpname>
+        <corpname encodinganalog="610" source="lcnaf">Democratic Party
+			 (Tex.)--History</corpname>
+        <corpname encodinganalog="610" source="local">Elmer's Weights, Inc.
+			 (Lubbock, Tex.)</corpname>
+        <corpname encodinganalog="610" source="lcnaf">Texas. State Rural
+			 Medical Education Board</corpname>
+        <corpname encodinganalog="610" source="lcnaf">Tarbox Parkinson's
+			 Disease Institute</corpname>
+        <corpname encodinganalog="610" source="lcnaf">Texas. Legislature. House
+			 of Representatives</corpname>
+        <corpname encodinganalog="610" source="lcnaf">Texas. Legislature.
+			 Legislative Council</corpname>
+        <corpname encodinganalog="610" source="lcnaf">Texas. Parks and Wildlife
+			 Dept.</corpname>
+        <corpname encodinganalog="610" source="lcnaf">Texas Technological
+			 College--Sports</corpname>
+        <corpname encodinganalog="610" source="lcnaf">Texas Tech University.
+			 School of Law</corpname>
+        <corpname encodinganalog="610" source="lcnaf">Texas Tech University
+			 School of Medicine</corpname>
+        <corpname encodinganalog="610" source="lcnaf">Texas Technological
+			 College. School of Business Administration</corpname>
+        <corpname encodinganalog="610" source="lcnaf">Texas Technological
+			 College--Alumni and alumnae</corpname>
+        <corpname encodinganalog="610" source="lcnaf">United States. Army Air
+			 Forces. China Air Task Force</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Places</head>
+        <geogname encodinganalog="651" source="lcnaf">Texas--Politics and
+			 government--1951-</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Texas,
+			 West--History</geogname>
+        <geogname encodinganalog="651" source="lcnaf">United
+			 States--History--Civil War, 1861-1865--Personal narratives</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">College
+			 sports--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Parkinson's
+			 disease</subject>
+        <subject encodinganalog="650" source="lcsh">Weight training--Equipment
+			 and supplies</subject>
+        <subject encodinganalog="650" source="lcsh">World War,
+			 1939-1945--Campaigns--Burma</subject>
+        <subject encodinganalog="650" source="lcsh">World War,
+			 1939-1945--Aerial operations, American</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <head>Acquisition</head>
+      <p>Gifts, 1973-1978</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, August 2000</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>Elmer Lois Tarbox Papers, 1863-1978 and undated, Southwest
+			 Collection/Special Collections Library, Texas Tech University, Lubbock,
+			 Texas</p>
+    </prefercite>
+    <relatedmaterial encodinganalog="544 1" id="a6">
+      <p>For related materials located in the Southwest Collection/Special
+			 Collections Library, see the following collections:</p>
+      <list type="simple">
+        <item>Elmer L. Tarbox oral history interview [sound recording], 1973</item>
+        <item>Preston Smith Photograph collection, 1969</item>
+      </list>
+    </relatedmaterial>
+    <dsc type="combined" id="a23">
+      <c01 level="series">
+        <did>
+          <unittitle>General Files, 
+				<unitdate era="ce" calendar="gregorian">1970 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Bank Account Materials, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Elmer's Weights, Inc., 
+				  <unitdate era="ce" calendar="gregorian">1970 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Miscellaneous, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Tarbox Family, 
+				<unitdate era="ce" calendar="gregorian">1941-1951 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Baby/Bridal Books, 
+				  <unitdate era="ce" calendar="gregorian">1941-1946 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Baby/Bridal Books, 
+				  <unitdate era="ce" calendar="gregorian">1950-1951 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Photographs, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Texas House of Representatives, Elmer Tarbox Letterhead,
+				  
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Memorabilia, 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Miscellaneous Items, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>Miscellaneous Items, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Athletic Career, 
+				<unitdate era="ce" calendar="gregorian">1938-1972 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle>Football and Track Programs, 
+				  <unitdate era="ce" calendar="gregorian">1938-1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle>Texas Tech Football, 
+				  <unitdate era="ce" calendar="gregorian">1938-1953 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Business Affairs, 
+				<unitdate era="ce" calendar="gregorian">1949-1975 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1974-1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle>Elmer's Weights, Inc., 
+				  <unitdate era="ce" calendar="gregorian">1971-1976 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle>Ford Merchandising School, 
+				  <unitdate era="ce" calendar="gregorian">1949-1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">6</container>
+            <unittitle>Lubbock Auto Company, Inc., 
+				  <unitdate era="ce" calendar="gregorian">1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">7</container>
+            <unittitle>Moxley-Tarbox Real Estate, 
+				  <unitdate era="ce" calendar="gregorian">1973 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">8</container>
+            <unittitle>National Air Terminal Service, 
+				  <unitdate era="ce" calendar="gregorian">1953-1957 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">9</container>
+            <unittitle>Oil, 
+				  <unitdate era="ce" calendar="gregorian">1971-1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">10</container>
+            <unittitle>Pecans, 
+				  <unitdate era="ce" calendar="gregorian">1969-1970</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">11</container>
+            <unittitle>Stocks, 
+				  <unitdate era="ce" calendar="gregorian">1958-1971 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">12</container>
+            <unittitle>Tidmore Construction Company, 
+				  <unitdate era="ce" calendar="gregorian">1951 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Legislative Career, 
+				<unitdate era="ce" calendar="gregorian">1939-1978 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">13</container>
+            <unittitle>Alcoholism, 
+				  <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">14</container>
+            <unittitle>Appropriations for Higher Education, 
+				  <unitdate era="ce" calendar="gregorian">1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">15</container>
+            <unittitle>Athletic Trainers, 
+				  <unitdate era="ce" calendar="gregorian">1970-1976 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">16</container>
+            <unittitle>Austin, 
+				  <unitdate era="ce" calendar="gregorian">1973-1974 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">17</container>
+            <unittitle>Ben Barnes, 
+				  <unitdate era="ce" calendar="gregorian">1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">18</container>
+            <unittitle>Biography and Legislative History of Elmer Tarbox, 
+				  <unitdate era="ce" calendar="gregorian">1970 and undated</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Campaign Related Material, 
+					 <unitdate era="ce" calendar="gregorian">1966-1975 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">19</container>
+              <unittitle>Campaign Addresses, 
+					 <unitdate era="ce" calendar="gregorian">1966-1967 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">20</container>
+              <unittitle>Campaign Funds, 
+					 <unitdate era="ce" calendar="gregorian">1974-1975</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">1</container>
+              <unittitle>Campaign Helpers, 
+					 <unitdate era="ce" calendar="gregorian">1968 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">2</container>
+              <unittitle>Campaign Printed Material, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">3</container>
+            <unittitle>Constitutional Revision, 
+				  <unitdate era="ce" calendar="gregorian">1973-1974 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">4</container>
+            <unittitle>Constitutional Revision, 
+				  <unitdate era="ce" calendar="gregorian">1973-1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">5</container>
+            <unittitle>Coordinating Board, Texas College and University System,
+				  
+				  <unitdate era="ce" calendar="gregorian">1966-1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">6</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1973-1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">7</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1973-1975 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">8</container>
+            <unittitle>Elmer Tarbox's Legislative Letter, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">9</container>
+            <unittitle>Energy Institute, 
+				  <unitdate era="ce" calendar="gregorian">1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">10</container>
+            <unittitle>Highway Safety Amendment, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">11</container>
+            <unittitle>Hockley County, 
+				  <unitdate era="ce" calendar="gregorian">1965-1968 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>House Bills, 
+				  <unitdate era="ce" calendar="gregorian">1965-1975 and undated</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">12</container>
+              <unittitle>New Bills, 
+					 <unitdate era="ce" calendar="gregorian">1965-1969 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">13</container>
+              <unittitle>House Bill 423: Regulate Outdoor Music Festivals, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">14</container>
+              <unittitle>House Bill 602: Athletic Trainer, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">15</container>
+              <unittitle>House Bill 819: Public Utility Regulation, 
+					 <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">16</container>
+              <unittitle>House Bill 833: Terry County D. A., 
+					 <unitdate era="ce" calendar="gregorian">1971 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">17</container>
+              <unittitle>House Bill 883: State Preference Purchasing, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">18</container>
+              <unittitle>House Bill 1126: Education Finance, 
+					 <unitdate era="ce" calendar="gregorian">1975 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">19</container>
+              <unittitle>House Bill 1304: Occupation Tax on Motor Carriers, 
+					 <unitdate era="ce" calendar="gregorian">1967 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">20</container>
+              <unittitle>House Bill 1327: Imperfect Safety Glass Labeled, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">21</container>
+              <unittitle>House Bill 1386: Employees Retirement System, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">22</container>
+              <unittitle>House Bill 2136: Medical School Admissions, 
+					 <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">23</container>
+              <unittitle>Miscellaneous, 
+					 <unitdate era="ce" calendar="gregorian">1967-1975 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">24</container>
+            <unittitle>Shirley Lane, 
+				  <unitdate era="ce" calendar="gregorian">1967-1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">25</container>
+            <unittitle>Lubbock County Agricultural Demonstrations, 
+				  <unitdate era="ce" calendar="gregorian">1973-1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">26</container>
+            <unittitle>Lubbock Transportation Plan, 
+				  <unitdate era="ce" calendar="gregorian">1974-1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">27</container>
+            <unittitle>Mailing Addresses, 
+				  <unitdate era="ce" calendar="gregorian">1975 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">28</container>
+            <unittitle>Medical, 
+				  <unitdate era="ce" calendar="gregorian">1973-1974 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">29</container>
+            <unittitle>Memorabilia, 
+				  <unitdate era="ce" calendar="gregorian">1974 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Municipal Bonds, 
+				  <unitdate era="ce" calendar="gregorian">1961-1975 and undated</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">1</container>
+              <unittitle>Bank of America, 
+					 <unitdate era="ce" calendar="gregorian">1970</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">2</container>
+              <unittitle>Chapman and Cutler, 
+					 <unitdate era="ce" calendar="gregorian">1970</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">3</container>
+              <unittitle>Dawson, Nagel, Sherman, and Howard, 
+					 <unitdate era="ce" calendar="gregorian">1961-1970</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">4</container>
+              <unittitle>Issuance of Municipal Bonds, 
+					 <unitdate era="ce" calendar="gregorian">1975 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">5</container>
+              <unittitle>Orrick, Herrington, Rowley, and Sutcliffe, 
+					 <unitdate era="ce" calendar="gregorian">1970</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">6</container>
+              <unittitle>Wood, King, Dawson, Love, and Sabatine, 
+					 <unitdate era="ce" calendar="gregorian">1970</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">7</container>
+              <unittitle>Weigand, Curfman, Brainerd, Harris, and Kaufman, 
+					 <unitdate era="ce" calendar="gregorian">1970</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">8</container>
+            <unittitle>Gus Mutscher, 
+				  <unitdate era="ce" calendar="gregorian">1967-1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">9</container>
+            <unittitle>Notes, 
+				  <unitdate era="ce" calendar="gregorian">1957-1974 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">10</container>
+            <unittitle>Office and Secretarial Expenses, 
+				  <unitdate era="ce" calendar="gregorian">1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">11</container>
+            <unittitle>Politics, 
+				  <unitdate era="ce" calendar="gregorian">1966</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">12</container>
+            <unittitle>Printed Material, 
+				  <unitdate era="ce" calendar="gregorian">1940-1975 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">13</container>
+            <unittitle>Printed Material, 
+				  <unitdate era="ce" calendar="gregorian">1966-1975 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">14</container>
+            <unittitle>Rocky Mountain Legal Digest, 
+				  <unitdate era="ce" calendar="gregorian">1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">15</container>
+            <unittitle>Sample Speeches on Proposed Constitution, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Senate Bills, 
+				  <unitdate era="ce" calendar="gregorian">1975 and undated</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">16</container>
+              <unittitle>Senate Bill 41: Law Examination, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">17</container>
+              <unittitle>Senate Bill 52: General Appropriations, 
+					 <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">18</container>
+              <unittitle>Senate Bill 240: Parole Commissioners, 
+					 <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">19</container>
+              <unittitle>Senate Bill 616: Pesticides, 
+					 <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">20</container>
+              <unittitle>Senate Bill 635: Patients' Compensation Act, 
+					 <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">21</container>
+              <unittitle>Senate Bill 965: Child Care, 
+					 <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">22</container>
+            <unittitle>Senate Resolution 109, 
+				  <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">1</container>
+            <unittitle>Senate Subcommittees, 
+				  <unitdate era="ce" calendar="gregorian">1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">2</container>
+            <unittitle>Smith, Preston, 
+				  <unitdate era="ce" calendar="gregorian">1967-1968 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">3</container>
+            <unittitle>Speeches, 
+				  <unitdate era="ce" calendar="gregorian">1959-1967 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">4</container>
+            <unittitle>Tarbox Parkinson's Disease Symposium, 
+				  <unitdate era="ce" calendar="gregorian">1974-1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">5</container>
+            <unittitle>Telephone Utility Regulation, 
+				  <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">6</container>
+            <unittitle>Terry County, 
+				  <unitdate era="ce" calendar="gregorian">1967-1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">7</container>
+            <unittitle>Texas in Action Report, 
+				  <unitdate era="ce" calendar="gregorian">1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>Texas Agency Network, 
+				  <unitdate era="ce" calendar="gregorian">1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">9</container>
+            <unittitle>Texas Board of Cosmetology, 
+				  <unitdate era="ce" calendar="gregorian">1963-1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">10</container>
+            <unittitle>Texas Business, 
+				  <unitdate era="ce" calendar="gregorian">1971-1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">11</container>
+            <unittitle>Texas Constitutional Convention, 
+				  <unitdate era="ce" calendar="gregorian">1973-1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">12</container>
+            <unittitle>Texas Department of Community Affairs, 
+				  <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">13</container>
+            <unittitle>Texas State Personnel Statutes, 
+				  <unitdate era="ce" calendar="gregorian">1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">14</container>
+            <unittitle>Texas Tech, 
+				  <unitdate era="ce" calendar="gregorian">1967 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Texas Tech, 
+				  <unitdate era="ce" calendar="gregorian">1966-1976 and undated</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">15</container>
+              <unittitle>Budget, 
+					 <unitdate era="ce" calendar="gregorian">1966-1968 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">16</container>
+              <unittitle>Health Sciences Center Hospital, 
+					 <unitdate era="ce" calendar="gregorian">1976 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">17</container>
+              <unittitle>Medical School Faculty Council, 
+					 <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">18</container>
+            <unittitle>Thompson, Sandra, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">19</container>
+            <unittitle>Tuition Increase Bill, 
+				  <unitdate era="ce" calendar="gregorian">1975 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>University Land Fund, 
+				  <unitdate era="ce" calendar="gregorian">1967-1968 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>West Texas Water Institute, 
+				  <unitdate era="ce" calendar="gregorian">1976 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Military Service, 
+				<unitdate era="ce" calendar="gregorian">1937-1976 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">3</container>
+            <unittitle>Flying, 
+				  <unitdate era="ce" calendar="gregorian">1940-1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">4</container>
+            <unittitle>Newspaper Clippings, 
+				  <unitdate era="ce" calendar="gregorian">1943 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">5</container>
+            <unittitle>Printed Material, 
+				  <unitdate era="ce" calendar="gregorian">1937-1944 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">6</container>
+            <unittitle>Veterans' Administration, 
+				  <unitdate era="ce" calendar="gregorian">1944-1976 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Personal Papers, 
+				<unitdate era="ce" calendar="gregorian">1863-1976 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">7</container>
+            <unittitle>Boy Scouts of America, 
+				  <unitdate era="ce" calendar="gregorian">1928-1935</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">8</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1934-1957 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">9</container>
+            <unittitle>Family Tree, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">10</container>
+            <unittitle>Farm Account, 
+				  <unitdate era="ce" calendar="gregorian">1973-1974 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">11</container>
+            <unittitle>Financial Material, 
+				  <unitdate era="ce" calendar="gregorian">1939-1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">12</container>
+            <unittitle>Insurance, 
+				  <unitdate era="ce" calendar="gregorian">1973-1975 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">13</container>
+            <unittitle>Legal Material, 
+				  <unitdate era="ce" calendar="gregorian">1942-1957</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">1</container>
+            <unittitle>Newspaper Clippings, Miscellaneous, 
+				  <unitdate era="ce" calendar="gregorian">1941-1954 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">2</container>
+            <unittitle>Phi Delta Theta, 
+				  <unitdate era="ce" calendar="gregorian">1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">3</container>
+            <unittitle>Printed Material, 
+				  <unitdate era="ce" calendar="gregorian">1927-1950 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">4</container>
+            <unittitle>Scrapbook Material, 
+				  <unitdate era="ce" calendar="gregorian">1935-1972 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">5</container>
+            <unittitle>Memorabilia, 
+				  <unitdate era="ce" calendar="gregorian">1935-1938 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">6</container>
+            <unittitle>Tarbox, Bill, 
+				  <unitdate era="ce" calendar="gregorian">1971-1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">7</container>
+            <unittitle>Tarbox, Mary, 
+				  <unitdate era="ce" calendar="gregorian">1863</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">8</container>
+            <unittitle>Tarbox, Max, 
+				  <unitdate era="ce" calendar="gregorian">1972-1976 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">9</container>
+            <unittitle>Tarbox, Nelson, 
+				  <unitdate era="ce" calendar="gregorian">1863</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">10</container>
+            <unittitle>Texas Tech Class Material, 
+				  <unitdate era="ce" calendar="gregorian">1937-1952 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">1</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1935-1972 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">2</container>
+            <unittitle>Genealogical and Biographical Material, 
+				  <unitdate era="ce" calendar="gregorian">1970 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">3</container>
+            <unittitle>Printed Material, 
+				  <unitdate era="ce" calendar="gregorian">1931-1973 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">4</container>
+            <unittitle>Scrapbook Material, 
+				  <unitdate era="ce" calendar="gregorian">1933-1973 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">5</container>
+            <unittitle>Scrapbook Material, 
+				  <unitdate era="ce" calendar="gregorian">1933-1973 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">6</container>
+            <unittitle>Scrapbook Material, 
+				  <unitdate era="ce" calendar="gregorian">1933-1973 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Legislative Career, 
+				<unitdate era="ce" calendar="gregorian">1939-1978 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">7</container>
+            <unittitle>Campaign Related Printed Material, 
+				  <unitdate era="ce" calendar="gregorian">1966-1972 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">8</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1966-1973 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">9</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1966-1973 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">10</container>
+            <unittitle>Diaries, 
+				  <unitdate era="ce" calendar="gregorian">1966-1971</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">11</container>
+            <unittitle>General Printed Material, 
+				  <unitdate era="ce" calendar="gregorian">1966-1973 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Athletic Career, 
+				<unitdate era="ce" calendar="gregorian">1938-1972 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">12</container>
+            <unittitle>Printed Material: Programs, 
+				  <unitdate era="ce" calendar="gregorian">1938-1972 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">13</container>
+            <unittitle>Printed Material, 
+				  <unitdate era="ce" calendar="gregorian">1938-1972 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Business Affairs, 
+				<unitdate era="ce" calendar="gregorian">1949-1975 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">14</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1959-1971</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">15</container>
+            <unittitle>Financial Documents, 
+				  <unitdate era="ce" calendar="gregorian">1959-1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">16</container>
+            <unittitle>Printed Material, 
+				  <unitdate era="ce" calendar="gregorian">1952-1967 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Military Service, 
+				<unitdate era="ce" calendar="gregorian">1937-1976 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">17</container>
+            <unittitle>Miscellaneous, 
+				  <unitdate era="ce" calendar="gregorian">1944-1945 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>General Files, 
+				<unitdate era="ce" calendar="gregorian">1965-1976 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">1</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">2</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">3</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">4</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">5</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">6</container>
+            <unittitle>Administrative Staff and Program Directors, 
+				  <unitdate era="ce" calendar="gregorian">1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">7</container>
+            <unittitle>Agricultural and Livestock, Sub-Committee, 
+				  <unitdate era="ce" calendar="gregorian">1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">8</container>
+            <unittitle>Applications for Public Information, 
+				  <unitdate era="ce" calendar="gregorian">1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">9</container>
+            <unittitle>Assorted Bills on Insurance and Malpractice, 
+				  <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">10</container>
+            <unittitle>Austin File, 
+				  <unitdate era="ce" calendar="gregorian">1973-1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">11</container>
+            <unittitle>Austin File, 
+				  <unitdate era="ce" calendar="gregorian">1973-1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">12</container>
+            <unittitle>Church School Bill, 
+				  <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">13</container>
+            <unittitle>Bill Clayton File, 
+				  <unitdate era="ce" calendar="gregorian">1975-1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">14</container>
+            <unittitle>Constituents Requests, 
+				  <unitdate era="ce" calendar="gregorian">1971-1973 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">15</container>
+            <unittitle>Constitutional Revision Committee, 
+				  <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">16</container>
+            <unittitle>Consumer Law, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">17</container>
+            <unittitle>Election Code, Reporting Procedure, 
+				  <unitdate era="ce" calendar="gregorian">1975-1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">18</container>
+            <unittitle>Financial Report Letter, from Common Cause, 
+				  <unitdate era="ce" calendar="gregorian">1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">19</container>
+            <unittitle>Flag, How to Order, 
+				  <unitdate era="ce" calendar="gregorian">1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">20</container>
+            <unittitle>Food and Fiber, Budget Proposal, 
+				  <unitdate era="ce" calendar="gregorian">1975-1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>House Bills, 
+				  <unitdate era="ce" calendar="gregorian">1965-1975 and undated</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">21</container>
+              <unittitle>House Bill 240: Education, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">22</container>
+              <unittitle>House Bill 381: Credit Disclosure Act, 
+					 <unitdate era="ce" calendar="gregorian">1975 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">23</container>
+              <unittitle>House Bill 432: Architects Bill, 
+					 <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">24</container>
+              <unittitle>House Bill 668: Rehabilitation Districts for
+					 Handicapped Persons, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">25</container>
+              <unittitle>House Bill 1334: Dentists Bill, and Others, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">26</container>
+              <unittitle>House Bill 1665: Denton Family Farm Act of 1975, 
+					 <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">27</container>
+            <unittitle>House of Representatives, Members' Accounts, 
+				  <unitdate era="ce" calendar="gregorian">1974-1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">28</container>
+            <unittitle>Impeachment, 
+				  <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">29</container>
+            <unittitle>Impeachment, Inquiry, 
+				  <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">30</container>
+            <unittitle>Legislative Property Tax Committee, 
+				  <unitdate era="ce" calendar="gregorian">1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">31</container>
+            <unittitle>Major Bills of the 64th Legislature, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">32</container>
+            <unittitle>Maps of District, 
+				  <unitdate era="ce" calendar="gregorian">1971 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">1</container>
+            <unittitle>Austin File, 
+				  <unitdate era="ce" calendar="gregorian">1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">2</container>
+            <unittitle>House Bill 214: Special License Plates for Disabled
+				  Veterans, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">3</container>
+            <unittitle>News Releases, 
+				  <unitdate era="ce" calendar="gregorian">1975 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">4</container>
+            <unittitle>Office Expense in Austin, 
+				  <unitdate era="ce" calendar="gregorian">1975-1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">5</container>
+            <unittitle>Persons Requesting a Change in the Constitution or a
+				  Bill, 
+				  <unitdate era="ce" calendar="gregorian">1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">6</container>
+            <unittitle>Printed Material, 
+				  <unitdate era="ce" calendar="gregorian">1972-1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">7</container>
+            <unittitle>Proclamations, 
+				  <unitdate era="ce" calendar="gregorian">1973 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">8</container>
+            <unittitle>Proposed New Constitution, 
+				  <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">9</container>
+            <unittitle>Prospective Committee Appointees, 
+				  <unitdate era="ce" calendar="gregorian">1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">10</container>
+            <unittitle>Remarks of Craig A. Washington, 
+				  <unitdate era="ce" calendar="gregorian">1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">11</container>
+            <unittitle>Sample Legislative Wrap-up Speech, sent by Bill Clayton,
+				  
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">12</container>
+            <unittitle>Scrapbook Material, 
+				  <unitdate era="ce" calendar="gregorian">1973-1975 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Senate Bills, 
+				  <unitdate era="ce" calendar="gregorian">1975 and undated</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">13</container>
+              <unittitle>Senate Bill 234: Texas Women's University Medical
+					 School, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">14</container>
+              <unittitle>Senate Bill 635: on Malpractice, Voting Record, 
+					 <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">15</container>
+              <unittitle>Senate Bill 761: Mass Transportation, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">16</container>
+              <unittitle>Senate Bill 762: Mass Transportation, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">17</container>
+            <unittitle>Senate Concurrent Resolution: Texas Tech 50th
+				  Anniversary Commendation, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">18</container>
+            <unittitle>Social Security Act, 
+				  <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">19</container>
+            <unittitle>Southwest Collection, 
+				  <unitdate era="ce" calendar="gregorian">1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">20</container>
+            <unittitle>Tarbox Parkinson's Disease Symposium, 
+				  <unitdate era="ce" calendar="gregorian">1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">21</container>
+            <unittitle>Texas Aeronautics Commission, 
+				  <unitdate era="ce" calendar="gregorian">1970-1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">22</container>
+            <unittitle>Texas Commission for the Arts and Humanities, 
+				  <unitdate era="ce" calendar="gregorian">1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">23</container>
+            <unittitle>Texas House Rules, Draft, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">24</container>
+            <unittitle>Texas Offshore Terminal Commission, 
+				  <unitdate era="ce" calendar="gregorian">1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">25</container>
+            <unittitle>Text Book Committee, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">26</container>
+            <unittitle>Transportation Committee Studies, 
+				  <unitdate era="ce" calendar="gregorian">1975-1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">27</container>
+            <unittitle>University of Texas, Allen Shivers Letter, 
+				  <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Legislative Career, 
+				<unitdate era="ce" calendar="gregorian">1939-1978 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">1</container>
+            <unittitle>Campaign Related Printed Material, 
+				  <unitdate era="ce" calendar="gregorian">1974 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">2</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1967 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">3</container>
+            <unittitle>General Printed Material, 
+				  <unitdate era="ce" calendar="gregorian">1972-1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Framed Memorabilia, 
+				  <unitdate era="ce" calendar="gregorian">1939-1968</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">4</container>
+              <unittitle>Alpha Phi Omega Membership, 
+					 <unitdate era="ce" calendar="gregorian">1939</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">5</container>
+              <unittitle>Election to State Representative, 77th Representative
+					 District, 
+					 <unitdate era="ce" calendar="gregorian">1968</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">6</container>
+            <unittitle>Memorabilia: Gavel, Higher Education Committee Chairman,
+				  
+				  <unitdate era="ce" calendar="gregorian">1971-1972</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Scrapbooks, 
+				<unitdate era="ce" calendar="gregorian">1937-1976 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="othertype"><emph render="bold">Scrapbook #
+				  </emph>1</container>
+            <unittitle>Scrapbook, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="othertype">2</container>
+              <unittitle>Ledger: Business Affairs: Lubbock Auto Company, Inc., 
+					 <unitdate era="ce" calendar="gregorian">1951</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="othertype">3</container>
+            <unittitle>Scrapbook: Personal Papers, 
+				  <unitdate era="ce" calendar="gregorian">1973-1975 and undated</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="othertype">4</container>
+              <unittitle>Personal Papers: Between Friends/Entre Amis (Canadian
+					 Consulate), 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">5</container>
+              <unittitle>Scrapbook #1, 
+					 <unitdate era="ce" calendar="gregorian">1950-1973</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Oversized Scrapbooks, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="othertype">6</container>
+              <unittitle>Scrapbook, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">7</container>
+              <unittitle>Scrapbook: Tarbox, Elmer Lois, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">8</container>
+              <unittitle>Scrapbook, 
+					 <unitdate era="ce" calendar="gregorian">1973-1976</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">9</container>
+              <unittitle>Scrapbook, 
+					 <unitdate era="ce" calendar="gregorian">1973-1976</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">10</container>
+              <unittitle>Campaign Scrapbook, 
+					 <unitdate era="ce" calendar="gregorian">1937-1976</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">11</container>
+              <unittitle>Scrapbook: Tarbox, Elmer Lois, 
+					 <unitdate era="ce" calendar="gregorian">1952-1975</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">12</container>
+              <unittitle>Scrapbook, 
+					 <unitdate era="ce" calendar="gregorian">undated </unitdate>(Missing)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">13</container>
+              <unittitle>Scrapbook, 
+					 <unitdate era="ce" calendar="gregorian">1952-1975</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

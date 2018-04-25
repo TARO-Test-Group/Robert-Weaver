@@ -1,0 +1,2907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00068</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Pitchfork Land and Cattle Company:</titleproper>
+        <subtitle>An Inventory of Its Records, 1837-1983 and undated, at the
+			 Southwest Collection/Special Collections Library</subtitle>
+        <author>Abel Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu/</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">May 2003</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">February 2001.</date></creation>
+      <langusage>Finding aid written in
+		  <language>English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Tue Jul 22 15:21:46 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00068 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the Pitchfork Land and Cattle Company Records,
+		  1837-1983 and undated</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">2000</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <corpname encodinganalog="110">Pitchfork Land and Cattle
+			 Company</corpname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Pitchfork Land and
+		  Cattle Company Records, 
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1837-1983 and undated</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">The records pertain to
+		  the Pitchfork Land and Cattle Company, which was incorporated in 1883 and
+		  headquartered near Guthrie, Texas.</abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 803.1</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:">27 boxes and 9 ledgers
+		  (30.0 linear feet)</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>Organized in 1881 by D.B. Gardner and Eugene F. Williams, it was
+		  incorporated in 1883 as the Pitchfork Land and Cattle Company. The ranch is
+		  headquartered near Guthrie, Texas, and also operated divisions near Laramie,
+		  Wyoming, and Eskridge, Kansas.</p>
+      <p>The ranch used a three-pronged symbol that looked like a pitchfork.
+		  The succession of general managers for the ranch was as follows: D. B. Gardner
+		  served from 1883 until his death in 1928; from 1928-1930, A. Lambert managed
+		  the ranch; Virgil V. Parr ran the ranch from 1930-1940; Rudolph Swenson served
+		  a short term from 1940-1942; and the well-known D. Burns was ranch manager for
+		  the Pitchfork Ranch from 1942-1965. Burns received a lifetime award in 1960
+		  from the Texas Hereford Association</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The collection contains correspondence, legal documents, financial
+		  material, maps and charts, diaries, scrapbook material, printed material, news
+		  releases, speeches, minutes and agenda, literary production, news clippings,
+		  and photographs. A portion of the collection (1,170 leaves) is available on
+		  microfilm. Also included are Virgil V. Parr's papers concerning his tenure on
+		  the Wichita School Board from 1931-1933.</p>
+    </scopecontent>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+      <controlaccess>
+        <head>Subjects (Persons)</head>
+        <persname encodinganalog="600" source="local">Burns, D. (Douglas R.),
+			 1895-1977</persname>
+        <persname encodinganalog="600" source="lcnaf">Burns family</persname>
+        <persname encodinganalog="600" source="local">Humphreys, Jim</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname encodinganalog="610" source="lcnaf">Pitchfork Land and Cattle
+			 Company</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Places</head>
+        <geogname encodinganalog="651" source="lcnaf">6666 Ranch
+			 (Tex.)</geogname>
+        <geogname encodinganalog="651" source="local">Eskridge
+			 (Kan.)</geogname>
+        <geogname encodinganalog="651" source="local">Guthrie
+			 (Tex.)--History</geogname>
+        <geogname encodinganalog="651" source="lcnaf">J.A. Ranch
+			 (Tex.)</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Laramie (Wyo.)</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Pitchfork Ranch
+			 (Tex.)</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Pitchfork Ranch
+			 (Tex.)--Social life and customs</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Saint Louis
+			 (Mo.)</geogname>
+        <geogname encodinganalog="651" source="local">SMS Ranch
+			 (Tex.)</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Spur Ranch
+			 (Tex.)</geogname>
+        <geogname encodinganalog="651" source="lcnaf">XIT Ranch
+			 (Tex.)</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">Animals--Texas--Pitchfork
+			 Ranch</subject>
+        <subject encodinganalog="650" source="lcsh">Cattle--Marking--Texas--Pitchfork Ranch</subject>
+        <subject encodinganalog="650" source="lcsh">Cattle--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Cattle--Texas,
+			 West</subject>
+        <subject encodinganalog="650" source="lcsh">Cattle--Breeding</subject>
+        <subject encodinganalog="650" source="lcsh">Cattle--Breeding--Texas--Pitchfork Ranch.</subject>
+        <subject encodinganalog="650" source="lcsh">Cattle--Feeding and
+			 feeds--Texas--Pitchfork Ranch</subject>
+        <subject authfilenumber="650" source="lcsh">Cattle trade</subject>
+        <subject encodinganalog="650" source="lcsh">Cattle
+			 trade--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Cowboys--Texas,
+			 West</subject>
+        <subject encodinganalog="650" source="lcsh">Cutting horses</subject>
+        <subject encodinganalog="650" source="lcsh">Horse trading</subject>
+        <subject encodinganalog="650" source="lcsh">Horses</subject>
+        <subject encodinganalog="650" source="lcsh">Horses--Breeding</subject>
+        <subject encodinganalog="650" source="lcsh">Horses--Texas--Pitchfork
+			 Ranch</subject>
+        <subject encodinganalog="650" source="lcsh">Livestock--Texas--Pitchfork
+			 Ranch</subject>
+        <subject encodinganalog="650" source="lcsh">Ranch
+			 life--Texas--Pitchfork Ranch</subject>
+        <subject encodinganalog="650" source="lcsh">Ranch
+			 managers--Texas--History</subject>
+        <subject encodinganalog="650" source="lcsh">Ranches--Kansas</subject>
+        <subject encodinganalog="650" source="lcsh">Ranches--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Ranches--Wyoming</subject>
+        <subject encodinganalog="650" source="lcsh">Ranching--Texas,
+			 West</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <head>Acquisition</head>
+      <p>Gifts, 1969-1977</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, 2000</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>Pitchfork Land and Cattle Company Records, 1837-1983 and undated,
+			 Southwest Collection/Special Collections Library, Texas Tech University,
+			 Lubbock, Texas</p>
+    </prefercite>
+    <bibliography id="a10">
+      <head>Additional Sources</head>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Murrah, David J. 
+			 <title xlink:type="simple" render="doublequote" xlink:href="">The Pitchfork Land and Cattle Company: the
+				First Century. </title>Lubbock: Texas Tech University Press, 1983.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Burns, Mamie Sypert. 
+			 <title xlink:type="simple" render="doublequote" xlink:href="">This I Can Leave You: A Woman's Day on the
+				Pitchfork Ranch. </title>College Station: Texas A&amp;M University Press,
+			 1986.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Cox, James. 
+			 <title xlink:type="simple" render="doublequote" xlink:href="">Historical and Biographical Record of the
+				Cattle Industry. </title>2 vols., St. Louis: Woodward and Tiernan Printing,
+			 1894, 1895.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Elliott, Margaret A. <emph render="italic">History of D. B.
+			 Gardner's Pitchfork.</emph><title xlink:type="simple" render="doublequote" xlink:href="">Panhandle-Plains Historical Review,
+				</title>vol. 18, 1945.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Hendrix, John M. <emph render="italic">The Forks.</emph><title xlink:type="simple" render="doublequote" xlink:href="">The Cattleman, </title>March 1939.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">The Handbook of Texas has published a more in-depth online
+			 biography of the Pitchfork Ranch at
+			 http://www.tsha.utexas.edu/handbook/online/search.html</bibref>
+    </bibliography>
+    <relatedmaterial encodinganalog="544 1" id="a6">
+      <p>For related materials located in the Southwest Collection/Special
+			 Collections Library, see the following collections:</p>
+      <list type="simple">
+        <item>R.J. and Rita Bell and Belinda Sursa oral history interview [sound
+			 recording], 1970s</item>
+        <item>Douglas R. Burns oral history interview [sound recording],
+			 1969-1970</item>
+        <item>D. (Douglas R.) Burns Papers, 1850-1980</item>
+        <item>D. (Douglas R.)Burns Papers, 1940-1976</item>
+        <item>Mrs. Walter Chalk oral history interview [sound recording], 1969</item>
+        <item>&gt;Gardner, Dan, Papers, 1897</item>
+        <item>Virgil V. Parr Papers, 1921-1935</item>
+        <item>Elmer Petty oral history interview [sound recording], 1981</item>
+        <item>Belinda Sursa and Dave Kinney oral history interview [sound
+			 recording], 1970</item>
+      </list>
+    </relatedmaterial>
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1877-1900</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1901-1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1916-1917</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1918</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">January-June 1919</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">July-December 1919</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1920</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1921</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">January-July 1922</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">August-December 1922</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">January-June 1923</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">July-December 1923</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">January-May 1924</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">June-December 1924</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1925</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">January-June 1926</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">July-December 1926</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">January-June 1927</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">July-December 1927</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1928-1929</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1930</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">12</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1931</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1932-1936</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">14</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1937-1938</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">January-April 1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">May-September 1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">October-December 1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">January-March 1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">April-June 1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">6</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">July-September 1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">7</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">October-December 1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">8</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">9</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">1</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1924-1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">2</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1946-1948</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">3</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1949-1950</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">4</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1950-1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">1</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">2</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">3</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1952-1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">4</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1953-1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">1</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1954-1955</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">2</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1955-1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">3</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1956-1957</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">4</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1957-1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1958-1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1959-1960</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">3</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1963-1967 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">4</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1967-1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">1</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1960-1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">2</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">3</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">4</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1964-1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">1</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Specific</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">2</container>
+              <unittitle>Accounting Department (Ranch), 
+					 <unitdate era="ce" calendar="gregorian">1929-1931</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">3</container>
+              <unittitle>Acreage Allowances, 
+					 <unitdate era="ce" calendar="gregorian">1957-1962</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">4</container>
+              <unittitle>Ad Layouts, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">5</container>
+              <unittitle>Agriculture Conservation Program, 
+					 <unitdate era="ce" calendar="gregorian">1945-1958</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">6</container>
+              <unittitle>Animal Health Records, 
+					 <unitdate era="ce" calendar="gregorian">1946-1965 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">7</container>
+              <unittitle>Associations, 
+					 <unitdate era="ce" calendar="gregorian">1945-1965 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">8</container>
+              <unittitle>Associations, 
+					 <unitdate era="ce" calendar="gregorian">1945-1965 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">9</container>
+              <unittitle>Bookkeeping Department, St. Louis, 
+					 <unitdate era="ce" calendar="gregorian">1942-1952</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">1</container>
+              <unittitle>Bookkeeping Department, St. Louis, 
+					 <unitdate era="ce" calendar="gregorian">1953-1957</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">2</container>
+              <unittitle>Bookkeeping Department, St. Louis, 
+					 <unitdate era="ce" calendar="gregorian">1958-1960</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">3</container>
+              <unittitle>Bookkeeping Department, St. Louis, 
+					 <unitdate era="ce" calendar="gregorian">1961-1962</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">4</container>
+              <unittitle>Bookkeeping Department, St. Louis, 
+					 <unitdate era="ce" calendar="gregorian">1962-1964</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">1</container>
+              <unittitle>Braceros Program, 
+					 <unitdate era="ce" calendar="gregorian">1958-1962 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">2</container>
+              <unittitle>Breeding Records, 
+					 <unitdate era="ce" calendar="gregorian">1963</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">3</container>
+              <unittitle>D. Burns, 
+					 <unitdate era="ce" calendar="gregorian">1947</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">4</container>
+              <unittitle>D. Burns, 
+					 <unitdate era="ce" calendar="gregorian">1942-1943</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">5</container>
+              <unittitle>D. Burns, 
+					 <unitdate era="ce" calendar="gregorian">1944</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">1</container>
+              <unittitle>D. Burns, 
+					 <unitdate era="ce" calendar="gregorian">1944-1947</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">2</container>
+              <unittitle>D. Burns, 
+					 <unitdate era="ce" calendar="gregorian">1948-1965 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">3</container>
+              <unittitle>D. Burns, 
+					 <unitdate era="ce" calendar="gregorian">1942-1949</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">4</container>
+              <unittitle>D. Burns, 
+					 <unitdate era="ce" calendar="gregorian">1962-1968</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">5</container>
+              <unittitle>Cattle Shipping Records, 
+					 <unitdate era="ce" calendar="gregorian">1953</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">6</container>
+              <unittitle>Cattle Sales, 
+					 <unitdate era="ce" calendar="gregorian">1934</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">7</container>
+              <unittitle>Cattle Tallies and Counts, 
+					 <unitdate era="ce" calendar="gregorian">1930</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">8</container>
+              <unittitle>Claims, 
+					 <unitdate era="ce" calendar="gregorian">1930-1933</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">9</container>
+              <unittitle>Crop Dusting Records, 
+					 <unitdate era="ce" calendar="gregorian">1950</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">10</container>
+              <unittitle>Daily Cattle Killing Records, 
+					 <unitdate era="ce" calendar="gregorian">1955-1961</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">11</container>
+              <unittitle>Employer's Reports of Injury, 
+					 <unitdate era="ce" calendar="gregorian">1940-1942</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">12</container>
+              <unittitle>Eradication of Predatory Animals and Obnoxious Weeds, 
+					 <unitdate era="ce" calendar="gregorian">1920-1936</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">13</container>
+              <unittitle>Farm Machinery, 
+					 <unitdate era="ce" calendar="gregorian">1933</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">14</container>
+              <unittitle>Farm Operation, 
+					 <unitdate era="ce" calendar="gregorian">1931</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">15</container>
+              <unittitle>Freight Rates, 
+					 <unitdate era="ce" calendar="gregorian">1930-1931</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">16</container>
+              <unittitle>Gasoline Memoranda, 
+					 <unitdate era="ce" calendar="gregorian">1937-1939</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">17</container>
+              <unittitle>Highway #24, 
+					 <unitdate era="ce" calendar="gregorian">1933</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">18</container>
+              <unittitle>Land Improvement, 
+					 <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">19</container>
+              <unittitle>Land Sales Farms, 
+					 <unitdate era="ce" calendar="gregorian">1923-1938</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">20</container>
+              <unittitle>Leases, 
+					 <unitdate era="ce" calendar="gregorian">1931</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">21</container>
+              <unittitle>Legal Affairs (W. D. Wilson), 
+					 <unitdate era="ce" calendar="gregorian">1930-1931</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">22</container>
+              <unittitle>Livestock, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">23</container>
+              <unittitle>Lumber and Construction, 
+					 <unitdate era="ce" calendar="gregorian">1938</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">24</container>
+              <unittitle>Meat Curing, 
+					 <unitdate era="ce" calendar="gregorian">1930</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">25</container>
+              <unittitle>Miscellaneous, 
+					 <unitdate era="ce" calendar="gregorian">1883-1962</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">26</container>
+              <unittitle>Officers, 
+					 <unitdate era="ce" calendar="gregorian">1935-1936</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">27</container>
+              <unittitle>Publications, 
+					 <unitdate era="ce" calendar="gregorian">1930-1931</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">28</container>
+              <unittitle>Publicity, 
+					 <unitdate era="ce" calendar="gregorian">1931</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">29</container>
+              <unittitle>Ranches, etc. for sale, 
+					 <unitdate era="ce" calendar="gregorian">1930</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">30</container>
+              <unittitle>Registered Herd, 
+					 <unitdate era="ce" calendar="gregorian">1931-1932</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">31</container>
+              <unittitle>St. Louis Union Trust Company, 
+					 <unitdate era="ce" calendar="gregorian">1954-1976 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">32</container>
+              <unittitle>Sales, 
+					 <unitdate era="ce" calendar="gregorian">1930-1931</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">33</container>
+              <unittitle>Shipping, 
+					 <unitdate era="ce" calendar="gregorian">1931</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">34</container>
+              <unittitle>Texas Cattle Raisers Association, 
+					 <unitdate era="ce" calendar="gregorian">1930-1931</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">35</container>
+              <unittitle>Texas Experiment Station, 
+					 <unitdate era="ce" calendar="gregorian">1930</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">1</container>
+              <unittitle>E. F. Williams, Sr., 
+					 <unitdate era="ce" calendar="gregorian">1942-1944</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">2</container>
+              <unittitle>E. F. Williams, Sr., 
+					 <unitdate era="ce" calendar="gregorian">1944-1947</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">3</container>
+              <unittitle>E. F. Williams, Sr., 
+					 <unitdate era="ce" calendar="gregorian">1948-1953</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">4</container>
+              <unittitle>E. F. Williams, Sr., 
+					 <unitdate era="ce" calendar="gregorian">1953-1954 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">5</container>
+              <unittitle>E. F. Sr., E. F. Jr., and Gates Williams, 
+					 <unitdate era="ce" calendar="gregorian">1954-1957</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">1</container>
+              <unittitle>E. F. Sr., E. F. Jr., and Gates Williams, 
+					 <unitdate era="ce" calendar="gregorian">1957-1960 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">2</container>
+              <unittitle>Williams, Eugene F. Jr., and Jim Humphrey, 
+					 <unitdate era="ce" calendar="gregorian">1965-1976 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">3</container>
+              <unittitle>Williams, Eugene F. Jr., and Jim Humphrey, 
+					 <unitdate era="ce" calendar="gregorian">1964-1973 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">4</container>
+              <unittitle>Williams, Gates, 
+					 <unitdate era="ce" calendar="gregorian">1942</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">5</container>
+              <unittitle>Williams, Eugene, Jr., 
+					 <unitdate era="ce" calendar="gregorian">1953-1965</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">6</container>
+              <unittitle>Williams, Gates, 
+					 <unitdate era="ce" calendar="gregorian">1942-1951</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">7</container>
+              <unittitle>Williams, Gates, 
+					 <unitdate era="ce" calendar="gregorian">1951-1954 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Financial Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">1</container>
+            <unittitle>Braceros Program, 
+				  <unitdate era="ce" calendar="gregorian">1958-1962 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">2</container>
+            <unittitle>Cattle Records: Inventories, 
+				  <unitdate era="ce" calendar="gregorian">1964-1970</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">3</container>
+            <unittitle>Cattle Records: Inventories and Sales, 
+				  <unitdate era="ce" calendar="gregorian">1881-1931</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">4</container>
+            <unittitle>Cattle Records: Statements of Sale, 
+				  <unitdate era="ce" calendar="gregorian">1963-1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">5</container>
+            <unittitle>Expense Accounts, 
+				  <unitdate era="ce" calendar="gregorian">1952-1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">6</container>
+            <unittitle>Expense Accounts, 
+				  <unitdate era="ce" calendar="gregorian">1962-1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">7</container>
+            <unittitle>Expense Accounts, 
+				  <unitdate era="ce" calendar="gregorian">1941-1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">8</container>
+            <unittitle>Expenditures, 
+				  <unitdate era="ce" calendar="gregorian">1929-1965 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">9</container>
+            <unittitle>Expenditures, 
+				  <unitdate era="ce" calendar="gregorian">1963-1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">10</container>
+            <unittitle>Expenses and Depreciation Schedule, 
+				  <unitdate era="ce" calendar="gregorian">1960-1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">11</container>
+            <unittitle>Employee Data, 
+				  <unitdate era="ce" calendar="gregorian">1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">12</container>
+            <unittitle>Expenditures, 
+				  <unitdate era="ce" calendar="gregorian">1915-1919</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">13</container>
+            <unittitle>Expenditures, 
+				  <unitdate era="ce" calendar="gregorian">1920-1929</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">14</container>
+            <unittitle>Expenditures, 
+				  <unitdate era="ce" calendar="gregorian">1930-1931</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">15</container>
+            <unittitle>Expenditures, 
+				  <unitdate era="ce" calendar="gregorian">1932</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">1</container>
+            <unittitle>Expenditures, 
+				  <unitdate era="ce" calendar="gregorian">1933</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">2</container>
+            <unittitle>Expenditures, 
+				  <unitdate era="ce" calendar="gregorian">1934</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">3</container>
+            <unittitle>Expenditures, 
+				  <unitdate era="ce" calendar="gregorian">1935</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">4</container>
+            <unittitle>Expenditures, 
+				  <unitdate era="ce" calendar="gregorian">1938</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">5</container>
+            <unittitle>Expenditures, 
+				  <unitdate era="ce" calendar="gregorian">1950-1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">6</container>
+            <unittitle>Expenditures, 
+				  <unitdate era="ce" calendar="gregorian">1960-1969</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">7</container>
+            <unittitle>Expenditures, 
+				  <unitdate era="ce" calendar="gregorian">1970-1979</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">8</container>
+            <unittitle>Expenditures - Account list, Freight Bills, Statements, 
+				  <unitdate era="ce" calendar="gregorian">1909-1942 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">9</container>
+            <unittitle>Expense Account of Virgil V. Parr, 
+				  <unitdate era="ce" calendar="gregorian">1930-1931</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">10</container>
+            <unittitle>Feed Records, 
+				  <unitdate era="ce" calendar="gregorian">1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">11</container>
+            <unittitle>Feedlot Records, 
+				  <unitdate era="ce" calendar="gregorian">1969-1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">12</container>
+            <unittitle>Flag Ranch Conditions, 
+				  <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">13</container>
+            <unittitle>Flag Ranch and Pitchfork Ranch Employees, 
+				  <unitdate era="ce" calendar="gregorian">1965-1982 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">14</container>
+            <unittitle>Freight Bills, 
+				  <unitdate era="ce" calendar="gregorian">1944-1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">15</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1946-1963 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">16</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1963-1969 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">17</container>
+            <unittitle>Hog Records/Sales, 
+				  <unitdate era="ce" calendar="gregorian">1963-1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">18</container>
+            <unittitle>Income Statements, 
+				  <unitdate era="ce" calendar="gregorian">1962-1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">19</container>
+            <unittitle>Insurance, 
+				  <unitdate era="ce" calendar="gregorian">1960-1963</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">20</container>
+            <unittitle>Insurance, 
+				  <unitdate era="ce" calendar="gregorian">1944-1964 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">21</container>
+            <unittitle>Insurance: Injury Reports, 
+				  <unitdate era="ce" calendar="gregorian">1945-1954 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">22</container>
+            <unittitle>Insurance: Premiums, 
+				  <unitdate era="ce" calendar="gregorian">1944-1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">17</container>
+            <container type="folder">1</container>
+            <unittitle>Insurance: General American Life, 
+				  <unitdate era="ce" calendar="gregorian">1960-1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">17</container>
+            <container type="folder">2</container>
+            <unittitle>Inventories: Hog Records, 
+				  <unitdate era="ce" calendar="gregorian">1963-1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">17</container>
+            <container type="folder">3</container>
+            <unittitle>Land Appraisal, 
+				  <unitdate era="ce" calendar="gregorian">1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">17</container>
+            <container type="folder">4</container>
+            <unittitle>Late Tax Renditions and Assessments, 
+				  <unitdate era="ce" calendar="gregorian">1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">17</container>
+            <container type="folder">5</container>
+            <unittitle>Miscellaneous items, 
+				  <unitdate era="ce" calendar="gregorian">1884</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">17</container>
+            <container type="folder">6</container>
+            <unittitle>Miscellaneous Tax Renditions and Assessments, 
+				  <unitdate era="ce" calendar="gregorian">1929-1932</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">17</container>
+            <container type="folder">7</container>
+            <unittitle>Mississippi Valley Trust, Treasury Certificate and
+				  Miscellaneous, 
+				  <unitdate era="ce" calendar="gregorian">1918-1926 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">17</container>
+            <container type="folder">8</container>
+            <unittitle>Payroll Notes, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">17</container>
+            <container type="folder">9</container>
+            <unittitle>Payrolls, 
+				  <unitdate era="ce" calendar="gregorian">1939-1957</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">17</container>
+            <container type="folder">10</container>
+            <unittitle>Payrolls, 
+				  <unitdate era="ce" calendar="gregorian">1958-1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">18</container>
+            <container type="folder">1</container>
+            <unittitle>Payrolls: Indian Payrolls and Expenses, 
+				  <unitdate era="ce" calendar="gregorian">1954-1957</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">18</container>
+            <container type="folder">2</container>
+            <unittitle>Payrolls: Indian Payrolls and Expenses, 
+				  <unitdate era="ce" calendar="gregorian">1957-1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">18</container>
+            <container type="folder">3</container>
+            <unittitle>Payrolls: Indian Payrolls and Expenses, 
+				  <unitdate era="ce" calendar="gregorian">1959-1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">18</container>
+            <container type="folder">4</container>
+            <unittitle>Payrolls: Mexican, 
+				  <unitdate era="ce" calendar="gregorian">1958-1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">19</container>
+            <container type="folder">1</container>
+            <unittitle>Payrolls: Mexican, 
+				  <unitdate era="ce" calendar="gregorian">1960-1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">19</container>
+            <container type="folder">2</container>
+            <unittitle>Petty Cash, 
+				  <unitdate era="ce" calendar="gregorian">1933</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">19</container>
+            <container type="folder">3</container>
+            <unittitle>Petty Cash Distribution, 
+				  <unitdate era="ce" calendar="gregorian">1942-1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">19</container>
+            <container type="folder">4</container>
+            <unittitle>Purchases, Orders, and Receipts, 
+				  <unitdate era="ce" calendar="gregorian">1964-1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">19</container>
+            <container type="folder">5</container>
+            <unittitle>Receipt Note, 
+				  <unitdate era="ce" calendar="gregorian">1898-1901</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">19</container>
+            <container type="folder">6</container>
+            <unittitle>Records of Sales, 
+				  <unitdate era="ce" calendar="gregorian">1939-1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">19</container>
+            <container type="folder">7</container>
+            <unittitle>Sales and Expenditures, 
+				  <unitdate era="ce" calendar="gregorian">1932-1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">19</container>
+            <container type="folder">8</container>
+            <unittitle>Sales, 
+				  <unitdate era="ce" calendar="gregorian">1939-1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">19</container>
+            <container type="folder">9</container>
+            <unittitle>Sales, 
+				  <unitdate era="ce" calendar="gregorian">1945-1949</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">19</container>
+            <container type="folder">10</container>
+            <unittitle>Sales, 
+				  <unitdate era="ce" calendar="gregorian">1950-1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">20</container>
+            <container type="folder">1</container>
+            <unittitle>Sales, 
+				  <unitdate era="ce" calendar="gregorian">1954-1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">20</container>
+            <container type="folder">2</container>
+            <unittitle>Sales, 
+				  <unitdate era="ce" calendar="gregorian">1957-1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">20</container>
+            <container type="folder">3</container>
+            <unittitle>Stockholders, Attempted Purchase, 
+				  <unitdate era="ce" calendar="gregorian">1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">20</container>
+            <container type="folder">4</container>
+            <unittitle>Stockholders Meetings, 
+				  <unitdate era="ce" calendar="gregorian">1969-1980</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">20</container>
+            <container type="folder">5</container>
+            <unittitle>Statements of Sales, 
+				  <unitdate era="ce" calendar="gregorian">1940-1959 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">20</container>
+            <container type="folder">6</container>
+            <unittitle>Tax Notices, 
+				  <unitdate era="ce" calendar="gregorian">1946 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">20</container>
+            <container type="folder">7</container>
+            <unittitle>Uniform Straight Bill of Lading, 
+				  <unitdate era="ce" calendar="gregorian">1942-1962 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">20</container>
+            <container type="folder">8</container>
+            <unittitle>Daybook, 
+				  <unitdate era="ce" calendar="gregorian">1903-1910</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">20</container>
+            <container type="folder">9</container>
+            <unittitle>Daybook, 
+				  <unitdate era="ce" calendar="gregorian">1910-1916</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">20</container>
+            <container type="folder">10</container>
+            <unittitle>Land Deeds Record Book, 
+				  <unitdate era="ce" calendar="gregorian">1899</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">20</container>
+            <container type="folder">11</container>
+            <unittitle>Robert M. Ellison Estate Records, 
+				  <unitdate era="ce" calendar="gregorian">1905-1907</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">21</container>
+            <container type="folder">1</container>
+            <unittitle>General Ledgers, 
+				  <unitdate era="ce" calendar="gregorian">1910-1929</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">21</container>
+            <container type="folder">2</container>
+            <unittitle>General Ledgers, 
+				  <unitdate era="ce" calendar="gregorian">1924-1927</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">21</container>
+            <container type="folder">3</container>
+            <unittitle>General Ledgers, 
+				  <unitdate era="ce" calendar="gregorian">1928</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">21</container>
+            <container type="folder">4</container>
+            <unittitle>General Ledgers, 
+				  <unitdate era="ce" calendar="gregorian">1929-1930</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Flag Ranch</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">22</container>
+            <container type="folder">1</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1952-1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">22</container>
+            <container type="folder">2</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1960-1964 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">22</container>
+            <container type="folder">3</container>
+            <unittitle>Specific, 
+				  <unitdate era="ce" calendar="gregorian">1965-1976 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">22</container>
+            <container type="folder">4</container>
+            <unittitle>Correspondence on Financial Matters, 
+				  <unitdate era="ce" calendar="gregorian">1952-1964 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">22</container>
+            <container type="folder">5</container>
+            <unittitle>Legal Material, 
+				  <unitdate era="ce" calendar="gregorian">1964 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">22</container>
+            <container type="folder">6</container>
+            <unittitle>General: Floor Plans, 
+				  <unitdate era="ce" calendar="gregorian">1931-1938 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">22</container>
+            <container type="folder">7</container>
+            <unittitle>General: Grain Inspection Certification, 
+				  <unitdate era="ce" calendar="gregorian">1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">22</container>
+            <container type="folder">8</container>
+            <unittitle>General: Inventories, 
+				  <unitdate era="ce" calendar="gregorian">1947-1961</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Kilgore and Kilgore</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">22</container>
+            <container type="folder">9</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1947-1959 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">23</container>
+            <container type="folder">1</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1947-1959 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>General</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">2</container>
+              <unittitle>Lespendeza Acreage, 
+					 <unitdate era="ce" calendar="gregorian">1945</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">3</container>
+              <unittitle>List, 
+					 <unitdate era="ce" calendar="gregorian">1953-1954 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">4</container>
+              <unittitle>Plato, 
+					 <unitdate era="ce" calendar="gregorian">1976 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">5</container>
+              <unittitle>Stock Shows, Conventions, and Seminars, 
+					 <unitdate era="ce" calendar="gregorian">1946-1962 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">6</container>
+              <unittitle>Texas Agricultural Experiment Station, 
+					 <unitdate era="ce" calendar="gregorian">1947-1959</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">7</container>
+              <unittitle>Unemployment Claims, 
+					 <unitdate era="ce" calendar="gregorian">1946-1958</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">8</container>
+              <unittitle>United States Department of Agriculture, 
+					 <unitdate era="ce" calendar="gregorian">1944-1956</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Personal Papers</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">23</container>
+            <container type="folder">9</container>
+            <unittitle>Chalk, Walker A., Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1918-1927</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">23</container>
+            <container type="folder">10</container>
+            <unittitle>Gardner, Daniel B., 
+				  <unitdate era="ce" calendar="gregorian">1917-1920</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">23</container>
+            <container type="folder">11</container>
+            <unittitle>Gardner, Daniel B., 
+				  <unitdate era="ce" calendar="gregorian">1921-1923</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">23</container>
+            <container type="folder">12</container>
+            <unittitle>Gardner, Daniel B.: Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1924-1927 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">23</container>
+            <container type="folder">13</container>
+            <unittitle>Gardner, Daniel B.: Financial Material, 
+				  <unitdate era="ce" calendar="gregorian">1915-1926</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">23</container>
+            <container type="folder">14</container>
+            <unittitle>Unidentified Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1917-1927</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Legal Documents</unittitle>
+        </did>
+        <c02>
+          <did>
+            <unittitle>Warranty Deeds</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">15</container>
+              <unittitle>King County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1837-1883</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">16</container>
+              <unittitle>King County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1884-1886</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">17</container>
+              <unittitle>King County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1887-1894</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">18</container>
+              <unittitle>King County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1897-1902</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">19</container>
+              <unittitle>King County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1903-1931</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">20</container>
+              <unittitle>Dickens County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1847-1887</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">1</container>
+              <unittitle>Dickens County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1884-1893</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">2</container>
+              <unittitle>Dickens County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1894-1900</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">3</container>
+              <unittitle>Dickens County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1901-1902</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">4</container>
+              <unittitle>Dickens County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1903-1905</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">5</container>
+              <unittitle>Dickens County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1910-1937</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Patents</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">6</container>
+              <unittitle>King County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">January-March 1876</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">7</container>
+              <unittitle>King County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1875-1883</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">8</container>
+              <unittitle>King County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1876</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">9</container>
+              <unittitle>King County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1878-1892</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">10</container>
+              <unittitle>King County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1902-1931</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">11</container>
+              <unittitle>Dickens County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1876-1877</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">12</container>
+              <unittitle>Dickens County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1877-1878</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">13</container>
+              <unittitle>Dickens County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1880-1883</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">14</container>
+              <unittitle>Dickens County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1883</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">15</container>
+              <unittitle>Dickens County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1892-1925</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Abstracts</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">16</container>
+              <unittitle>King County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1895-1922</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">17</container>
+              <unittitle>King County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1924</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">18</container>
+              <unittitle>King County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1927</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">19</container>
+              <unittitle>King County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1927</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">25</container>
+              <container type="folder">1</container>
+              <unittitle>King County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1928</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">25</container>
+              <container type="folder">2</container>
+              <unittitle>King County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1929</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">25</container>
+              <container type="folder">3</container>
+              <unittitle>King County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1929-1931</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">25</container>
+              <container type="folder">4</container>
+              <unittitle>Dickens County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1898-1910</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">25</container>
+              <container type="folder">5</container>
+              <unittitle>Dickens County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1924-1927</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">25</container>
+              <container type="folder">6</container>
+              <unittitle>Dickens County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1927</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">25</container>
+              <container type="folder">7</container>
+              <unittitle>Dickens County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1928-1929</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Tax Receipts</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">25</container>
+              <container type="folder">8</container>
+              <unittitle>Dickens County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1883-1893</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">25</container>
+              <container type="folder">9</container>
+              <unittitle>Dickens County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1895-1907</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">25</container>
+              <container type="folder">10</container>
+              <unittitle>King County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1877-1890</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">25</container>
+              <container type="folder">11</container>
+              <unittitle>King County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1891-1924</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">12</container>
+            <unittitle>Quit Claims: Dickens County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1883-1897</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">13</container>
+            <unittitle>Quit Claims: King County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1886-1918</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">14</container>
+            <unittitle>Leases: Dickens County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1888-1902</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">15</container>
+            <unittitle>Releases: Dickens County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1901-1902</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">16</container>
+            <unittitle>Releases: King County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1891-1934</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">17</container>
+            <unittitle>Field Notes: Dickens County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1914-1934</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">18</container>
+            <unittitle>Field Notes: King County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">19</container>
+            <unittitle>Affidavits and Statements, 
+				  <unitdate era="ce" calendar="gregorian">1875-1903</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">20</container>
+            <unittitle>Affidavits and Statements, 
+				  <unitdate era="ce" calendar="gregorian">1905-1931</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">21</container>
+            <unittitle>Certificates of Registration, 
+				  <unitdate era="ce" calendar="gregorian">1945-1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">1</container>
+            <unittitle>Braceros Program, 
+				  <unitdate era="ce" calendar="gregorian">1958-1962 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">2</container>
+            <unittitle>Contracts, 
+				  <unitdate era="ce" calendar="gregorian">1940-1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">3</container>
+            <unittitle>Deed Envelopes and Notes, 
+				  <unitdate era="ce" calendar="gregorian">1880-1914 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">4</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1945-1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Law Suits</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">26</container>
+              <container type="folder">5</container>
+              <unittitle>General, 
+					 <unitdate era="ce" calendar="gregorian">1892-1929</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">26</container>
+              <container type="folder">6</container>
+              <unittitle><title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="italic" xlink:href="">J. A. Keith v. Pitchfork Land and Cattle
+						Company</title>, 
+					 <unitdate era="ce" calendar="gregorian">1901-1905</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">26</container>
+              <container type="folder">7</container>
+              <unittitle><title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="italic" xlink:href="">J. A. Keith v. Pitchfork Land and Cattle
+						Compant</title>, 
+					 <unitdate era="ce" calendar="gregorian">1909-1916</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">26</container>
+              <container type="folder">8</container>
+              <unittitle><title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="italic" xlink:href="">J. A. Keith v. Pitchfork Land and Cattle
+						Company</title>, 
+					 <unitdate era="ce" calendar="gregorian">1917</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">26</container>
+              <container type="folder">9</container>
+              <unittitle><title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="italic" xlink:href="">Aerial Sprayers, Inc., et. al., v.
+						Raymond Ring et. al.</title>, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">26</container>
+              <container type="folder">10</container>
+              <unittitle>Dickens School Case, 
+					 <unitdate era="ce" calendar="gregorian">1933-1936</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">26</container>
+              <container type="folder">11</container>
+              <unittitle><title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="italic" xlink:href="">Pitchfork Land and Cattle Co. et. al. v.
+						Raymond King et. al.</title>, 
+					 <unitdate era="ce" calendar="gregorian">1959-1962</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">26</container>
+              <container type="folder">12</container>
+              <unittitle><title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="italic" xlink:href="">O. P. Leonard, Trustee, et. al. v. G. R.
+						Abbot et. al.</title>, 
+					 <unitdate era="ce" calendar="gregorian">1962</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">13</container>
+            <unittitle>Lazarus Deed to Pitchfork Ranch, 
+				  <unitdate era="ce" calendar="gregorian">1884</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">14</container>
+            <unittitle>Lease Contracts, 
+				  <unitdate era="ce" calendar="gregorian">1967-1969</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">15</container>
+            <unittitle>Letter of Patents, 
+				  <unitdate era="ce" calendar="gregorian">1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">16</container>
+            <unittitle>Miscellaneous Legal, 
+				  <unitdate era="ce" calendar="gregorian">1857-1880</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">17</container>
+            <unittitle>Miscellaneous Legal, 
+				  <unitdate era="ce" calendar="gregorian">1881-1918</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">18</container>
+            <unittitle>Parents Agreements, 
+				  <unitdate era="ce" calendar="gregorian">1941-1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">19</container>
+            <unittitle>Releases, 
+				  <unitdate era="ce" calendar="gregorian">1940-1945</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Committees</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">20</container>
+            <unittitle>List, 
+				  <unitdate era="ce" calendar="gregorian">1966-1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">21</container>
+            <unittitle>Reports, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Literary Production</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">22</container>
+            <unittitle>Miscellaneous Articles, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">23</container>
+            <unittitle>Ranch Diary, 
+				  <unitdate era="ce" calendar="gregorian">1957-1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">24</container>
+            <unittitle>Ranch Diaries (2 items), 
+				  <unitdate era="ce" calendar="gregorian">1953-1957</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Live Stock Records</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">25</container>
+            <unittitle>Feed and Cattle Notes, 
+				  <unitdate era="ce" calendar="gregorian">1946-1963 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">26</container>
+            <unittitle>Horse Records, 
+				  <unitdate era="ce" calendar="gregorian">1938-1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">27</container>
+            <unittitle>Inventories, 
+				  <unitdate era="ce" calendar="gregorian">1964-1971</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">28</container>
+            <unittitle>List of Stockholders, 
+				  <unitdate era="ce" calendar="gregorian">1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">29</container>
+            <unittitle>Miscellaneous, 
+				  <unitdate era="ce" calendar="gregorian">1950-1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">30</container>
+            <unittitle>Ultrasonic Measurement, 
+				  <unitdate era="ce" calendar="gregorian">1966 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Maps and Charts</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">31</container>
+            <unittitle>Lands of the Pitchfork Ranch, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">32</container>
+            <unittitle>Lands of the Pitchfork Ranch, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Memoranda</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">33</container>
+            <unittitle>Flag Ranch Conditions, 
+				  <unitdate era="ce" calendar="gregorian">1965-1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">1</container>
+            <unittitle>Minute and Agendas, 
+				  <unitdate era="ce" calendar="gregorian">1966-1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">2</container>
+            <unittitle>News Clipping, 
+				  <unitdate era="ce" calendar="gregorian">1966-1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">3</container>
+            <unittitle>News Releases, 
+				  <unitdate era="ce" calendar="gregorian">1967 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">4</container>
+            <unittitle>Printed Material, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">5</container>
+            <unittitle>Speeches, 
+				  <unitdate era="ce" calendar="gregorian">1966-1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">6</container>
+            <unittitle>Aerial Sprayers, Court Appeal Case, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Printed Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">7</container>
+            <unittitle>Commercial Publications, 
+				  <unitdate era="ce" calendar="gregorian">1942-1960</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">8</container>
+            <unittitle>Leaflets, Miscellaneous, 
+				  <unitdate era="ce" calendar="gregorian">1946-1963</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">9</container>
+            <unittitle>Livestock and Agriculture, 
+				  <unitdate era="ce" calendar="gregorian">1909-1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">10</container>
+            <unittitle>Pitchfork Ranch Article, 
+				  <unitdate era="ce" calendar="gregorian">1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">11</container>
+            <unittitle>SMS Ranch Newsclipping, 
+				  <unitdate era="ce" calendar="gregorian">1968</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Scrapbook Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">12</container>
+            <unittitle>Letterheads, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">13</container>
+            <unittitle>Miscellaneous, 
+				  <unitdate era="ce" calendar="gregorian">1946-1963 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">14</container>
+            <unittitle>Photographs,unidentified, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Financial Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="ledger">Ledger 1</container>
+            <unittitle>General Ledger, 
+				  <unitdate era="ce" calendar="gregorian">1913-1923</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger 2</container>
+            <unittitle>Day Book, 
+				  <unitdate era="ce" calendar="gregorian">1916-1927</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger 3</container>
+            <unittitle>Day Book, 
+				  <unitdate era="ce" calendar="gregorian">1921-1923</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger 4</container>
+            <unittitle>Day Book, 
+				  <unitdate era="ce" calendar="gregorian">1924-1928</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Legal Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="ledger">Ledger 5</container>
+            <unittitle>Transcribed Deeds, King County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1887-1901</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger 6</container>
+            <unittitle>Transcribed Deeds, King County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1877-1886</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger 7</container>
+            <unittitle>Transcribed Deeds, King County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1881-1913</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger 8</container>
+            <unittitle>Transcribed Deeds, King County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1896-1908</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger 9</container>
+            <unittitle>Transcribed Deeds of Trust, King County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1887-1914</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger
+				  10</container>
+            <unittitle>General Index to Transcribed Deeds, 
+				  <unitdate era="ce" calendar="gregorian">1877-1914</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,1428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00094</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Dorothy Rylander:</titleproper>
+        <subtitle>An Inventory of Her Papers, 1854-1988 and undated, at the
+			 Southwest Collection/Special Collections Library</subtitle>
+        <author>Abel Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">2000</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">October 2000.</date></creation>
+      <langusage>Finding aid written in
+		  <language>English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Tue Jul 22 15:22:06 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00094 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the Dorothy Rylander Papers, 1854-1988 and
+		  undated</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">2000</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <persname encodinganalog="100">Rylander, Dorothy,
+			 1909-1988</persname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Dorothy Rylander Papers,
+		  
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1854-1988 and undated</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">The papers of Dorothy
+		  Rylander, who was a former assistant to Congressman George H. Mahon from 1946
+		  to 1953, and an administrative assistant to William C. Holden at the West Texas
+		  Museum from 1953 until retiring in 1971. </abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 883.1</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:">7 boxes (7.0 linear
+		  feet)</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>A former assistant to Congressman George H. Mahon, a historian, and a
+		  genealogist, Dorothy Rylander was born in 1909 in Belton, Texas, and moved to
+		  Lubbock, Texas, in 1918. She received her B.A. in history from Texas
+		  Technological College in 1930 and her M.A. in 1931. From 1932 to 1946, she
+		  worked as a faculty secretary in the College of Engineering at Texas
+		  Technological College. Rylander also served as an assistant to Congressman
+		  George H. Mahon from 1946 to 1953, and as an administrative assistant to
+		  William C. Holden at the West Texas Museum from 1953 until retiring in 1971.
+		  She was also involved in the South Plains Genealogical Society, the Lubbock
+		  County Historical Survey Committee, the Lubbock Cultural Affairs Council, the
+		  Lubbock Heritage Society, Friends of the Lubbock Library, and Pathfinders, an
+		  organization that recognizes the contribution of women in early Lubbock
+		  history.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The collection consists of scrapbook material and printed material. It
+		  bulks (1938-1988) with material about West Texas and the Lubbock area in the
+		  form of newspaper clippings and scrapbook material. Of particular interest is
+		  Rylander's political scrapbook material concerning Franklin D. Roosevelt, Harry
+		  S. Truman, George Mahon, and Sam Rayburn. Additionally, the collection contains
+		  scrapbook material pertaining to the Texas Centennial (1936).</p>
+    </scopecontent>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+      <controlaccess>
+        <head>Subjects (Persons)</head>
+        <persname encodinganalog="600" source="lcnaf">Mahon, George Herman,
+			 1900-1985--Career in politics and government</persname>
+        <persname encodinganalog="600" source="lcnaf">Rayburn, Sam,
+			 1882-1961--Career in politics and government</persname>
+        <persname encodinganalog="600" source="lcnaf">Roosevelt, Franklin D.
+			 (Franklin Delano), 1882-1945</persname>
+        <persname encodinganalog="600" source="local">Rylander, Dorothy
+			 1909-1988</persname>
+        <persname encodinganalog="600" source="lcnaf">Truman, Harry S.,
+			 1884-1972</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Places</head>
+        <geogname encodinganalog="651" source="lcnaf">Lubbock
+			 (Tex.)--History</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Texas--Centennial
+			 celebrations, etc.</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Texas--Politics and
+			 government</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Texas,
+			 West--History</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="611" source="lcnaf">Texas Centennial (1936 :
+			 Dallas, Tex.)</subject>
+        <subject encodinganalog="650" source="lcsh">Women--Texas--Societies and
+			 clubs</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo>
+      <p>Gifts, 1975-1983</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, 2000</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>Dorothy Rylander Papers, 1854-1988 and undated, Southwest
+			 Collection/Special Collections Library, Texas Tech University, Lubbock,
+			 Texas</p>
+    </prefercite>
+    <relatedmaterial encodinganalog="544 1" id="a6">
+      <p>For related materials located in the Southwest Collection/Special
+			 Collections Library, see the following collections:</p>
+      <list type="simple">
+        <item>Dorothy Rylander oral history interview [sound recording], 1957</item>
+        <item>West Texas Museum Association: Women's Council Records,
+			 1954-1985</item>
+      </list>
+    </relatedmaterial>
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">1</container>
+          <unittitle>Correspondence, 
+				<unitdate era="ce" calendar="gregorian">1969-1981 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">2</container>
+          <unittitle>Bromwell, Nancy, 
+				<title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="doublequote" xlink:href="">A Pictoral History of Lubbock,</title><unitdate era="ce" calendar="gregorian">1980-1981 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">3</container>
+          <unittitle>Dottie's Daily Doing, 
+				<unitdate era="ce" calendar="gregorian">1978-1980 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">4</container>
+          <unittitle>Employment Records, 
+				<unitdate era="ce" calendar="gregorian">1978-1980 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">5</container>
+          <unittitle>Financial Material, 
+				<unitdate era="ce" calendar="gregorian">1979-1986</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Genealogical Information, 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Miscellaneous, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Research Notes, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">7</container>
+              <unittitle>A-G, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">8</container>
+              <unittitle>H-Q, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">9</container>
+              <unittitle>R-Z, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">10</container>
+          <unittitle>Legal Material, 
+				<unitdate era="ce" calendar="gregorian">1872</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Genealogical Information</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>Family History, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Literary Productions, 
+				<unitdate era="ce" calendar="gregorian">1936-1987 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>Bell County, 
+				  <unitdate era="ce" calendar="gregorian">1987 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>Diary, 
+				  <unitdate era="ce" calendar="gregorian">1936</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Lubbock, City of, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">6</container>
+              <unittitle>Banks and Post Office, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">7</container>
+              <unittitle>Cemetery Records, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">8</container>
+              <unittitle>Doctors and Hospitals, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">9</container>
+              <unittitle>General Information, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">10</container>
+              <unittitle>Hotels, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">11</container>
+              <unittitle>Newspapers, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">12</container>
+              <unittitle>Schools, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">13</container>
+              <unittitle>Rush, Squoir Station, 
+					 <unitdate era="ce" calendar="gregorian">1973 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">14</container>
+          <unittitle>Lubbock Site Survey, 
+				<unitdate era="ce" calendar="gregorian">1974-1977 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">15</container>
+          <unittitle>Lubbock, Thomas, 
+				<unitdate era="ce" calendar="gregorian">1955-1983 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">16</container>
+          <unittitle>Mahon, George, 
+				<unitdate era="ce" calendar="gregorian">1981-1988 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">17</container>
+          <unittitle>Martin, Dorothy, 
+				<unitdate era="ce" calendar="gregorian">1987-1988 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">18</container>
+          <unittitle>Medical File, 
+				<unitdate era="ce" calendar="gregorian">1982-1988 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Obituaries, 
+				<unitdate era="ce" calendar="gregorian">1956-1987 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle>Obituaries A-D, 
+				  <unitdate era="ce" calendar="gregorian">1956-1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle>Obituaries E-L, 
+				  <unitdate era="ce" calendar="gregorian">1956-1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle>Obituaries Mc-R, 
+				  <unitdate era="ce" calendar="gregorian">1956-1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle>Obituaries S-Z, 
+				  <unitdate era="ce" calendar="gregorian">1956-1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle>Miscellaneous, 
+				  <unitdate era="ce" calendar="gregorian">1986-1987 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">6</container>
+          <unittitle>Photographs, 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">7</container>
+          <unittitle>Pioneer Ladies, 
+				<unitdate era="ce" calendar="gregorian">1986 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Printed Material, 
+				<unitdate era="ce" calendar="gregorian">1936-1988 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">8</container>
+            <unittitle>Texas Tech 15th Anniversary, 
+				  <unitdate era="ce" calendar="gregorian">1939-1973</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence, 
+				<unitdate era="ce" calendar="gregorian">1909-1982 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">9</container>
+            <unittitle>
+              <unitdate era="ce" calendar="gregorian">Correspondence, 1966-1969 and
+					 undated</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">10</container>
+            <unittitle>
+              <unitdate era="ce" calendar="gregorian">Correspondence, 1909-1922</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">11</container>
+            <unittitle>
+              <unitdate era="ce" calendar="gregorian">Correspondence, 1982</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">12</container>
+          <unittitle>Legal Material, 
+				<unitdate era="ce" calendar="gregorian">1918-1953</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">13</container>
+          <unittitle>Financial Material, 
+				<unitdate era="ce" calendar="gregorian">1918-1967</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">14</container>
+          <unittitle>News Clippings, 
+				<unitdate era="ce" calendar="gregorian">1973-1983 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Printed Material, 
+				<unitdate era="ce" calendar="gregorian">1936 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">15</container>
+            <unittitle>Song Books, 
+				  <unitdate era="ce" calendar="gregorian">1936 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>American Families, 
+				  <unitdate era="ce" calendar="gregorian">1972-1988 and undated</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">1</container>
+              <unittitle>Bass, 
+					 <unitdate era="ce" calendar="gregorian">1983-1987 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">2</container>
+              <unittitle>Di Portanova, 
+					 <unitdate era="ce" calendar="gregorian">1982-1987</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">3</container>
+              <unittitle>General Information, 
+					 <unitdate era="ce" calendar="gregorian">1980-1987 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">4</container>
+              <unittitle>Hearst, 
+					 <unitdate era="ce" calendar="gregorian">1972-1988</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">5</container>
+              <unittitle>Hunt, 
+					 <unitdate era="ce" calendar="gregorian">1986-1987 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">6</container>
+              <unittitle>Kennedy, 
+					 <unitdate era="ce" calendar="gregorian">1981-1987 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">7</container>
+              <unittitle>Moody, 
+					 <unitdate era="ce" calendar="gregorian">1986-1987</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">8</container>
+              <unittitle>Murchison, 
+					 <unitdate era="ce" calendar="gregorian">1985-19878</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">9</container>
+              <unittitle>Post, 
+					 <unitdate era="ce" calendar="gregorian">1979-1988</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">10</container>
+              <unittitle>Princess Grace, 
+					 <unitdate era="ce" calendar="gregorian">1986-1988</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">11</container>
+              <unittitle>Rockefeller and Roosevelt, 
+					 <unitdate era="ce" calendar="gregorian">1974-1988 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">12</container>
+              <unittitle>Vanderbilt, 
+					 <unitdate era="ce" calendar="gregorian">1981-1986 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">13</container>
+            <unittitle>Computers and Genealogy, 
+				  <unitdate era="ce" calendar="gregorian">1983-1984 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">14</container>
+            <unittitle>Earthquakes, 
+				  <unitdate era="ce" calendar="gregorian">1986-1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">15</container>
+            <unittitle>Holiday Magazine, 
+				  <unitdate era="ce" calendar="gregorian">1948-1977 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">16</container>
+            <unittitle>Lubbock County Historical Commission, 
+				  <unitdate era="ce" calendar="gregorian">1959-1987 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">17</container>
+            <unittitle>Lubbock Cultural Affairs Committee, 
+				  <unitdate era="ce" calendar="gregorian">1982-1987 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">18</container>
+            <unittitle>Lubbock Heritage Society, 
+				  <unitdate era="ce" calendar="gregorian">1979-1988 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">19</container>
+            <unittitle>Lubbock High School Reunions, 
+				  <unitdate era="ce" calendar="gregorian">1923-1933, 1981-1983 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">20</container>
+            <unittitle>Lubbock High School Reunions, 
+				  <unitdate era="ce" calendar="gregorian">1927, 1977-1988 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">21</container>
+            <unittitle>Lubbock Library, Friends of, 
+				  <unitdate era="ce" calendar="gregorian">1986-1988 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">22</container>
+            <unittitle>Lubbock Music, 
+				  <unitdate era="ce" calendar="gregorian">1984-1987 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Lubbock Pioneers, 
+				  <unitdate era="ce" calendar="gregorian">1932-1988 and undated</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">23</container>
+              <unittitle>General Information, 
+					 <unitdate era="ce" calendar="gregorian">1932-1987 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">24</container>
+              <unittitle>Obituaries, 
+					 <unitdate era="ce" calendar="gregorian">1966-1986 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">25</container>
+              <unittitle>Residents After 1920, 
+					 <unitdate era="ce" calendar="gregorian">1959-1983 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">26</container>
+              <unittitle>Weddings, Anniversaries, and Announcements, 
+					 <unitdate era="ce" calendar="gregorian">1938-1988 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">27</container>
+            <unittitle>Lubbock's 75th Anniversary, 
+				  <unitdate era="ce" calendar="gregorian">1959-1984 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">1</container>
+            <unittitle>New Mexico History, 
+				  <unitdate era="ce" calendar="gregorian">1983-1986 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">2</container>
+            <unittitle>Southern Living Magazine, 
+				  <unitdate era="ce" calendar="gregorian">1981-1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">3</container>
+            <unittitle>Texas History, 
+				  <unitdate era="ce" calendar="gregorian">1984-1987 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Texas Tech, 
+				  <unitdate era="ce" calendar="gregorian">1978-1988 and undated</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">4</container>
+              <unittitle>Agricultural College, 
+					 <unitdate era="ce" calendar="gregorian">1986-1987 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">5</container>
+              <unittitle>Arts and Sciences Fund, 
+					 <unitdate era="ce" calendar="gregorian">1984-1988 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">6</container>
+              <unittitle>Class of 1930, 
+					 <unitdate era="ce" calendar="gregorian">1980-1985 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">7</container>
+              <unittitle>Engineering, 
+					 <unitdate era="ce" calendar="gregorian">1986-1988 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">8</container>
+              <unittitle>Enterprise Campaign, 
+					 <unitdate era="ce" calendar="gregorian">1986-1987 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">9</container>
+              <unittitle>Friends of the University Library and Southwest,
+					 Collection, 
+					 <unitdate era="ce" calendar="gregorian">1984-1988 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">10</container>
+              <unittitle>General Information, 
+					 <unitdate era="ce" calendar="gregorian">1982-1988 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">11</container>
+              <unittitle>Holden, WC, 
+					 <unitdate era="ce" calendar="gregorian">1986 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">12</container>
+              <unittitle>Home Economics, 
+					 <unitdate era="ce" calendar="gregorian">1978-1988 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">13</container>
+              <unittitle>Museum and Ranching Heritage Center, 
+					 <unitdate era="ce" calendar="gregorian">1987-1988 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">14</container>
+              <unittitle>Ranch Headquarters Association, 
+					 <unitdate era="ce" calendar="gregorian">1987-1988</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">15</container>
+              <unittitle>Tech Ex's, 
+					 <unitdate era="ce" calendar="gregorian">1988 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">16</container>
+              <unittitle>West Texas Museum Association, 
+					 <unitdate era="ce" calendar="gregorian">1986-1987</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">17</container>
+            <unittitle>Tornadoes, 
+				  <unitdate era="ce" calendar="gregorian">1981-1986 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Travel Information, 
+				  <unitdate era="ce" calendar="gregorian">1952-1988 and undated</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">18</container>
+              <unittitle>Arkansas, 
+					 <unitdate era="ce" calendar="gregorian">1968-1987 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">19</container>
+              <unittitle>Bell County, 
+					 <unitdate era="ce" calendar="gregorian">1975-1982 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">20</container>
+              <unittitle>California, 
+					 <unitdate era="ce" calendar="gregorian">1982-1986 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">21</container>
+              <unittitle>Colorado, 
+					 <unitdate era="ce" calendar="gregorian">1987</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">22</container>
+              <unittitle>Kentucky and Tennessee, 
+					 <unitdate era="ce" calendar="gregorian">1952-1987 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">23</container>
+              <unittitle>New Mexico, 
+					 <unitdate era="ce" calendar="gregorian">1952-1987 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">24</container>
+              <unittitle>North and South Carolina, 
+					 <unitdate era="ce" calendar="gregorian">1947-1966 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">25</container>
+              <unittitle>Oklahoma, Arkansas, 
+					 <unitdate era="ce" calendar="gregorian">1981-1987 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">26</container>
+              <unittitle>San Francisco, 
+					 <unitdate era="ce" calendar="gregorian">1969-1983 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">27</container>
+              <unittitle>Santa Fe, 
+					 <unitdate era="ce" calendar="gregorian">1987 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">28</container>
+              <unittitle>Texas, 
+					 <unitdate era="ce" calendar="gregorian">1963-1981 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>Texas Cities, 
+					 <unitdate era="ce" calendar="gregorian">1958-1987 and undated</unitdate></unittitle>
+            </did>
+            <c04>
+              <did>
+                <container type="box">5</container>
+                <container type="folder">29</container>
+                <unittitle>Granbury, Palestine, Marshall, 
+						<unitdate era="ce" calendar="gregorian">1973-1987 and undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">5</container>
+                <container type="folder">30</container>
+                <unittitle>Jefferson, 
+						<unitdate era="ce" calendar="gregorian">1958-1987 and undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">5</container>
+                <container type="folder">31</container>
+                <unittitle>Salado and Temple, 
+						<unitdate era="ce" calendar="gregorian">1960-1985 and undated</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04>
+              <did>
+                <container type="box">5</container>
+                <container type="folder">32</container>
+                <unittitle>San Antonio and Houston, 
+						<unitdate era="ce" calendar="gregorian">1974-1987 and undated</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">33</container>
+              <unittitle>Texas Historical Sites, 
+					 <unitdate era="ce" calendar="gregorian">1962-1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">1</container>
+              <unittitle>Texas State Capitol, 
+					 <unitdate era="ce" calendar="gregorian">1988</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">2</container>
+              <unittitle>Utah, 
+					 <unitdate era="ce" calendar="gregorian">1969-1985 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">3</container>
+              <unittitle>Virginia, 
+					 <unitdate era="ce" calendar="gregorian">1938-1987 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">4</container>
+              <unittitle>Washington, D.C. - General, 
+					 <unitdate era="ce" calendar="gregorian">1948-1988 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">5</container>
+              <unittitle>Washington, D.C. - 1978 Trip, 
+					 <unitdate era="ce" calendar="gregorian">1978 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">6</container>
+              <unittitle>Miscellaneous, 
+					 <unitdate era="ce" calendar="gregorian">1963-1964 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">7</container>
+            <unittitle>United Daughters of the Confederacy, 
+				  <unitdate era="ce" calendar="gregorian">1983 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>United States Constitution, 200th Anniversary, 
+				  <unitdate era="ce" calendar="gregorian">1986-1987 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">9</container>
+            <unittitle>Miscellaneous, 
+				  <unitdate era="ce" calendar="gregorian">1956-1988 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">10</container>
+          <unittitle>Spur Museum, 
+				<unitdate era="ce" calendar="gregorian">1971-1979 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">11</container>
+          <unittitle>Walker, Savannah, 
+				<unitdate era="ce" calendar="gregorian">1980-1988 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">12</container>
+          <unittitle>Washington, D.C., 
+				<unitdate era="ce" calendar="gregorian">1978-1986 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">13</container>
+          <unittitle>Women, Early Lubbock, 
+				<unitdate era="ce" calendar="gregorian">1984-1986 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">14</container>
+          <unittitle>Miscellaneous, 
+				<unitdate era="ce" calendar="gregorian">1971-1987 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Scrapbook Material, 
+				<unitdate era="ce" calendar="gregorian">1854-1947 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">15</container>
+            <unittitle>
+              <unitdate era="ce" calendar="gregorian">1854 and undated</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">16</container>
+            <unittitle>Scrapbook, 
+				  <unitdate era="ce" calendar="gregorian">1928-1947</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">17</container>
+          <unittitle>Memorabilia, 
+				<unitdate era="ce" calendar="gregorian">1984 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Papers, 
+				<unitdate era="ce" calendar="gregorian">1962-1988 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence, 
+				<unitdate era="ce" calendar="gregorian">1962-1986</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>Arrowhead Ruins, Glorietta, NM, 
+				  <unitdate era="ce" calendar="gregorian">1962-1963</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Ko Shari club Reunion, 
+				  <unitdate era="ce" calendar="gregorian">1984</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Sesquicentennial, 
+				  <unitdate era="ce" calendar="gregorian">1984-1986</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">3</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">1984-1986</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">4</container>
+              <unittitle>German Visitors, 
+					 <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">5</container>
+              <unittitle>History of Lubbock, 
+					 <unitdate era="ce" calendar="gregorian">1985-1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">6</container>
+              <unittitle>Committee, 
+					 <unitdate era="ce" calendar="gregorian">1984-1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">7</container>
+              <unittitle>Schedules and Reports, 
+					 <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">8</container>
+              <unittitle>Wagon Train, 
+					 <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Printed Material, 
+				<unitdate era="ce" calendar="gregorian">1976-1986 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">9</container>
+            <unittitle>Lubbock Urban Design and Historic Preservation Markers, 
+				  <unitdate era="ce" calendar="gregorian">1982-1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">10</container>
+            <unittitle>Rush, S.S., 
+				  <unitdate era="ce" calendar="gregorian">1976-1977 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Sesquicentennial</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">11</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">1984-1986</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">12</container>
+              <unittitle>Prince Charles Visit, 
+					 <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Newspaper Clippings, 
+				<unitdate era="ce" calendar="gregorian">1976-1988</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">13</container>
+            <unittitle>Sesquicentennial, 
+				  <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">14</container>
+            <unittitle>Statue of Liberty Restoration Project, 
+				  <unitdate era="ce" calendar="gregorian">1983-1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">15</container>
+            <unittitle>Texas State Capital Restoration, Liberty Statue, 
+				  <unitdate era="ce" calendar="gregorian">1985-1986</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">16</container>
+            <unittitle>Texas Tech Cultural Events, 
+				  <unitdate era="ce" calendar="gregorian">1976-1988</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Scrapbook Material, 
+				<unitdate era="ce" calendar="gregorian">1928-1950</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">17</container>
+            <unittitle>Personal Memoir, 
+				  <unitdate era="ce" calendar="gregorian">1928-1947</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">18</container>
+            <unittitle>Pages from Scrapbook, 
+				  <unitdate era="ce" calendar="gregorian">1936</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">19</container>
+            <unittitle>Texas A and M Homecoming Program, 
+				  <unitdate era="ce" calendar="gregorian">1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">20</container>
+            <unittitle>Political Scrapbook, 
+				  <unitdate era="ce" calendar="gregorian">1945-1950</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

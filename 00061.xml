@@ -1,0 +1,1740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00061</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Aerial Photo-Maps of Lubbock County, Texas:</titleproper>
+        <subtitle>An Inventory of the Collection, 1965, at the Southwest
+			 Collection/Special Collections Library</subtitle>
+        <author>Abel Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">2000</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">February 2001.</date></creation>
+      <langusage>Finding aid written in
+		  <language>English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Tue Jul 22 15:21:43 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00061 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the Aerial Photo-Maps of Lubbock County,
+		  Texas, 1965</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">2000</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <corpname encodinganalog="110">Texas Tech
+			 University</corpname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Aerial photo-maps,
+		  Lubbock County, Texas, 
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1965</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">Aerial photographs
+		  from 1965, donated by the Geosciences department of Texas Tech
+		  University.</abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">M 1.1</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:">227
+		  photographs</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>The materials were donated by the Geosciences department of Texas Tech
+		  University. These photos may be used to determine land use in 1965, urban
+		  development such as the construction of Loop 289, and in conjunction with
+		  information from other time periods to detect changes in land use and land
+		  cover over a period of time either prior to or post 1965. They are black and
+		  white and were taken in the fall after much of the vegetation has gone dormant
+		  for winter. Therefore use of these photos to determine vegetative cover will be
+		  limited. These photos are fairly large scale (1 inch = 502 feet). Among the
+		  smallest objects that can be resolved are buildings, houses, vehicles, and
+		  individual trees. A magnifier should be used by the researcher interested in
+		  objects of this size.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The collection contains 227 black and white aerial photo-maps of
+		  Lubbock County, Texas, taken during the fall of 1965. The scale used is l
+		  inch=502 feet. Each map represents a ground area of approximately three square
+		  miles and is mounted on heavy particle board, 31 × 31 inches. Three are
+		  paper copies, not the original image. Photos 1-267 are dated 10-31-65, photos
+		  269-498 are dated 11-01-65, and photos 505-517 are dated 11-13-65.</p>
+      <p>The scales used are- 1:6034, 10.5 inches = 1 mile, 1 inch= 502 feet, 1
+		  foot = 6034 feet.</p>
+    </scopecontent>
+    <arrangement encodinganalog="351$a">
+      <p>The itemized image list includes the photo number, date of the photo,
+		  and notes highlighting features and land use. These descriptions are not
+		  intended as an exhaustive review of individual photographs, but may be of use
+		  to the researcher in locating areas of interest.</p>
+      <p>An index-map of Lubbock County includes line of flight, direction of
+		  flight and sequence of photographs. Some photographs are outlined on this
+		  index-map to show precise location of photo. Where only a photo number is
+		  shown, approximate location of photograph is indicated. Where no number is
+		  shown, the location of photos can be projected using the information located in
+		  the margins of the index-map.</p>
+      <p>Photo numbers printed on the individual photographs are always located
+		  in the Northwest corner of the photograph. Generally, the photographs have
+		  approximately one-third overlap on the line of flight axis, and some overlap
+		  occurs across flight lines. Flight lines alternate between East to West and
+		  West to East. Each line of flight contains approximately 15 photographs. Photo
+		  numbers within flight lines increase from North to South.</p>
+    </arrangement>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+      <controlaccess>
+        <head>Places</head>
+        <geogname encodinganalog="651" source="lcnaf">Lubbock (Tex.)</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Lubbock (Tex.)--Aerial
+			 photographs</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Lubbock
+			 (Tex.)--Photographs</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Lubbock County
+			 (Tex.)</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Lubbock County
+			 (Tex.)--Aerial photographs</geogname>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <head>Acquisition</head>
+      <p>Gift, 1997</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, 2000</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>Aerial Photo-Maps, Lubbock County, Texas, 1965, Southwest
+			 Collection/Special Collections Library, Texas Tech University, Lubbock,
+			 Texas</p>
+    </prefercite>
+    <relatedmaterial encodinganalog="544 1" id="a6">
+      <p>For related materials located in the Southwest Collection/Special
+			 Collections Library, see the following collections:</p>
+      <list type="simple">
+        <item>Carolyn Jordan Photographs, 1973</item>
+        <item>Aviation photograph collection, 1934-1947</item>
+      </list>
+    </relatedmaterial>
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+      <c01>
+        <did>
+          <unittitle>Photos 1-100</unittitle>
+        </did>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 1,</unitid>
+            <unittitle>large playa, some rangeland, Crosby/Lubbock county line,
+				  
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 3,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 5,</unitid>
+            <unittitle>Burlington Northern Railroad, cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 7,</unitid>
+            <unittitle>cropland, FM Road 400, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 11,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 13,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 15,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 17,</unitid>
+            <unittitle>town of Abernathy, cropland, Highway 87, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 21,</unitid>
+            <unittitle>Blackwater Draw, cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 23,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 25,</unitid>
+            <unittitle>Anton-Irish Clear Fork Oil Field, cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 27,</unitid>
+            <unittitle>Anton-Irish Clear Fork Oil Field, cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 29,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 31,</unitid>
+            <unittitle>cropland, Northwest corner of photo includes part of
+				  Lamb County, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 60,</unitid>
+            <unittitle>cropland, Northern Lubbock County, exact location
+				  unknown, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 62,</unitid>
+            <unittitle>cropland, Northern Lubbock County, exact location
+				  unknown, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 64,</unitid>
+            <unittitle>cropland, Northern Lubbock County, exact location
+				  unknown, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 70,</unitid>
+            <unittitle>cropland, Northern Lubbock County, exact location
+				  unknown, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 72,</unitid>
+            <unittitle>cropland, Northern Lubbock County, exact location
+				  unknown, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 74,</unitid>
+            <unittitle>cropland, Northern Lubbock County, exact location
+				  unknown, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 76,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 78,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 80,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 82,</unitid>
+            <unittitle>cropland, Heckville, Burlington Northern Railroad, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 84,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 86,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 88,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 90,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 92,</unitid>
+            <unittitle>cropland, town of New Deal, Highway 87, railroad, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 96,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 98,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 100,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Photos 102-200</unittitle>
+        </did>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 102,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 104,</unitid>
+            <unittitle>cropland, Highway 84, Northwest of Shallowater, Yellow
+				  House Draw, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 106,</unitid>
+            <unittitle>cropland, Highway 84 (Clovis Highway), Yellow House
+				  Draw, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 110,</unitid>
+            <unittitle>cropland, highway 84 (Clovis Highway), Yellow House
+				  Draw, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 112,</unitid>
+            <unittitle>cropland, Highway 84, Yellow House Draw, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 114,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 116,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 118,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 120,</unitid>
+            <unittitle>cropland, some rangeland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 122,</unitid>
+            <unittitle>circular storage tanks, cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 124,</unitid>
+            <unittitle>Town of New Deal, cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 126,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 128,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 130,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 132,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 134,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 136,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 138,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 140,</unitid>
+            <unittitle>cropland, portion of the town of Lorenzo, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 142,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 144,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 146,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 148,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 150,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 152,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 154,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 156,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 158,</unitid>
+            <unittitle>cropland, race track or test track, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 160,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 162,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 164,</unitid>
+            <unittitle>Town of Shallowater, cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 166,</unitid>
+            <unittitle>Town of Shallowater, Yellow House Draw, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 168,</unitid>
+            <unittitle>cropland, Yellow House Draw, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 170,</unitid>
+            <unittitle>cropland, Yellow House Draw, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 174,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 176,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 180,</unitid>
+            <unittitle>cropland, Highway 84 (Clovis Highway), 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 182,</unitid>
+            <unittitle>cropland, highway, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 186,</unitid>
+            <unittitle>Lubbock airport, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 188,</unitid>
+            <unittitle>Lubbock airport, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 192,</unitid>
+            <unittitle>cropland, major highway, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 194,</unitid>
+            <unittitle>cropland, Town of Idalou, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 196,</unitid>
+            <unittitle>Town of Idalou, cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 198,</unitid>
+            <unittitle>Town of Idalou, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 200,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Photos 202-297</unittitle>
+        </did>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 202,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 204,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 206,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 208,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 210,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 212,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 214,</unitid>
+            <unittitle>cropland, Highway 62/82/114, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 216,</unitid>
+            <unittitle>cropland, urban - Northeast Lubbock, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 218,</unitid>
+            <unittitle>cropland, Lubbock airport, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 220,</unitid>
+            <unittitle>Lubbock, golf course, airport, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 222,</unitid>
+            <unittitle>Lubbock, Blackwater Draw, golf course, grain elevator, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 228,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 234,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 238,</unitid>
+            <unittitle>Reese Air Force Base, cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 240,</unitid>
+            <unittitle>Reese Air Force Base, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 242,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 244,</unitid>
+            <unittitle>cropland and golf course, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 246,</unitid>
+            <unittitle>cropland, Yellow House Draw, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 248,</unitid>
+            <unittitle>Texas Tech, North Loop 289 under construction, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 250,</unitid>
+            <unittitle>Texas Tech, Mackenzie Park, Clovis highway, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 252,</unitid>
+            <unittitle>City of Lubbock, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 254,</unitid>
+            <unittitle>City of Lubbock, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 256,</unitid>
+            <unittitle>cropland, Highway 62/82/114, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 258,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 260,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 262,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 264,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 266,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 267,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 269,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 271,</unitid>
+            <unittitle><emph render="doublequote">San Augustine School Land</emph>
+				  (printed on photograph), Lea 1, cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 273,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 275,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 277,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 279,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 281,</unitid>
+            <unittitle>cropland, City of Lubbock, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 281,</unitid>
+            <unittitle>cropland, City of Lubbock, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 283,</unitid>
+            <unittitle>City of Lubbock, Yellow House Canyon, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 285,</unitid>
+            <unittitle>City of Lubbock, including downtown, Texas Tech, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 287,</unitid>
+            <unittitle>City of Lubbock, Texas Tech, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 289,</unitid>
+            <unittitle>City of Lubbock, Loop 289 under construction, Coronado
+				  High School, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 291,</unitid>
+            <unittitle>City of Lubbock, Loop 289 under construction, West 19th
+				  St. cemetery, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 293,</unitid>
+            <unittitle>cropland, Reese Air Force Base, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 295,</unitid>
+            <unittitle>cropland, Reese Air Force Base, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 297,</unitid>
+            <unittitle>cropland, Reese Air Force Base, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Photos 302-400</unittitle>
+        </did>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 302,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 304,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 306,</unitid>
+            <unittitle>cropland, Brownfield Highway, City of Lubbock, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 308,</unitid>
+            <unittitle>Brownfield Highway, edge of City of Lubbock, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 310,</unitid>
+            <unittitle>undeveloped Southwest Lubbock, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 312,</unitid>
+            <unittitle>Lubbock, West of Tahoka traffic circle, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 314,</unitid>
+            <unittitle>Lubbock-Tahoka traffic circle, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 316,</unitid>
+            <unittitle>Lubbock-Tahoka traffic circle, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 318,</unitid>
+            <unittitle>City of Lubbock, Yellow House Canyon, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 320,</unitid>
+            <unittitle>Lakes in Yellow House Canyon, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 322,</unitid>
+            <unittitle>Buffalo Springs Lake, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 324,</unitid>
+            <unittitle><emph render="doublequote">San Augustine School Land</emph>
+				  (printed on photograph) lakes in Yellow House Canyon, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 326,</unitid>
+            <unittitle>cropland, some rangeland, Yellow House Canyon,
+				  <emph render="doublequote">Lea-San Augustine School Land</emph> (printed on photo), 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 328,</unitid>
+            <unittitle>cropland, <emph render="doublequote">Lea 2, San Augustine
+				  School Land</emph> (printed on photograph), 
+				  <unitdate era="ce" calendar="gregorian">10-31-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 330,</unitid>
+            <unittitle>cropland and rangeland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 335,</unitid>
+            <unittitle>Yellow House Canyon, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 337,</unitid>
+            <unittitle>Major caliche pit, Yellow House Canyon,
+				  <emph render="doublequote">San Augustine school lands</emph> (printed on
+				  photograph), 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 341,</unitid>
+            <unittitle>Buffalo Springs Lake, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 343,</unitid>
+            <unittitle>Slaton Highway, upper end of Buffalo Springs Lake, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 345,</unitid>
+            <unittitle>Yellow House Canyon, cropland, feed lots, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 347,</unitid>
+            <unittitle>cropland, Tahoka traffic circle, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 349,</unitid>
+            <unittitle>Tahoka traffic circle, Lubbock, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 351,</unitid>
+            <unittitle>City, Loop 289 construction, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 353,</unitid>
+            <unittitle>City of Lubbock, new development, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 355,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 357,</unitid>
+            <unittitle>Town of Wolfforth, Highway 62/82, railroad, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 359,</unitid>
+            <unittitle>Town of Wolfforth, cropland, some rangeland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 361,</unitid>
+            <unittitle>cropland, some rangeland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 366,</unitid>
+            <unittitle>cropland, rangeland, Highway 62/82, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 370,</unitid>
+            <unittitle>Lubbock - Southwest Loop 289 under construction, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 372,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 376,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 378,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 380,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 382,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 384,</unitid>
+            <unittitle>cropland, Slaton Highway, Atchison, Topeka, and Santa Fe
+				  Railway, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 386,</unitid>
+            <unittitle>cropland, Slaton Highway, Community of Posey, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 388,</unitid>
+            <unittitle>Yellow House Canyon, North of Slaton, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 390,</unitid>
+            <unittitle>Yellow House Canyon (Turkey Mesa), North of Slaton, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 392,</unitid>
+            <unittitle>Yellow House Canyon, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 394,</unitid>
+            <unittitle>Yellow House Canyon, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 398,</unitid>
+            <unittitle>mostly Yellow House Canyon, numerous well defined stream
+				  beds, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 400,</unitid>
+            <unittitle>Yellow House Canyon, Southeast Lubbock County, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Photos 402-498</unittitle>
+        </did>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 402,</unitid>
+            <unittitle>Yellow House Canyon, town of Slaton, Highway 84, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 404,</unitid>
+            <unittitle>Town of Slaton, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 406,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 408,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 410,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 414,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 416,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 418,</unitid>
+            <unittitle>cropland, large playa, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 420,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 422,</unitid>
+            <unittitle>cropland, orchard, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 424,</unitid>
+            <unittitle>cropland, orchard, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 426,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 430,</unitid>
+            <unittitle>cropland, terraced playas, exact location unknown, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 432,</unitid>
+            <unittitle>cropland, exact location unknown, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 436,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 438,</unitid>
+            <unittitle>cropland, large playas, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 440,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 442,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 444,</unitid>
+            <unittitle>cropland, Tahoka Highway, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 446,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 448,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 450,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 450,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 452,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 452,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 454,</unitid>
+            <unittitle>cropland, near Slaton, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 456,</unitid>
+            <unittitle>cropland, near Slaton, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 458,</unitid>
+            <unittitle>cropland, Highway 84, Atchison, Topeka, and Santa Fe
+				  Railway, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 460,</unitid>
+            <unittitle>Yellow House Canyon, Highway 84, Atchison, Topeka, and
+				  Santa Fe Railway, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 464,</unitid>
+            <unittitle>Yellow House Canyon, flat rangeland and cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 466,</unitid>
+            <unittitle>Yellow House Canyon, cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 468,</unitid>
+            <unittitle>Town of Slaton, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 470,</unitid>
+            <unittitle>Town of Slaton, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 474,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 475,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 476,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 478,</unitid>
+            <unittitle>cropland, Road 41 West of Slaton, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 480,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 482,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 484,</unitid>
+            <unittitle>cropland, community of Woodrow, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 486,</unitid>
+            <unittitle>community of Woodrow, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 490,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 492,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 494,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 496,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 498,</unitid>
+            <unittitle>cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-01-65</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Photos 505-517</unittitle>
+        </did>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 505,</unitid>
+            <unittitle>exact location unknown, highway, 
+				  <unitdate era="ce" calendar="gregorian">11-13-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 509,</unitid>
+            <unittitle>exact location unknown, cropland, 
+				  <unitdate era="ce" calendar="gregorian">11-13-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 511,</unitid>
+            <unittitle>cropland, exact location unknown, 
+				  <unitdate era="ce" calendar="gregorian">11-13-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 513,</unitid>
+            <unittitle>cropland, exact location unknown, 
+				  <unitdate era="ce" calendar="gregorian">11-13-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 515,</unitid>
+            <unittitle>cropland, exact location unknown, 
+				  <unitdate era="ce" calendar="gregorian">11-13-65</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Photo 517,</unitid>
+            <unittitle>cropland, exact location unknown, 
+				  <unitdate era="ce" calendar="gregorian">11-13-65</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00076</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>R. L. Slaughter:</titleproper>
+        <subtitle>An Inventory of His Papers, 1921-1960 and undated, at the
+			 Southwest Collection/Special Collections Library</subtitle>
+        <author>Abel Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu/</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">2000</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">February 2001.</date></creation>
+      <langusage>Finding aid written in
+		  <language>English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Tue Jul 22 15:21:50 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00076 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the R. L. Slaughter Papers, 1921-1960 and
+		  undated</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">2000</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <persname encodinganalog="100">Slaughter, Robert Lee,
+			 1892-1969</persname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Robert Lee Slaughter
+		  Papers, 
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1921-1960 and undated</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">Papers of R. L.
+		  (Robert Lee) Slaughter, grandson of C. C. Slaughter, from 1921-1960.</abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 932.1</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:">4 Boxes (4.0 linear
+		  feet)</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>Born in 1892, R. L. (Robert Lee) Slaughter was the grandson of C. C.
+		  Slaughter and was a rancher, oilman, and entrepreneur. From 1915-1916, he
+		  operated the family's 300,000 acre ranch in Sonora, Mexico, until he was forced
+		  to leave as a result of the Mexican Revolution. Afterwards, he operated the
+		  family ranch in West Texas and then became involved with the growth of the oil
+		  industry in Hockley County, Texas. R. L. died 1969.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The collection contains correspondence, financial materials, maps, and
+		  photographs. A majority of the financial documents relate to the operation of
+		  the ranch and with correspondence between R. L. Slaughter, Jr. and Ira Wells
+		  regarding operation of the ranch.</p>
+    </scopecontent>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+      <controlaccess>
+        <head>Subjects (Persons)</head>
+        <persname encodinganalog="600" source="local">Slaughter, Robert Lee,
+			 1892-1969</persname>
+        <persname encodinganalog="600" source="local">Slaughter, Robert Lee,
+			 1892-1969--Correspondence</persname>
+        <persname encodinganalog="600" source="local">Slaughter, Sue
+			 Alice</persname>
+        <persname encodinganalog="600" source="lcnaf">Soash, George
+			 W.</persname>
+        <persname encodinganalog="600" source="lcnaf">Soash, W. P. (William
+			 Pulver), 1877-1961</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname encodinganalog="610" source="lcnaf">Lone Star Land
+			 Company</corpname>
+        <corpname encodinganalog="610" source="lcnaf">United States. Farm
+			 Security Administration</corpname>
+        <corpname encodinganalog="610" source="lcnaf">United States.
+			 Resettlement Administration</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Places</head>
+        <geogname encodinganalog="651" source="lcnaf">Hockley County
+			 (Tex.)--History</geogname>
+        <geogname encodinganalog="651" source="local">Slaughter Farms (Hockley
+			 County, Tex.)</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Sonora (Mexico :
+			 State)--History</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">Agriculture--Texas--History</subject>
+        <subject encodinganalog="650" source="lcsh">Petroleum industry and
+			 trade--Texas--Hockley County--History</subject>
+        <subject encodinganalog="650" source="lcsh">Ranch
+			 managers--Texas--History</subject>
+        <subject encodinganalog="650" source="lcsh">Ranchers--Texas--History</subject>
+        <subject encodinganalog="650" source="lcsh">Ranches--Texas--History</subject>
+        <subject encodinganalog="650" source="lcsh">Real estate
+			 development--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Soil bank program</subject>
+        <subject encodinganalog="650" source="lcsh">Soil conservation--Texas,
+			 West--History</subject>
+        <subject encodinganalog="650" source="lcsh">Tenant
+			 farmers--Texas--Hockley County</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <head>Acquisition</head>
+      <p>Gift, 1972</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, 2000</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>R. L. Slaughter Papers, 1921-1960 and undated, Southwest
+			 Collection/Special Collections Library, Texas Tech University, Lubbock,
+			 Texas</p>
+    </prefercite>
+    <bibliography id="a10">
+      <head>Additional Sources</head>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Murrah, David J. 
+			 <title xlink:type="simple" render="doublequote" xlink:href="">C. C. Slaughter, Rancher, Banker, Baptist.
+				</title>Austin: University of Texas Press, 1981.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Murrah, David J. 
+			 <title xlink:type="simple" render="doublequote" xlink:href="">A Cattle Kingdom on Texas' Last Frontier: C.
+				C. Slaughter's Lazy S Ranch. </title>Thesis (M.A.)--Texas Tech University,
+			 1970.</bibref>
+    </bibliography>
+    <relatedmaterial encodinganalog="544 1" id="a6">
+      <p>For related materials located in the Southwest Collection/Special
+			 Collections Library, see the following collections:</p>
+      <list type="simple">
+        <item>Ira Byrd oral history interview [sound recording], 1969</item>
+        <item>Hiley Thompson Boyd, Jr. oral history interview [sound recording],
+			 1970</item>
+        <item>Nettie Hyatt and Joe Bridges oral history interview [sound
+			 recording], 1975</item>
+        <item>Mr. and Mrs. Robert Jennings oral history interview [sound
+			 recording], 1973</item>
+        <item>Mrs. M.C. Lindsey oral history interview [sound recording], 1975</item>
+        <item>Lynn County (Tex.), Photographs, 1900-1950</item>
+        <item>Ralph McWhorter oral history interview [sound recording], 1979</item>
+        <item>Mrs. J. F. Reeves oral history interview [sound recording],
+			 1970s</item>
+        <item>Jot Smyth oral history interview [sound recording], 1959</item>
+      </list>
+    </relatedmaterial>
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+      <c01>
+        <did>
+          <unittitle>General Office Files</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Aloco Pipe Line, 
+				  <unitdate era="ce" calendar="gregorian">1941 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Cotton, 
+				  <unitdate era="ce" calendar="gregorian">1949-1960</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Cotton Sales, 
+				  <unitdate era="ce" calendar="gregorian">1951-1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Grain, 
+				  <unitdate era="ce" calendar="gregorian">1956-1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Farm Rents, 
+				  <unitdate era="ce" calendar="gregorian">1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Farmers Rent Statements, 
+				  <unitdate era="ce" calendar="gregorian">1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Farm Rents, 
+				  <unitdate era="ce" calendar="gregorian">1950-1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Farm Rents, 
+				  <unitdate era="ce" calendar="gregorian">1954-1955</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>Farm Rents, 
+				  <unitdate era="ce" calendar="gregorian">1955-1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>Farm Rents, 
+				  <unitdate era="ce" calendar="gregorian">1957</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>Letters, 
+				  <unitdate era="ce" calendar="gregorian">1939-1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle>Letters, 
+				  <unitdate era="ce" calendar="gregorian">1942-1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle>Lyntegar, Electric Cooperative, 
+				  <unitdate era="ce" calendar="gregorian">1941-1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unittitle>Maturities, 
+				  <unitdate era="ce" calendar="gregorian">1939-1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle>Mineral Assessments, 
+				  <unitdate era="ce" calendar="gregorian">1940-1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle>Montgomery Storage at Lubbock, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+            <unittitle>Motor Fuels, Inc., 
+				  <unitdate era="ce" calendar="gregorian">1940-1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+            <unittitle>Passing Payments, 
+				  <unitdate era="ce" calendar="gregorian">1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">19</container>
+            <unittitle>Pipe Lines and Rights of Way, 
+				  <unitdate era="ce" calendar="gregorian">1941-1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+            <unittitle>Proration Schedule, 
+				  <unitdate era="ce" calendar="gregorian">1940-1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+            <unittitle>Roy Reid of Quemado, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+            <unittitle>Reimbursements Paid, 
+				  <unitdate era="ce" calendar="gregorian">1938-1948</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+            <unittitle>Renters Rent Statements, 
+				  <unitdate era="ce" calendar="gregorian">1938</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+            <unittitle>Removal Farm Notices, 
+				  <unitdate era="ce" calendar="gregorian">1942-1948</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">25</container>
+            <unittitle>Removal Notices, 
+				  <unitdate era="ce" calendar="gregorian">1939-1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+            <unittitle>Power of Attorney, 
+				  <unitdate era="ce" calendar="gregorian">1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">27</container>
+            <unittitle>Republic National Bank of Dallas, 
+				  <unitdate era="ce" calendar="gregorian">1942-1947</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">28</container>
+            <unittitle>Resettlement Loans, 
+				  <unitdate era="ce" calendar="gregorian">1939-1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">29</container>
+            <unittitle>Richardson Oils, Inc., 
+				  <unitdate era="ce" calendar="gregorian">1939-1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">30</container>
+            <unittitle>Richardson, Royalty Runs, 
+				  <unitdate era="ce" calendar="gregorian">1953 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">31</container>
+            <unittitle>Rights of Ways for Oil, Gas, and Electric, 
+				  <unitdate era="ce" calendar="gregorian">1946-1950</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">32</container>
+            <unittitle>Royalty Runs, 
+				  <unitdate era="ce" calendar="gregorian">1937-1938</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">33</container>
+            <unittitle>Soil Bank Payments, 
+				  <unitdate era="ce" calendar="gregorian">1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">34</container>
+            <unittitle>Sid Richardson, Inc. and Crop Damage Claims, 
+				  <unitdate era="ce" calendar="gregorian">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">35</container>
+            <unittitle>Stanolind Oil Division Order and Right-of-Way, 
+				  <unitdate era="ce" calendar="gregorian">1938-1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">36</container>
+            <unittitle>Tax Assessments, 
+				  <unitdate era="ce" calendar="gregorian">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">37</container>
+            <unittitle>Tax Assessment Matters, 
+				  <unitdate era="ce" calendar="gregorian">1945-1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">38</container>
+            <unittitle>Taxes, Bob Slaughter Block, 
+				  <unitdate era="ce" calendar="gregorian">1921-1925</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">39</container>
+            <unittitle>Taxes, Bob Slaughter's, 
+				  <unitdate era="ce" calendar="gregorian">1926-1927</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">40</container>
+            <unittitle>Taxes, Bob Slaughter Block, 
+				  <unitdate era="ce" calendar="gregorian">1927-1929</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">41</container>
+            <unittitle>Taxes, Bob Slaughter Block, 
+				  <unitdate era="ce" calendar="gregorian">1927-1928</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">42</container>
+            <unittitle>Tax Letters, Drafts, and Notices on Bob Slaughter Block,
+				  
+				  <unitdate era="ce" calendar="gregorian">1929-1931</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>Taxes, Bob Slaughter Block and Dr. Veal's Tax Report, 
+				  <unitdate era="ce" calendar="gregorian">1929-1934</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle>Taxes, Bob Slaughter Block, 
+				  <unitdate era="ce" calendar="gregorian">1929-1936</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>Tax Collection, 
+				  <unitdate era="ce" calendar="gregorian">1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>Tax Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1937-1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>Tax Notices, 
+				  <unitdate era="ce" calendar="gregorian">1929-1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle>Tax Payments of Sundown School, 
+				  <unitdate era="ce" calendar="gregorian">1935-1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle>Tax Renditions, 
+				  <unitdate era="ce" calendar="gregorian">1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle>Tax Statements, Hockley County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1935</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle>Tax Statements, Sundown School, 
+				  <unitdate era="ce" calendar="gregorian">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unittitle>Tax Statements, Sundown School, 
+				  <unitdate era="ce" calendar="gregorian">1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unittitle>Tax Statements, State, County, and School, 
+				  <unitdate era="ce" calendar="gregorian">1939-1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">12</container>
+            <unittitle>Tax Statements, Hockley County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1938</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+            <unittitle>Tax Statements, Hockley County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">14</container>
+            <unittitle>Taxes, Miscellaneous, 
+				  <unitdate era="ce" calendar="gregorian">1936-1938</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">15</container>
+            <unittitle>United Savings Bank, Detroit, 
+				  <unitdate era="ce" calendar="gregorian">1939-1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">16</container>
+            <unittitle>Utilities Cash Deposits, 
+				  <unitdate era="ce" calendar="gregorian">1938-1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">1</container>
+            <unittitle>Taxes, Bob Slaughter Block, 
+				  <unitdate era="ce" calendar="gregorian">1929-1930</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">2</container>
+            <unittitle>Tax Receipts, 
+				  <unitdate era="ce" calendar="gregorian">1929-1930</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">3</container>
+            <unittitle>Tax Receipts, 
+				  <unitdate era="ce" calendar="gregorian">1928-1947</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Financial Documents</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">17</container>
+            <unittitle>Bills, 
+				  <unitdate era="ce" calendar="gregorian">1942-1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">18</container>
+            <unittitle>Bills, 
+				  <unitdate era="ce" calendar="gregorian">1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">19</container>
+            <unittitle>Bills, 
+				  <unitdate era="ce" calendar="gregorian">1951-1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">20</container>
+            <unittitle>Trial Balances, 
+				  <unitdate era="ce" calendar="gregorian">1943-1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">21</container>
+            <unittitle>Check Stubs, 
+				  <unitdate era="ce" calendar="gregorian">1952-1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle>Checks, 
+				  <unitdate era="ce" calendar="gregorian">1938-1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle>Checks, 
+				  <unitdate era="ce" calendar="gregorian">1944-1949</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle>Checks, 
+				  <unitdate era="ce" calendar="gregorian">1950-1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle>Bank Statements, 
+				  <unitdate era="ce" calendar="gregorian">1936-1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle>Bank Statements, 
+				  <unitdate era="ce" calendar="gregorian">1941-1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">6</container>
+            <unittitle>Bank Statements, 
+				  <unitdate era="ce" calendar="gregorian">1952-1956</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Miscellaneous</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">22</container>
+            <unittitle>Maps and Blueprints, 
+				  <unitdate era="ce" calendar="gregorian">1938-1951 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">23</container>
+            <unittitle>Photograph of Oil Rig and Platform, Slaughter Field, 
+				  <unitdate era="ce" calendar="gregorian">1941</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

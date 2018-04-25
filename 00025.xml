@@ -1,0 +1,3004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00025</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Reese Air Force Base:</titleproper>
+        <subtitle>An Inventory of Its Records, 1940-1997 and undated, at the
+			 Southwest Collection/Special Collections Library</subtitle>
+        <author>Abel Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">July 2000</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">September 2000.</date></creation>
+      <langusage>Finding aid written in
+		  <language>English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Tue Jul 22 15:20:46 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00025 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the Reese Air Force Base Records, 1940-1997
+		  and undated</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">July 2000</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <corpname encodinganalog="110">Reese Air Force Base (Tex.)</corpname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Reese Air Force Base
+		  (Tex.) Records, 
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1940-1997 and undated</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">Records documenting
+		  the activities of Reese Air Force Base, which was situated on 2000 acres and
+		  located 10 miles west of Lubbock, Texas.</abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 1258.1</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:">19 boxes (19 linear
+		  feet)</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>Situated on 2000 acres and located 10 miles west of Lubbock, Texas,
+		  Reese Air Force Base was named after 1st Lt. Augustus F. Reese, Jr., a pilot
+		  from Shallowater, Texas, who was killed in a bombing raid in Italy on May 14,
+		  1943. It was previously known as the Air Corps Advanced Flying School and the
+		  Lubbock Army Air Field. On September 1, 1949, the name was changed to Reese Air
+		  Force Base. The base's history extends from 1941-1997 and after 56 years of
+		  training pilots the base was forced to close due to federal budget cuts on
+		  military expenses.</p>
+      <p>The Handbook of Texas has published a more in-depth online biography
+		  of Reese Air Force Base at
+		  http://www.tsha.utexas.edu/handbook/online/search.html</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The collection consists of publications and books, files from the
+		  Public Affairs office and Historian's office and scrapbook material from the
+		  Officers Wives' Club pertaining to Reese Air Force Base as a military base in
+		  Lubbock, Texas, for 56 years. The bulk of the collection consists of wing
+		  histories and public affairs materials.</p>
+    </scopecontent>
+    <arrangement encodinganalog="351$a">
+      <p>The collection is organized into the following ten series: Closure and Reuse,
+		  Environment, Fact Books and Environment, Historian's Office Files, Memorabilia,
+		  News Clipping Files, Public Relations, Publications, Scrapbooks, and Wing
+		  Histories.</p>
+    </arrangement>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname encodinganalog="610" source="lcnaf">United States. Air
+			 Force</corpname>
+        <corpname encodinganalog="610" source="lcnaf">United States. Army Air
+			 Forces</corpname>
+        <corpname encodinganalog="610" source="lcnaf">United States.
+			 Army--Aviation</corpname>
+        <corpname encodinganalog="610" source="lcnaf">United States. Army Air
+			 Forces. Flying Training Command</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Places</head>
+        <geogname encodinganalog="651" source="lcnaf">Lubbock
+			 (Tex.)--History</geogname>
+        <geogname encodinganalog="651" source="local">Lubbock Army Air Field
+			 (Tex.)</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Reese Air Force Base
+			 (Tex.)</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Reese Air Force Base
+			 (Tex.)--History</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Reese Air Force Base
+			 (Tex.)--Officials and employees</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">Air bases--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Air pilots,
+			 Military--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Air pilots,
+			 Military--Training of--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Aeronautics,
+			 Military--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Flight
+			 training--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Military
+			 bases--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">World War,
+			 1939-1945--Aerial operations, American</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <head>Acquisition</head>
+      <p>Collection accession #(s): 
+			 <num type="accession">97-0179-B; 97-0184-B; 97-0238-B; 97-0254-B; and
+				97-0262-B</num></p>
+      <p>Gifts, 1987-1988</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, July, 2000</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>Reese Air Force Base Records, 1940-1997 and undated, Southwest
+			 Collection/Special Collections Library, Texas Tech University, Lubbock,
+			 Texas</p>
+    </prefercite>
+    <bibliography id="a10">
+      <head>Additional Sources</head>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href=""><title xlink:type="simple" render="italic" xlink:href="">Wings over America: Lubbock Army Air Field,
+				Army Air Forces Training Command. </title>Baton Rouge, La.: Army and Navy Pub.
+			 Co. of Louisiana, 1943.</bibref>
+    </bibliography>
+    <relatedmaterial encodinganalog="544 1" id="a6">
+      <p>For related materials located in the Southwest Collection/Special
+			 Collections Library, see the following collections:</p>
+      <list type="simple">
+        <item>Robert Keyes Papers, 1940-1947</item>
+        <item>Delton Richardson oral history interview [sound recording], 1982</item>
+        <item>Billy Jay Wright oral history interview [sound recording], 1982</item>
+      </list>
+    </relatedmaterial>
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+      <c01 level="series">
+        <did>
+          <unittitle>Closure and Reuse</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Class 97 Information, 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Flag Flowing, 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Game Plan, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Inactivation Banquet Script, 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Newsclippings, 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Plan Draft, 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Program Plan, 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Restoration Advisory Board Meetings, 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Environment</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>Administrative Order on Consent, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>Environmental Impact Analysis Progress, 
+				  <unitdate era="ce" calendar="gregorian">1980</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>Installation Restoration Program, 
+				  <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle>Installation Restoration Program, 
+				  <unitdate era="ce" calendar="gregorian">1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle>Installation Restoration Program, 
+				  <unitdate era="ce" calendar="gregorian">1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>Installation Restoration Program, 
+				  <unitdate era="ce" calendar="gregorian">1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle>Installation Restoration Program Deposition, 
+				  <unitdate era="ce" calendar="gregorian">1994-1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>Opportunities Exposition, 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>St. Louis Symposium, 
+				  <unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Fact Books and Environment</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>AETC Public Affairs Workshop, 
+				  <unitdate era="ce" calendar="gregorian">1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle>Air Installation Compatible Use Zone, 
+				  <unitdate era="ce" calendar="gregorian">1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle>Air Installation Compatible Use Zone Meeting, 
+				  <unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle>Air Installation Compatible Use Zone Report, 
+				  <unitdate era="ce" calendar="gregorian">1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle>Air Installation Compatible Use Zone Report, 
+				  <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unittitle>Air Installation Compatible Use Zone Revalidation, 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unittitle>Air Installation Compatible Use Zone Study, 
+				  <unitdate era="ce" calendar="gregorian">1992</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">12</container>
+            <unittitle>Air Installation Compatible Use Zone Study, 
+				  <unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+            <unittitle>Air Installation Compatible Use Zone Study Citizen's
+				  Brochure, 
+				  <unitdate era="ce" calendar="gregorian">1992</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle>Air Installation Compatible Use Zone Study Citizen's
+				  Brochure, 
+				  <unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle>Air Show, 
+				  <unitdate era="ce" calendar="gregorian">1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle>Air Technology Network, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle>Airport Height Hazard and Land Use Zoning in Texas, 
+				  <unitdate era="ce" calendar="gregorian">1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle>Community Relations in Superfund Handbook, 
+				  <unitdate era="ce" calendar="gregorian">1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">6</container>
+            <unittitle>Community Relations in Superfund Handbook, 
+				  <unitdate era="ce" calendar="gregorian">1992</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">7</container>
+            <unittitle>Defence Environmental Network and Information Exchange, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">8</container>
+            <unittitle>Environmental Assessment, 
+				  <unitdate era="ce" calendar="gregorian">1992</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">9</container>
+            <unittitle>Environmental Compliance Assessment and Management
+				  Program, 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">10</container>
+            <unittitle>Environmental Impact Statements, 
+				  <unitdate era="ce" calendar="gregorian">1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">11</container>
+            <unittitle>Environmental Quality Award, 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">12</container>
+            <unittitle>Installation Restoration Program, 
+				  <unitdate era="ce" calendar="gregorian">1984</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">13</container>
+            <unittitle>Installation Restoration Program Management Guidance, 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">14</container>
+            <unittitle>Installation Restoration Program Workshop, 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">15</container>
+            <unittitle>Interim Report of the Federal Facilities Environmental
+				  Committee, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">16</container>
+            <unittitle>Media Training Program, 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">17</container>
+            <unittitle>Public Affairs and Editor's Course, 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">1</container>
+            <unittitle>Public Affairs Environmental Guidance, 
+				  <unitdate era="ce" calendar="gregorian">1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">2</container>
+            <unittitle>Public Affairs Environmental Surveys, 
+				  <unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">3</container>
+            <unittitle>Restoration Advisory Board Workshop Guidebook, 
+				  <unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">4</container>
+            <unittitle>Towards the 21st Century, 
+				  <unitdate era="ce" calendar="gregorian">1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">5</container>
+            <unittitle>21st Century Vision, 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">6</container>
+            <unittitle>Various Issues, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Historian's Office Files</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">7</container>
+            <unittitle>A-76 Aircraft Study, 
+				  <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">8</container>
+            <unittitle>AAF WAC Detachment, 
+				  <unitdate era="ce" calendar="gregorian">1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">9</container>
+            <unittitle>Afterwar Base History, 
+				  <unitdate era="ce" calendar="gregorian">1953-1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">10</container>
+            <unittitle>Aid Society Annual Report, 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">11</container>
+            <unittitle>Air Force Integrates, 
+				  <unitdate era="ce" calendar="gregorian">1945-1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">12</container>
+            <unittitle>Airman, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">13</container>
+            <unittitle>American Aviation, Inc., Project, 
+				  <unitdate era="ce" calendar="gregorian">1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">14</container>
+            <unittitle>Aviation Cadet Department, 
+				  <unitdate era="ce" calendar="gregorian">1942-1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">15</container>
+            <unittitle>Base Closure, 
+				  <unitdate era="ce" calendar="gregorian">1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">16</container>
+            <unittitle>Base History Dates, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">17</container>
+            <unittitle>Calendar of Events, 
+				  <unitdate era="ce" calendar="gregorian">1992-1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">18</container>
+            <unittitle>Captain Gordon Treadaway's Speech, 
+				  <unitdate era="ce" calendar="gregorian">1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">19</container>
+            <unittitle>Commanders List, 
+				  <unitdate era="ce" calendar="gregorian">1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">20</container>
+            <unittitle>Comments on Video and Revision, 
+				  <unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">21</container>
+            <unittitle>Computer Print-Outs and Call Slips, 
+				  <unitdate era="ce" calendar="gregorian">1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">22</container>
+            <unittitle>Copies for Filmmaker, 
+				  <unitdate era="ce" calendar="gregorian">1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">23</container>
+            <unittitle>Corps of Engineers, 
+				  <unitdate era="ce" calendar="gregorian">1935-1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">24</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1993-1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">25</container>
+            <unittitle>Creating a Government, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">26</container>
+            <unittitle>Detachment Finance Department, 
+				  <unitdate era="ce" calendar="gregorian">1942-1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">27</container>
+            <unittitle>Enlisted Pilots Legacy, 
+				  <unitdate era="ce" calendar="gregorian">1912-1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">28</container>
+            <unittitle>Film Outline, 
+				  <unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">29</container>
+            <unittitle>General Sources, 
+				  <unitdate era="ce" calendar="gregorian">1914-1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">30</container>
+            <unittitle>Global Air Chiefs Conference, 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">31</container>
+            <unittitle>Historical Property Survey Team Meeting, 
+				  <unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">32</container>
+            <unittitle>Hospital Histories, 
+				  <unitdate era="ce" calendar="gregorian">1942-1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">1</container>
+            <unittitle>Hospital Histories, 
+				  <unitdate era="ce" calendar="gregorian">1944-1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">2</container>
+            <unittitle>Informal History of the Lubbock Army Fluing School, 
+				  <unitdate era="ce" calendar="gregorian">1941-1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">3</container>
+            <unittitle>Interview Notes, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">4</container>
+            <unittitle>Interview with John Foitik, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">5</container>
+            <unittitle>Interview with W. G. McWilliam, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">6</container>
+            <unittitle>Interview with Gordon Treadaway, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">7</container>
+            <unittitle>Interagency Coordination During Joint Operations, 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">8</container>
+            <unittitle>Joint Doctrine for Evasion and Recovery, 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">9</container>
+            <unittitle>Lubbock Shoot, 
+				  <unitdate era="ce" calendar="gregorian">1993-1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">10</container>
+            <unittitle>Major George Andrew Davis, 
+				  <unitdate era="ce" calendar="gregorian">1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">11</container>
+            <unittitle>Maps and Drawings, 
+				  <unitdate era="ce" calendar="gregorian">1992</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">12</container>
+            <unittitle>Meetings with Filmmaker, 
+				  <unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">13</container>
+            <unittitle>Neal's Chronicles, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">14</container>
+            <unittitle>Negrete Video Film, 
+				  <unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">15</container>
+            <unittitle>New CAM ART, 
+				  <unitdate era="ce" calendar="gregorian">1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">16</container>
+            <unittitle>North American TB-25 Dedication Ceremony, 
+				  <unitdate era="ce" calendar="gregorian">1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">17</container>
+            <unittitle>Para-Sail, 
+				  <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">18</container>
+            <unittitle>Pearl Harbor Commemorative Ceremony, 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">19</container>
+            <unittitle>Photoes Requested from SWC, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">20</container>
+            <unittitle>Planning and Construction, 
+				  <unitdate era="ce" calendar="gregorian">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">21</container>
+            <unittitle>Possible Interviewees, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">22</container>
+            <unittitle>Problem of Race Relations, 
+				  <unitdate era="ce" calendar="gregorian">1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">23</container>
+            <unittitle>Reese, A. Frank, Jr Biography, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">24</container>
+            <unittitle>Reunion, 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">25</container>
+            <unittitle>Scopes of Work Notes, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">26</container>
+            <unittitle>Script Draft, 
+				  <unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">27</container>
+            <unittitle>Script Review, 
+				  <unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">28</container>
+            <unittitle>64th Flying Training Wing Brief History, 
+				  <unitdate era="ce" calendar="gregorian">1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">29</container>
+            <unittitle>Station Information Album, 
+				  <unitdate era="ce" calendar="gregorian">1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">30</container>
+            <unittitle>Telephone Log, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">31</container>
+            <unittitle>Texas Tech Veterans' Housing, 
+				  <unitdate era="ce" calendar="gregorian">1945-1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">32</container>
+            <unittitle>T-1A Jayhawk Dedication Ceremony, 
+				  <unitdate era="ce" calendar="gregorian">1992</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">33</container>
+            <unittitle>Trips, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">34</container>
+            <unittitle>Various Issues, 
+				  <unitdate era="ce" calendar="gregorian">1986-1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">35</container>
+            <unittitle>Various Issues, 
+				  <unitdate era="ce" calendar="gregorian">1993-1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">36</container>
+            <unittitle>Women Airforce Service Pilots Program, 
+				  <unitdate era="ce" calendar="gregorian">1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">37</container>
+            <unittitle>Wing History Office, 
+				  <unitdate era="ce" calendar="gregorian">1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">38</container>
+            <unittitle>Wing Mission, 
+				  <unitdate era="ce" calendar="gregorian">1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">39</container>
+            <unittitle>World War II, 
+				  <unitdate era="ce" calendar="gregorian">1940-1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">40</container>
+            <unittitle>World War II Temporary Military Buildings, 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>News Clipping Files</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">41</container>
+            <unittitle>Administration Center, 
+				  <unitdate era="ce" calendar="gregorian">1996-1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">42</container>
+            <unittitle>Base Closure and Other Issues, 
+				  <unitdate era="ce" calendar="gregorian">1992-1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">43</container>
+            <unittitle>Budget Development and Formulation, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">44</container>
+            <unittitle>Business and Other Issues, 
+				  <unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">45</container>
+            <unittitle>Firing Range, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">46</container>
+            <unittitle>General Dugan Press, 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">47</container>
+            <unittitle>Honorary Squadron Commanders, 
+				  <unitdate era="ce" calendar="gregorian">1994-1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">1</container>
+            <unittitle>Lubbock Avalanche Journal, 
+				  <unitdate era="ce" calendar="gregorian">1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">2</container>
+            <unittitle>Lubbock Avalanche Journal, 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">3</container>
+            <unittitle>Lubbock Journals, 
+				  <unitdate era="ce" calendar="gregorian">1986-1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">4</container>
+            <unittitle>Sports and Other Issues, 
+				  <unitdate era="ce" calendar="gregorian">1980-1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">5</container>
+            <unittitle>Unidentified Flying Objects, 
+				  <unitdate era="ce" calendar="gregorian">1977-1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">6</container>
+            <unittitle>Unidentified Flying Objects and Other Issues, 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">7</container>
+            <unittitle>University Daily, 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>Various Issues, 
+				  <unitdate era="ce" calendar="gregorian">1974-1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">9</container>
+            <unittitle>Windspread, 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">10</container>
+            <unittitle>World War II 50th Anniversary, 
+				  <unitdate era="ce" calendar="gregorian">1995</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Public Relations</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">11</container>
+            <unittitle>Activity Processes Charts and Lists, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">12</container>
+            <unittitle>Air Show Reports, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">13</container>
+            <unittitle>Air Show Schedule, 
+				  <unitdate era="ce" calendar="gregorian">1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">14</container>
+            <unittitle>Air Show and Open House, 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">15</container>
+            <unittitle>American Gold Star Mothers' Inc., 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">16</container>
+            <unittitle>Army Air Corps Enlisted Pilots Reunion and Dedication
+				  Ceremony, 
+				  <unitdate era="ce" calendar="gregorian">1992</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">17</container>
+            <unittitle>Awards Banquet and Other Events, 
+				  <unitdate era="ce" calendar="gregorian">1988-1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">18</container>
+            <unittitle>Base Disposal, 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">19</container>
+            <unittitle>Base Tours, 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">20</container>
+            <unittitle>Base Tours, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">21</container>
+            <unittitle>Base Tours, 
+				  <unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">22</container>
+            <unittitle>Beechcraft Raytheon Company, 
+				  <unitdate era="ce" calendar="gregorian">1992</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">23</container>
+            <unittitle>Blue Angels News Releases, 
+				  <unitdate era="ce" calendar="gregorian">1993-1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>Blue Angels Shows, 
+				  <unitdate era="ce" calendar="gregorian">1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Blue Angels Shows, 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">3</container>
+            <unittitle>Blue Angels Shows, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">4</container>
+            <unittitle>Colonel Gelwix's First News Conference, 
+				  <unitdate era="ce" calendar="gregorian">1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">5</container>
+            <unittitle>Community Appreciation Days, 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">6</container>
+            <unittitle>Community Noise Complains, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">7</container>
+            <unittitle>Community Relations Events, 
+				  <unitdate era="ce" calendar="gregorian">1990-1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">8</container>
+            <unittitle>COMBS Ceremony, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">9</container>
+            <unittitle>`Farewell to Reese' Annual Event, 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">10</container>
+            <unittitle>Frends of Reese, 
+				  <unitdate era="ce" calendar="gregorian">1994-1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">11</container>
+            <unittitle>Golden Knights, 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">12</container>
+            <unittitle>Golden Knights Parachute Team, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">13</container>
+            <unittitle>Historical Records, 
+				  <unitdate era="ce" calendar="gregorian">1990-1992</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">14</container>
+            <unittitle>Home-Based Business, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">15</container>
+            <unittitle>Honor Guard Request, 
+				  <unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">16</container>
+            <unittitle>Inactivation Ceremony, 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">17</container>
+            <unittitle>Joint Airport Zoning Board Activities, 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">18</container>
+            <unittitle>Lubbock Christian University's Reese Appreciation Day, 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">19</container>
+            <unittitle>LISD Band Extravaganza, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">20</container>
+            <unittitle>Lugas Scam, 
+				  <unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">21</container>
+            <unittitle>Media Contest and Achievement Award Winners, 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">22</container>
+            <unittitle>Information Office, 
+				  <unitdate era="ce" calendar="gregorian">1974-1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">23</container>
+            <unittitle>Military Editorial Reading File, 
+				  <unitdate era="ce" calendar="gregorian">1975-1977</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">24</container>
+            <unittitle>Military Related Editorials, 
+				  <unitdate era="ce" calendar="gregorian">1977-1977</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">25</container>
+            <unittitle>Military Related News, 
+				  <unitdate era="ce" calendar="gregorian">1974-1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">26</container>
+            <unittitle>Mission Statement, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">27</container>
+            <unittitle>Museum Agreements, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">28</container>
+            <unittitle>News, 
+				  <unitdate era="ce" calendar="gregorian">1973-1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">29</container>
+            <unittitle>News Releases, 
+				  <unitdate era="ce" calendar="gregorian">1994-1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">30</container>
+            <unittitle>Official Visits, 
+				  <unitdate era="ce" calendar="gregorian">1991-1992</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">31</container>
+            <unittitle>Open House, 
+				  <unitdate era="ce" calendar="gregorian">1955</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">32</container>
+            <unittitle>Open House, 
+				  <unitdate era="ce" calendar="gregorian">1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">33</container>
+            <unittitle>Open House, 
+				  <unitdate era="ce" calendar="gregorian">1977</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">34</container>
+            <unittitle>Open House, 
+				  <unitdate era="ce" calendar="gregorian">1979</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">35</container>
+            <unittitle>Open House, 
+				  <unitdate era="ce" calendar="gregorian">1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">36</container>
+            <unittitle>Open House, 
+				  <unitdate era="ce" calendar="gregorian">1991-1992</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">37</container>
+            <unittitle>Open House and Other Information, 
+				  <unitdate era="ce" calendar="gregorian">1986-1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">38</container>
+            <unittitle>Open Houses, 
+				  <unitdate era="ce" calendar="gregorian">1993-1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">39</container>
+            <unittitle>Orientation Flight Certificate, 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">40</container>
+            <unittitle>Personnel's Speeches, 
+				  <unitdate era="ce" calendar="gregorian">1989-1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">1</container>
+            <unittitle>Public Affairs Reports, 
+				  <unitdate era="ce" calendar="gregorian">1987-1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">2</container>
+            <unittitle>Reese in Action, 
+				  <unitdate era="ce" calendar="gregorian">1980-1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">3</container>
+            <unittitle>Reunion, 
+				  <unitdate era="ce" calendar="gregorian">1980</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">4</container>
+            <unittitle>Reunion, 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">5</container>
+            <unittitle>Reunion, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">6</container>
+            <unittitle>Roundup Clippings, 
+				  <unitdate era="ce" calendar="gregorian">1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">7</container>
+            <unittitle>Senator Gramm, 
+				  <unitdate era="ce" calendar="gregorian">1980</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">8</container>
+            <unittitle>Showbirds, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">9</container>
+            <unittitle>Speakers Bureau Projects, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">10</container>
+            <unittitle>Special Events Planning, 
+				  <unitdate era="ce" calendar="gregorian">1976-1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">11</container>
+            <unittitle>Speech Building Material, 
+				  <unitdate era="ce" calendar="gregorian">1990-1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">12</container>
+            <unittitle>T-1 Demonstrational Material, 
+				  <unitdate era="ce" calendar="gregorian">1992</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">13</container>
+            <unittitle>T-1A Arrival Ceremony, 
+				  <unitdate era="ce" calendar="gregorian">1992</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">14</container>
+            <unittitle>Thunderbirds Show, 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">15</container>
+            <unittitle>Undergraduate Pilot Training Program, 
+				  <unitdate era="ce" calendar="gregorian">1979</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">16</container>
+            <unittitle>Undergraduate Pilot Training Program, 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">17</container>
+            <unittitle>Undergraduate Pilot Training Program, 
+				  <unitdate era="ce" calendar="gregorian">1993-1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">18</container>
+            <unittitle>Undergraduate Pilot Training Program Graduation, 
+				  <unitdate era="ce" calendar="gregorian">1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">19</container>
+            <unittitle>Veterans Day, 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">20</container>
+            <unittitle>Veterans Day, 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">21</container>
+            <unittitle>Visit to the Secretary of the Air Force Dr. Widnal, 
+				  <unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">22</container>
+            <unittitle>Welcome to Eglin AFB, 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">23</container>
+            <unittitle>Welcome to Lubbock Information, 
+				  <unitdate era="ce" calendar="gregorian">1994-1996</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Publications</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">24</container>
+            <unittitle>Aerospace Speech, 
+				  <unitdate era="ce" calendar="gregorian">1982-1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">25</container>
+            <unittitle>Aerospace Speeches, Statements, and Data, 
+				  <unitdate era="ce" calendar="gregorian">1983-1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">26</container>
+            <unittitle>Agreement with American Federation of Government
+				  Employees, 
+				  <unitdate era="ce" calendar="gregorian">1992</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">27</container>
+            <unittitle>Air Force, 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">28</container>
+            <unittitle>Air Force Academy Catalog, 
+				  <unitdate era="ce" calendar="gregorian">1982-1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">29</container>
+            <unittitle>Air Force Speech, 
+				  <unitdate era="ce" calendar="gregorian">1994-1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">1</container>
+            <unittitle>Air Force Updates, 
+				  <unitdate era="ce" calendar="gregorian">1993-1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">2</container>
+            <unittitle>Air Power History, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">3</container>
+            <unittitle>Airman, 
+				  <unitdate era="ce" calendar="gregorian">1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">4</container>
+            <unittitle>Airman, 
+				  <unitdate era="ce" calendar="gregorian">1994-1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">5</container>
+            <unittitle>Assignment: Reese, 
+				  <unitdate era="ce" calendar="gregorian">1986-1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">6</container>
+            <unittitle>Biographies, 
+				  <unitdate era="ce" calendar="gregorian">1994-1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">7</container>
+            <unittitle>Blue Angels, 
+				  <unitdate era="ce" calendar="gregorian">1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">8</container>
+            <unittitle>Chambers of Commerce Directiry, 
+				  <unitdate era="ce" calendar="gregorian">1976-1977</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">9</container>
+            <unittitle>Changes of Command, 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">10</container>
+            <unittitle>Closure and Reuse, 
+				  <unitdate era="ce" calendar="gregorian">1993-1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">11</container>
+            <unittitle>Community Appreciation Days, 
+				  <unitdate era="ce" calendar="gregorian">1995-1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">12</container>
+            <unittitle>Desert Storm, 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">13</container>
+            <unittitle>Economic Resource Impact Statement, 
+				  <unitdate era="ce" calendar="gregorian">1987-1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">1</container>
+            <unittitle>Enlisted Awards Banquet, 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">2</container>
+            <unittitle>Environmental Excellence Center, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">3</container>
+            <unittitle>Environmental Tour, 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">4</container>
+            <unittitle>Facilities and Bases in the Midwest, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">5</container>
+            <unittitle>Fact Sheets, 
+				  <unitdate era="ce" calendar="gregorian">1991-1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">6</container>
+            <unittitle>Fact Sheets and News Releases, 
+				  <unitdate era="ce" calendar="gregorian">1968-1976 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">7</container>
+            <unittitle>Federal Credit Union Annual Report, 
+				  <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">8</container>
+            <unittitle>Fiftieth Anniversary, 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">9</container>
+            <unittitle>Fiftieth Anniversary Planner, 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">10</container>
+            <unittitle>Fifty Years of Training, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">11</container>
+            <unittitle>Fifty Five Years of Excellence, 
+				  <unitdate era="ce" calendar="gregorian">1942-1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">12</container>
+            <unittitle>Gameday, 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">13</container>
+            <unittitle>Graduation Ceremony, 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">14</container>
+            <unittitle>Graduation Programs, 
+				  <unitdate era="ce" calendar="gregorian">1995-1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">15</container>
+            <unittitle>Guide, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">16</container>
+            <unittitle>History of Military Aviation in San Antonio, 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">17</container>
+            <unittitle>Inactivation Ceremonies, 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">18</container>
+            <unittitle>Information Digests, 
+				  <unitdate era="ce" calendar="gregorian">1994-1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">19</container>
+            <unittitle>Leadership Directory, 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">20</container>
+            <unittitle>Looking East, 
+				  <unitdate era="ce" calendar="gregorian">1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">21</container>
+            <unittitle>Lubbock Avalanche Journal, 
+				  <unitdate era="ce" calendar="gregorian">1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">22</container>
+            <unittitle>Lubbock City and Base Maps, 
+				  <unitdate era="ce" calendar="gregorian">1991-1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">23</container>
+            <unittitle>Lubbock County News, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">24</container>
+            <unittitle>Lubbock Newcommers Guide, 
+				  <unitdate era="ce" calendar="gregorian">1994-1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">25</container>
+            <unittitle>Lubbock Salutes Reese AFB, 
+				  <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">26</container>
+            <unittitle>Lubbock Salutes Reese AFB, 
+				  <unitdate era="ce" calendar="gregorian">1981</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">27</container>
+            <unittitle>Lubbock Salutes Reese AFB, 
+				  <unitdate era="ce" calendar="gregorian">1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">28</container>
+            <unittitle>Lubbock, Where it's at..., 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">29</container>
+            <unittitle>Media Advisories and News Releases, 
+				  <unitdate era="ce" calendar="gregorian">1995-1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">30</container>
+            <unittitle>Military Forces in Transition, 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">31</container>
+            <unittitle>Military Market, 
+				  <unitdate era="ce" calendar="gregorian">1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">32</container>
+            <unittitle>Naval Air Station Whiting Field, 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">33</container>
+            <unittitle>News Releases, 
+				  <unitdate era="ce" calendar="gregorian">1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">34</container>
+            <unittitle>News Releases and Biographies, 
+				  <unitdate era="ce" calendar="gregorian">1989-1992</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">35</container>
+            <unittitle>Newspaper Certificate of Trademark, 
+				  <unitdate era="ce" calendar="gregorian">1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">36</container>
+            <unittitle>Public Affairs Guidance, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">37</container>
+            <unittitle>Questions and Answers about Your USAF, 
+				  <unitdate era="ce" calendar="gregorian">1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">38</container>
+            <unittitle>RAFB International Marketing Corporation Edition, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">39</container>
+            <unittitle>Reese Center, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">40</container>
+            <unittitle>Reese Invitation Booklets, 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">1</container>
+            <unittitle>Reunion, 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">2</container>
+            <unittitle>Revolution in the Air, 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">3</container>
+            <unittitle>Roundup, 
+				  <unitdate era="ce" calendar="gregorian">1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">4</container>
+            <unittitle>Roundup, 
+				  <unitdate era="ce" calendar="gregorian">1984</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">5</container>
+            <unittitle>Roundup, 
+				  <unitdate era="ce" calendar="gregorian">1991-1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">6</container>
+            <unittitle>Service News, 
+				  <unitdate era="ce" calendar="gregorian">1984-1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">7</container>
+            <unittitle>Service Weather Map, 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">9</container>
+            <unittitle>Soviet Military Power, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">10</container>
+            <unittitle>Specialized Undergraduate Pilot Training, 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">11</container>
+            <unittitle>Talon Service News, 
+				  <unitdate era="ce" calendar="gregorian">1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">12</container>
+            <unittitle>Telephone Directory, 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">13</container>
+            <unittitle>Thunderbirds, 
+				  <unitdate era="ce" calendar="gregorian">1975-1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">14</container>
+            <unittitle>Thunderbirds, 
+				  <unitdate era="ce" calendar="gregorian">1985-1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">15</container>
+            <unittitle>Tour of Historic Randolph, 
+				  <unitdate era="ce" calendar="gregorian">1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">16</container>
+            <unittitle>Training Wing Programming Plan, 
+				  <unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">17</container>
+            <unittitle>Treadaway History, 
+				  <unitdate era="ce" calendar="gregorian">1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">18</container>
+            <unittitle>Twenty First Century Vision, 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">19</container>
+            <unittitle>USAF Salutes the South Plains, 
+				  <unitdate era="ce" calendar="gregorian">1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">20</container>
+            <unittitle>Vision for Lubbock, 
+				  <unitdate era="ce" calendar="gregorian">1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">21</container>
+            <unittitle>Visitor's Guide Map, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">22</container>
+            <unittitle>Welcome to Reese Air Force Base, 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">23</container>
+            <unittitle>Wildlife at Reese Air Force Base, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">24</container>
+            <unittitle>Wings across America, 
+				  <unitdate era="ce" calendar="gregorian">1992</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">25</container>
+            <unittitle>Wings Histories, 
+				  <unitdate era="ce" calendar="gregorian">1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">1</container>
+            <unittitle>World Air Show News, 
+				  <unitdate era="ce" calendar="gregorian">1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">2</container>
+            <unittitle>Writing Effective Letters, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Scrapbooks</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">3</container>
+            <unittitle>Air Force Village, 
+				  <unitdate era="ce" calendar="gregorian">1984</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">4</container>
+            <unittitle>Enlisted Wives Club, 
+				  <unitdate era="ce" calendar="gregorian">1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">5</container>
+            <unittitle>Enlisted Wives Club, 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">6</container>
+            <unittitle>Enlisted Wives Club, 
+				  <unitdate era="ce" calendar="gregorian">1988-1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">7</container>
+            <unittitle>Golf Course, 
+				  <unitdate era="ce" calendar="gregorian">1960-1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">8</container>
+            <unittitle>Officers Wives' Club, 
+				  <unitdate era="ce" calendar="gregorian">1968-1969</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">9</container>
+            <unittitle>Officers Wives' Club, 
+				  <unitdate era="ce" calendar="gregorian">1972-1977</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">10</container>
+            <unittitle>Officers Wives' Club, 
+				  <unitdate era="ce" calendar="gregorian">1984-1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">11</container>
+            <unittitle>Officers Wives' Club, 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Wings Histories</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">12</container>
+            <unittitle>Army Air Force Pilot School, 
+				  <unitdate era="ce" calendar="gregorian">1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">13</container>
+            <unittitle>Lubbock Army Air Field, 
+				  <unitdate era="ce" calendar="gregorian">1940-1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">13</container>
+            <container type="folder">1</container>
+            <unittitle>Lubbock Army Air Field, 
+				  <unitdate era="ce" calendar="gregorian">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">13</container>
+            <container type="folder">2</container>
+            <unittitle>Lubbock Army Air Field, 
+				  <unitdate era="ce" calendar="gregorian">1941-1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">13</container>
+            <container type="folder">3</container>
+            <unittitle>Lubbock Army Air Field, 
+				  <unitdate era="ce" calendar="gregorian">1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">13</container>
+            <container type="folder">4</container>
+            <unittitle>Lubbock Army Air Field Station Information, 
+				  <unitdate era="ce" calendar="gregorian">1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">13</container>
+            <container type="folder">5</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1950</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">13</container>
+            <container type="folder">6</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">13</container>
+            <container type="folder">7</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">1</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">2</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">3</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">4</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1955</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">5</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">6</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1957</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">7</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">8</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">9</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1960</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">1</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">2</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">3</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1963</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">4</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">5</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">6</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1966</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">7</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">8</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">9</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1969</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">10</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1970</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">11</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1971</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">12</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">1</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">2</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">3</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">4</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">5</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1977</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">16</container>
+            <container type="folder">6</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">17</container>
+            <container type="folder">1</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1979</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">17</container>
+            <container type="folder">2</container>
+            <unittitle>Periodic History, 
+				  <unitdate era="ce" calendar="gregorian">1979</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Memorabilia</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">17</container>
+            <container type="folder">3</container>
+            <unittitle>Media Passes, BEET Pass, Golden Eagle CFC Badge, BEET
+				  Armband, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Scrapbooks</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">18</container>
+            <container type="folder">1</container>
+            <unittitle>Officers Wives' Club, 
+				  <unitdate era="ce" calendar="gregorian">1959-1977</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">19</container>
+            <container type="folder">1</container>
+            <unittitle>Officers Wives' Club, 
+				  <unitdate era="ce" calendar="gregorian">1978-1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">19</container>
+            <container type="folder">2</container>
+            <unittitle>Officers Wives' Club, 
+				  <unitdate era="ce" calendar="gregorian">1994-1995</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

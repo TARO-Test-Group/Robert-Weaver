@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" findaidstatus="edited-full-draft" id="a0" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00105</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>El Capote Ranch:</titleproper>
+        <subtitle>An Inventory of Its Records, 1830-1917 and undated, at the
+			 Southwest Collection/Special Collections Library</subtitle>
+        <author>Abel Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://www.swco.ttu.edu</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">April 2003</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Abel Ramirez; revised by Robert
+          Weaver,<date era="ce" calendar="gregorian">April 2003; February 2017.</date></creation>
+      <langusage>Finding aid written in<language>English</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Tue Jul 22 15:22:22 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00105 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the El Capote Ranch Records, 1830-1917 and
+		  undated</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">August 1998</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory" relatedencoding="marc">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <corpname encodinganalog="110">El Capote Ranch
+			 (Tex.)</corpname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">El Capote Ranch Records, <unitdate
+          type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian"
+          >1830-1917 and undated</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">Records and activities
+		  of El Capote Ranch in Gonzales County, Texas.</abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 1000.1</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:">1 box (0.3 linear
+		  feet)</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>The Capote Ranch refers to Jose de la Baume's ranch originally located
+		  45 miles northeast of San Antonio. Jose, a French immigrant, had built a log
+		  cabin which was later relocated and restored at the Ranching Heritage Center in
+		  Lubbock, Texas, in 1975. It was provided by Wallace and Maurice Harrell of the
+		  Harrell Cattle Company.</p>
+      <p>Located in South Texas, Gonzales County was created in 1836 and
+		  organized in 1837. It was named after Coahuila y Texas Governor Rafael
+		  Gonzales. Its county seat is Gonzales. The area was among the first to be
+		  settled by an Anglo-American settlement known as the DeWitt Colony late in the
+		  1820s. It main economy is agribusiness.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The collection contains photocopied probate records (1840-1847) from
+		  Gonzales County, Texas, which detail properties and their values from several
+		  wills, photocopied abstracts (1845-1917) dealing with the six leagues of land
+		  known as the El Capote Ranch in Gonzales County, photocopies of correspondence,
+		  financial records, diaries, and maps to the El Capote Ranch.</p>
+    </scopecontent>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed.</p>
+      <controlaccess>
+        <head>Subjects (Persons)</head>
+        <persname encodinganalog="600" source="local">Harrell,
+			 Wallace.</persname>
+        <persname encodinganalog="600" source="lcnaf">Baume, Jose de
+			 la.</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname encodinganalog="610" source="lcsh">El Capote Ranch.</corpname>
+      </controlaccess> 
+      <controlaccess>
+        <head>Places</head>
+        <geogname encodinganalog="651" source="local">Capote Farm.</geogname>
+        <geogname encodinganalog="651" source="lcnaf">El Capote Ranch (Tex.)</geogname>
+        <geogname encodinganalog="651" source="local">DeWitt Colony (Tex.)</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Gonzales County (Tex.)</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">Maps.</subject>
+        <subject encodinganalog="650" source="lcsh">Ranching.</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <p>Collection Accession number(s): 
+			 <num type="accession">98-0298-B and unknown</num></p>
+      <p>Gifts, 1998</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, August 1998.</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>El Capote Ranch Records, 1830-1917 and undated, Southwest
+			 Collection/Special Collections Library, Texas Tech University, Lubbock,
+			 Texas</p>
+    </prefercite>
+    <bibliography id="a10">
+      <head>Additional Sources</head>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Moellering, Arwerd Max. <emph render="italic">A History of
+			 Guadalupe County, Texas. </emph>Thesis (M.A.), University of Texas, 1938.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Carlson, Paul H.<emph render="italic">Inventory of County
+			 Records, Guadalupe County Courthouse, Seguin, Texas. </emph>Austin, Texas: Archives Division of Texas State Library, 1979. </bibref>
+    </bibliography>
+    <relatedmaterial encodinganalog="544 1" id="a6">
+      <p>For related materials located in the Southwest Collection/Special
+			 Collections Library, see the following collections:</p>
+      <list type="simple">
+        <item><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" 
+          xlink:href="http://legacy.lib.utexas.edu/taro/ttusw/00090/tsw-00090.html">Bar S Ranch Records, 1872-1939.</extref></item>
+        <item><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" 
+          xlink:href="http://legacy.lib.utexas.edu/taro/ttusw/00104/tsw-00104.html">Block Ranch Papers, 1885-1994 and undated.</extref></item>
+        <item>Michael Erskine Papers [microfilm], 1830-1913.</item>
+        <item><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" 
+          xlink:href="http://legacy.lib.utexas.edu/taro/ttuua/00086/tua-00086.html">Ranching Heritage Center Records, 1902-1992 and undated.</extref></item>
+      </list>
+    </relatedmaterial>
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+      
+      <c01 id="ser1" level="series"> <did>
+        <unittitle>Correspondence </unittitle>
+      </did>   
+      
+      <c02 level="file"> <did>
+        <container type="box">1</container>
+        <container type="folder">1</container>
+        <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+          xlink:show="new" xlink:actuate="onRequest"  
+          xlink:href="http://hdl.handle.net/10605/301911">Personal, <unitdate era="ce" 
+            calendar="gregorian">1845-1913 and undated</unitdate></extref></unittitle>
+      </did>
+      </c02>
+      </c01>
+      
+      <c01 id="ser2" level="series"> <did>
+        <unittitle>Financial Documents </unittitle>
+      </did>   
+      
+      <c02 level="file"> <did>
+        <container type="box">1</container>
+        <container type="folder">2</container>
+        <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+          xlink:show="new" xlink:actuate="onRequest"  
+          xlink:href="http://hdl.handle.net/10605/301912">Promissory Notes, <unitdate era="ce" 
+            calendar="gregorian">1872-1883</unitdate></extref></unittitle>
+      </did>
+      </c02>     
+      
+      <c02 level="file"> <did>
+        <container type="box">1</container>
+        <container type="folder">3</container>
+        <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+          xlink:show="new" xlink:actuate="onRequest"  
+          xlink:href="http://hdl.handle.net/10605/301913">Abstracts to Capote Farm, <unitdate era="ce" 
+            calendar="gregorian">1845-1917</unitdate></extref></unittitle>
+      </did>
+      </c02>
+      </c01>
+      
+      <c01 id="ser3" level="series"> <did>
+        <unittitle>Legal Documents </unittitle>
+      </did>  
+      
+      <c02 level="file"> <did>
+        <container type="box">1</container>
+        <container type="folder">4</container>
+        <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+          xlink:show="new" xlink:actuate="onRequest"  
+          xlink:href="http://hdl.handle.net/10605/301914">Deed Records, <unitdate era="ce" 
+            calendar="gregorian">1844-1877</unitdate></extref></unittitle>
+      </did>
+      </c02>     
+      
+      <c02 level="file"> <did>
+        <container type="box">1</container>
+        <container type="folder">5</container>
+        <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+          xlink:show="new" xlink:actuate="onRequest"  
+          xlink:href="http://hdl.handle.net/10605/301915">Land Grants, <unitdate era="ce" 
+            calendar="gregorian">1844-1899 and undated</unitdate></extref></unittitle>
+      </did>
+      </c02>     
+      
+      <c02 level="file"> <did>
+        <container type="box">1</container>
+        <container type="folder">6</container>
+        <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+          xlink:show="new" xlink:actuate="onRequest"  
+          xlink:href="http://hdl.handle.net/10605/301916">Probate Records of Gonzales County, Texas, <unitdate era="ce" 
+            calendar="gregorian">1840-1845</unitdate></extref></unittitle>
+      </did>
+      </c02>     
+      
+      <c02 level="file"> <did>
+        <container type="box">1</container>
+        <container type="folder">7</container>
+        <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+          xlink:show="new" xlink:actuate="onRequest"  
+          xlink:href="http://hdl.handle.net/10605/301917">Will, <unitdate era="ce" 
+            calendar="gregorian">1834</unitdate></extref></unittitle>
+      </did>
+      </c02>
+      </c01>
+      
+      <c01 id="ser4" level="series"> <did>
+        <unittitle>Literary Production </unittitle>
+      </did>
+      
+      <c02 level="file"> <did>
+        <container type="box">1</container>
+        <container type="folder">8</container>
+        <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+          xlink:show="new" xlink:actuate="onRequest"  
+          xlink:href="http://hdl.handle.net/10605/301918">Biographical Material and Field Notes, <unitdate era="ce" 
+            calendar="gregorian">1830-1879 and undated</unitdate></extref></unittitle>
+      </did>
+      </c02>     
+      
+      <c02 level="file"> <did>
+        <container type="box">1</container>
+        <container type="folder">9</container>
+        <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+          xlink:show="new" xlink:actuate="onRequest"  
+          xlink:href="http://hdl.handle.net/10605/301919">Diaries and Account Books, <unitdate era="ce" 
+            calendar="gregorian">1862-1863</unitdate></extref></unittitle>
+      </did>
+      </c02>     
+      
+      <c02 level="file"> <did>
+        <container type="box">1</container>
+        <container type="folder">10</container>
+        <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+          xlink:show="new" xlink:actuate="onRequest"  
+          xlink:href="http://hdl.handle.net/10605/301920">Journal, <unitdate era="ce" 
+            calendar="gregorian">1854</unitdate></extref></unittitle>
+      </did>
+      </c02>     
+      
+      <c02 level="file"> <did>
+        <container type="box">1</container>
+        <container type="folder">11</container>
+        <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+          xlink:show="new" xlink:actuate="onRequest"  
+          xlink:href="http://hdl.handle.net/10605/301921">Untitled Typescript, <unitdate era="ce" 
+            calendar="gregorian">undated</unitdate></extref></unittitle>
+      </did>
+      </c02> 
+      </c01>
+      
+      <c01 id="ser5" level="series"> <did>
+        <unittitle>Scrapbook Material </unittitle>
+      </did>
+      
+      <c02 level="file"> <did>
+        <container type="box">1</container>
+        <container type="folder">12</container>
+        <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+          xlink:show="new" xlink:actuate="onRequest"  
+          xlink:href="http://hdl.handle.net/10605/301922">Maps, <unitdate era="ce" 
+            calendar="gregorian">undated</unitdate></extref></unittitle>
+      </did>
+      </c02> 
+      
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

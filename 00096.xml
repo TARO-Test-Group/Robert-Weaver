@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00096</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Benjamin H. Grierson:</titleproper>
+        <subtitle>An Inventory of His Papers, 1827-1941 and undated, at the
+			 Southwest Collection/Special Collections Library</subtitle>
+        <author>Abel Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">August 2000</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">October 2000.</date></creation>
+      <langusage>Finding aid written in
+		  <language>English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Tue Jul 22 15:22:07 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00096 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the Benjamin H. Grierson Papers, 1827-1941 and
+		  undated</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">August 2000</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <persname encodinganalog="100">Grierson, Benjamin Henry,
+			 1826-1911</persname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Benjamin Henry Grierson
+		  Papers, 
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1827-1941 and undated</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">The papers of Benjamin
+		  Henry Grierson, a major general of volunteers who went on to be Superintendent
+		  of the General Mounted Recruiting Service in Saint Louis, Missouri from
+		  1873-1874 and later commanded several forts in Texas.</abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 385.1</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:">14 boxes (8.0 linear
+		  feet)</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>Benjamin Henry Grierson was born on July 8, 1826 in Pittsburgh,
+		  Pennsylvania. He was the youngest son of Robert and Mary (Shepard) Grierson,
+		  who were born and married in Dublin, Ireland. Robert and Mary emigrated to the
+		  United States after the birth of their second child. Other children born to
+		  Robert and Mary were Louisa, who married Mr. Semple, and John C.</p>
+      <p>Benjamin attended the Yorktown, Ohio, Academy. In Youngstown, Ohio, he
+		  married Alice Kirk on September 24, 1854. Together, they had seven children:
+		  Charles Henry, who entered the army and attended West Point; John Kirk; Robert
+		  Kirk, who attended medical school and suffered from mental illness at various
+		  times; Edith Clare; Benjamin Henry Jr.; George Theodore; and Mary Louisa. After
+		  Alice's death in 1888, Benjamin married the widow Lillian Atwood King in
+		  1897.</p>
+      <p>From 1849-1855, he taught music in Jacksonville, Illinois, and was a
+		  partner in a Meredosia store from 1855-1859. During the Civil War, Grierson
+		  became a major general of volunteers and was appointed Colonel of the 10th
+		  Regiment of Cavalry, U. S. Army, in July of 1866. From 1866-1867, he was
+		  stationed at Fort Leavenworth, Kansas. Afterwards, he commanded Fort Riley,
+		  Kansas (September 1867-April 1868), Fort Gibson, Camp Wichita, Fort Sill, and
+		  Indian Territory (1868-1873) before serving as Superintendent of the General
+		  Mounted Recruiting Service in Saint Louis, Missouri from 1873-1874. Grierson
+		  also commanded Fort Concho, Texas, and the District of the Pecos from
+		  1875-1881; Fort Concho and sub posts from 1881-1882; the Department of Texas in
+		  1883; Fort Davis, Texas, sub posts and country west of the Pecos River from
+		  1883-1885; and Whipple Barracks, Prescott, Arizona Territory from 1885-1890. In
+		  1890, General Grierson retired to his ranch in Jeff Davis County, Texas, and
+		  had a home at Fort Davis. He died on September 1, 1911.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The collection includes correspondence, financial material,
+		  genealogical material, legal material, literary productions, military
+		  materials, photographs, printed and scrapbook material. It bulks (1827-1941)
+		  with Benjamin Grierson's personal correspondence dealing with family matters,
+		  special occasions and hunting trips.</p>
+      <p>The materials are arranged into 5 major sections: Benjamin H.
+		  Grierson, 1827-1941; Charles H. Grierson (Benjamin Grierson's oldest son),
+		  1889-1939; Mason M. Maxon (Captain, 10th Cavalry), 1869-1899; Robert G.
+		  Smithers (Adjutant, 10th Cavalry), 1862-1922; Henry C. Smithers (son of Robert
+		  Smithers), 1914-1922. The Microfilm includes Army Ordinance files, music books,
+		  genealogical history, Grierson's Army records, military correspondence,
+		  autobiography, two bound books, <emph render="italic">Lights and Shadows
+		  </emph>(1892), and a letter copy book by John Kirk, <emph render="italic">Texas
+		  Letters.</emph></p>
+    </scopecontent>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+      <controlaccess>
+        <head>Subjects (Persons)</head>
+        <famname encodinganalog="600" source="lcnaf">Greer
+			 family--Genealogy</famname>
+        <persname encodinganalog="600" source="lcnaf">Grierson, Benjamin Henry,
+			 1826-1911</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname encodinganalog="610" source="lcnaf">United States. Army.
+			 Cavalry, 10th--History</corpname>
+        <corpname encodinganalog="610" source="lcnaf">United States.
+			 Army--Military life</corpname>
+        <corpname encodinganalog="610" source="lcnaf">United States.
+			 Army--Records and correspondence</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Places</head>
+        <geogname encodinganalog="651" source="lcnaf">Fort Davis
+			 (Tex.)--History</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Fort Davis (Tex.:
+			 Fort)</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Fort Concho
+			 (Tex.)--History</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Fort Sill
+			 (Okla.)--History</geogname>
+        <geogname encodinganalog="651" source="lcnaf">United
+			 States--History--Civil War, 1861-1865</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">Army life--Southwest,
+			 New</subject>
+        <subject encodinganalog="650" source="lcsh">Frontier and pioneer
+			 life--Southwest, New</subject>
+        <subject encodinganalog="650" source="lcsh">Frontier and pioneer
+			 life--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Generals--Southwest,
+			 New</subject>
+        <subject encodinganalog="650" source="lcsh">Generals--Southwest,
+			 New--Biography</subject>
+        <subject encodinganalog="650" source="lcsh">Indians of North
+			 America--Wars--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Indians of North
+			 America--Wars--Southwest, New</subject>
+        <subject encodinganalog="650" source="lcsh">Indians of North
+			 America--Wars--1866-1895</subject>
+        <subject encodinganalog="650" source="lcsh">Navajo Indians</subject>
+        <subject encodinganalog="650" source="lcsh">Military bases--Southwest,
+			 New</subject>
+        <subject encodinganalog="650" source="lcsh">Soldiers--Southwest,
+			 New</subject>
+        <subject encodinganalog="650" source="lcsh">Spanish-American War,
+			 1898</subject>
+        <subject encodinganalog="650" source="lcsh">Yellow
+			 fever--Texas--History</subject>
+        <subject encodinganalog="650" source="lcsh">Women--Suffrage--Texas</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <p>Gift, 1976</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, August 2000</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>Benjamin H. Grierson Papers, 1827-1941 and undated, Southwest
+			 Collection/Special Collections Library, Texas Tech University, Lubbock,
+			 Texas</p>
+    </prefercite>
+    <bibliography id="a10">
+      <head>Additional Sources</head>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Wagner, Lavern J., ed. 
+			 <title xlink:type="simple" render="doublequote" xlink:href="">Band Music from the Benjamin H. Grierson
+				Collection. </title>Madison, Wisconsin: A-R Editions, 1998.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href=""><title xlink:type="simple" render="doublequote" xlink:href="">Brief sketch of General Grierson's Services,
+				with a Few Extracts from Special Testimonials and Recommendations of General 
+				Officers and Other Officials. From Records filed in War Department, 1861-1884.
+				</title>Washington, D.C., 1885.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Leckie, William H. 
+			 <title xlink:type="simple" render="doublequote" xlink:href="">Unlikely Warriors: General Benjamin H.
+				Grierson and His Family. </title>Norman: University of Oklahoma Press,
+			 1984.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Temple, Frank M. 
+			 <title xlink:type="simple" render="doublequote" xlink:href="">Colonel B. H. Grierson's Texas Commands.
+				</title>Thesis (M.A.)--Texas Technological College, 1959.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Temple, Frank M. 
+			 <title xlink:type="simple" render="doublequote" xlink:href="">Colonel Grierson in the Southwest.
+				</title>United States: s. n., 1957.</bibref>
+    </bibliography>
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence, 
+				<unitdate era="ce" calendar="gregorian">1827-1938 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1827-1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1855-1856</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1857-1858</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1859-1862</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1863-1866</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1867-1869</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1870-1871</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1872</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">Jan.-Dec. 1873</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">Jan.-June 1874</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">July-Dec. 1874</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">Jan.-June 1875</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">July-Dec. 1875</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">Jan.-June 1876</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">July-Dec. 1876</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">Jan.-June 1877</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">July-Dec. 1877</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">Jan.-June 1878</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">July-Dec. 1878</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">Jan.-June 1879</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">July-Dec. 1879</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">Jan.-June 1880</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">July-Dec. 1880</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">Jan.-June 1881</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">6</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">July-Dec. 1881</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">7</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">Jan.-June 1882</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">8</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">July-Dec. 1882</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">1</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1883</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">2</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">Jan.-June 1884</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">3</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">July-Dec. 1884</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">4</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">Jan.-June 1885</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">5</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">July-Dec. 1885</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">6</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">Jan.-May 1886</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">7</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">June-Sept. 1886</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">1</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">Oct.-Dec. 1886</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">2</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">Jan.-March 1887</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">3</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">April-June 1887</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">4</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">July-Sept. 1887</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">5</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">Oct.-Dec. 1887</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">6</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">Jan.-March 1888</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">7</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">April-June 1888</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">8</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">July-Dec. 1888</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">1</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">Jan.-June 1889</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">2</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">July-Dec. 1889</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">3</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1890</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">4</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1891-1892</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">5</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1893-1894</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">6</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1895</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">7</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1896</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1897-1905</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">9</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1924-1938</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">10</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">11</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Financial Material, 
+				<unitdate era="ce" calendar="gregorian">1850-1939 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1850-1939 and undated</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">1</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">1850-1872</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">2</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">1873-1875</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">3</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">1876-1878</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">4</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">1879-1882</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">5</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">1883-1887</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">6</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">1888-1911</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">7</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">1916-1938</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">8</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">1939</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">9</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">10</container>
+            <unittitle>Tax Receipts on Land, 
+				  <unitdate era="ce" calendar="gregorian">1856-1888</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">11</container>
+          <unittitle>Genealogical Records, 
+				<unitdate era="ce" calendar="gregorian">1879-1898 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Legal Material, 
+				<unitdate era="ce" calendar="gregorian">1869-1927 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">12</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1869-1941 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">13</container>
+            <unittitle>Patent Papers of BHG Jr., 
+				  <unitdate era="ce" calendar="gregorian">1927</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">14</container>
+          <unittitle>Literary Productions, 
+				<unitdate era="ce" calendar="gregorian">1852-1878 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">7</container>
+          <container type="folder">15</container>
+          <unittitle>Maps, 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Military Material, 
+				<unitdate era="ce" calendar="gregorian">1861-1890</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">16</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1861-1890</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">1</container>
+            <unittitle>Financial, 
+				  <unitdate era="ce" calendar="gregorian">1866-1875</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">8</container>
+          <container type="folder">2</container>
+          <unittitle>Photographs, 
+				<unitdate era="ce" calendar="gregorian">1892 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Printed Material, 
+				<unitdate era="ce" calendar="gregorian">1882-1921</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">3</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1882-1921</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">4</container>
+            <unittitle>Annual Reports, Department of Arizona, 
+				  <unitdate era="ce" calendar="gregorian">1889-1890</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Real Estate Material, 
+				<unitdate era="ce" calendar="gregorian">1849-1930 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">5</container>
+            <unittitle>Legal, 
+				  <unitdate era="ce" calendar="gregorian">1849-1930</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">6</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1891 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Scrapbook Material, 
+				<unitdate era="ce" calendar="gregorian">1868-1937 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">7</container>
+            <unittitle>Miscellaneous, 
+				  <unitdate era="ce" calendar="gregorian">1877-1937 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">8</container>
+            <unittitle>Personal, 
+				  <unitdate era="ce" calendar="gregorian">1868-1911 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Charles H. Grierson, 
+				<unitdate era="ce" calendar="gregorian">1889-1939 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence, 
+				<unitdate era="ce" calendar="gregorian">1889-1939 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1890-1939 and undated</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">9</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">May-Dec. 1890</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">10</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">Jan. 1-Jan. 14, 1891</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">11</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">Jan 1891-Feb. 1893</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">12</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">1896-1898</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">1</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">April-June 1899</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">2</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">July 1899</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">3</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">Aug. 1899</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">4</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">Sept.-Oct. 1899</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">5</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">1900-1909</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">6</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">1911</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">7</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">1910</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">8</container>
+              <unittitle>Letter Press, 
+					 <unitdate era="ce" calendar="gregorian">1911-1912</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">1</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">1912-1915</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">2</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">1923-1927</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">3</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">4</container>
+            <unittitle>Damaged, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Letter Press Books, 
+				  <unitdate era="ce" calendar="gregorian">1889-1911</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">5</container>
+              <unittitle>I, 
+					 <unitdate era="ce" calendar="gregorian">1910-1911</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">6</container>
+              <unittitle>II, 
+					 <unitdate era="ce" calendar="gregorian">1889</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">7</container>
+          <unittitle>Literary Productions, 
+				<unitdate era="ce" calendar="gregorian">1894 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">8</container>
+          <unittitle>Photographs, 
+				<unitdate era="ce" calendar="gregorian">1913</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">9</container>
+          <unittitle>Scrapbook Material, Envelopes, 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Mason M. Maxon, 
+				<unitdate era="ce" calendar="gregorian">1869-1899 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence, 
+				<unitdate era="ce" calendar="gregorian">1885-1899</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">10</container>
+            <unittitle>
+              <unitdate era="ce" calendar="gregorian">1885-1893</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">11</container>
+            <unittitle>
+              <unitdate era="ce" calendar="gregorian">1899</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">10</container>
+          <container type="folder">12</container>
+          <unittitle>Financial Material, 
+				<unitdate era="ce" calendar="gregorian">1884-1890</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">1</container>
+          <unittitle>Legal Material, 
+				<unitdate era="ce" calendar="gregorian">1889-1890</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Military Material, 
+				<unitdate era="ce" calendar="gregorian">1869-1891</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1869-1891</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">2</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">1869-1879</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">3</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">1880-1886</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">4</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">1887-1891</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">5</container>
+            <unittitle>Financial Materials, 
+				  <unitdate era="ce" calendar="gregorian">1884-1891</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Orders, 
+				  <unitdate era="ce" calendar="gregorian">1968-1891</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">6</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">1869-1878</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">7</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">1878-1879</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">8</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">1880-1884</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">9</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">1885-1887</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">10</container>
+              <unittitle>
+                <unitdate era="ce" calendar="gregorian">1888-1891</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">11</container>
+            <unittitle>Reports, 
+				  <unitdate era="ce" calendar="gregorian">1878-1885</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">12</container>
+            <unittitle>Miscellaneous, 
+				  <unitdate era="ce" calendar="gregorian">1872-1886</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">11</container>
+          <container type="folder">13</container>
+          <unittitle>Real Estate Material, 
+				<unitdate era="ce" calendar="gregorian">1882-1892</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">1</container>
+          <unittitle>Scrapbook Material, 
+				<unitdate era="ce" calendar="gregorian">1878</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Robert G. Smithers, 
+				<unitdate era="ce" calendar="gregorian">1862-1922 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence, 
+				<unitdate era="ce" calendar="gregorian">1881-1922 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">2</container>
+            <unittitle>Letters, 
+				  <unitdate era="ce" calendar="gregorian">1911-1922</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">3</container>
+            <unittitle>Envelopes, 
+				  <unitdate era="ce" calendar="gregorian">1881-1922 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">4</container>
+          <unittitle>Literary Productions, 
+				<unitdate era="ce" calendar="gregorian">1897</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Military Materials, 
+				<unitdate era="ce" calendar="gregorian">1862-1924 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">5</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1881-1916</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">6</container>
+            <unittitle>Orders, 
+				  <unitdate era="ce" calendar="gregorian">1867-1917</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">7</container>
+            <unittitle>Service Records, 
+				  <unitdate era="ce" calendar="gregorian">1878-1885 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">8</container>
+            <unittitle>Uniform Regulations, 
+				  <unitdate era="ce" calendar="gregorian">1911-1914</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">9</container>
+            <unittitle>Miscellaneous, 
+				  <unitdate era="ce" calendar="gregorian">1862-1924 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">10</container>
+          <unittitle>Printed Material, 
+				<unitdate era="ce" calendar="gregorian">1907-1922</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">12</container>
+          <container type="folder">11</container>
+          <unittitle>Scrapbook Material, 
+				<unitdate era="ce" calendar="gregorian">1887-1921 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Henry C. Smithers, 
+				<unitdate era="ce" calendar="gregorian">1914-1922 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Military Material, 
+				<unitdate era="ce" calendar="gregorian">1914-1922 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">12</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1921-1922</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">13</container>
+            <unittitle>Printed Material, 
+				  <unitdate era="ce" calendar="gregorian">1914-1919</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">14</container>
+            <unittitle>Miscellaneous, 
+				  <unitdate era="ce" calendar="gregorian">1921 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Charles H. Grierson, 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence, 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">13</container>
+            <container type="folder">1</container>
+            <unittitle>Damaged, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">13</container>
+            <container type="folder">2</container>
+            <unittitle>Damaged, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">13</container>
+            <container type="folder">3</container>
+            <unittitle>Damaged, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">13</container>
+            <container type="folder">4</container>
+            <unittitle>Damaged, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Benjamin H. Grierson, 
+				<unitdate era="ce" calendar="gregorian">1880-1914 and undated</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">1</container>
+            <unittitle>Correspondence, Oversized, 
+				  <unitdate era="ce" calendar="gregorian">1880-1888 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">2</container>
+            <unittitle>Genealogical Material, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">3</container>
+            <unittitle>Literary Production, Poem, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">4</container>
+            <unittitle>Printed Material, Newspapers, 
+				  <unitdate era="ce" calendar="gregorian">1893-1914 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

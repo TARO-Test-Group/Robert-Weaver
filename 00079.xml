@@ -1,0 +1,3763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00079</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Nuclear Waste Management:</titleproper>
+        <subtitle>An Inventory of the Records, 1972-1990, at the Southwest
+			 Collection/Special Collections Library</subtitle>
+        <author>Abel Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">June 2003</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">February 2001.</date></creation>
+      <langusage>Finding aid written in
+		  <language>English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Tue Jul 22 15:21:53 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00079 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the Nuclear Waste Management Records,
+		  1972-1990</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">2000</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <corpname encodinganalog="110">United States. Dept. of
+			 Energy</corpname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Nuclear Waste Management
+		  Records, 
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1972-1990</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">The records pertain to
+		  the efforts to establish nuclear waste disposal sites in several states in the
+		  1980s and the opposition of such a site in Deaf Smith County, Texas.</abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 1502.1</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:">73 boxes (73.0 linear
+		  feet)</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>In the 1980s the U. S. Department of Energy led an effort to establish
+		  nuclear waste disposal sites in several states, one of which was Texas. The
+		  site selected was in Deaf Smith County. The proposal for Deaf Smith County fell
+		  through because of protests from the local community. Opposition was due in
+		  part to concerns for the Ogallala aquifer and the agricultural production.
+		  Leading the protests were the organizations of Serious Texans Against Nuclear
+		  Dumping, headquartered in Tulia, Texas, and the People Opposed to Wasted Energy
+		  Repositories, headquartered in Hereford, Texas.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The collection on nuclear waste management contains bound books,
+		  policy readers, proceedings, Department of Energy papers and publications, news
+		  clippings, community audits, annual reports to Congress, policies, and mission
+		  statements.</p>
+    </scopecontent>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname encodinganalog="610" source="lcnaf">Nuclear Waste Program
+			 (U.S.)</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">Hazardous waste sites--Law
+			 and legislation--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Radioactive waste
+			 disposal</subject>
+        <subject encodinganalog="650" source="lcsh">Radioactive waste
+			 disposal--Law and legislation--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Radioactive waste
+			 disposal--Management</subject>
+        <subject encodinganalog="650" source="lcsh">Radioactive waste
+			 disposal--Public opinion</subject>
+        <subject encodinganalog="650" source="lcsh">Radioactive waste
+			 sites--Cleanup--United States</subject>
+        <subject encodinganalog="650" source="lcsh">Radioactive
+			 wastes--Environmental aspects--West (U.S.)</subject>
+        <subject encodinganalog="650" source="lcsh">Radioactive
+			 wastes--Transportation--Law and legislation--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Radioactive wastes--United
+			 States--Management</subject>
+        <subject encodinganalog="650" source="lcsh">Radioactive wastes--Public
+			 opinion</subject>
+        <subject encodinganalog="650" source="lcsh">Radioactive
+			 wastes--Texas--Deaf Smith County--Public opinion</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <head>Acquisition</head>
+      <p>Gifts, undated</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, 2000</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>Nuclear Waste Management Records, 1972-1990, Southwest
+			 Collection/Special Collections Library, Texas Tech University, Lubbock,
+			 Texas</p>
+    </prefercite>
+    <bibliography id="a10">
+      <head>Additional Sources</head>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Smith, Billy L. 
+			 <title xlink:type="simple" render="doublequote" xlink:href="">How West Texas Newspapers Covered the Nuclear
+				Waste-Dump Site Selection Process. </title>Thesis (M.A.)--Texas Tech
+			 University, 1989.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Collins, John Charles. 
+			 <title xlink:type="simple" render="doublequote" xlink:href="">Radioactive Wastes: Their Treatment and
+				Disposal. </title>New York, Wiley, 1960.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href=""><title xlink:type="simple" render="doublequote" xlink:href="">Disposal of Radioactive Waste: An Overview of
+				the Principles Involved. </title>Washington, D.C.: OECD Publications and
+			 Information Center, distributor, 1982.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href=""><title xlink:type="simple" render="doublequote" xlink:href="">Low-level Radioactive Waste Disposal Authority
+				Act: Chapter 273, Acts of the 67th Legislature of the state of Texas, Regular
+				session, 1981: Article 4590f-1, Vernon's Texas civil statutes. </title>Austin:
+			 Texas Low-level Radioactive Waste Disposal Authority, 1984.</bibref>
+    </bibliography>
+    <relatedmaterial encodinganalog="544 1" id="a6">
+      <p>For related materials located in the Southwest Collection/Special
+			 Collections Library, see the following collections:</p>
+      <list type="simple">
+        <item>H. M Baggarly oral history interview [sound recording], 1984</item>
+        <item>Marshall Clinton Formby Papers, 1940-1989 and undated</item>
+        <item>Joe W. Lang oral history interview [sound recording], 1983</item>
+        <item>League of Women Voters of Texas Records, 1919-1997 and undated</item>
+        <item>Nuclear Waste Task Force Inc., Records, 1957-1988 and undated</item>
+        <item>Wayne Richardson Papers, 1984-1985</item>
+        <item>U. S. Department of Energy: Salt Repository Project Office
+			 Photographs, 1938-1987</item>
+        <item>Waste Deposit Impact Committee (Tex.) Records, 1973-1988</item>
+      </list>
+    </relatedmaterial>
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+      <c01 level="series">
+        <did>
+          <unittitle>Bound Books</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Environmental Assessment Overview: Yucca Mountain Site,
+				  Nevada Research and Development Area, Nevada, 
+				  <unitdate era="ce" calendar="gregorian">May 1986, </unitdate>DOE/RW-0079</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>A Multiattribute Utility Analysis of Sites Nominated For
+				  Characterization For The First Radioactive-Waste Repository -- A
+				  Decision-Aiding Methodology, 
+				  <unitdate era="ce" calendar="gregorian">May 1986, </unitdate>DOE/RW-0074</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Environmental Assessment Overview: Davis Canyon Site,
+				  Utah, 
+				  <unitdate era="ce" calendar="gregorian">May 1986, </unitdate>DOE/RW-0077</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Environmental Assessment Overview: Reference Repository
+				  Location, Hanford Site, Washington, 
+				  <unitdate era="ce" calendar="gregorian">May 1986 </unitdate>DOE/RW-0076</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Estimated Environmental Effects of Geologic and
+				  Geophysical Exploratory Activities, 
+				  <unitdate era="ce" calendar="gregorian">December 1980, </unitdate>ONWI-105</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Estimated Environmental Effects of Deep Drilling, 
+				  <unitdate era="ce" calendar="gregorian">December 1990, </unitdate>ONWI-13</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>The Nuclear Waste Primer: A Handbook for Citizens, 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Public Comments on the Draft Mission Plan for the
+				  Civilian Radioactive Waste Management Program, Vol III, 
+				  <unitdate era="ce" calendar="gregorian">June 1985, </unitdate>DOE/RW-0005</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>High-Level and Transuranic Radioactive Wastes: Response
+				  to Comments for Final Rule, Vol I, 
+				  <unitdate era="ce" calendar="gregorian">August 1985 </unitdate>EPA 520/1-85-024-1</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>High-Level and Transuranic Radioactive Wastes: Response
+				  to Comments for Final Rule, Vol I I, 
+				  <unitdate era="ce" calendar="gregorian">August 1985 </unitdate>EPA 520/1-85-024-2</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>Recommendation By The Secretary of Energy of Candidate
+				  Site For Characterization For The First radioactive-Waste Repository, 
+				  <unitdate era="ce" calendar="gregorian">May 1986, </unitdate>DOE/S-0048</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle>OCRWM Mission Plan Amendment: With Comments on the Draft
+				  Amendments and Responses to the Comments, 
+				  <unitdate era="ce" calendar="gregorian">June 1987, </unitdate>DOE/RW-0128</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle>U.S. Department of Energy Briefing on Draft Site
+				  Identification for The Texas Panhandle Locations, 
+				  <unitdate era="ce" calendar="gregorian">March 1984</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unittitle>Background Information on the Draft Environmental
+				  Assessments: Texas, 
+				  <unitdate era="ce" calendar="gregorian">Winter 1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle>Environmental Assessment Overview: Richton Dome Site,
+				  Mississippi, 
+				  <unitdate era="ce" calendar="gregorian">May 1986</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle>Proceedings of the 1980 National Waste Terminal Storage
+				  Program Information Meeting: Columbus, Ohio, 
+				  <unitdate era="ce" calendar="gregorian">December 9-11, 1980, </unitdate>ONWI-212</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+            <unittitle>U.S. Department of Energy Briefing on National Waste
+				  Terminal Storage Program for The Texas Energy and Natural Resources Advisory
+				  Council Austin, Texas, 
+				  <unitdate era="ce" calendar="gregorian">November 9, 1981</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+            <unittitle>U.S. Department of Energy Presentation For Public
+				  Hearings in Texas: on Proposed Nomination of Sites for Site Characterization
+				  and Recommendations of Issues for Environmental Assessments and Site
+				  Characterization Plans, 
+				  <unitdate era="ce" calendar="gregorian">May 16, 17, and 18, 1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">19</container>
+            <unittitle>Draft Revised General Guidelines for Recommendation of
+				  Sites for Nuclear Waste Repositories, 
+				  <unitdate era="ce" calendar="gregorian">May 27, 1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+            <unittitle>Spent Fuel Storage Requirements: The Need for
+				  Away-From-Reactor Storage, 
+				  <unitdate era="ce" calendar="gregorian">February 1979, </unitdate>DOE/ET-0075</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+            <unittitle>Nuclear Power: Answers to Your Questions, 
+				  <unitdate era="ce" calendar="gregorian">1979</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+            <unittitle>Spent Fuel Storage Fact Book, 
+				  <unitdate era="ce" calendar="gregorian">April 1980, </unitdate>DOE/NE-0005</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>Background Information for Public Hearings in Texas, 
+				  <unitdate era="ce" calendar="gregorian">May 16, 17, and 18, 1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle>Rulemaking on Storage and Disposal of Nuclear Waste, 
+				  <unitdate era="ce" calendar="gregorian">15 April 1980, </unitdate>DOE/NE-0007</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>Identification of Sites Within the Palo Duro Basin:
+				  Volume 1-Palo Duro Location A, 
+				  <unitdate era="ce" calendar="gregorian">November 1984, </unitdate>No.1 DOE/CH-10(1)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>Identification of Sites Within the Palo Duro Basin:
+				  Volume 1-Palo Duro Location B, 
+				  <unitdate era="ce" calendar="gregorian">November 1984, </unitdate>No.2 DOE/CH-10(2)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>Permian Basin Location Recommendation Report: Technical
+				  Report, 
+				  <unitdate era="ce" calendar="gregorian">September 1983 </unitdate>DOE/CH/10140-2</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle>Radiation- A Fact of Life, 
+				  <unitdate era="ce" calendar="gregorian">1979</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle>A Nuclear Waste Primer, 
+				  <unitdate era="ce" calendar="gregorian">1980</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle>Draft Environmental Assessment: Swisher County Site,
+				  Texas, 
+				  <unitdate era="ce" calendar="gregorian">December 1984</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle>Background Information Document: Final Rule For
+				  High-Level And Transuranic Radioactive Wastes, 
+				  <unitdate era="ce" calendar="gregorian">August 1985, </unitdate>EPA 520/1-85-023</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unittitle>Oil And Gas Well Data File- Palo Duro Basin, Texas And
+				  New Mexico: Unanalyzed Data, 
+				  <unitdate era="ce" calendar="gregorian">May 1984 </unitdate>BMI/SRP-5013</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unittitle>Nuclear Waste Fund Fee Adequacy: AN Assessment, 
+				  <unitdate era="ce" calendar="gregorian">June 1987 </unitdate>DOE/RW-0020</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">12</container>
+            <unittitle>Answers To Your Questions About High-Level Nuclear Waste
+				  Isolation, 
+				  <unitdate era="ce" calendar="gregorian">1981</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+            <unittitle>Environmental Assessment: Deaf Smith County Site, Texas,
+				  Volume I, 
+				  <unitdate era="ce" calendar="gregorian">May 1986 </unitdate>DOE/RW-0069, 1 of 3</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">14</container>
+            <unittitle>Environmental Assessment: Deaf Smith County Site, Texas,
+				  Volume II, 
+				  <unitdate era="ce" calendar="gregorian">May 1986 </unitdate>DOE/RW-0069, 2 of 3</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">15</container>
+            <unittitle>Environmental Assessment: Deaf Smith County Site, Texas,
+				  Volume III, 
+				  <unitdate era="ce" calendar="gregorian">May 1986 </unitdate>DOE/RW-0069, 3 of 3</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Policy Readers</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle>Chronology of Major DOE Interactions with Texas, 
+				  <unitdate era="ce" calendar="gregorian">1972-1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle>Policy Reader, 
+				  <unitdate era="ce" calendar="gregorian">November 1987, </unitdate>OCRWM</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle>Policy Reader, 
+				  <unitdate era="ce" calendar="gregorian">August 1987, </unitdate>OCRWM</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle>Policy Reader, 
+				  <unitdate era="ce" calendar="gregorian">July 1987, </unitdate>OCRWM</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle>Policy Reader, 
+				  <unitdate era="ce" calendar="gregorian">July 1987, </unitdate>OCRWM</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">6</container>
+            <unittitle>Policy Reader, 
+				  <unitdate era="ce" calendar="gregorian">April 1986, March 1986, and January 1986,
+					 </unitdate>OCRWM</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">7</container>
+            <unittitle>Policy Reader, 
+				  <unitdate era="ce" calendar="gregorian">October 1985, September 1985, August 1985, and June
+					 1985, </unitdate>OCRWM</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">8</container>
+            <unittitle>Policy Reader, 
+				  <unitdate era="ce" calendar="gregorian">April 1987, February 1987, January 1987, and December
+					 1986, </unitdate>OCRWM</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">9</container>
+            <unittitle>Policy Reader, 
+				  <unitdate era="ce" calendar="gregorian">March 1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">1</container>
+            <unittitle>Policy Reader, 
+				  <unitdate era="ce" calendar="gregorian">July 1986, </unitdate>OCRWM</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">2</container>
+            <unittitle>Policy Reader, 
+				  <unitdate era="ce" calendar="gregorian">October 1985, </unitdate>OCRWM</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">3</container>
+            <unittitle>Policy Reader, 
+				  <unitdate era="ce" calendar="gregorian">August 1985, </unitdate>DOE/RW-0028</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">4</container>
+            <unittitle>Policy Reader, 
+				  <unitdate era="ce" calendar="gregorian">September 1985, </unitdate>No.3, OCRWM</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">5</container>
+            <unittitle>Policy Reader, 
+				  <unitdate era="ce" calendar="gregorian">October 1985, </unitdate>OCRWM</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">6</container>
+            <unittitle>Policy Reader, 
+				  <unitdate era="ce" calendar="gregorian">June 1986, </unitdate>OCRWM</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">7</container>
+            <unittitle>Policy Reader, 
+				  <unitdate era="ce" calendar="gregorian">September 1987, </unitdate>OCRWM</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">8</container>
+            <unittitle>Policy Reader, 
+				  <unitdate era="ce" calendar="gregorian">October 1986, September 1986, and August 1986,
+					 </unitdate>OCRWM</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">9</container>
+            <unittitle>State of Texas Comments on Nuclear Waste Policy Act
+				  Draft Environmental Assessments 5-85</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Proceedings</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">1</container>
+            <unittitle>Department of Energy Public Hearing, Jackson,
+				  Mississippi - Holiday Inn North, 
+				  <unitdate era="ce" calendar="gregorian">February 21, 1985 </unitdate>Public Hearings and
+				  Written Material On Draft Environmental Assessments, Mississippi ----- 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">2</container>
+            <unittitle>Department of Energy Public Hearing, Richton,
+				  Mississippi - Richton High School, 
+				  <unitdate era="ce" calendar="gregorian">February 22, 1985 </unitdate>Public Hearings and
+				  Written Material On Draft Environmental Assessments, Mississippi ----- 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">3</container>
+            <unittitle>Department of Energy Public Hearing, Biloxi, Mississippi
+				  - Marine Education Center, 
+				  <unitdate era="ce" calendar="gregorian">February 23, 1985 </unitdate>Public Hearings and
+				  Written Material On Draft Environmental Assessments, Mississippi ----- 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">4</container>
+            <unittitle>Department of Energy Public Hearing, Biloxi, Mississippi
+				  - Marine Education Center, 
+				  <unitdate era="ce" calendar="gregorian">February 23, 1985 </unitdate>Public Hearings and
+				  Written Material On Draft Environmental Assessments, Mississippi ----- 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">5</container>
+            <unittitle>Department of Energy Public Hearings on the Draft
+				  Environmental Assessments for Proposed Site Nominations, Hereford, Texas -
+				  Hereford High School, 
+				  <unitdate era="ce" calendar="gregorian">February 28, 1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">6</container>
+            <unittitle>Proceedings of the Joint United States/Federal Republic
+				  of Germany Technical Exchange Conference on Nuclear Waste, 
+				  <unitdate era="ce" calendar="gregorian">March 8-11, 1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">1</container>
+            <unittitle>Testimony of the State of Utah Regarding the Department
+				  of Energy's Implementation of the Nuclear Waste PolicyAct of 1982, 
+				  <unitdate era="ce" calendar="gregorian">October 1984</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">2</container>
+            <unittitle>Department of Energy Public Hearing, Monticello, Utah,
+				  Vol.2, 
+				  <unitdate era="ce" calendar="gregorian">May 3, 1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">3</container>
+            <unittitle>Department of Energy Public Hearing, Gulfport,
+				  Mississippi, 
+				  <unitdate era="ce" calendar="gregorian">May 12, 1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">4</container>
+            <unittitle>Department of Energy Public Hearing, Baton Rouge,
+				  Louisiana- Prince Murat Hotel, 
+				  <unitdate era="ce" calendar="gregorian">February 26, 1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">5</container>
+            <unittitle>Department of Energy Public Hearing, Tulia, Texas- Tulia
+				  high School, 
+				  <unitdate era="ce" calendar="gregorian">February 26, 1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">6</container>
+            <unittitle>Department of Energy Public Hearing, Austin, Texas-
+				  Austin Hilton Inn, 
+				  <unitdate era="ce" calendar="gregorian">March 1, 1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>Department of Energy Public Hearing, Hereford Texas-
+				  Hereford High School, 
+				  <unitdate era="ce" calendar="gregorian">February 28, 1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>Chronology of Major DOE Interactions with Texas, 
+				  <unitdate era="ce" calendar="gregorian">Early 1972 to January 29, 1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Chronology of Major DOE Interactions with Texas, 
+				  <unitdate era="ce" calendar="gregorian">Early 1972 to March 31, 1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">3</container>
+            <unittitle>Chronology of Major DOE Interactions with Texas, 
+				  <unitdate era="ce" calendar="gregorian">Early 1972 to May 29, 1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">4</container>
+            <unittitle>Hearing Before the House Energy and Water Appropriations
+				  Subcommittee on Nuclear Safety, 
+				  <unitdate era="ce" calendar="gregorian">May 6, 1986</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">5</container>
+            <unittitle>re: Department of Energy Public Hearing, Spokane,
+				  Washington, 
+				  <unitdate era="ce" calendar="gregorian">March 13, 1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">6</container>
+            <unittitle>Department of Energy Public Hearing, Richland,
+				  Washington, Vol.I of II, 
+				  <unitdate era="ce" calendar="gregorian">March 5, 1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">7</container>
+            <unittitle>re: Assessment of the Suitability of the Hanford,
+				  Washington Site for a High-Level Nuclear Waste Repository, Part I, 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">8</container>
+            <unittitle>Department of Energy Public Hearing, Spokane,
+				  Washington, 
+				  <unitdate era="ce" calendar="gregorian">March 13, 1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">9</container>
+            <unittitle>Department of Energy Public Hearing, Richland,
+				  Washington, Vol. II of II, 
+				  <unitdate era="ce" calendar="gregorian">March 13, 1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">10</container>
+            <unittitle>Department of Energy Public Hearing, Seattle,
+				  Washington, 
+				  <unitdate era="ce" calendar="gregorian">March 9, 1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">11</container>
+            <unittitle>Department of Energy Public Hearing, Olympia,
+				  Washington, Session 1, 
+				  <unitdate era="ce" calendar="gregorian">March 7, 1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">12</container>
+            <unittitle>Department of Energy Public Hearing, Olympia,
+				  Washington, Session 2, 
+				  <unitdate era="ce" calendar="gregorian">March 7, 1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">13</container>
+            <unittitle>re: Assessment of the suitability of the Hanford,
+				  Washington Site for a High-Level Nuclear Waste Repository, Part II, 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">14</container>
+            <unittitle>re: Assessment of the suitability of the Hanford,
+				  Washington Site for a High-Level Nuclear Waste Repository, Part III, 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">15</container>
+            <unittitle>Department of Energy Public Hearing, Portland, Oregon, 
+				  <unitdate era="ce" calendar="gregorian">March 11, 1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">16</container>
+            <unittitle>Chronology of Major DOE Interactions with Texas, 
+				  <unitdate era="ce" calendar="gregorian">Early 1972 to December 8, 1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">17</container>
+            <unittitle>Chronology of Major DOE Interactions with Texas, 
+				  <unitdate era="ce" calendar="gregorian">Early 1972 to October 27, 1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">18</container>
+            <unittitle>Chronology of Major DOE Interactions with Texas, 
+				  <unitdate era="ce" calendar="gregorian">Early 1972 to April 29, 1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">19</container>
+            <unittitle>Chronology of Major DOE Interactions with Mississippi, 
+				  <unitdate era="ce" calendar="gregorian">Early 1972 to April 6, 1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">20</container>
+            <unittitle>Chronology of Major DOE Interactions with Louisiana, 
+				  <unitdate era="ce" calendar="gregorian">Early 1972 to April 2, 1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">21</container>
+            <unittitle>Chronology of Major DOE Interactions with Utah, 
+				  <unitdate era="ce" calendar="gregorian">Early 1972 to April 2, 1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">1</container>
+            <unittitle>Department of Energy Public Hearing, Tulia, Texas- Tulia
+				  High School, 
+				  <unitdate era="ce" calendar="gregorian">February 26, 1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">2</container>
+            <unittitle>Department of Energy Public Hearing, Minden, Louisiana-
+				  Civic Center Auditorium, 
+				  <unitdate era="ce" calendar="gregorian">February 25, 1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">3</container>
+            <unittitle>Department of Energy Transcriptions from Public Hearings
+				  in Texas, Vol.I, 
+				  <unitdate era="ce" calendar="gregorian">1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">4</container>
+            <unittitle>Department of Energy Transcriptions from Public Hearings
+				  in Texas, Vol., 
+				  <unitdate era="ce" calendar="gregorian">1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">5</container>
+            <unittitle>Department of Energy Public Hearing, Monticello, Utah,
+				  Vol. 1, 
+				  <unitdate era="ce" calendar="gregorian">May 3, 1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">6</container>
+            <unittitle>Department of Energy Public Hearing, Salt Lake City,
+				  Utah, Vol. 1, 
+				  <unitdate era="ce" calendar="gregorian">May 4, 1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">7</container>
+            <unittitle>Department of Energy Public Hearing, Austin, Texas, 
+				  <unitdate era="ce" calendar="gregorian">May 18, 1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">8</container>
+            <unittitle>Department of Energy Public Hearing, Tulia, Texas, 
+				  <unitdate era="ce" calendar="gregorian">May 17, 1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">9</container>
+            <unittitle>Department of Energy Public Hearing, Hereford, Texas-
+				  Hereford High School, 
+				  <unitdate era="ce" calendar="gregorian">February 28, 1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">10</container>
+            <unittitle>Department of Energy, Minden, Louisiana, 
+				  <unitdate era="ce" calendar="gregorian">May 10, 1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">1</container>
+            <unittitle>Department of Energy Public Hearing, Monticello, Utah -
+				  Monticello High School, 
+				  <unitdate era="ce" calendar="gregorian">February 19, 1985 </unitdate>Public Hearings and
+				  Written Material On Draft Environmental Assessments, Utah, 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">2</container>
+            <unittitle>Department of Energy Public Hearing, Salt Lake City,
+				  Utah - Hotel Utah, 
+				  <unitdate era="ce" calendar="gregorian">February 22, 1985 </unitdate>Public Hearings and
+				  Written Material On Draft Environmental Assessments, Utah, 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">3</container>
+            <unittitle>Department of Energy Public Hearing, Salt Lake City
+				  Utah- Hotel Utah, 
+				  <unitdate era="ce" calendar="gregorian">February 22, 1985 </unitdate>Public Hearings and
+				  Written Material On Draft Environmental Assessments, Utah, 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">4</container>
+            <unittitle>Department of Energy Public Hearing, Moab, Utah - Helen
+				  M. Knight Elementary School, 
+				  <unitdate era="ce" calendar="gregorian">February 20, 1985 </unitdate>Public Hearings and
+				  Written Material On Draft Environmental Assessments, Utah, 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">5</container>
+            <unittitle>Post-Hearing Questions and Answers Relating to the July
+				  16, 1987, Hearing Before the Committee on Energy and Natural Resources United
+				  States Senate</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">6</container>
+            <unittitle>Proceedings of the 1983 Civilian Radioactive Waste
+				  Management Information Meeting, Washington, D.C., 
+				  <unitdate era="ce" calendar="gregorian">December 12-15 1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">7</container>
+            <unittitle>Department of Energy Public Hearing, Hereford, Texas, 
+				  <unitdate era="ce" calendar="gregorian">May 16, 1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">8</container>
+            <unittitle>Department of Energy Public Hearing, Lathrop Wells,
+				  Nevada, 
+				  <unitdate era="ce" calendar="gregorian">February 25, 1985 </unitdate>Public Hearings and
+				  Written Material On Draft Environmental Assessments, Louisiana and Nevada, 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>DOE Papers (Unbound and Unnumbered)</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <unittitle>Includes: Reports and Studies; Briefings;
+				  Correspondences; Press Releases; and Federal Registries</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Bound Books (uncatalogued)</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <unittitle>Books Dealing With Nuclear Waste Management</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>ONWI</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <unittitle>Office of Nuclear Waste Isolation Publications, ONWI
+					 1-199</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <unittitle>Office of Nuclear Waste Isolation Publications, ONWI
+					 200-399</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <unittitle>Office of Nuclear Waste Isolation Publications, ONWI
+					 400-499</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">15</container>
+              <unittitle>Office of Nuclear Waste Isolation Publications, ONWI
+					 500-599 (I)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">16</container>
+              <unittitle>Office of Nuclear Waste Isolation Publications, ONWI
+					 500-599 (II)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <unittitle>Office of Nuclear Waste Isolation Publications, ONWI
+					 500-599 (III)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">18</container>
+              <unittitle>Office of Nuclear Waste Isolation Publications, ONWI
+					 600-699 (I)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">19</container>
+              <unittitle>Office of Nuclear Waste Isolation Publications, ONWI
+					 600-699 (II)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">20</container>
+              <unittitle>Office of Nuclear Waste Isolation Publications, ONWI
+					 600-699 (III)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">20</container>
+              <container type="folder">1</container>
+              <unittitle>Well Completion Report, Holtzclaw No. 1 (PD-8), Palo
+					 Duro Basin, 
+					 <unitdate era="ce" calendar="gregorian">December 1983,
+						</unitdate>ONWI/SUB/83/E512-05000-T12</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">20</container>
+              <container type="folder">2</container>
+              <unittitle>Hole Completion Report, Doe-Gruy Federal,
+					 Inc.Rex.H.White#1, Randall County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">December 22, 1978,
+						</unitdate>ONWI/SUB/83/E512-01700-2</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">20</container>
+              <container type="folder">3</container>
+              <unittitle>Well Completion Report, J.Friemel No.1 (PD-9), Palo
+					 Duro Basin, Vol.1 of 2, 
+					 <unitdate era="ce" calendar="gregorian">December 1983,
+						</unitdate>ONWI/SUB/83/E512-05000-T11</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">20</container>
+              <container type="folder">4</container>
+              <unittitle>Bibliography of Available Reports from Office of
+					 Nuclear Waste Isolation (ONWI), 
+					 <unitdate era="ce" calendar="gregorian">June 1979 to July 1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">20</container>
+              <container type="folder">5</container>
+              <unittitle>Memo: Data Summary for Spent Nuclear Fuel and
+					 Radioactive Waste</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">20</container>
+              <container type="folder">6</container>
+              <unittitle>History of Shaft Freezing and Its Application to the
+					 Salt Repository Project</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">20</container>
+              <container type="folder">7</container>
+              <unittitle>Well Completion Report, Dissolution Zone Water Wells,
+					 Palo Duro Basin, 
+					 <unitdate era="ce" calendar="gregorian">June 1983,
+						</unitdate>ONWI/SUB/83/E512-05000-T10</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Newsclippings</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">21</container>
+            <unittitle>Office of Civilian Radioactive Waste Management, U.S.
+				  Department of Energy -Various Titles-OCRM (I)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">22</container>
+            <unittitle>Office of Civilian Radioactive Waste Management, U.S.
+				  Department of Energy -Various Titles-OCRM (II)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">23</container>
+            <unittitle>Office of Civilian Radioactive Waste Management, U.S.
+				  Department of Energy -Various Titles-OCRM (III)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">24</container>
+            <unittitle>Nuclear Waste News, Various Titles; NWTS, various
+				  titles; The Philadelphia Inquirer, 
+				  <unitdate era="ce" calendar="gregorian">November 13-20, 1983; </unitdate>Wall Street Journal, 
+				  <unitdate era="ce" calendar="gregorian">December 27, 1985, </unitdate>DOE Publications (Bound
+				  and Unnumbered)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">1</container>
+            <unittitle>Information About the Deaf Smith County Site in Texas, 
+				  <unitdate era="ce" calendar="gregorian">June 11, 1987</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>DOE Publications (Bound and Unnumbered)</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">2</container>
+            <unittitle>Information About the Deaf Smith County Site in Texas, 
+				  <unitdate era="ce" calendar="gregorian">January 1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">3</container>
+            <unittitle>Can Nuclear Waste be Transported Safely?</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">4</container>
+            <unittitle>What is Nuclear Waste?</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">5</container>
+            <unittitle>Radiation and Nuclear Waste- How Are they
+				  Related?</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">6</container>
+            <unittitle>What Will a Nuclear Waste Repository Look
+				  Like?</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">7</container>
+            <unittitle>How Much High-Level Nuclear Waste is There?</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">8</container>
+            <unittitle>What is Spent Nuclear Fuel?</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">9</container>
+            <unittitle>The Illustrated Mechanics of Nuclear Waste
+				  Disposal</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">10</container>
+            <unittitle>What is Tuff?</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">11</container>
+            <unittitle>What is Spent Nuclear Fuel?</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">12</container>
+            <unittitle>Background Information for Public Hearings in Texas, 
+				  <unitdate era="ce" calendar="gregorian">May 16,17, and 18, 1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">13</container>
+            <unittitle>National Waste Storage program -Nuclear Waste Policy Act
+				  1982 -Studies in Texas for Town Meetings in Hereford, Texas, 
+				  <unitdate era="ce" calendar="gregorian">March 29 and April 5, 1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">14</container>
+            <unittitle>Radiation Effects Reprint File</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>DOE Publications (Bound and Unnumbered), Sandia
+				Report</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">15</container>
+            <unittitle>Transportation Technology Quick Reference File,
+				  SAND79-2101</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>DOE Publications (Bound and Unnumbered)</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">16</container>
+            <unittitle>A Process to Develop A Public Participation Plan for the
+				  U.S. Department of Energy Salt Repository Project</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>DOE Publications (Bound and Unnumbered), Argonne National
+				Laboratory</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">17</container>
+            <unittitle>Preliminary Assessment of Costs and Risks of
+				  transporting Spent Fuel by Barge, ANL/ER-TM-85-2</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">18</container>
+            <unittitle>Salt Repository Project, Deaf Smith County Site, Land
+				  Acquisition Plan, 
+				  <unitdate era="ce" calendar="gregorian">September 17, 1987</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>DOE</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">19</container>
+            <unittitle>Shipment Of Radioactive Materials by the U.S. Department
+				  of Energy, DOE/DP-0030</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">20</container>
+            <unittitle>Radioactive Materials Transportation: Emergency
+				  Response</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">21</container>
+            <unittitle>Radioactive Materials Shipping Regulations</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">22</container>
+            <unittitle>Transporting Uranium Hexafluoride</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">23</container>
+            <unittitle>Spent Fuel Transportation</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">24</container>
+            <unittitle>Highlights From The Model Study: The Response of Nuclear
+				  Spent Fuel Containers to Severe Transportation Accidents, 
+				  <unitdate era="ce" calendar="gregorian">May 1987</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>GAO (United States General Accounting Office), Report to
+				the Congress</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">25</container>
+            <unittitle>Nuclear Waste- Status of DOE's Implementation of the
+				  Nuclear Waste Policy Act, 
+				  <unitdate era="ce" calendar="gregorian">April 1987, </unitdate>GAO/RCED-87-17</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>GAO (United States General Accounting Office), Report to
+				the Congressional Requesters</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">26</container>
+            <unittitle>Nuclear Waste- DOE Should Provide More Information on
+				  Monitored Retrievable Storage, GAO/RCED-87-92</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>GAO (United States General Accounting Office), Fact Sheet
+				for Congressional Requesters</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">27</container>
+            <unittitle>Nuclear Waste- Issues Concerning DOE's Postponement of
+				  Second Repository Siting Activities, GAO/RCED-86-200FS</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">28</container>
+            <unittitle>Nuclear Waste- Quarterly Report on DOE's Nuclear Waste
+				  Program as of September 30, 1985, GAO/RCED-86-42</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>GAO (United States General Accounting Office), Report to
+				the Committee on Energy and Natural Resources United States Senate</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">29</container>
+            <unittitle>Status of the Department of Energy's Implementation of
+				  the Nuclear Waste Policy Act of 1982 as of June 30, 1985
+				  GAO/RCED-86-156</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>GAO (United States General Accounting Office), By the
+				Comptroller General, Report to the Congress of the United States</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">30</container>
+            <unittitle>Department of Energy's Initial Efforts to Implement the
+				  Nuclear Waste Policy Act of 1982, 
+				  <unitdate era="ce" calendar="gregorian">January 10, 1985 </unitdate>GAO/RCED-85-27</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>OTA (Office of Technology Assessment)</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">31</container>
+            <unittitle>Managing the Nation's Commercial High-Level Radioactive
+				  Waste</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>DOE</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">32</container>
+            <unittitle>Implementation of the Nuclear Waste Policy Act:
+				  Monitored Retrievable Storage as an Integral Part, 
+				  <unitdate era="ce" calendar="gregorian">March 13, 1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">33</container>
+            <unittitle>Various Flash Cards (10)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">34</container>
+            <unittitle>DOE News: Fact Sheet Waste Isolation Pilot Plant
+				  (WIPP)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">35</container>
+            <unittitle>DOE News: DOE Announces Three Potential Sites for a
+				  Proposed Monitored Retrievable Storage Facility, 
+				  <unitdate era="ce" calendar="gregorian">April 25, 1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">36</container>
+            <unittitle>Screening and Identification of Sites for a Proposed
+				  Monitored Retrievable Storage Facility, 
+				  <unitdate era="ce" calendar="gregorian">April 1985 </unitdate>DOE/RW-0023</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">37</container>
+            <unittitle>The Need for and Feasibility of Monitored Retrievable
+				  Storage--A Preliminary Analysis, 
+				  <unitdate era="ce" calendar="gregorian">April 1985 </unitdate>DOE/RW-0022</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">38</container>
+            <unittitle>National Waste Terminal Storage Program, Austin, Texas, 
+				  <unitdate era="ce" calendar="gregorian">July 21 and 22, 1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">39</container>
+            <unittitle>National Waste Terminal Storage Program, Canyon, Texas, 
+				  <unitdate era="ce" calendar="gregorian">December, 1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">40</container>
+            <unittitle>A Process to Develop A Public Participation Plan for the
+				  U.S. Department of Energy Salt Repository Project</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>DOE Publications, Lawrence Livermore National
+				Laboratory</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">41</container>
+            <unittitle>Thermal Conductivity and Diffusivity of Permian Basin
+				  Bedded Salt at Elevated Pressure and Temperature UCRL-53476</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>DOE Publications</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">1</container>
+            <unittitle>Catalog of Ongoing and Planned Work of the CRWM-Salt
+				  Repository Project in Columbus, Ohio, 
+				  <unitdate era="ce" calendar="gregorian">April 1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">2</container>
+            <unittitle>Managing Nuclear Waste- A Better Idea, 
+				  <unitdate era="ce" calendar="gregorian">December 1984</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">3</container>
+            <unittitle>Nuclear Waste Policy Act: Background Information on the
+				  Draft Environmental Assessments, Texas 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">4</container>
+            <unittitle>Nuclear Waste Policy Act: Background Information on the
+				  Draft Environmental Assessments, Mississippi 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">5</container>
+            <unittitle>Nuclear Waste Policy Act: Background Information on the
+				  Draft Environmental Assessments, Utah 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">6</container>
+            <unittitle>Salt Repository Project, Deaf Smith County Site Land
+				  Acquisition Plan, 
+				  <unitdate era="ce" calendar="gregorian">September 17, 1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">7</container>
+            <unittitle>Final Environmental Impact Statement: Management of
+				  Commercially Generated Radioactive Waste, Volume 3, 
+				  <unitdate era="ce" calendar="gregorian">October 1980, </unitdate>DOE/EIS-0046F</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">8</container>
+            <unittitle>National Waste Terminal Storage Program, Austin, Texas, 
+				  <unitdate era="ce" calendar="gregorian">July 21 and 22, 1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">9</container>
+            <unittitle>Information for the Texas Panhandle Emergency Management
+				  Association's Symposium on Managing a Radiological Incident, Amarillo, Texas, 
+				  <unitdate era="ce" calendar="gregorian">October 26, 1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">10</container>
+            <unittitle>Nuclear Waste Policy Act: Background Information on the
+				  Draft Environmental Assessments, Mississippi 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">11</container>
+            <unittitle>Information About the Deaf Smith County Site in Texas,
+				  Amarillo, 
+				  <unitdate era="ce" calendar="gregorian">June 11, 1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">12</container>
+            <unittitle>Catalog of Ongoing and Planned Work of the CRWM-Salt
+				  Repository Project in Hereford, Texas, 
+				  <unitdate era="ce" calendar="gregorian">June 1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">13</container>
+            <unittitle>Catalog of Ongoing and Planned Work of the CRWM-Salt
+				  Repository Project in Hereford, Texas, 
+				  <unitdate era="ce" calendar="gregorian">August 1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">14</container>
+            <unittitle>Background and Current Activities in Texas, 
+				  <unitdate era="ce" calendar="gregorian">1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">15</container>
+            <unittitle>Salt Repository Project, Deaf Smith County Site, Land
+				  Acquisition Plan, 
+				  <unitdate era="ce" calendar="gregorian">September 17, 1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">1</container>
+            <unittitle>An Evaluation of Commercial Repository Capacity for the
+				  Disposal of Defense High-Level Waste, 
+				  <unitdate era="ce" calendar="gregorian">June 1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">2</container>
+            <unittitle>Atoms to Electricity, 
+				  <unitdate era="ce" calendar="gregorian">November 1983, </unitdate>DOE/NE-0053</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">3</container>
+            <unittitle>Progress in Energy 1983-1984, 
+				  <unitdate era="ce" calendar="gregorian">September 1984, </unitdate>DOE/S-0030/1</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">4</container>
+            <unittitle>Secretary of Energy: Annual Report to Congress, 
+				  <unitdate era="ce" calendar="gregorian">September 1984, </unitdate>DOE/S-0010(84)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">5</container>
+            <unittitle>An Evaluation of Commercial Repository Capacity for the
+				  Disposal of Defense High-Level Waste, 
+				  <unitdate era="ce" calendar="gregorian">June 1985 </unitdate>DOE/DP/0020/1</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>DOE Publications, Argonne National Laboratory</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">6</container>
+            <unittitle>Radioactive Waste Isolation in Salt: Peer Review of the
+				  Office of Nuclear Waste Isolation's Socioeconomic Program Plan,
+				  ANL/EES-TM-243</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">7</container>
+            <unittitle>Radioactive Waste Isolation in Salt: Peer Review of the
+				  Office of Nuclear Waste Isolation's Reports on Preferre Repository Sites within
+				  the, Palo Duro Basin, Texas, ANL/EES-TM-254</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">8</container>
+            <unittitle>Preliminary Assessment of Costs and Risks of
+				  Transporting Spent Fuel by Barge, ANL/EES-TM-85-2</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>DOE Publications, Rockwell International</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">9</container>
+            <unittitle>Identification of candidate Sites Suitable for a
+				  Geologic Repository In Basalt Within Hanford, RHO-BWI-LD-24</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">10</container>
+            <unittitle>Study to Identify a Reference Repository Location for a
+				  Nuclear Waste Repository on the Hanford Site, Volume 1
+				  RHO-BWI-C-107</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">11</container>
+            <unittitle>Site Locality Identification Study: Hanford Site, Volume
+				  1: Methodology, Guidelines, and Screening RHO-BWI-C-62</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>DOE Publications</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">12</container>
+            <unittitle>An Evaluation of Commercial Repository Capacity for the
+				  Disposal of Defense High-Level Waste, 
+				  <unitdate era="ce" calendar="gregorian">June 1985 </unitdate>DOE/DP/0020/1</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">13</container>
+            <unittitle>SP-100 Space Reactor Safety, 
+				  <unitdate era="ce" calendar="gregorian">May 1987, </unitdate>DOE/NE-0083</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">14</container>
+            <unittitle>Nuclear Power From Fission Reactors: An Introduction, 
+				  <unitdate era="ce" calendar="gregorian">March 1982, </unitdate>DOE/NE-0029</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">15</container>
+            <unittitle>Generic Requirements for a Mined Geologic Disposal
+				  System, 
+				  <unitdate era="ce" calendar="gregorian">September 1984, </unitdate>DOE/NE/44301-1</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">16</container>
+            <unittitle>Annual Site Environmental Monitoring Report for the
+				  Waste Isolation Pilot Plant CY 
+				  <unitdate era="ce" calendar="gregorian">1985, </unitdate>DOE-WIPP-86-002</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">17</container>
+            <unittitle>Final Environmental Impact Statement: Management of
+				  Commercially Generated Radioactive Waste, Volume 1 of 3, 
+				  <unitdate era="ce" calendar="gregorian">October 1980, </unitdate>DOE/EIS-0046F</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">18</container>
+            <unittitle>Final Environmental Impact Statement: Management of
+				  Commercially Generated Radioactive Waste, Volume 2 of 3, 
+				  <unitdate era="ce" calendar="gregorian">October 1980, </unitdate>DOE/EIS-0046F</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">19</container>
+            <unittitle>Final Environmental Impact Statement: Management of
+				  Commercially Generated Radioactive Waste, Volume 3 of 3, 
+				  <unitdate era="ce" calendar="gregorian">October 1980, </unitdate>DOE/EIS-0046F</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">20</container>
+            <unittitle>Nuclear Waste Policy Act: Recommendation by the
+				  Secretary of Energy of Candidate Sites for Site Characterization for the First
+				  Radioactive-Waste Repository, 
+				  <unitdate era="ce" calendar="gregorian">May 1986, </unitdate>DOE/S-0048</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">21</container>
+            <unittitle>Proceedings of the 1981 National Waste terminal Storage
+				  Program Information Meeting, 
+				  <unitdate era="ce" calendar="gregorian">November 1981 </unitdate>DOE/NWTS-15</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">22</container>
+            <unittitle>Public Draft: National Plan for Siting High-Level
+				  Radioactive Waste Repositories and Environmental Assessment, 
+				  <unitdate era="ce" calendar="gregorian">February 1982, </unitdate>DOE/NWTS-4
+				  DOE/EA-151</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">23</container>
+            <unittitle>NWTS Program Criteria for Mined Geologic Disposal of
+				  Nuclear Waste Program Objectives, Functional Requirements, and System
+				  Performance Criteria, 
+				  <unitdate era="ce" calendar="gregorian">March 1982, </unitdate>DOE/NWTS-33(1)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">24</container>
+            <unittitle>NWTS Program Criteria for Mined Geologic Disposal of
+				  Nuclear Waste Site Performance Criteria, 
+				  <unitdate era="ce" calendar="gregorian">February 1982 </unitdate>DOE/NWTS-33(2)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">25</container>
+            <unittitle>NWTS Program Criteria for Mined Geologic Disposal of
+				  Nuclear Waste Repository Performance and Development Criteria, 
+				  <unitdate era="ce" calendar="gregorian">July 1982, </unitdate>DOE/NWTS-33(3)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">26</container>
+            <unittitle>Implementation of technical Conservatism an the
+				  Development of Nuclear Waste Repositories, 
+				  <unitdate era="ce" calendar="gregorian">March 1981 </unitdate>DOE/NWTS-147(1)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">27</container>
+            <unittitle>Proceedings of the 1982 National Waste Terminal Storage
+				  Program Information Meeting, 
+				  <unitdate era="ce" calendar="gregorian">December 1982 </unitdate>DOE/NWTS-30</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>DOE Publications (Numbered DOE/CH...)</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">1</container>
+            <unittitle>Systems Engineering Management Plan for the Salt
+				  repository Project, 
+				  <unitdate era="ce" calendar="gregorian">August 1986, </unitdate>DOE/CH-21</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">2</container>
+            <unittitle>Petrographic Report on Samples from Unit 4 Salt, Lower
+				  San Andres Formation, Zeeck No. 1 Well, Swisher County, Palo Duro basin, Texas,
+				  
+				  <unitdate era="ce" calendar="gregorian">September 1986, </unitdate>DOE/CH/01664-04</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">3</container>
+            <unittitle>Interpretation of Ground-Water Geochemical Data, Palo
+				  Duro, Texas, 
+				  <unitdate era="ce" calendar="gregorian">September 1986, </unitdate>DOE/CH/01664-01</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">4</container>
+            <unittitle>Rock Mechanics Models Evaluation Report, 
+				  <unitdate era="ce" calendar="gregorian">August 1987, </unitdate>DOE/CH/46656-09</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">5</container>
+            <unittitle>Exploratory Shaft Facility Quality Assurance Impact
+				  Evaluation, 
+				  <unitdate era="ce" calendar="gregorian">August 1987, </unitdate>DOE/CH/46656-10</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">6</container>
+            <unittitle>Shaft Siting Decision, 
+				  <unitdate era="ce" calendar="gregorian">August 1987, </unitdate>DOE/CH/46656-08</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">7</container>
+            <unittitle>Subsurface Quality Assurance practices, 
+				  <unitdate era="ce" calendar="gregorian">August 1987, </unitdate>DOE/CH/46656-07</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">8</container>
+            <unittitle>Waste Hoist Technology, 
+				  <unitdate era="ce" calendar="gregorian">September 1987, </unitdate>DOE/CH/46656-06</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">9</container>
+            <unittitle>Utility Service Entrance in Boreholes, 
+				  <unitdate era="ce" calendar="gregorian">August 1987, </unitdate>DOE/CH/46656-03</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">10</container>
+            <unittitle>Identification of Sites Within the Palo Duro Basin:
+				  Volume 2- Palo Duro Location B, 
+				  <unitdate era="ce" calendar="gregorian">November 1984 </unitdate>DOE/CH-10(2)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">11</container>
+            <unittitle>Identification of Sites Within the Palo Duro Basin:
+				  Volume 1- Palo Duro Location A, 
+				  <unitdate era="ce" calendar="gregorian">November 1984 </unitdate>DOE/CH-10(1)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">12</container>
+            <unittitle>Identification of Sites Within the Palo Duro Basin:
+				  Volume 1- Palo Duro Location A, 
+				  <unitdate era="ce" calendar="gregorian">November 1984 </unitdate>DOE/CH-10(1)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">13</container>
+            <unittitle>Identification of Sites Within the Palo Duro Basin:
+				  Volume 3- Responses to Comments, 
+				  <unitdate era="ce" calendar="gregorian">November 1984 </unitdate>DOE/CH-10(3)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">14</container>
+            <unittitle>Bibliography of Studies for the Salt Repository Project
+				  Office of the Civilian Radioactive Waste Management Program, 
+				  <unitdate era="ce" calendar="gregorian">April 1978-December, 1986,
+					 </unitdate>DOE/CH/10140-05(87)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">15</container>
+            <unittitle>Area Geological Characterization Report for the Palo
+				  Duro and Dalhart Basins, Texas, 
+				  <unitdate era="ce" calendar="gregorian">July 1983 </unitdate>DOE/CH/10140-1</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">16</container>
+            <unittitle>Bibliography of Studies for the Salt Repository Project
+				  Office of the Civilian Radioactive Waste Management Program, 
+				  <unitdate era="ce" calendar="gregorian">April 1978-July 1985,
+					 </unitdate>DOE/CH/10140-5(85)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">17</container>
+            <unittitle>Salt Repository Project FY 85 Technical Project Plan, 
+				  <unitdate era="ce" calendar="gregorian">July 1985 </unitdate>DOE/CH/10140-4</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">18</container>
+            <unittitle>Salt Repository Project Technical Progress Report for
+				  the Quarter, 
+				  <unitdate era="ce" calendar="gregorian">1 July-30 September, 1986
+					 </unitdate>DOE/CH/10140-03(86-4)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">19</container>
+            <unittitle>Salt Repository Project Technical Progress Report for
+				  the Quarter, 
+				  <unitdate era="ce" calendar="gregorian">1 October-31 December, 1986
+					 </unitdate>DOE/CH/10140-03(87-1)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">20</container>
+            <unittitle>Salt Repository Project Technical Progress Report for
+				  the Quarter, 
+				  <unitdate era="ce" calendar="gregorian">1 April-30 June, 1985
+					 </unitdate>DOE/CH/10140-03(85-3)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">21</container>
+            <unittitle>Salt Repository Project Technical Progress Report for
+				  the Quarter, 
+				  <unitdate era="ce" calendar="gregorian">1 January-31 March, 1985
+					 </unitdate>DOE/CH/10140-03(85-2)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">22</container>
+            <unittitle>Permian Basin Location Recommendation Report, 
+				  <unitdate era="ce" calendar="gregorian">September 1983, </unitdate>DOE/CH/10140-2</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">23</container>
+            <unittitle>Area Geological Characterization Report for the Palo
+				  Duro and Dalhart Basins, Texas, 
+				  <unitdate era="ce" calendar="gregorian">July 1983 </unitdate>DOE/CH/10140-1</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">29</container>
+            <container type="folder">1</container>
+            <unittitle>Exploratory Shaft Facility, Gorleben, Federal Republic
+				  of Germany, 
+				  <unitdate era="ce" calendar="gregorian">May 1987</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted, International Atomic Energy Agency</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">29</container>
+            <container type="folder">2</container>
+            <unittitle>Techniques for Site Investigations for Underground
+				  Disposal of Radioactive Wastes, 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Technical Reports Series No.256</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted, Congress of the United States: Office of
+				Technology Assessment</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">29</container>
+            <container type="folder">3</container>
+            <unittitle>Managing the Nation's Commercial High-Level Radioactive
+				  Waste, 
+				  <unitdate era="ce" calendar="gregorian">March 1985</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">29</container>
+            <container type="folder">4</container>
+            <unittitle>Rock Types Being Studied for Nuclear Waste Repository
+				  Program; Uranium Pellet Displays</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">29</container>
+            <container type="folder">5</container>
+            <unittitle>Public Law 97-425, 97th Congress, 
+				  <unitdate era="ce" calendar="gregorian">January 7, 1983, </unitdate>96 STAT 2201</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">29</container>
+            <container type="folder">6</container>
+            <unittitle>Various Articles
+				  (Newspaper/Magazine/Journal)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">29</container>
+            <container type="folder">7</container>
+            <unittitle>Various Articles/Reports (non DOE)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">29</container>
+            <container type="folder">8</container>
+            <unittitle>Nuclear Waste Policy Commission Act of 1987</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">29</container>
+            <container type="folder">9</container>
+            <unittitle>Nuclear Waste Policy Commission Act of 1987</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">29</container>
+            <container type="folder">10</container>
+            <unittitle>Deaf Smith County Community Audit, 
+				  <unitdate era="ce" calendar="gregorian">1988 </unitdate>Database</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">29</container>
+            <container type="folder">11</container>
+            <unittitle>Swisher County Community Audit, 
+				  <unitdate era="ce" calendar="gregorian">1988 </unitdate>Database</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">29</container>
+            <container type="folder">12</container>
+            <unittitle>9 County Community Audit, 
+				  <unitdate era="ce" calendar="gregorian">1988 </unitdate>Database</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">29</container>
+            <container type="folder">13</container>
+            <unittitle>Parmer County Community Audit, 
+				  <unitdate era="ce" calendar="gregorian">1988 </unitdate>Database</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">29</container>
+            <container type="folder">14</container>
+            <unittitle>Castro County Community Audit, 
+				  <unitdate era="ce" calendar="gregorian">1988 </unitdate>Database</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted, DOE</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">29</container>
+            <container type="folder">15</container>
+            <unittitle>Area Recommendation Report for the Crystalline
+				  Repository Project: Volume 2, Plates, DOE/CH-15(2)</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">30</container>
+            <container type="folder">1</container>
+            <unittitle>Pictures of Public Hearing</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">30</container>
+            <container type="folder">2</container>
+            <unittitle>Radiation Effects Reprint File</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">30</container>
+            <container type="folder">3</container>
+            <unittitle>Subregional Characterization Report Palo Duro and
+				  Dalhart Basins, Texans, 
+				  <unitdate era="ce" calendar="gregorian">February 1981</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted, Oversite Articles</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">30</container>
+            <container type="folder">4</container>
+            <unittitle>Oversite issues 27-52 (NewsData Corp.'s weekly
+				  newsletter covering site selection for nuclear waste repositories)</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">30</container>
+            <container type="folder">5</container>
+            <unittitle>High-Level Radioactive Waste Management Alternatives,
+				  Volume 3, 
+				  <unitdate era="ce" calendar="gregorian">may 1974, </unitdate>BNWL-1900</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted, U.S. Department of Commerce</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">30</container>
+            <container type="folder">6</container>
+            <unittitle>Power plant Cumulative Impact Report, 
+				  <unitdate era="ce" calendar="gregorian">November 1978, </unitdate>PB 293-804</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">30</container>
+            <container type="folder">7</container>
+            <unittitle>Basalt Waste Isolation Project, Environmental Assessment
+				  References, 
+				  <unitdate era="ce" calendar="gregorian">January 18, 1985</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted, DOE</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">30</container>
+            <container type="folder">8</container>
+            <unittitle>Bibliography of the Published Reports, Papers, and
+				  Articles on the Nevada Nuclear Waste Storage Investigations, 
+				  <unitdate era="ce" calendar="gregorian">November 1981, </unitdate>NVO-196-24 UC-70</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">30</container>
+            <container type="folder">9</container>
+            <unittitle>Lawrence Livermore National Laboratory Climax Granite
+				  Field Test Facility Publication List, 
+				  <unitdate era="ce" calendar="gregorian">March 1982</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">30</container>
+            <container type="folder">10</container>
+            <unittitle>Basalt Waste Isolation Project, Documents Issued List, 
+				  <unitdate era="ce" calendar="gregorian">Fiscal Years 1978, 1979 and 1980</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">30</container>
+            <container type="folder">11</container>
+            <unittitle>Strategic Plan for Economic and Community Development,
+				  Volume II, Deaf Smith County and the City of Hereford, 
+				  <unitdate era="ce" calendar="gregorian">July 1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">30</container>
+            <container type="folder">12</container>
+            <unittitle>Strategic Plan for Economic and Community Development,
+				  Volume I, Deaf Smith County and the City of Hereford, 
+				  <unitdate era="ce" calendar="gregorian">July 1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">30</container>
+            <container type="folder">13</container>
+            <unittitle>Course 199: Radiation Protection for Family, Food, and
+				  Farm</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">30</container>
+            <container type="folder">14</container>
+            <unittitle>State Planning Council on Radioactive Waste Management, 
+				  <unitdate era="ce" calendar="gregorian">September 8-9, 1980</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">30</container>
+            <container type="folder">15</container>
+            <unittitle>Strategic Plan for Economic and Community Development,
+				  Volume IV, Deaf Smith County and the City of Hereford, 
+				  <unitdate era="ce" calendar="gregorian">July 1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">30</container>
+            <container type="folder">16</container>
+            <unittitle>Strategic Plan for Economic and Community Development,
+				  Volume III, Deaf Smith County and the City of Hereford, 
+				  <unitdate era="ce" calendar="gregorian">July 1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">1</container>
+            <unittitle>Questions and Answers About the Potential Effects of a
+				  Repository on the Ogallala Aquifer</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted, U.S. Department of Energy Salt Repository
+				Project</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">2</container>
+            <unittitle>A Process to Develop A public Participation Plan, 
+				  <unitdate era="ce" calendar="gregorian">April 1987</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">3</container>
+            <unittitle>Salt Repository Project, Public Information Products and
+				  Outreach Activities</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted, DOE</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">4</container>
+            <unittitle>Transcript of Public Meetings on Studies in Utah, 
+				  <unitdate era="ce" calendar="gregorian">August 1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">5</container>
+            <unittitle>Press Releases</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted, U.S. Department of Agriculture</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">6</container>
+            <unittitle>Effects of a High-Level Nuclear Repository on Local
+				  Communities: A Survey of Texas Panhandle Residents, 
+				  <unitdate era="ce" calendar="gregorian">February 1987</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">7</container>
+            <unittitle>Challenge of the Eighties: Education Kit</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted, International Atomic Energy Agency</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">8</container>
+            <unittitle>Safety Series No.60: Criteria for Underground Disposal
+				  of Solid Radioactive Wastes, 
+				  <unitdate era="ce" calendar="gregorian">1983</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">9</container>
+            <unittitle>Science, 7-12, Energy Essential Elements</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">10</container>
+            <unittitle>The Safety of Repositories for Highly Radioactive
+				  Wastes, 
+				  <unitdate era="ce" calendar="gregorian">January 1982</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted, DOE</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">11</container>
+            <unittitle>Summary of National and International Fuel Cycle and
+				  Radioactive Waste Management Programs: 
+				  <unitdate era="ce" calendar="gregorian">1984 </unitdate>PNL-5138 UC-70</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">12</container>
+            <unittitle>Salt Deposits in the United States and regional Geologic
+				  Characteristics Important for Storage of Radioactive Waste, 
+				  <unitdate era="ce" calendar="gregorian">March 1978, </unitdate>Y/OWI/SUB-7414/1</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">13</container>
+            <unittitle>Evaluation of the Safety Analysis Report for the Waste
+				  Isolation Pilot Plant Project, 
+				  <unitdate era="ce" calendar="gregorian">May 1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">14</container>
+            <unittitle>Shipping Container Response to Severe Highway and
+				  Railway Accident Conditions, Volume 2 NUREG/CR-4829 UCID-20733</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted, Texas Tech University</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">15</container>
+            <unittitle>Potential Economic and Environmental Impacts of the Deaf
+				  Smith County Nuclear Waste Repository Site in Caster, Parmer, and
+				  SwisherCountries, 
+				  <unitdate era="ce" calendar="gregorian">July 15, 1987</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted, DOE</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">16</container>
+            <unittitle>Area Recommendation Report for the Crystalline
+				  Repository Project Overview, 
+				  <unitdate era="ce" calendar="gregorian">January 1986, </unitdate>DOE/H-15(0)</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">17</container>
+            <unittitle>DOENews: Department of Energy Issues Final Regional
+				  Characterization Reports, 
+				  <unitdate era="ce" calendar="gregorian">September 11, 1985</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted, OCRD</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">18</container>
+            <unittitle>A National Survey of Crystalline Rocks and
+				  Recommendations of Regions to be Explored for High-Level Radioactive Waste
+				  Repository Sites, 
+				  <unitdate era="ce" calendar="gregorian">April 1983, </unitdate>OCRD-1</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Assorted, DOE</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">19</container>
+            <unittitle>Briefing on the Draft Area Recommendation Report for the
+				  U.S. Congress, 
+				  <unitdate era="ce" calendar="gregorian">January 16, 1986</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">20</container>
+            <unittitle>Area Recommendation Report for the Crystalline
+				  Repository Project, Volume 1, 
+				  <unitdate era="ce" calendar="gregorian">January 1986, </unitdate>DOE/CH-15(1)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">21</container>
+            <unittitle>Crystalline Repository Project Area Phase</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">32</container>
+          <unittitle>Adds/Flyers/Magazines/etc</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">33</container>
+          <unittitle>BMI/ANL</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>DOE Adds/Flyers/etc.</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">34</container>
+            <unittitle>Area Recommendation Report for the Crystalline
+				  Repository Project: Volume 2, Plates, OE/CH-15(2)</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>DOE/RW-0004 to -0009</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">35</container>
+            <container type="folder">1</container>
+            <unittitle>Annual Report to Congress, 
+				  <unitdate era="ce" calendar="gregorian">February 1984, </unitdate>DOE/RW-0004</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">35</container>
+            <container type="folder">2</container>
+            <unittitle>Annual Report to Congress, 
+				  <unitdate era="ce" calendar="gregorian">May 1985, </unitdate>DOE/RW-0004/1</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">35</container>
+            <container type="folder">3</container>
+            <unittitle>Annual Report to Congress, 
+				  <unitdate era="ce" calendar="gregorian">March 1986, </unitdate>DOE/RW-0004/2</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">35</container>
+            <container type="folder">4</container>
+            <unittitle>Mission Plan for the Civilian Radioactive Waste
+				  Management Program, Volume I, 
+				  <unitdate era="ce" calendar="gregorian">June 1985, </unitdate>DOE/RW-0005</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">35</container>
+            <container type="folder">5</container>
+            <unittitle>Nuclear Waste Policy Act, Draft Environmental
+				  Assessment, Cyprus Creek Dome Site, Mississippi, 
+				  <unitdate era="ce" calendar="gregorian">December 1984 </unitdate>DOE/RW-0011</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">35</container>
+            <container type="folder">6</container>
+            <unittitle>Mission Plan for the Civilian Radioactive Waste
+				  Management Program, Volume I, 
+				  <unitdate era="ce" calendar="gregorian">June 1985, </unitdate>DOE/RW-0005</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">35</container>
+            <container type="folder">7</container>
+            <unittitle>Record of Responses to Public Comments on the Draft
+				  Mission Plan for the Civilian Radioactive Waste Management Program, Volume II, 
+				  <unitdate era="ce" calendar="gregorian">June, 1985, </unitdate>DOE/RW-0005</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">35</container>
+            <container type="folder">8</container>
+            <unittitle>Public Comments on the Draft Mission Plan for the
+				  Civilian Radioactive Waste Management Program, Volume III, 
+				  <unitdate era="ce" calendar="gregorian">June 1985, </unitdate>DOE/RW-0005</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">35</container>
+            <container type="folder">9</container>
+            <unittitle>Mission Plan for the Civilian Radioactive Waste
+				  Management Program, Volume I and II, 
+				  <unitdate era="ce" calendar="gregorian">April 1984 </unitdate>DOE/RW-0005 Draft</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">35</container>
+            <container type="folder">10</container>
+            <unittitle>Nuclear Waste Policy Act Draft Environmental Assessment,
+				  Davis Canyon Site, Utah, 
+				  <unitdate era="ce" calendar="gregorian">December 1984 </unitdate>DOE/RW-0010</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">35</container>
+            <container type="folder">11</container>
+            <unittitle>Nuclear Waste Policy Act Draft Environmental Assessment,
+				  Lavender Canyon Site, Utah, 
+				  <unitdate era="ce" calendar="gregorian">December 1984 </unitdate>DOE/RW-0009</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>DOE/RW-0011 to -0018</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">36</container>
+            <container type="folder">1</container>
+            <unittitle>Nuclear Waste Policy Act Draft Environmental Assessment,
+				  Cypress Creek Dome Site, Mississippi, 
+				  <unitdate era="ce" calendar="gregorian">December 1984, </unitdate>DOE/RW-0011</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">36</container>
+            <container type="folder">2</container>
+            <unittitle>Nuclear Waste Policy Act Draft Environmental Assessment,
+				  Yucca Mountain Site, Nevada Research and Development Area, Nevada, 
+				  <unitdate era="ce" calendar="gregorian">December 1984, </unitdate>DOE/RW-0012</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">36</container>
+            <container type="folder">3</container>
+            <unittitle>Nuclear Waste Policy Act Draft Environmental Assessment,
+				  Richton Dome Site, Mississippi, 
+				  <unitdate era="ce" calendar="gregorian">December 1984, </unitdate>DOE/RW-0013</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">36</container>
+            <container type="folder">4</container>
+            <unittitle>Nuclear Waste Policy Act Draft Environmental Assessment,
+				  Deaf Smith County Site, Texas, 
+				  <unitdate era="ce" calendar="gregorian">December 1984 </unitdate>DOE/RW-0014</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">36</container>
+            <container type="folder">5</container>
+            <unittitle>Nuclear Waste Policy Act Draft Environmental Assessment,
+				  Vacherie Dome Site, Louisiana, 
+				  <unitdate era="ce" calendar="gregorian">December 1984 </unitdate>DOE/RW-0016</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">36</container>
+            <container type="folder">6</container>
+            <unittitle>Nuclear Waste Policy Act Draft Environmental Assessment,
+				  Swisher County Site, Texas, 
+				  <unitdate era="ce" calendar="gregorian">December 1984 </unitdate>DOE/RW-0015</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">36</container>
+            <container type="folder">7</container>
+            <unittitle>Project Decision Schedule, 
+				  <unitdate era="ce" calendar="gregorian">July 1985, </unitdate>DOE/RW-0018 Draft</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>DOE/RW-0017 to -0070</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">1</container>
+            <unittitle>Analysis of the Total System Life Cycle Cost for the
+				  Civilian Radioactive Waste Management Program, Volume I: the Analysis and Its
+				  Results, 
+				  <unitdate era="ce" calendar="gregorian">June 1987, </unitdate>DOE/RW-0047</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">2</container>
+            <unittitle>Analysis of the Total System Life Cycle Cost for the
+				  Civilian Radioactive Waste Management Program, Volume II: Supporting
+				  Information, 
+				  <unitdate era="ce" calendar="gregorian">June 1987, </unitdate>DOE/RW-0047</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">3</container>
+            <unittitle>Internal Guidelines for Interactions With Communities
+				  and Local Governments, 
+				  <unitdate era="ce" calendar="gregorian">November 1985, </unitdate>DOE/RW-0039</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">4</container>
+            <unittitle>Managing The Nation's Nuclear Waste, 
+				  <unitdate era="ce" calendar="gregorian">September 1986, </unitdate>DOE/RW-0036</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">5</container>
+            <unittitle>Implementation Strategy for the Civilian Radioactive
+				  Waste Management Program, 
+				  <unitdate era="ce" calendar="gregorian">September 1985 </unitdate>DOE/RW-0030</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">6</container>
+            <unittitle>Information Services Directory, 
+				  <unitdate era="ce" calendar="gregorian">May 1987, </unitdate>DOE/RW-0038</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">7</container>
+            <unittitle>Analysis of the Total System Life Cycle Cost for the
+				  Civilian Radioactive Waste Management Program: Executive Summary, 
+				  <unitdate era="ce" calendar="gregorian">April 1985, </unitdate>DOE/RW-0025</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">8</container>
+            <unittitle>Nuclear Waste Fund Fee Adequacy: An Assessment, 
+				  <unitdate era="ce" calendar="gregorian">June 1987, </unitdate>DOE/RW-0020</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">9</container>
+            <unittitle>Systems Engineering Management Plan, 
+				  <unitdate era="ce" calendar="gregorian">October 1985, </unitdate>DOE/RW-0051</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">10</container>
+            <unittitle>Near-Term Public Information Products Program 
+				  <unitdate era="ce" calendar="gregorian">FY 86-87, February 1986,
+					 </unitdate>DOE/RW-0052</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">11</container>
+            <unittitle>Transportation Business Plan, 
+				  <unitdate era="ce" calendar="gregorian">January 1986, </unitdate>DOE/RW-0046</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">12</container>
+            <unittitle>Recommendation by the Secretary of Energy of Candidate
+				  Sites for Site Characterization for the First Radioactive-Waste Repository, 
+				  <unitdate era="ce" calendar="gregorian">May 1986, </unitdate>DOE/RW-0048</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">13</container>
+            <unittitle>Waste Management Systems Requirements and Descriptions
+				  (SRD), 
+				  <unitdate era="ce" calendar="gregorian">January 1986, </unitdate>DOE/RW-0063</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">14</container>
+            <unittitle>Waste Management Systems Requirements and Descriptions
+				  (SRD), 
+				  <unitdate era="ce" calendar="gregorian">January 1986, </unitdate>DOE/RW-0063</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">15</container>
+            <unittitle>Project Decision Schedule, 
+				  <unitdate era="ce" calendar="gregorian">March 1986, </unitdate>DOE/RW-0067</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">16</container>
+            <unittitle>Transporting Spent Nuclear Fuel: An Overview, 
+				  <unitdate era="ce" calendar="gregorian">March 1986, </unitdate>DOE/RW-0065</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">17</container>
+            <unittitle>OCRWM INFOLINK, 
+				  <unitdate era="ce" calendar="gregorian">December 1985, </unitdate>DOE/RW-0041</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">18</container>
+            <unittitle>Nuclear Waste Policy Act, Environmental Assessment,
+				  Reference Repository Location, Hanford Site, Washington, Volume I, 
+				  <unitdate era="ce" calendar="gregorian">May 1986, </unitdate>DOE/RW-0070</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">19</container>
+            <unittitle>Nuclear Waste Policy Act, Environmental Assessment,
+				  Reference Repository Location, Hanford Site, Washington, Volume II, 
+				  <unitdate era="ce" calendar="gregorian">May 1986, </unitdate>DOE/RW-0070</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">20</container>
+            <unittitle>Nuclear Waste Policy Act, Environmental Assessment,
+				  Reference Repository Location, Hanford Site, Washington, Volume III, 
+				  <unitdate era="ce" calendar="gregorian">May 1986, </unitdate>DOE/RW-0070</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">21</container>
+            <unittitle>Nuclear Waste Policy Act, Environmental Assessment,
+				  Reference Repository Location, Deaf Smith County Site, Volume II, 
+				  <unitdate era="ce" calendar="gregorian">May 1986, </unitdate>DOE/RW-0069</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">22</container>
+            <unittitle>Nuclear Waste Policy Act, Environmental Assessment,
+				  Reference Repository Location, Deaf Smith County Site, Volume III, 
+				  <unitdate era="ce" calendar="gregorian">May 1986, </unitdate>DOE/RW-0069</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">23</container>
+            <unittitle>Nuclear Waste Policy Act, Environmental Assessment,
+				  Reference Repository Location, Reference Repository Location, Hanford Site,
+				  Washington, 
+				  <unitdate era="ce" calendar="gregorian">December 1984, </unitdate>DOE/RW-0017</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>DOE/RW-0071 to -0078</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">38</container>
+            <container type="folder">1</container>
+            <unittitle>Nuclear Waste Policy Act, Environmental Assessment,
+				  Yucca Mountain Site, Nevada Research and Development Area, Nevada, Volume 3 of
+				  3, 
+				  <unitdate era="ce" calendar="gregorian">May 1986, </unitdate>DOE/RW-0073</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">38</container>
+            <container type="folder">2</container>
+            <unittitle>Nuclear Waste Policy Act, Environmental Assessment,
+				  Richton Dome Site, Mississippi, Volume 1 of 3, 
+				  <unitdate era="ce" calendar="gregorian">May 1986 </unitdate>DOE/RW-0072</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">38</container>
+            <container type="folder">3</container>
+            <unittitle>Nuclear Waste Policy Act, Environmental Assessment,
+				  Richton Dome Site, Mississippi, Volume 2 of 3, 
+				  <unitdate era="ce" calendar="gregorian">May 1986 </unitdate>DOE/RW-0072</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">38</container>
+            <container type="folder">4</container>
+            <unittitle>Nuclear Waste Policy Act, Environmental Assessment,
+				  Richton Dome Site, Mississippi, Volume 3 of 3, 
+				  <unitdate era="ce" calendar="gregorian">May 1986 </unitdate>DOE/RW-0072</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">38</container>
+            <container type="folder">5</container>
+            <unittitle>Nuclear Waste Policy Act, A Multiattribute Utility
+				  Analysis of Sites Nominated for Characterization for the first Radioactive
+				  Waste Repository-A Decision-Aiding Methodology, 
+				  <unitdate era="ce" calendar="gregorian">May 1986, </unitdate>DOE/RW-0074</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">38</container>
+            <container type="folder">6</container>
+            <unittitle>Nuclear Waste Policy Act, Environmental Assessment,
+				  Yucca Mountain Site, Nevada Research and Development Area, Nevada, Volume 2 of
+				  3, 
+				  <unitdate era="ce" calendar="gregorian">May 1986, </unitdate>DOE/RW-0073</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">38</container>
+            <container type="folder">7</container>
+            <unittitle>Nuclear Waste Policy Act, Environmental Assessment,
+				  Yucca Mountain Site, Nevada Research and Development Area, Nevada, Volume 1 of
+				  3, 
+				  <unitdate era="ce" calendar="gregorian">May 1986, </unitdate>DOE/RW-0073</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">38</container>
+            <container type="folder">8</container>
+            <unittitle>Nuclear Waste Policy Act, Environmental Assessment,
+				  Davis Canyon Site, Utah, 1 of 3, 
+				  <unitdate era="ce" calendar="gregorian">May 1986, </unitdate>DOE/RW-0071</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">38</container>
+            <container type="folder">9</container>
+            <unittitle>Nuclear Waste Policy Act, Environmental Assessment,
+				  Davis Canyon Site, Utah, 2 of 3, 
+				  <unitdate era="ce" calendar="gregorian">May 1986, </unitdate>DOE/RW-0071</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">38</container>
+            <container type="folder">10</container>
+            <unittitle>Nuclear Waste Policy Act, Environmental Assessment,
+				  Davis Canyon Site, Utah, 3 of 3, 
+				  <unitdate era="ce" calendar="gregorian">May 1986, </unitdate>DOE/RW-0071</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">38</container>
+            <container type="folder">11</container>
+            <unittitle>Nuclear Waste Policy Act, Environmental Assessment
+				  Overview, Davis Canyon Site, Utah, 
+				  <unitdate era="ce" calendar="gregorian">May 1986 </unitdate>DOE/RW-0077</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">38</container>
+            <container type="folder">12</container>
+            <unittitle>Nuclear Waste Policy Act, Environmental Assessment
+				  Overview, Richton Dome Site, Mississippi, 
+				  <unitdate era="ce" calendar="gregorian">May 1986 </unitdate>DOE/RW-0078</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">38</container>
+            <container type="folder">13</container>
+            <unittitle>Nuclear Waste Policy Act, Environmental Assessment
+				  Overview, Deaf Smith County Site, Texas, 
+				  <unitdate era="ce" calendar="gregorian">May 1986 </unitdate>DOE/RW-0075</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">38</container>
+            <container type="folder">14</container>
+            <unittitle>Nuclear Waste Policy Act, Environmental Assessment
+				  Overview, Reference Repository Location, Hanford Site, Washington, 
+				  <unitdate era="ce" calendar="gregorian">May 1986, </unitdate>DOE/RW-0076</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">38</container>
+            <container type="folder">15</container>
+            <unittitle>Nuclear Waste Policy Act, Environmental Assessment
+				  Overview, Davis Canyon Site, Utah, 
+				  <unitdate era="ce" calendar="gregorian">May 1986 </unitdate>DOE/RW-0077</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>DOE/RW-0029 to -0187, OCRWM</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">39</container>
+            <container type="folder">1</container>
+            <unittitle>Office of Geologic Repositories, Issues Hierarchy for a
+				  Mined Geologic Disposal System, 
+				  <unitdate era="ce" calendar="gregorian">September 1986 </unitdate>DOE/RW-0101</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">39</container>
+            <container type="folder">2</container>
+            <unittitle>Transportation Institutional Plan; Effective Summary, 
+				  <unitdate era="ce" calendar="gregorian">April 1987, </unitdate>DOE/RW-0143</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">39</container>
+            <container type="folder">3</container>
+            <unittitle>Annual Report to Congress, DOE/RW-0144</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">39</container>
+            <container type="folder">4</container>
+            <unittitle>OCRWM Safety Plan, 
+				  <unitdate era="ce" calendar="gregorian">December 1986, </unitdate>DOE/RW-0119</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">39</container>
+            <container type="folder">5</container>
+            <unittitle>Draft 1988 Mission Plan Amendment, 
+				  <unitdate era="ce" calendar="gregorian">June 1988, </unitdate>DOE/RW-0187</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">39</container>
+            <container type="folder">6</container>
+            <unittitle>Draft Mission Plan Amendment, 
+				  <unitdate era="ce" calendar="gregorian">January 1987, </unitdate>DOE/RW-0128</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">39</container>
+            <container type="folder">7</container>
+            <unittitle>OCRWM Mission Plan Amendment, 
+				  <unitdate era="ce" calendar="gregorian">January 1987, </unitdate>DOE/RW-0128</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">39</container>
+            <container type="folder">8</container>
+            <unittitle>Public Information Guidelines, 
+				  <unitdate era="ce" calendar="gregorian">June 1986, </unitdate>DOE/RW-0089</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">39</container>
+            <container type="folder">9</container>
+            <unittitle>Quality Assurance Plan for High-Level Radioactive Waste
+				  Repositories, (OGR/B-3), 
+				  <unitdate era="ce" calendar="gregorian">August 1986, </unitdate>DOE/RW-0095</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">39</container>
+            <container type="folder">10</container>
+            <unittitle>Transportation Institutional Plan, 
+				  <unitdate era="ce" calendar="gregorian">August 1986, </unitdate>DOE/RW-0094</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">39</container>
+            <container type="folder">11</container>
+            <unittitle>OCRWM Backgrounder (various issues), DOE/RW-0029 to
+				  -0170</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">39</container>
+            <container type="folder">12</container>
+            <unittitle>OCRWM Bulletin (various issues), DOE/RW-0029 to
+				  -0057</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">40</container>
+          <unittitle>LIBNO 9-414</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">41</container>
+          <unittitle>LIBNO 418-565</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">42</container>
+          <unittitle>LIBNO 608-665</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">43</container>
+          <unittitle>LIBNO 688-895</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">44</container>
+          <unittitle>LIBNO 900-1075</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">45</container>
+          <unittitle>LIBNO 1080-1150</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">46</container>
+          <unittitle>LIBNO 1184-1685</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">47</container>
+          <unittitle>LIBNO 1701-1847</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">48</container>
+          <unittitle>LIBNO 1851</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">49</container>
+          <unittitle>LIBNO 1856-1940</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">50</container>
+          <unittitle>LIBNO 1922-2054</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">51</container>
+          <unittitle>LIBNO 1800-2200 and 2300-2599 (Microfiche)</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">52</container>
+          <unittitle>LIBNO 2055-2104</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">53</container>
+          <unittitle>LIBNO 2105-2120</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">54</container>
+          <unittitle>LIBNO 2123-2149</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">55</container>
+          <unittitle>LIBNO 2149-2190</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">56</container>
+          <unittitle>LIBNO 2252-2297</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">57</container>
+          <unittitle>LIBNO 2301-2336</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">58</container>
+          <unittitle>LIBNO 2362-2404</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">59</container>
+          <unittitle>LIBNO 2433-2515</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">60</container>
+          <unittitle>LIBNO 2516-2645</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">61</container>
+          <unittitle>LIBNO 2652-2706</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">62</container>
+          <unittitle>LIBNO 2714-2809</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">63</container>
+          <unittitle>LIBNO 2851-3023</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">64</container>
+          <unittitle>LIBNO 3031-3144</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">65</container>
+          <unittitle>LIBNO 3147-3212</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">66</container>
+          <unittitle>LIBNO 3214-3328</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">67</container>
+          <unittitle>LIBNO 3329-3452</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">68</container>
+          <unittitle>LIBNO 3461-3569</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">69</container>
+          <unittitle>LIBNO 3596-3665</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">70</container>
+          <unittitle>LIBNO 3666-3760</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">71</container>
+          <unittitle>LIBNO 3763-3816</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">72</container>
+          <unittitle>LIBNO 4020-4205 and Collection Reference
+				Binders</unittitle>
+        </did>
+      </c01>
+      <c01 level="series">
+        <did>
+          <container type="box">73</container>
+          <unittitle>Collection Reference Binders and Microfiche</unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

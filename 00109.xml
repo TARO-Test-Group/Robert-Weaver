@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00109</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Ku Klux Klan (Amarillo, Tex.):</titleproper>
+        <subtitle>An Inventory of Its Records, 1921-1925 and undated, at the
+			 Southwest Collection/Special Collections Library</subtitle>
+        <author>Abel Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">August 2000</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">February 2001.</date></creation>
+      <langusage>Finding aid written in
+		  <language>English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Tue Jul 22 15:22:24 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00109 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the Ku Klux Klan (Amarillo, Tex.) Records,
+		  1921-1925 and undated</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">August 2000</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <corpname encodinganalog="110">Ku Klux Klan (1915- ). Amarillo, Tex.
+			 (Chapter)</corpname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Ku Klux Klan (Amarillo,
+		  Tex.) Records, 
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1921-1925 and undated</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">Records of the
+		  Amarillo, Texas, area Ku Klux Klan from 1921-1925 and undated.</abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 1381.1</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:">1 wallet (0.1 linear
+		  feet)</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>The Ku Klux Klan is a white separatist organization in America that
+		  supports racism. They rose from the ashes of the post Civil War to spread their
+		  hatred towards minorities. At one time they were a highly active group with a
+		  membership in the thousands. Over the years they have declined in numbers but
+		  still practice their separatist movement throughout the United States.</p>
+      <p>The Handbook of Texas has published a more in-depth online biography
+		  of history of the Ku Klux Klan in Texas at
+		  http://www.tsha.utexas.edu/handbook/online/articles/view/KK/vek2.html</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The collection contains Ku Klux Klan printed material and financial
+		  material such as membership rosters and by-laws of the Amarillo, Texas,
+		  area.</p>
+    </scopecontent>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname encodinganalog="610" source="lcnaf">Ku Klux Klan (1915-
+			 )</corpname>
+        <corpname encodinganalog="610" source="local">Ku Klux Klan (1915- ).
+			 Amarillo, Tex. (Chapter)</corpname>
+        <corpname encodinganalog="610" source="lcnaf">Ku Klux Klan (1915-
+			 )--Texas</corpname>
+        <corpname encodinganalog="610" source="lcnaf">Ku Klux Klan (1915-
+			 )--Texas, West</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Places</head>
+        <geogname encodinganalog="651" source="lcnaf">Texas--Social life and
+			 customs</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">Discrimination</subject>
+        <subject encodinganalog="650" source="lcsh">Ethnic relations</subject>
+        <subject encodinganalog="650" source="lcsh">Minorities</subject>
+        <subject encodinganalog="650" source="lcsh">Racism--United
+			 States--History</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <p>Collection accession #(s): 
+			 <num type="accession">1999-0119-X</num></p>
+      <p>Purchase, 1999</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, August 2000</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>Ku Klux Klan (Amarillo, Tex.) Records, 1921-1925 and undated,
+			 Southwest Collection/Special Collections Library, Texas Tech University,
+			 Lubbock, Texas</p>
+    </prefercite>
+    <bibliography id="a10">
+      <head>Additional Sources</head>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Alexander, Charles C. 
+			 <title xlink:type="simple" render="doublequote" xlink:href="">The Ku Klux Klan in the Southwest.
+				</title>Lexington: University of Kentucky Press, 1965.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Alexander, Charles C. 
+			 <title xlink:type="simple" render="doublequote" xlink:href="">Crusade for Conformity: The Ku Klux Klan in
+				Texas, 1920-1930. </title>Houston: Texas Gulf Coast Historical Association,
+			 1962.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Kilgore, Linda Elaine. 
+			 <title xlink:type="simple" render="doublequote" xlink:href="">The Ku Klux Klan and the Press in Texas.
+				</title>M.A. thesis, University of Texas, 1964.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Lay, Shawn. 
+			 <title xlink:type="simple" render="doublequote" xlink:href="">War, Revolution, and the Ku Klux Klan: A Study
+				of Intolerance in a Border City. </title>El Paso: Texas Western Press,
+			 1985.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Trelease, Allen W. 
+			 <title xlink:type="simple" render="doublequote" xlink:href="">White Terror: The Ku Klux Klan Conspiracy and
+				Southern Reconstruction. </title>New York: Harper and Row, 1971.</bibref>
+    </bibliography>
+    <relatedmaterial encodinganalog="544 1" id="a6">
+      <p>For related materials located in the Southwest Collection/Special
+			 Collections Library, see the following collections:</p>
+      <list type="simple">
+        <item>Clyde Bingham oral history interview [sound recording], 1981</item>
+        <item>Annie Greener oral history interview [sound recording], 1980</item>
+        <item>Inez Heeter oral history interview [sound recording], 1981</item>
+        <item>William Davis Howsley Papers, 1873-1932</item>
+      </list>
+    </relatedmaterial>
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+      <c01>
+        <did>
+          <unittitle>Financial Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="folder">1</container>
+            <unittitle>Membership Roster, Amarillo, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1923-1925</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="folder">2</container>
+            <unittitle>Membership Roster, Texas State-wide, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Printed Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="folder">3</container>
+            <unittitle>By-Laws of Amarillo, Texas, Ku Klux Klan, No. 141, 
+				  <unitdate era="ce" calendar="gregorian">1921</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="folder">4</container>
+            <unittitle>Funeral Services of Ku Klux Klan booklet, 
+				  <unitdate era="ce" calendar="gregorian">1924</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="folder">5</container>
+            <unittitle>Ku Klux Klan Klode Kard, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="folder">6</container>
+            <unittitle>Oath of Allegiance, 
+				  <unitdate era="ce" calendar="gregorian">ca. 1920s</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" findaidstatus="edited-full-draft" id="a0" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00086</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Morris Ranch Estate:</titleproper>
+        <subtitle>An Inventory of Its Records, 1887-1966 and undated, at the
+			 Southwest Collection/Special Collections Library</subtitle>
+        <author>Abel Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu/</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">April 2003</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Abel
+		  Ramirez, 
+		  <date era="ce" calendar="gregorian">April 2003.</date></creation>
+      <langusage>Finding aid written in<language>English</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Tue Jul 22 15:21:59 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00086 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the Morris Ranch Estate Records, 1887-1966 and
+		  undated</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">April 2002</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory" relatedencoding="marc">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <corpname encodinganalog="110">Morris Ranch
+			 Estate</corpname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Morris Ranch Estate, 
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1887-1966 and undated</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">Records and activities
+		  of the Morris Ranch in central Texas.</abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 724.1</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:">5 boxes and 23
+		  ledgers(8.0 linear feet)</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>The Morris Ranch was established in 1883 in Coleman County, Texas, by
+		  Joseph Phillip Morris. In 1922, the ranch was divided among Morris' six
+		  children. One of the ranches created from the division was the Rafter 3. Mattie
+		  B. Morris (1874-1969), president of the Rafter 3 Cattle Company, was very
+		  active in civic affairs in Coleman, Texas. Her son, J. P. Miller (1900-1974),
+		  also managed the Rafter 3 Ranch.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The collection contains business correspondence, financial and legal
+		  documents, literary productions, maps, photographs, and printed material
+		  concerning the activities of the Morris Ranch. The bulk of the materials are
+		  ledgers such as account books, daybooks, livestock, land, and general.</p>
+    </scopecontent>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed.</p>
+      <controlaccess>
+        <head>Subjects (Persons)</head>
+        <persname encodinganalog="600" source="lcnaf">Miller, Mattie B. Morris,
+			 1874-1969</persname>
+        <persname encodinganalog="600" source="lcnaf">Morris, J. P. (Joseph
+			 Phillip), 1849-1937</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname encodinganalog="610" source="local">Rafter 3 Cattle Company
+			 (Tex.)</corpname>
+      </controlaccess>
+    </controlaccess>
+    <controlaccess>
+      <head>Places</head>
+      <geogname encodinganalog="651" source="lcnaf">Coleman County
+		  (Tex.)</geogname>
+      <geogname encodinganalog="651" source="lcnaf">Coleman County
+		  (Tex.)--Economic conditions</geogname>
+      <geogname encodinganalog="651" source="lcnaf">Coleman County
+		  (Tex.)--Social life and customs</geogname>
+      <geogname encodinganalog="651" source="local">Morris Ranch
+		  (Tex.)</geogname>
+      <geogname encodinganalog="651" source="local">Rafter 3 Ranch (Coleman
+		  County, Tex.)</geogname>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">Cattle
+			 trade--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Cotton
+			 growing--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Ranches--Texas--History</subject>
+        <subject encodinganalog="650" source="lcsh">Ranching--Texas</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <p>Gift, 1975</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, April 2002</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>Morris Ranch Estate Records, 1887-1966 and undated, Southwest
+			 Collection/Special Collections Library, Texas Tech University, Lubbock,
+			 Texas</p>
+    </prefercite>
+    <relatedmaterial encodinganalog="544 1" id="a6">
+      <p>For related materials located in the Southwest Collection/Special
+			 Collections Library, see the following collections:</p>
+      <list type="simple">
+        <item>Doris Miller oral history interview [sound recording], 1975</item>
+        <item>Doris Miller Papers, 1861-1969 [microfilm]</item>
+        <item>Morris Ranch Photograph Collection, SWCPC 35</item>
+        <item>Morris (Rafter 3) Ranch Company Records, 1855-1982 and undated</item>
+      </list>
+    </relatedmaterial>
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+      <c01 level="series">
+        <did>
+          <unittitle>Blueprints</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Barn and House Plans, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Professional, 
+				  <unitdate era="ce" calendar="gregorian">1939-1946</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Financial Documents</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle>Bank Deposit Books, 
+				  <unitdate era="ce" calendar="gregorian">1892-1949</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>Bank Deposit Books, 
+				  <unitdate era="ce" calendar="gregorian">1900-1924</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle>Bank Notes, 
+				  <unitdate era="ce" calendar="gregorian">1919-1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>Check Stubs, 
+				  <unitdate era="ce" calendar="gregorian">1912-1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>Income Distribution Sheets, 
+				  <unitdate era="ce" calendar="gregorian">1927-1928</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>Invoices, 
+				  <unitdate era="ce" calendar="gregorian">1914-1940 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle>Notes Due, 
+				  <unitdate era="ce" calendar="gregorian">1891-1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle>Note Registers, 
+				  <unitdate era="ce" calendar="gregorian">1915-1922</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle>Receipt Booklets, 
+				  <unitdate era="ce" calendar="gregorian">1950-1963</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle>Receipts, 
+				  <unitdate era="ce" calendar="gregorian">1916-1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle>Stock Certificates, 
+				  <unitdate era="ce" calendar="gregorian">1922</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle>Tax Inventories and Receipts, 
+				  <unitdate era="ce" calendar="gregorian">1916-1920</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle>Miscellaneous, 
+				  <unitdate era="ce" calendar="gregorian">1922-1927 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle>Cotton Ledger, 
+				  <unitdate era="ce" calendar="gregorian">1920-1921</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle>Expense Account Ledger, 
+				  <unitdate era="ce" calendar="gregorian">1930-1932</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">6</container>
+            <unittitle>Livestock Ledger, 
+				  <unitdate era="ce" calendar="gregorian">1914-1931</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">7</container>
+            <unittitle>Mattie B. Miller's Ledger, 
+				  <unitdate era="ce" calendar="gregorian">1954-1957</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">8</container>
+            <unittitle>Mattie B. Miller's Ledger, 
+				  <unitdate era="ce" calendar="gregorian">1957-1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="ledger">Ledger 1</container>
+            <unittitle>Farm Account Ledger, 
+				  <unitdate era="ce" calendar="gregorian">1920-1923</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="ledger">Ledger 2</container>
+            <unittitle>Farm Account Ledger, 
+				  <unitdate era="ce" calendar="gregorian">1913-1916</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="ledger">Ledger 3</container>
+            <unittitle>Land Ledger, 
+				  <unitdate era="ce" calendar="gregorian">1887-1916</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="ledger">Ledger 4</container>
+            <unittitle>General Ledger, 
+				  <unitdate era="ce" calendar="gregorian">1912-1913</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="ledger">Ledger 5</container>
+            <unittitle>General Ledger, 
+				  <unitdate era="ce" calendar="gregorian">1916-1922</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="ledger">Ledger 6</container>
+            <unittitle>General Ledger, 
+				  <unitdate era="ce" calendar="gregorian">1937-1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="ledger">Ledger 7</container>
+            <unittitle>General Ledger, 
+				  <unitdate era="ce" calendar="gregorian">1891-1909</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="ledger">Ledger 1</container>
+            <unittitle>Account Book, 
+				  <unitdate era="ce" calendar="gregorian">1904-1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="ledger">Ledger 2</container>
+            <unittitle>Account Book, 
+				  <unitdate era="ce" calendar="gregorian">1904-1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="ledger">Ledger 3</container>
+            <unittitle>Account Book, 
+				  <unitdate era="ce" calendar="gregorian">1943-1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger 1</container>
+            <unittitle>Daybook, 
+				  <unitdate era="ce" calendar="gregorian">1910-1911</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger 2</container>
+            <unittitle>Daybook, 
+				  <unitdate era="ce" calendar="gregorian">1912</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger 3</container>
+            <unittitle>Daybook, 
+				  <unitdate era="ce" calendar="gregorian">1913</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger 4</container>
+            <unittitle>Daybook, 
+				  <unitdate era="ce" calendar="gregorian">1914</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger 5</container>
+            <unittitle>Daybook, 
+				  <unitdate era="ce" calendar="gregorian">1915</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger 6</container>
+            <unittitle>Daybook, 
+				  <unitdate era="ce" calendar="gregorian">1916</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger 7</container>
+            <unittitle>Daybook, 
+				  <unitdate era="ce" calendar="gregorian">1917</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger 8</container>
+            <unittitle>Daybook, 
+				  <unitdate era="ce" calendar="gregorian">1918</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger 9</container>
+            <unittitle>Daybook, 
+				  <unitdate era="ce" calendar="gregorian">1919</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger
+				  10</container>
+            <unittitle>Daybook, 
+				  <unitdate era="ce" calendar="gregorian">1920-1921</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger
+				  11</container>
+            <unittitle>Daybook, 
+				  <unitdate era="ce" calendar="gregorian">1922-1923</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger
+				  12</container>
+            <unittitle>Daybook, 
+				  <unitdate era="ce" calendar="gregorian">1924-1925</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger
+				  13</container>
+            <unittitle>Daybook, 
+				  <unitdate era="ce" calendar="gregorian">1926-1927</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger
+				  14</container>
+            <unittitle>Daybook, 
+				  <unitdate era="ce" calendar="gregorian">1928</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger
+				  15</container>
+            <unittitle>Daybook, 
+				  <unitdate era="ce" calendar="gregorian">1929-1930</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger
+				  16</container>
+            <unittitle>Daybook, 
+				  <unitdate era="ce" calendar="gregorian">1931-1932</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger
+				  17</container>
+            <unittitle>Daybook, 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger
+				  18</container>
+            <unittitle>Daybook, 
+				  <unitdate era="ce" calendar="gregorian">1937-1938</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger
+				  19</container>
+            <unittitle>Daybook, Mattie B. Miller's, 
+				  <unitdate era="ce" calendar="gregorian">1943-1947</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger
+				  20</container>
+            <unittitle>Daybook, Mattie B. Miller's, 
+				  <unitdate era="ce" calendar="gregorian">1947-1957</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger
+				  21</container>
+            <unittitle>Daybook, Mattie B. Miller's, 
+				  <unitdate era="ce" calendar="gregorian">1962-1966</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger
+				  22</container>
+            <unittitle>General Ledger, 
+				  <unitdate era="ce" calendar="gregorian">1920-1936</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="ledger">Ledger
+				  23</container>
+            <unittitle>General Ledger, 
+				  <unitdate era="ce" calendar="gregorian">1904-1920</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Legal Documents</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Contracts, 
+				  <unitdate era="ce" calendar="gregorian">1915-1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Contracts, 
+				  <unitdate era="ce" calendar="gregorian">1915-1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Contracts, 
+				  <unitdate era="ce" calendar="gregorian">1915-1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Deeds, 
+				  <unitdate era="ce" calendar="gregorian">1891-1924 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Income Questionnaire, 
+				  <unitdate era="ce" calendar="gregorian">1926</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Right-Of-Way Easements, 
+				  <unitdate era="ce" calendar="gregorian">1925-1938</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Literary Production</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>Hand notes, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Maps</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>Land Plats, 
+				  <unitdate era="ce" calendar="gregorian">1930-1934</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Photographs</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>Family and Business, 
+				  <unitdate era="ce" calendar="gregorian">1923-1936 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Printed Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle>News clippings and Brochure, 
+				  <unitdate era="ce" calendar="gregorian">1935-1939 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

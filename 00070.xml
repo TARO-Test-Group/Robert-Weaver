@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00070</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Allie D. (Alice Donohoo) Slaughter:</titleproper>
+        <subtitle>An Inventory of Her Papers, 1891-1947 and undated, at the
+			 Southwest Collection/Special Collections Library</subtitle>
+        <author>Abel Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu/</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">2000</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">February 2001.</date></creation>
+      <langusage>Finding aid written in
+		  <language>English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Tue Jul 22 15:21:48 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00070 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the Allie D. Slaughter Papers, 1891-1947 and
+		  undated</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">2000</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <persname encodinganalog="100">Slaughter, Allie D. (Alice
+			 Donohoo)</persname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Allie D. Slaughter
+		  Papers, 
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1891-1947 and undated</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">Papers of Alice Louise
+		  Donohoo (Allie D.), who was the wife of George Morgan Slaughter and the
+		  daughter-in-law of C. C. Slaughter.</abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 928.1</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:">1 box (0.3 linear
+		  feet)</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>Daughter-in-law of C. C. Slaughter, Alice Louise Donohoo (Allie D.)
+		  was the wife of George Morgan Slaughter, with whom she had three children.</p>
+      <p>Born in 1837 in Sabine County, Texas, Christopher Columbus (C. C.)
+		  established a frontier ranch in Palo Pinto County, Texas, in 1857 with his
+		  father, George Webb Slaughter, and his brothers. During the Civil War, C. C.
+		  served in the frontier militia and in the Texas Rangers. Afterwards, he drove
+		  cattle over the Chisholm Trail and later moved operations to West Texas where,
+		  by 1905, he owned 40,000 cattle and controlled over one million acres. Before
+		  his death in 1919, he had founded the American National Bank of Dallas (1884),
+		  and cofounded the Texas and Southwestern Cattle Raisers Association (1877), the
+		  Texas Baptist Education Commission (1897) and the Baylor Hospital of Dallas,
+		  Texas (1904).</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The collection concerns Slaughter estate matters, including Allie's
+		  children's inheritance, correspondence from her grandsons, and her
+		  correspondence after the death of George M. Slaughter. Also includes scrapbook
+		  material, news clippings, and memorabilia.</p>
+    </scopecontent>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+      <controlaccess>
+        <head>Subjects (Persons)</head>
+        <persname encodinganalog="600" source="local">Slaughter, Allie D.
+			 (Alice Donohoo)</persname>
+        <persname encodinganalog="600" source="local">Slaughter, George
+			 Morgan</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname encodinganalog="610" source="local">C. C. Slaughter Cattle
+			 Company</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Places</head>
+        <geogname encodinganalog="651" source="lcnaf">Cochran County
+			 (Tex.)--History</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Grayson County
+			 (Tex.)--History</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Hockley County
+			 (Tex.)--History</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Howard County
+			 (Tex.)--History</geogname>
+        <geogname authfilenumber="651" source="lcnaf">Lamb County
+			 (Tex.)--History</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Levelland
+			 (Tex.)--History</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Castro County
+			 (Tex.)--History</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Roswell
+			 (N.M.)--History</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Palo Pinto County
+			 (Tex.)--History</geogname>
+        <geogname encodinganalog="651" source="local">Slaughter Ranch
+			 (Tex.)</geogname>
+        <geogname encodinganalog="651" source="local">Slaughter Ranch
+			 (Tex.)--Employees</geogname>
+        <geogname encodinganalog="651" source="local">Slaughter Ranch
+			 (Tex.)--History</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">Businesswomen--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Cattle
+			 breeders--Texas--History</subject>
+        <subject encodinganalog="650" source="lcsh">Cattle
+			 trade--Texas--History</subject>
+        <subject encodinganalog="650" source="lcsh">Livestock--Breeding</subject>
+        <subject encodinganalog="650" source="lcsh">Oil well drilling--Texas,
+			 West</subject>
+        <subject encodinganalog="650" source="lcsh">Petroleum industry and
+			 trade--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Petroleum industry and
+			 trade--New Mexico</subject>
+        <subject encodinganalog="650" source="lcsh">Ranches--New
+			 Mexico</subject>
+        <subject encodinganalog="650" source="lcsh">Ranchers--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Ranches--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Women
+			 ranchers--Texas</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <p>Gift, 1976</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, 2000</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>Allie D. Slaughter Papers, 1891-1947 and undated, Southwest
+			 Collection/Special Collections Library, Texas Tech University, Lubbock,
+			 Texas</p>
+    </prefercite>
+    <bibliography id="a10">
+      <head>Additional Sources</head>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Murrah, David J. 
+			 <title xlink:type="simple" render="doublequote" xlink:href="">C. C. Slaughter, Rancher, Banker, Baptist.
+				</title>Austin: University of Texas Press, 1981.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Murrah, David J. 
+			 <title xlink:type="simple" render="doublequote" xlink:href="">A Cattle Kingdom on Texas' Last Frontier: C.
+				C. Slaughter's Lazy S Ranch. </title>Thesis (M.A.)--Texas Tech University,
+			 1970.</bibref>
+    </bibliography>
+    <relatedmaterial encodinganalog="544 1" id="a6">
+      <p>For related materials located in the Southwest Collection/Special
+			 Collections Library, see the following collections:</p>
+      <list type="simple">
+        <item>Ira Byrd oral history interview [sound recording], 1969</item>
+        <item>Hiley Thompson Boyd, Jr. oral history interview [sound recording],
+			 1970</item>
+        <item>Nettie Hyatt and Joe Bridges oral history interview [sound
+			 recording], 1975</item>
+        <item>Mr. and Mrs. Robert Jennings oral history interview [sound
+			 recording], 1973</item>
+        <item>Mrs. M.C. Lindsey oral history interview [sound recording], 1975</item>
+        <item>Lynn County (Tex.), Photographs, 1900-1950</item>
+        <item>Ralph McWhorter oral history interview [sound recording], 1979</item>
+        <item>Mrs. J. F. Reeves oral history interview [sound recording],
+			 1970s</item>
+        <item>Jot Smyth oral history interview [sound recording], 1959</item>
+      </list>
+    </relatedmaterial>
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+      <c01 level="series">
+        <did>
+          <unittitle>Manuscript Files</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Correspondence: George M. Slaughter III, 
+				  <unitdate era="ce" calendar="gregorian">1941-1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Correspondence: Personal - Don Slaughter, 
+				  <unitdate era="ce" calendar="gregorian">1944-1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Correspondence: Personal - Miscellaneous, 
+				  <unitdate era="ce" calendar="gregorian">1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Correspondence: Business, 
+				  <unitdate era="ce" calendar="gregorian">1906-1921</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Financial Documents, 
+				  <unitdate era="ce" calendar="gregorian">1891-1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Legal Documents, 
+				  <unitdate era="ce" calendar="gregorian">1920</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Newspaper clippings, 
+				  <unitdate era="ce" calendar="gregorian">1942-1947</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Printed Material, 
+				  <unitdate era="ce" calendar="gregorian">1904-1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>Scrapbook, 
+				  <unitdate era="ce" calendar="gregorian">1937-1947</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>Scrapbook Material, 
+				  <unitdate era="ce" calendar="gregorian">1898-1947 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>Memorabilia - Writing tools and dice, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00039</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Harley Sadler:</titleproper>
+        <subtitle>An Inventory of His Papers, 1922-1976 and undated, at the
+			 Southwest Collection/Special Collections Library</subtitle>
+        <author>Abel Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">August 2000</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">February 2001.</date></creation>
+      <langusage>Finding aid written in
+		  <language>English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Tue Jul 22 15:21:08 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00039 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the Harley Sadler Papers, 1922-1976 and
+		  undated</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">August 2000</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <persname encodinganalog="100">Sadler, Harley,
+			 1892-1954</persname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Harley Sadler Papers, 
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1922-1976 and undated</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">Tent show owner and
+		  State Senator Harley Sadler achieved fame throughout the Southwest during his
+		  thirty-year career.</abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 884.1</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a">2 boxes (2.0 linear feet)</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>A West Texas showman, oilman, and Texas legislator, Harley Sadler was
+		  also an actor and tent show owner. He traveled through the United States in
+		  tent shows during the period 1910 to 1944, primarily in Texas and the
+		  Southwest. Elected to the Texas Senate in 1943, he served until his death in
+		  1954.</p>
+      <p>From the turn of the century through the era of the Great Depression,
+		  tent shows were a popular medium of entertainment particularly in rural areas.
+		  Harley Sadler and Harvey Haverstock were among the famous tent show owners in
+		  Texas and the Southwest.</p>
+      <p>The Handbook of Texas has published a more in-depth online biography
+		  of Harley Herman Sadler at
+		  http://www.tsha.utexas.edu/handbook/online/search.html</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The collection contains genealogical materials on the Sadler family,
+		  playbills and scripts from performances, artifacts, index cards of various
+		  plays, and news clippings. All deal with the tent show career of Harley Sadler
+		  and his wife, Billie. Some items are available on microfilm.</p>
+    </scopecontent>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+      <controlaccess>
+        <head>Subjects (Persons)</head>
+        <persname encodinganalog="600" source="lcnaf">Sadler
+			 family--Genealogy</persname>
+        <persname encodinganalog="600" source="lcnaf">Sadler, Harley,
+			 1892-1954</persname>
+        <persname encodinganalog="600" source="lcnaf">Sadler, Harley,
+			 1892-1954--Career in tent shows</persname>
+        <persname encodinganalog="600" source="lcnaf">Sadler, Harley,
+			 1892-1954--Contributions in politics and government</persname>
+        <persname encodinganalog="600" source="lcnaf">Sadler, Harley,
+			 1892-1954--Family</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname encodinganalog="610" source="lcnaf">Brunk's
+			 Comedians</corpname>
+        <corpname encodinganalog="610" source="local">Harley Sadler's Own
+			 Show</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Places</head>
+        <geogname encodinganalog="651" source="lcnaf">Texas--Genealogy</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Texas--Politics and
+			 government</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Texas--Social life and
+			 customs</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">Entertainers--Texas,
+			 West</subject>
+        <subject encodinganalog="650" source="lcsh">Politics,
+			 Practical--Texas</subject>
+        <subject encodinganalog="690" source="local">Tent
+			 shows--History--Sources</subject>
+        <subject encodinganalog="690" source="local">Tent
+			 shows--Texas--History</subject>
+        <subject encodinganalog="650" source="lcsh">Theater, Open-air</subject>
+        <subject encodinganalog="650" source="lcsh">Theatrical producers and
+			 directors--Texas--History</subject>
+        <subject encodinganalog="650" source="lcsh">Traveling theater</subject>
+        <subject encodinganalog="650" source="lcsh">Vaudeville--Texas</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <p>Collection accession # (s): 
+			 <num type="accession">94-0147-B</num></p>
+      <p>Gifts, 1974-1998 and undated</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="A20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, August 2000</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>Harley Sadler Papers, 1922-1976 and undated, Southwest
+			 Collection/Special Collections Library, Texas Tech University, Lubbock,
+			 Texas</p>
+    </prefercite>
+    <bibliography id="a10">
+      <head>Additional Sources</head>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Ashby, Clifford. 
+			 <title xlink:type="simple" render="italic" xlink:href="">Trouping Through Texas: Harley Sadler and His
+			Tent Show. </title>Ohio: Bowling Green University Popular Press, 1982.</bibref>
+    </bibliography>
+    <relatedmaterial encodinganalog="544 1" id="a6">
+      <p>For related materials located in the Southwest Collection/Special
+			 Collections Library, see the following collections:</p>
+      <list type="simple">
+        <item>Clifford Ashby Papers, 1977</item>
+        <item>Zachary Ball Papers, 1922-1934</item>
+        <item>Zachary Ball oral history interview [sound recording], 1975</item>
+        <item>Maurice Brooks, Tom Gordon and J.F. Connaly oral history interview
+			 [sound recording], 1975</item>
+        <item>Henry L. and Mercedes Brunk oral history interview [sound recording], 1979</item>
+        <item>Henry L. Brunk Papers, 1922-1975</item>
+        <item>Harvey Haverstock Papers, 1893-1976</item>
+        <item>Paul C. Kalmbacher Papers, 1878-1970</item>
+        <item>Jerry Sadler oral history interview [sound recording], 1981</item>
+      </list>
+    </relatedmaterial>
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+      <c01>
+        <did>
+          <container type="box">1</container>
+          <container type="folder">1</container>
+          <unittitle>Scripts, 
+				<unitdate era="ce" calendar="gregorian">1933 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Artifacts</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Artifacts- Floyd Lloyd Boots,</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Artifacts- Jewelry, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <container type="box">2</container>
+          <container type="folder">1</container>
+          <unittitle>Correspondence of Mrs. H. Sadler, 
+				<unitdate era="ce" calendar="gregorian">1954</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container type="box">2</container>
+          <container type="folder">2</container>
+          <unittitle>Literary Production, 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container type="box">2</container>
+          <container type="folder">3</container>
+          <unittitle>Printed Material, 
+				<unitdate era="ce" calendar="gregorian">1954-1955</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container type="box">2</container>
+          <container type="folder">4</container>
+          <unittitle>Photograph, 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container type="box">2</container>
+          <container type="folder">5</container>
+          <unittitle>Scrapbook Material (3 items), 
+				<unitdate era="ce" calendar="gregorian">1954 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container type="box">2</container>
+          <container type="folder">6</container>
+          <unittitle>Printed Material 
+				<unitdate era="ce" calendar="gregorian">1922 and undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container type="box">2</container>
+          <container type="folder">7</container>
+          <unittitle>Lifetime Pass, Harley Sadler and His Own Company, 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Scripts</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle>The Grafters, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle>Lightning Love, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unittitle>The Maid and the Minister</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unittitle>The Man from Texas of The Girl in the Spotlight, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">12</container>
+            <unittitle>St. Elmo, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+            <unittitle>Toby, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">14</container>
+            <unittitle>Toby Goes to Washington, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">15</container>
+            <unittitle>Where is Elmer?, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">16</container>
+            <unittitle>Untitled Script, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <container type="box">2</container>
+          <container type="folder">17</container>
+          <unittitle>Photocopies of Program Advertisements, 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Literary Productions</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">18</container>
+            <unittitle>
+              <title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="doublequote" xlink:href="">The Brand; or Drifting Apart,</title>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">19</container>
+            <unittitle>
+              <title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="doublequote" xlink:href="">In Devil's Mine,</title>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">20</container>
+            <unittitle>
+              <title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="doublequote" xlink:href="">My Friend from Arkansaw,</title>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">21</container>
+            <unittitle>
+              <title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="doublequote" xlink:href="">St. Elmo,</title>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">22</container>
+            <unittitle>
+              <title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="doublequote" xlink:href="">Tess of the Storm Country,</title>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">23</container>
+            <unittitle>
+              <title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="doublequote" xlink:href="">Toby's Legacy,</title>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">24</container>
+            <unittitle>
+              <title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="doublequote" xlink:href="">Turn to the Right,</title>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">25</container>
+            <unittitle>
+              <title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="doublequote" xlink:href="">Under Arizona's Skies,</title>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <container type="box">2</container>
+          <container type="folder">26</container>
+          <unittitle>News clippings on Harley Sadler Tent Show, 
+				<unitdate era="ce" calendar="gregorian">1976</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container type="box">2</container>
+          <container type="folder">27</container>
+          <unittitle>Printed Scripts List, 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00071</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper> C. C. (Christopher Columbus) Slaughter:</titleproper>
+        <subtitle>An Inventory of His Papers, 1877-1953 and undated, at the
+			 Southwest Collection/Special Collections Library</subtitle>
+        <author>Abel Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu/</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">2000</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">February 2001.</date></creation>
+      <langusage>Finding aid written in
+		  <language>English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Tue Jul 22 15:21:48 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00071 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the C. C. (Christopher Columbus) Slaughter
+		  Papers, 1877-1953 and undated</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">2000</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <persname encodinganalog="100">Slaughter, C. C. (Christopher Columbus),
+			 1837-1919</persname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">C. C. Slaughter Papers, 
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1876-1953 and undated</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">The papers of C. C.
+		  Slaughter, a rancher who established a frontier ranch in Palo Pinto County,
+		  Texas, in 1857.</abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 929.1</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:">1 box (1.0 linear
+		  feet)</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>Born in 1837 in Sabine County, Texas, C. C. established frontier ranch
+		  in Palo Pinto County, Texas, in 1857 with his father, George Webb Slaughter,
+		  and his brothers. During the civil war, C. C. served in the frontier militia
+		  and in the Texas Rangers. Afterwards, he drove cattle over Chisholm Trail and
+		  later moved operations to West Texas where, by 1905, he owned 40,000 cattle and
+		  controlled over one million acres.</p>
+      <p>He married twice, first to Cynthia Anna Jowell in 1861, with whom he
+		  had five children, and then to Carrie Averill in 1877, with whom he had four
+		  children. Before his death in 1919, he had founded the American National Bank
+		  of Dallas (1884), and cofounded the Texas and Southwestern Cattle Raisers
+		  Association (1877), the Texas Baptist Education Commission (1897) and the
+		  Baylor Hospital of Dallas, Texas (1904).</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The collection consists of correspondence, financial and legal
+		  material, photographs, and printed material pertaining to Slaughter and his
+		  family. A large portion of the materials deal with legal materials pertaining
+		  to Slaughter's death and the division of his estate (1921).</p>
+    </scopecontent>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+      <controlaccess>
+        <head>Subjects (Persons)</head>
+        <persname encodinganalog="600" source="local">Handley, W. B.</persname>
+        <persname encodinganalog="600" source="local">Slaughter, Alexander
+			 Averill, 1881-1931</persname>
+        <persname encodinganalog="600" source="local">Slaughter, Dorothy
+			 L.</persname>
+        <persname encodinganalog="600" source="lcnaf">Slaughter, C. C.
+			 (Christopher Columbus), 1837-1919</persname>
+        <persname encodinganalog="600" source="lcnaf">Slaughter, C. C.
+			 (Christopher Columbus), 1837-1919--Archives</persname>
+        <persname encodinganalog="600" source="lcnaf">Slaughter, C. C.
+			 (Christopher Columbus), 1837-1919--Estate</persname>
+        <persname encodinganalog="600" source="local">Slaughter, C. C.
+			 (Christopher Columbus), Jr.</persname>
+        <persname encodinganalog="600" source="lcnaf">Slaughter, Carrie
+			 Averill, 1852-1928</persname>
+        <persname encodinganalog="600" source="local">Slaughter, Robert Lee,
+			 1870-1938</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname encodinganalog="610" source="local">C. C. Slaughter Cattle
+			 Company</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Places</head>
+        <geogname encodinganalog="651" source="lcnaf">Castro County
+			 (Tex.)--History</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Cochran County
+			 (Tex.)--History</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Grayson County
+			 (Tex.)--History</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Hockley County
+			 (Tex.)--History</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Howard County
+			 (Tex.)--History</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Lamb County
+			 (Tex.)--History</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Levelland
+			 (Tex.)--History</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Palo Pinto County
+			 (Tex.)--History</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Roswell
+			 (N.M.)--History</geogname>
+        <geogname encodinganalog="651" source="local">Slaughter Ranch
+			 (Tex.)</geogname>
+        <geogname encodinganalog="651" source="local">Slaughter Ranch
+			 (Tex.)--Employees</geogname>
+        <geogname encodinganalog="651" source="local">Salughter Ranch
+			 (Tex.)--History</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">Agriculture--Texas--History</subject>
+        <subject encodinganalog="650" source="lcsh">Businesswomen--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Cattle
+			 breeders--Texas--History</subject>
+        <subject encodinganalog="650" source="lcsh">Cattle
+			 trade--Texas--History</subject>
+        <subject encodinganalog="650" source="lcsh">Livestock--Breeding</subject>
+        <subject encodinganalog="650" source="lcsh">Oil well drilling--Texas,
+			 West</subject>
+        <subject encodinganalog="650" source="lcsh">Petroleum industry and
+			 trade--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Petroleum industry and
+			 trade--New Mexico</subject>
+        <subject encodinganalog="650" source="lcsh">Ranches--New
+			 Mexico</subject>
+        <subject encodinganalog="650" source="lcsh">Ranchers--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Ranches--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Women
+			 ranchers--Texas</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <head>Acquisition</head>
+      <p>Gift, 1969</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, 2000</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>Christopher Columbus (C. C.) Slaughter Papers, 1877-1953 and
+			 undated, Southwest Collection/Special Collections Library, Texas Tech
+			 University, Lubbock, Texas</p>
+    </prefercite>
+    <bibliography id="a10">
+      <head>Additional Sources</head>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Murrah, David J. 
+			 <title xlink:type="simple" render="doublequote" xlink:href="">C. C. Slaughter, Rancher, Banker, Baptist.
+				</title>Austin: University of Texas Press, 1981.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Murrah, David J. 
+			 <title xlink:type="simple" render="doublequote" xlink:href="">A Cattle Kingdom on Texas' Last Frontier: C.
+				C. Slaughter's Lazy S Ranch. </title>Thesis (M.A.)--Texas Tech University,
+			 1970.</bibref>
+    </bibliography>
+    <relatedmaterial encodinganalog="544 1" id="a6">
+      <p>For related materials located in the Southwest Collection/Special
+			 Collections Library, see the following collections:</p>
+      <list type="simple">
+        <item>Ira Byrd oral history interview [sound recording], 1969</item>
+        <item>Hiley Thompson Boyd, Jr. oral history interview [sound recording],
+			 1970</item>
+        <item>Nettie Hyatt and Joe Bridges oral history interview [sound
+			 recording], 1975</item>
+        <item>Mr. and Mrs. Robert Jennings oral history interview [sound
+			 recording], 1973</item>
+        <item>Mrs. M.C. Lindsey oral history interview [sound recording], 1975</item>
+        <item>Lynn County (Tex.), Photographs, 1900-1950</item>
+        <item>Ralph McWhorter oral history interview [sound recording], 1979</item>
+        <item>Mrs. J. F. Reeves oral history interview [sound recording],
+			 1970s</item>
+        <item>Jot Smyth oral history interview [sound recording], 1959</item>
+      </list>
+    </relatedmaterial>
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Averill, A. M., 
+				  <unitdate era="ce" calendar="gregorian">1876</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Averill, Alex, 
+				  <unitdate era="ce" calendar="gregorian">1876</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Averill, Walter, 
+				  <unitdate era="ce" calendar="gregorian">1876</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Slaughter, Carrie Averill, 
+				  <unitdate era="ce" calendar="gregorian">1876-1877</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Slaughter, Carrie Averill, 
+				  <unitdate era="ce" calendar="gregorian">1876-1877</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Slaughter, Christopher Columbus, 
+				  <unitdate era="ce" calendar="gregorian">1876</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>R. G. Dun and Company, 
+				  <unitdate era="ce" calendar="gregorian">1876</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1904-1930</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Financial Documents</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>C. C. Slaughter's Estate, 
+				  <unitdate era="ce" calendar="gregorian">1920-1931</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>Board of Directors Reports, 
+				  <unitdate era="ce" calendar="gregorian">1915-1917</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>Tax Receipts, 
+				  <unitdate era="ce" calendar="gregorian">1885-1920</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle>Account of Promissory Notes, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle>Audit of C. C. Slaughter Company, 
+				  <unitdate era="ce" calendar="gregorian">1921</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unittitle>Property Inventories for Taxation, 
+				  <unitdate era="ce" calendar="gregorian">1912-1919 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle>List of Purchasers Effected by Shortage in Survey of
+				  Running Water Ranch Lands, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle>Tax Return, 
+				  <unitdate era="ce" calendar="gregorian">1919</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+            <unittitle>Land Books, 
+				  <unitdate era="ce" calendar="gregorian">1919-1920</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+            <unittitle>Land Books, 
+				  <unitdate era="ce" calendar="gregorian">1919-1920</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Legal Documents</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">19</container>
+            <unittitle>Distribution of C. C. Slaughter Lands, 
+				  <unitdate era="ce" calendar="gregorian">1921 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+            <unittitle>Distribution Plan of Slaughter's Estate, Exhibit A, 
+				  <unitdate era="ce" calendar="gregorian">1920</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+            <unittitle>Field Notes, Corrected, 
+				  <unitdate era="ce" calendar="gregorian">1909-1924</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+            <unittitle>Field Notes, 
+				  <unitdate era="ce" calendar="gregorian">1909-1924</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+            <unittitle>Promissory Notes, 
+				  <unitdate era="ce" calendar="gregorian">1920</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+            <unittitle>Howard County Lands, 
+				  <unitdate era="ce" calendar="gregorian">1912-1918 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">25</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1909-1920 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Literary Productions</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+            <unittitle>Passing of the Range Speech, 
+				  <unitdate era="ce" calendar="gregorian">1907</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Notes</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">27</container>
+            <unittitle>Children of C. C. Slaughter and Cynthia Ann Jowell, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">28</container>
+            <unittitle>Children of C. C. Slaughter and Carrie Averill, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Printed Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">29</container>
+            <unittitle>Miscellaneous, 
+				  <unitdate era="ce" calendar="gregorian">1924-1953</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Photographs</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">30</container>
+            <unittitle>Slaughter, C. C. and Carrie Averill, 
+				  <unitdate era="ce" calendar="gregorian">1876 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Scrapbook Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">31</container>
+            <unittitle>Confederate Reunion Association Scrapbook, 
+				  <unitdate era="ce" calendar="gregorian">1901-1902</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Memorabilia</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">32</container>
+            <unittitle>Original Capsules for drawing concerning division of
+				  Long S Ranch, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00055</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Helenn Rumpel:</titleproper>
+        <subtitle>An Inventory of Her Papers, 1943-2000 and undated, at the
+			 Southwest Collection/Special Collections Library</subtitle>
+        <author>A. Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">2000</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">February 2001.</date></creation>
+      <langusage>Finding aid written in
+		  <language>English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Tue Jul 22 15:21:39 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00055 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the Helenn Rumpel Papers, 1943-2000 and
+		  undated</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">2000</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <persname encodinganalog="100">Rumpel, Helenn</persname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Helenn Rumpel Papers, 
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1943-2000 and undated</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">The papers of fiber
+		  artist Helenn Rumpel from 1943-2000 and undated.</abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 877.1</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:">10 boxes (12.0 linear
+		  feet)</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>Born in Lancaster, Pennsylvania in 1937, Helenn Rumpel is an
+		  internationally renowned fine art and multi-media artist, lecturer, and teacher
+		  based out of Santa Fe, New Mexico. The artisan held many workshops, including
+		  an annual retreat to Hermit's Peak, located thirty miles northwest of Las
+		  Vegas, New Mexico, that had reached 26 years running. Additionally, Rumpel is a
+		  member of Artist Equity, the Embroiderers' Guild of America, Inc., and the
+		  National Standards Council of American Embroiderers.</p>
+      <p>She is considered a transitional artist who has transcended needle
+		  crafts, from which fine art fiber grew, to establish <emph render="doublequote">a
+		  true medium of creative expression like painting or sculpture.</emph> The
+		  artist had two grown sons and several grandchildren.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The collection contains correspondence, memorabilia, notebooks,
+		  photographs, printed material, scrapbooks, and news clippings pertaining to
+		  Helenn Rumpel's artistic career. Included in the donation were several of
+		  Rumpel's fine fiber art works.</p>
+    </scopecontent>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+      <controlaccess>
+        <head>Subjects (Persons)</head>
+        <persname encodinganalog="600" source="local">Rumpel, Helenn</persname>
+        <persname encodinganalog="600" source="local">Rumpel,
+			 Helenn--Appreciation</persname>
+        <persname encodinganalog="600" source="local">Rumpel, Helenn--Career in
+			 textile crafts</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">Artists, American</subject>
+        <subject encodinganalog="650" source="lcsh">Decorative arts</subject>
+        <subject encodinganalog="650" source="lcsh">Embroidery</subject>
+        <subject encodinganalog="650" source="lcsh">Embroidery--United
+			 States</subject>
+        <subject encodinganalog="650" source="lcsh">Fabric pictures</subject>
+        <subject encodinganalog="650" source="lcsh">Fiberwork</subject>
+        <subject encodinganalog="650" source="lcsh">Needlework</subject>
+        <subject encodinganalog="650" source="lcsh">Textile crafts</subject>
+        <subject encodinganalog="650" source="lcsh">Textile fabrics</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <head>Acquisition</head>
+      <p>Collection accession #(s): 
+			 <num type="accession">91-0230-B, 92-0220-B, 92-0283-B, 93-0257-B,
+				94-0007-B, 94-0217-B, 95-0077-B, 96-0098-B, 97-0150-B, 97-0151-A, 97-0152-A,
+				98-0065-B, 98-0099-B, 98-0110-B </num></p>
+      <p>Gifts, 1991-2000</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, 2000</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>Helenn Rumpel Papers, 1943-2000 and undated, Southwest
+			 Collection/Special Collections Library, Texas Tech University, Lubbock,
+			 Texas</p>
+    </prefercite>
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+      <c01 level="series">
+        <did>
+          <unittitle>Arts and Sciences Showcase, Texas Tech
+				University</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Exhibition and Lecture</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Miscellaneous, 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Baker Gallery, Lubbock, TX, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Constance Howard, 
+				  <unitdate era="ce" calendar="gregorian">1978-1987 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Constance Howard, 
+				  <unitdate era="ce" calendar="gregorian">1979-1995 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Constance Howard, Jacques Cartier, and Pat Russell, 
+				  <unitdate era="ce" calendar="gregorian">1972-1995 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Christmas Cards, 
+				  <unitdate era="ce" calendar="gregorian">1950-1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>Southwest Collection, 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Elks Leadership Contest</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1955</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Family Related Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1959-1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle>Photographs</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>High School Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1951-1955 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Literary Productions</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unittitle>Lecture on Gisella Loeffler, 
+				  <unitdate era="ce" calendar="gregorian">1998</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Memorabilia</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle>Miscellaneous, 
+				  <unitdate era="ce" calendar="gregorian">1955-1972 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle>Helenn Rumpel Binder</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Notebook</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>Baker Gallery, 
+				  <unitdate era="ce" calendar="gregorian">1975-1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle>Baker Gallery, 
+				  <unitdate era="ce" calendar="gregorian">1979-1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>Baker Gallery, 
+				  <unitdate era="ce" calendar="gregorian">1983-1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>Baker Gallery, 
+				  <unitdate era="ce" calendar="gregorian">1990-1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>Catalog of Exhibits, 
+				  <unitdate era="ce" calendar="gregorian">1959-1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle>Catalog of Exhibits, 
+				  <unitdate era="ce" calendar="gregorian">1979-1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle>Fine Art Fiber and Painting Archives, 
+				  <unitdate era="ce" calendar="gregorian">1957-1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle>Fine Art Fiber and Painting Archives, 
+				  <unitdate era="ce" calendar="gregorian">1975-1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle>Fine Art Fiber and Painting Archives, 
+				  <unitdate era="ce" calendar="gregorian">1988-1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unittitle>Fine Art Fiber and Painting Archives, 
+				  <unitdate era="ce" calendar="gregorian">1991-1992</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle>Fine Art Fiber and Painting Archives, 
+				  <unitdate era="ce" calendar="gregorian">1993-1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle>Fine Art Fiber and Painting Archives, 
+				  <unitdate era="ce" calendar="gregorian">1994-1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle>Fine Art Fiber and Painting Archives, 
+				  <unitdate era="ce" calendar="gregorian">1995-1996</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle>Fine Art Fiber and Painting Archives, 
+				  <unitdate era="ce" calendar="gregorian">1996-1997</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle>Studio Articles, 
+				  <unitdate era="ce" calendar="gregorian">1943-1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">6</container>
+            <unittitle>Workshops, Gascon Hermit's Peak, 
+				  <unitdate era="ce" calendar="gregorian">1973-1997</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Periodicals</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">7</container>
+            <unittitle>Magazines Featuring Helenn Rumpel Articles</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Photographs</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">8</container>
+            <unittitle>Artist Autographing Book</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">9</container>
+            <unittitle>Cartoons</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">10</container>
+            <unittitle>Exhibitions, 
+				  <unitdate era="ce" calendar="gregorian">1987-1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">11</container>
+            <unittitle>Exhibition and Price List</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Printed Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">1</container>
+            <unittitle>Calendar, 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">2</container>
+            <unittitle>Calendar, 
+				  <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">3</container>
+            <unittitle>Calendar, 
+				  <unitdate era="ce" calendar="gregorian">1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">4</container>
+            <unittitle>Calendar, 
+				  <unitdate era="ce" calendar="gregorian">1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">5</container>
+            <unittitle>Calendar, 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">6</container>
+            <unittitle>Calendar, 
+				  <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">7</container>
+            <unittitle>Calendar, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">8</container>
+            <unittitle>Calendar, 
+				  <unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">9</container>
+            <unittitle>Calendar, 
+				  <unitdate era="ce" calendar="gregorian">1998</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">10</container>
+            <unittitle>Greeting Cards</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Scrapbook</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">11</container>
+            <unittitle>Art Clippings and Miscellaneous Material</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">12</container>
+            <unittitle>Early Material</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">13</container>
+            <unittitle>Early Material, Folder #2</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">14</container>
+            <unittitle>Early Material, Folder #3</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">15</container>
+            <unittitle>Guest Registry for Exhibitions, 
+				  <unitdate era="ce" calendar="gregorian">1967-1971</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">16</container>
+            <unittitle>Guest Registry for Exhibition, 
+				  <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">1</container>
+            <unittitle>Hermit's Peak Workshop Cookbook, 
+				  <unitdate era="ce" calendar="gregorian">1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">2</container>
+            <unittitle>Magazine Articles, Photographs, etc.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">3</container>
+            <unittitle>Magazine Articles, Shows, Newspaper Articles</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">4</container>
+            <unittitle>Magazines, Photographs, Show Notices, etc.</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Stephens College</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">5</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1955-1957</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>University of Wisconsin</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">6</container>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1957-1959</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Newspapers</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">1</container>
+            <unittitle>Eisenhower Junior High School, 
+				  <unitdate era="ce" calendar="gregorian">1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">2</container>
+            <unittitle>Carlsbad (New Mexico) Cavemen Pow Wow, 
+				  <unitdate era="ce" calendar="gregorian">1950-1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">3</container>
+            <unittitle>Carlsbad Current-Argus, 
+				  <unitdate era="ce" calendar="gregorian">1981</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">4</container>
+            <unittitle>The Good News, St. Luke's United Methodist Church,
+				  Oklahoma City, OK</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">5</container>
+            <unittitle>Arts in Eldorado (New Mexico), 
+				  <unitdate era="ce" calendar="gregorian">1995</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Exhibition</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">6</container>
+            <unittitle>Beaux Arts Ball, Kings Arts Center, 
+				  <unitdate era="ce" calendar="gregorian">1992</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Printed Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">7</container>
+            <unittitle>Wall Calendar, 
+				  <unitdate era="ce" calendar="gregorian">1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>Wall Calendar, 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">9</container>
+            <unittitle>Wall Calendar, 
+				  <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">10</container>
+            <unittitle>Wall Calendar, 
+				  <unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">11</container>
+            <unittitle>Wall Calendar, 
+				  <unitdate era="ce" calendar="gregorian">1998</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Exhibit Items</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>Fine Art Fiber, untitled, Mixed Media on
+				  Wool</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Fine Art Fiber, Hopi Maiden I, Mixed Media</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">3</container>
+            <unittitle>Fine Art Fiber, Hopi Maiden II, Mixed Media</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">4</container>
+            <unittitle>Fine Art Fiber, Southwest Sun, Mixed Media</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">1</container>
+            <unittitle>Pottery-Stoneware Cat,</unittitle>
+            <physdesc>2 pieces</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">2</container>
+            <unittitle>Pottery Display Plaque</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Printed Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">3</container>
+            <unittitle>Postcard and Desk Calendars, 
+				  <unitdate era="ce" calendar="gregorian">2000</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">4</container>
+            <unittitle>Postcards and Announcements, 
+				  <unitdate era="ce" calendar="gregorian">1997-1998</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Scrapbook Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">5</container>
+            <unittitle>Wasserman Stalls Designs, 
+				  <unitdate era="ce" calendar="gregorian">1979 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">6</container>
+            <unittitle>Spaso House, 
+				  <unitdate era="ce" calendar="gregorian">1988-1989 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">1</container>
+            <unittitle>Helenn Archive, Vol. I, 
+				  <unitdate era="ce" calendar="gregorian">1992-1993</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">1</container>
+            <unittitle>Personal and Professional, 
+				  <unitdate era="ce" calendar="gregorian">1999</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Scrapbook Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">2</container>
+            <unittitle>Annual Archive Notebook, 
+				  <unitdate era="ce" calendar="gregorian">1997-1998</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">3</container>
+            <unittitle>Scrapbook, 
+				  <unitdate era="ce" calendar="gregorian">1998-1999</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Memorabilia</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">4</container>
+            <unittitle>Fine Art Desk Calendars, 
+				  <unitdate era="ce" calendar="gregorian">2000</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

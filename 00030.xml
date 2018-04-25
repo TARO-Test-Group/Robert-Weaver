@@ -1,0 +1,3023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00030</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>National Collegiate Athletic Association:</titleproper>
+        <subtitle>An Inventory of Its Records, 1939-1997 and undated, at the
+			 Southwest Collection/Special Collections Library</subtitle>
+        <author>A. Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/ Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409-1041</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">July 2000</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">February 2001.</date></creation>
+      <langusage>Finding aid written in
+		  <language>English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Tue Jul 22 15:20:55 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00030 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the National Collegiate Athletic Association
+		  Records, 1939-1997 and undated</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">July 2000</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <corpname encodinganalog="110">National Collegiate Athletic Association
+			 </corpname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">National Collegiate
+		  Athletic Association Records, 
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1939-1997 and undated</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">The NCAA supports
+		  collegiate programs from all universities and colleges whose departments comply
+		  with NCAA regulations.</abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 1251.1</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:">13 boxes, 6 newspaper
+		  boxes and 9 binders (43 linear feet)</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>The NCAA is a nation-wide athletic organization set up to monitor
+		  athletic programs from collegiate schools. They monitor the schools'
+		  compliance, student, media relations, recruiting, sports, officiating, and
+		  championship regulations.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The collection consists of printed material of the National Collegiate
+		  Athletic Association (NCAA) such as manuals, convention material, annual
+		  reports, yearbooks, directories, committee handbooks, historic and descriptive
+		  documents, studies, surveys, analyses, recruiting, compliance, student athlete
+		  information, faculty information, media relations, championships, baseball,
+		  basketball, football, golf, swimming and diving, tennis, track and field,
+		  volleyball, and periodicals.</p>
+    </scopecontent>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname encodinganalog="610" source="lcnaf">National Collegiate
+			 Athletic Association</corpname>
+        <corpname encodinganalog="610" source="lcnaf">National Collegiate
+			 Athletic Association--Handbooks, manuals, etc.</corpname>
+        <corpname encodinganalog="610" source="lcnaf">National Collegiate
+			 Athletic Association--History</corpname>
+        <corpname encodinganalog="610" source="lcnaf">National Collegiate
+			 Athletic Association--Rules and practice</corpname>
+        <corpname encodinganalog="610" source="lcnaf">National Collegiate
+			 Athletic Association--Statistics--Periodicals</corpname>
+        <corpname encodinganalog="610" source="lcnaf">Southwest Conference
+			 (U.S.)</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">Basketball--Tournaments--United States--History</subject>
+        <subject encodinganalog="650" source="lcsh">College
+			 sports--History</subject>
+        <subject encodinganalog="650" source="lcsh">College
+			 sports--Management</subject>
+        <subject encodinganalog="650" source="lcsh">College sports--United
+			 States</subject>
+        <subject encodinganalog="650" source="lcsh">Football--United
+			 States--History</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <head>Acquisition</head>
+      <p>Collection accession #(s): 
+			 <num>96-0117-B, 96-0179-B, 96-0186-B</num></p>
+      <p>Gift, 1996</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, July, 2000</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>National Collegiate Athletic Association Records, 1939-1997 and
+			 undated, Southwest Collection/Special Collections Library, Texas Tech
+			 University, Lubbock, Texas</p>
+    </prefercite>
+    <bibliography id="a10">
+      <head>Additional Sources</head>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Audette, Daniel Neil. <emph render="italic">The Effects of
+			 Title IX Legislation and Regulations on the Administration of Intercollegiate
+			 Athletic Programs for Schools in Divisions I, II, and III of the NCAA.
+			 </emph>[microform] Thesis (Ed. D.)--West Virginia University, 1982.</bibref>
+    </bibliography>
+    <relatedmaterial encodinganalog="544 1" id="a6">
+      <p>For related materials located in the Southwest Collection/Special
+			 Collections Library, see the following collections:</p>
+      <list type="simple">
+        <item>Southwest Conference Records, 1914-1996 and undated</item>
+        <item>Sports Information Records, 1925-1996</item>
+        <item>Dick Risenhoover oral history interview [sound recording], 1976</item>
+      </list>
+    </relatedmaterial>
+    <dsc type="combined">
+      <head>Collection Inventory</head>
+      <c01 level="series">
+        <did>
+          <unittitle>Printed Material</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Periodicals</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="othertype">Binder 1</container>
+              <container type="folder">1</container>
+              <unittitle>NCAA News, 
+					 <unitdate era="ce" calendar="gregorian">July 30, 1986-Oct.20, 1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Binder 2</container>
+              <container type="folder">1</container>
+              <unittitle>NCAA News, 
+					 <unitdate era="ce" calendar="gregorian">May 18, 1988-Aug. 31, 1988</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Binder 3</container>
+              <container type="folder">1</container>
+              <unittitle>NCAA News, 
+					 <unitdate era="ce" calendar="gregorian">March 8, 1989-April 30, 1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Binder 4</container>
+              <container type="folder">1</container>
+              <unittitle>NCAA News, 
+					 <unitdate era="ce" calendar="gregorian">May 3, 1989-August 30, 1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Binder 5</container>
+              <container type="folder">1</container>
+              <unittitle>NCAA News, 
+					 <unitdate era="ce" calendar="gregorian">March 16, 1994-Aug. 31, 1994</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Binder 6</container>
+              <container type="folder">1</container>
+              <unittitle>NCAA News, 
+					 <unitdate era="ce" calendar="gregorian">Sept. 12, 1994-Dec. 21, 1994</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Binder 7</container>
+              <container type="folder">1</container>
+              <unittitle>NCAA News, 
+					 <unitdate era="ce" calendar="gregorian">Jan. 4, 1995-April 19, 1995</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Binder 8</container>
+              <container type="folder">1</container>
+              <unittitle>NCAA News, 
+					 <unitdate era="ce" calendar="gregorian">April 26, 1995-July 19, 1995</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="othertype">Binder 9</container>
+              <container type="folder">1</container>
+              <unittitle>NCAA News, 
+					 <unitdate era="ce" calendar="gregorian">Aug. 16, 1995-Dec. 25, 1995</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Manuals</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">Box 1</container>
+              <container type="folder">1</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1994-1995 </unitdate>NCAA Manual</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">2</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1993-1994 </unitdate>NCAA Manual</unittitle>
+              <physdesc>(4 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">3</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1992-1993 </unitdate>NCAA Manual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">4</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1991-1992 </unitdate>NCAA Manual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">5</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1990-1991 </unitdate>NCAA Manual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">6</container>
+              <unittitle>NCAA Manual 
+					 <unitdate era="ce" calendar="gregorian">1982-1983 </unitdate>Constitution</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">7</container>
+              <unittitle>NCAA Manual 
+					 <unitdate era="ce" calendar="gregorian">1981-1982 </unitdate>Constitution</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">8</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1980-1981 </unitdate>NCAA Manual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">9</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1979-1980 </unitdate>NCAA Manual</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">10</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1978-1979 </unitdate>NCAA Manual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">11</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1977-1978 </unitdate>NCAA Manual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">12</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1976-1977 </unitdate>NCAA Manual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">13</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1975-1976 </unitdate>NCAA Manual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">14</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1974-1975 </unitdate>NCAA Manual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">15</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1973-1974 </unitdate>NCAA Manual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">16</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1972-1973 </unitdate>NCAA Manual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">17</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1971-1972 </unitdate>NCAA Manual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">18</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1968 </unitdate>NCAA Manual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">19</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1966 </unitdate>NCAA Manual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">20</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1965 </unitdate>NCAA Manual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">21</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1964 </unitdate>NCAA Manual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">22</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1962 </unitdate>NCAA Manual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">23</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1961 </unitdate>NCAA Manual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">24</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1958 </unitdate>NCAA Manual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">25</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1955 </unitdate>NCAA Manual</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Convention Material</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">1</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1996 </unitdate>NCAA Convention
+					 Proceedings</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">2</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1995 </unitdate>NCAA Convention
+					 Proceedings</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">3</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1993 </unitdate>NCAA Convention
+					 Proceedings</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">4</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1992 </unitdate>NCAA Convention
+					 Proceedings</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">5</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1991 </unitdate>NCAA Convention
+					 Proceedings</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">6</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1982 </unitdate>NCAA Convention
+					 Proceedings</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">7</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1981 </unitdate>NCAA Convention
+					 Proceedings</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">8</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1980 </unitdate>NCAA Convention
+					 Proceedings</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">9</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1976 </unitdate>NCAA Convention
+					 Proceedings</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">10</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1961 </unitdate>NCAA Convention
+					 Proceedings</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">12</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1941 </unitdate>NCAA Convention
+					 Proceedings</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">13</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1940 </unitdate>NCAA Convention
+					 Proceedings</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">15</container>
+              <unittitle>Special Convention Proceedings 
+					 <unitdate era="ce" calendar="gregorian">1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">16</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1996 </unitdate>NCAA Convention Official
+					 Notice</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">17</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1995 </unitdate>NCAA Convention Official
+					 Notice</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">18</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1994 </unitdate>NCAA Convention Official
+					 Notice</unittitle>
+              <physdesc>(4 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">19</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1993 </unitdate>NCAA Convention Official
+					 Notice</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">20</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1964 </unitdate>NCAA Convention Official
+					 Notice</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">21</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1996 </unitdate>NCAA Convention Initial Publication
+					 of Proposed Legislation</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">22</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1995 </unitdate>NCAA Convention Initial Publication
+					 of Proposed Legislation</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">23</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1994 </unitdate>NCAA Convention Initial Publication
+					 of Proposed Legislation</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">24</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1993 </unitdate>NCAA Convention Initial Publication
+					 of Proposed Legislation</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">25</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1996 </unitdate>NCAA Convention Second Publication of
+					 Proposed Legislation</unittitle>
+              <physdesc>(5 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">26</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1995 </unitdate>NCAA Convention Second Publication of
+					 Proposed Legislation</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">27</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1994 </unitdate>NCAA Convention Second Publication of
+					 Proposed Legislation</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">28</container>
+              <unittitle>NCAA 
+					 <unitdate era="ce" calendar="gregorian">1994 </unitdate>Convention Composite Meeting
+					 Schedule</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">29</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1995 </unitdate>NCAA Convention Summary of Proposals
+					 Official Notice</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Annual Reports</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">30</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1994-1995 </unitdate>Annual Reports</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">31</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1993-1994 </unitdate>Annual Reports</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">32</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1992-1993 </unitdate>Annual Reports</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">33</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1991-1992 </unitdate>Annual Reports</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">1</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1980-1981 </unitdate>Annual Reports</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">2</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1979-1980 </unitdate>Annual Reports</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">3</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1978-1979 </unitdate>Annual Reports</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Yearbooks</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">4</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1965-1966 </unitdate>NCAA Yearbook</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">5</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1964-1965 </unitdate>NCAA Yearbook</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">6</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1962-1963 </unitdate>NCAA Yearbook</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">7</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1961-1962 </unitdate>NCAA Yearbook</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">8</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1959-1960 </unitdate>NCAA Yearbook</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">9</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1958-1959 </unitdate>NCAA Yearbook</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">10</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1957-1958 </unitdate>NCAA Yearbook</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">11</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1956-1957 </unitdate>NCAA Yearbook</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">12</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1955-1956 </unitdate>NCAA Yearbook</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">13</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1954-1955 </unitdate>NCAA Yearbook</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">14</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1953-1954 </unitdate>NCAA Yearbook</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">15</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1952-1953 </unitdate>NCAA Yearbook</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">16</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1951 </unitdate>NCAA Yearbook</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">17</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1950 </unitdate>NCAA Yearbook</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">18</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1949 </unitdate>NCAA Yearbook</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">19</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1948 </unitdate>NCAA Yearbook</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">20</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1943 </unitdate>NCAA Yearbook</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Directories</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">21</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1993-1994 </unitdate>NCAA Directories</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">22</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1992-1993 </unitdate>NCAA Directories</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">23</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1991-1992 </unitdate>NCAA Directories</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Committee Handbooks</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">24</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1996 </unitdate>NCAA Committee Handbook</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">25</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1994 </unitdate>NCAA Committee Handbook</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Historic and Descriptive Documents</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">26</container>
+              <unittitle>NCAA Descriptive Pamphlet</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">27</container>
+              <unittitle>NCAA Purpose, Services, and History</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">28</container>
+              <unittitle>USA 
+					 <unitdate era="ce" calendar="gregorian">1776-1976, </unitdate>NCAA 
+					 <unitdate era="ce" calendar="gregorian">1906-1976 </unitdate>Bicentennial Book</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">29</container>
+              <unittitle>NCAA Fiftieth Anniversary</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">30</container>
+              <unittitle>NCAA Principles for the Conduct of Intercollegiate
+					 Athletics</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Studies, Surveys, and Analyses</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">31</container>
+              <unittitle>Financial Analysis of Intercollegiate
+					 Athletics</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">32</container>
+              <unittitle>Survey by the NCAA Special Committee on Length of
+					 Season</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">33</container>
+              <unittitle>The Sports and Recreational Programs of the Nation's
+					 Universities</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Division I Athletics Certification</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">34</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1995-1996 </unitdate>Self Study
+					 Instrument</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">35</container>
+              <unittitle>NCAA Recruiting Calendar 
+					 <unitdate era="ce" calendar="gregorian">August 1994-July 1995</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">36</container>
+              <unittitle>NCAA Guide to Recruiting 
+					 <unitdate era="ce" calendar="gregorian">1996-1997</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">37</container>
+              <unittitle>NCAA Guide to Recruiting 
+					 <unitdate era="ce" calendar="gregorian">1994-1995</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">38</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1996-1997 </unitdate>NCAA Coaches Recruiting Guide
+					 Division I</unittitle>
+              <physdesc>(3 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">39</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1996-1997 </unitdate>NCAA Coaches Recruiting Guide
+					 Division I Men's Basketball</unittitle>
+              <physdesc>(3 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">40</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1996-1997 </unitdate>NCAA Coaches Recruiting Guide
+					 Division I Women's Basketball</unittitle>
+              <physdesc>(3 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">41</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1996-1997 </unitdate>NCAA Coaches Recruiting Guide
+					 Division I Football</unittitle>
+              <physdesc>(3 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">42</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1995-1996 </unitdate>NCAA Coaches Recruiting Guide
+					 Division I</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">43</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1995-1996 </unitdate>NCAA Coaches Recruiting Guide
+					 Division I Football</unittitle>
+              <physdesc>(3 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">44</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1994-1995 </unitdate>NCAA Coaches Recruiting Guide
+					 Division I Men's Basketball</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">45</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1994-1995 </unitdate>NCAA Coaches Recruiting Guide
+					 Division I Women's Basketball</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">46</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1994-1995 </unitdate>NCAA Coaches Recruiting Guide
+					 Division II</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Compliance</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">47</container>
+              <unittitle>Guide to International Academic Standards for
+					 Athletics Eligibility 
+					 <unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">48</container>
+              <unittitle>Guide to International Academic Standards for
+					 Athletics Eligibility 
+					 <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">49</container>
+              <unittitle>Guide to International Academic Standards for
+					 Athletics Eligibility 
+					 <unitdate era="ce" calendar="gregorian">1992</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">50</container>
+              <unittitle>NCAA Compliance Assistant Software Hands-on
+					 Training</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Student Athlete Information</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">51</container>
+              <unittitle>NCAA Guide for the 2 Year College Student-Athlete 
+					 <unitdate era="ce" calendar="gregorian">1994-1997</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Manuals</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">52</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1991-1992 </unitdate>NCAA Manual</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Student Athlete Information</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">1</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1996-1997 </unitdate>NCAA Guide for the College-Bound
+					 Student-Athlete</unittitle>
+              <physdesc>(18 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">2</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1995-1996 </unitdate>NCAA Guide for the College Bound
+					 Student-Athlete</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">3</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1994-1995 </unitdate>NCAA Guide for the College-Bound
+					 Student-Athlete</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">4</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1993-1994 </unitdate>NCAA Guide for the College-Bound
+					 Student-Athlete</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">5</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1993 </unitdate>NCAA Graduation-Rates Disclosure Form
+					 &amp;#38; Instructions</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">6</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1995 </unitdate>NCAA Division I Graduation-Rates
+					 Report</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">7</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1994 </unitdate>NCAA Division I Graduation-Rates
+					 Report</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">8</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1993 </unitdate>NCAA Division I Graduation-Rates
+					 Report</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">9</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1992-1993 </unitdate>NCAA Division I Graduation-Rates
+					 Report</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">10</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1991-1992 </unitdate>NCAA Division I Graduation-Rates
+					 Report</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">11</container>
+              <unittitle>A Career in Professional Athletics</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">12</container>
+              <unittitle>NCAA Guide to Financial Aid 
+					 <unitdate era="ce" calendar="gregorian">1995-1996</unitdate></unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">13</container>
+              <unittitle>NCAA Guide to Financial Aid 
+					 <unitdate era="ce" calendar="gregorian">1994-1995</unitdate></unittitle>
+              <physdesc>(4 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">14</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1992-1993 </unitdate>NCAA Division I Graduation Rates
+					 Disclosure Form and Instructions</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Faculty Information</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">1</container>
+              <unittitle>Faculty Athletics Representative's
+					 Handbook</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Health Information</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">2</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1995-1996 </unitdate>NCAA Drug Education and Drug
+					 Testing Programs</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">3</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1993-1994 </unitdate>NCAA Sports Medicine
+					 Handbook</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Media Relations</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">4</container>
+              <unittitle>NCAA Football Television Committee Report 
+					 <unitdate era="ce" calendar="gregorian">1979-1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">5</container>
+              <unittitle>Transcript The Eighth NCAA Media Seminar</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">6</container>
+              <unittitle>Transcript The Seventh NCAA Media Seminar</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">7</container>
+              <unittitle>Transcript The Sixth NCAA Media Seminar</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">8</container>
+              <unittitle>Transcript The Fifth NCAA Media Seminar</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">9</container>
+              <unittitle>Transcript The Third NCAA Media Seminar</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Championships</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">10</container>
+              <unittitle>NCAA Championships 
+					 <unitdate era="ce" calendar="gregorian">1994-1995</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">11</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1991-1992 </unitdate>National Collegiate
+					 Championships</unittitle>
+              <physdesc>(3 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">12</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1990-1991 </unitdate>National Collegiate
+					 Championships</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">13</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1988-1989 </unitdate>National Collegiate
+					 Championships</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">14</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1987-1988 </unitdate>National Collegiate
+					 Championships</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">15</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1985-1986 </unitdate>National Collegiate
+					 Championships</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">16</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1984-1985 </unitdate>National Collegiate
+					 Championships</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">17</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1974 </unitdate>National Collegiate
+					 Championships</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">18</container>
+              <unittitle>National Collegiate Championships 
+					 <unitdate era="ce" calendar="gregorian">1955</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">19</container>
+              <unittitle>National Collegiate Championships 
+					 <unitdate era="ce" calendar="gregorian">1954</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">1</container>
+              <unittitle>National Collegiate Championship Events Handbook 
+					 <unitdate era="ce" calendar="gregorian">1962</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">2</container>
+              <unittitle>NCAA Sports Sponsorship 
+					 <unitdate era="ce" calendar="gregorian">1989-1992</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">3</container>
+              <unittitle>NCAA Championships Dates and Sites 
+					 <unitdate era="ce" calendar="gregorian">1993-1995</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Baseball</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">4</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1986 </unitdate>National Collegiate Championships
+					 Handbook Baseball</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">5</container>
+              <unittitle>49th College World Series 
+					 <unitdate era="ce" calendar="gregorian">1995 </unitdate>Media Information</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">6</container>
+              <unittitle>College World Series Programs 
+					 <unitdate era="ce" calendar="gregorian">1993-1996</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Basketball</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">7</container>
+              <unittitle>NCAA Basketball The Official 
+					 <unitdate era="ce" calendar="gregorian">1995 </unitdate>College Basketball Records
+					 Book</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">8</container>
+              <unittitle>Official 
+					 <unitdate era="ce" calendar="gregorian">1994 </unitdate>Basketball</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">9</container>
+              <unittitle>Official 
+					 <unitdate era="ce" calendar="gregorian">1993 </unitdate>Basketball</unittitle>
+              <physdesc>(3 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">10</container>
+              <unittitle>Official 
+					 <unitdate era="ce" calendar="gregorian">1992 </unitdate>Basketball</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">11</container>
+              <unittitle>Official 
+					 <unitdate era="ce" calendar="gregorian">1991 </unitdate>Basketball</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">12</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1988 </unitdate>NCAA Basketball</unittitle>
+              <physdesc>(3 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">13</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1987 </unitdate>NCAA Basketball</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">14</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1986 </unitdate>NCAA Basketball</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">15</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1985 </unitdate>NCAA Basketball</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">16</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1993-1994 </unitdate>NCAA Basketball
+					 Preview</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">17</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1991-1992 </unitdate>NCAA Basketball
+					 Preview</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">18</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1988 </unitdate>Men's College Basketball Media
+					 Kit</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">19</container>
+              <unittitle>Official 
+					 <unitdate era="ce" calendar="gregorian">1994 </unitdate>NCAA Final Four Records</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">20</container>
+              <unittitle>Official NCAA Final Four 
+					 <unitdate era="ce" calendar="gregorian">1993 </unitdate>Records</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">21</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1995 </unitdate>NCAA Illustrated Basketball Men's and
+					 Women's Rules and Interpretations</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">22</container>
+              <unittitle>Read-Easy 
+					 <unitdate era="ce" calendar="gregorian">1993 </unitdate>NCAA Basketball Men's and Women's
+					 Rules and Interpretations</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">23</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1992 </unitdate>NCAA Basketball Men's and Women's
+					 Rules and Interpretations</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">24</container>
+              <unittitle>Read-Easy 
+					 <unitdate era="ce" calendar="gregorian">1991 </unitdate>NCAA Basketball Men's and Women's
+					 Rules and Interpretations</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">1</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1994 </unitdate>NCAA Tournament Program
+					 Brochures</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">2</container>
+              <unittitle>NCAA Men's Basketball Officiating Programns 
+					 <unitdate era="ce" calendar="gregorian">1992-1994</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">3</container>
+              <unittitle>Official NCAA Basketball Championship Guides 
+					 <unitdate era="ce" calendar="gregorian">1994-1996</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">4</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1991 </unitdate>NCAA Men's Division I Basketball
+					 Championship Program</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">5</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1994 </unitdate>NCAA Men's Division I Midwest
+					 Regional Basketball Program</unittitle>
+              <physdesc>(3 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">6</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1985 </unitdate>NCAA Men's Division I 1st and 2nd
+					 Rounds Basketball Program</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">7</container>
+              <unittitle>NCAA Men's Basketball Tournament Regional Media Guides
+					 
+					 <unitdate era="ce" calendar="gregorian">1990-1996</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">8</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1994 </unitdate>NCAA Division I Men's Basketball
+					 Midwest Regional Participant Manual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">9</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1996 </unitdate>NCAA Final Four Fan Guide</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">10</container>
+              <unittitle>NCAA Women's Final Four Records 
+					 <unitdate era="ce" calendar="gregorian">1995</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">11</container>
+              <unittitle>NCAA Women's Final Four Records 
+					 <unitdate era="ce" calendar="gregorian">1992</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">12</container>
+              <unittitle>NCAA Women's Final Four Records 
+					 <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">13</container>
+              <unittitle>National Collegiate Championships Division I Men's
+					 Basketball Handbooks 
+					 <unitdate era="ce" calendar="gregorian">1990-1996</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Football</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">14</container>
+              <unittitle>NCAA Football The Official 
+					 <unitdate era="ce" calendar="gregorian">1995 </unitdate>College Football Records
+					 Book</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">15</container>
+              <unittitle>NCAA Football The Official 
+					 <unitdate era="ce" calendar="gregorian">1994 </unitdate>College Football Records
+					 Book</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">1</container>
+              <unittitle>Official 
+					 <unitdate era="ce" calendar="gregorian">1993 </unitdate>NCAA Football</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">2</container>
+              <unittitle>Official 
+					 <unitdate era="ce" calendar="gregorian">1992 </unitdate>NCAA Football</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">3</container>
+              <unittitle>Official 
+					 <unitdate era="ce" calendar="gregorian">1991 </unitdate>NCAA Football</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">4</container>
+              <unittitle>Official 
+					 <unitdate era="ce" calendar="gregorian">1990 </unitdate>NCAA Football</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">5</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1989 </unitdate>NCAA Football</unittitle>
+              <physdesc>(3 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">6</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1988 </unitdate>NCAA Football</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">7</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1987 </unitdate>NCAA Football</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">8</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1986 </unitdate>NCAA Football</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">9</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1985 </unitdate>NCAA Football</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">10</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1984 </unitdate>NCAA Football</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">11</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1983 </unitdate>NCAA Football</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">12</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1978</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">13</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1977</unitdate></unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">14</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1976</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">15</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">16</container>
+              <unittitle>NCAA Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">17</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1974</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">18</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1973</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">19</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1972</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">20</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1971</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">21</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1970</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">22</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1969</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">23</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1968</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">24</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1967</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">25</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1966</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">26</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1965</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">27</container>
+              <unittitle>College Football Modern Record Book 
+					 <unitdate era="ce" calendar="gregorian">1973</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">28</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1964</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">29</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1963</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">30</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1962</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">31</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1961</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">32</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1960</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">33</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1959</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">34</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1958</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">35</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1957</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">36</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1956</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">37</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1954</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">38</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1953</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">39</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1952</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">40</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1951</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">41</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1950</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">42</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1947</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">43</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1945</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">44</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1944</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">45</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1943</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">46</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1942</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">47</container>
+              <unittitle>Official Collegiate Football Guide 
+					 <unitdate era="ce" calendar="gregorian">1941</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">48</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1989 </unitdate>College Football Media
+					 Kit</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">49</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1987 </unitdate>College Football Media
+					 Kit</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">50</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1994-1995 </unitdate>NCAA Postseason Football
+					 Handbook</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">1</container>
+              <unittitle>NCAA Football: Official 
+					 <unitdate era="ce" calendar="gregorian">1996 </unitdate>College Football Records
+					 Book</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">2</container>
+              <unittitle>Football Rules and Interpretations 
+					 <unitdate era="ce" calendar="gregorian">1972-1995</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">3</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1989 </unitdate>Football Statistician's
+					 Manual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">4</container>
+              <unittitle>NCAA Previews</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Golf</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">5</container>
+              <unittitle>NCAA Championships Men's and Women's Golf Handbooks 
+					 <unitdate era="ce" calendar="gregorian">1992-1995</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">6</container>
+              <unittitle>NCAA 
+					 <unitdate era="ce" calendar="gregorian">1992 </unitdate>Division 1 Men's Golf Championship
+					 Clip Art</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Swimming and Diving</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">7</container>
+              <unittitle>NCAA Division I Women's Swimming and Diving
+					 Championship Programs 
+					 <unitdate era="ce" calendar="gregorian">1992-1993</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">8</container>
+              <unittitle>NCAA Division I Women's Swimming and Diving 
+					 <unitdate era="ce" calendar="gregorian">1992 </unitdate>Championship Pressbook</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">9</container>
+              <unittitle>NCAA Championships Men's and Women's Swimming and
+					 Diving Handbooks 
+					 <unitdate era="ce" calendar="gregorian">1990-1996</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">10</container>
+              <unittitle>NCAA Men's and Women's Swimming and Diving Rules 
+					 <unitdate era="ce" calendar="gregorian">1992-1994</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">11</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1991 </unitdate>NCAA Division I Swimming and Diving
+					 Championships Lane Assignments</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">12</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1993 </unitdate>NCAA Division I Swimming and Diving
+					 Championships Clip Art</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Tennis</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">13</container>
+              <unittitle>NCAA Championships Men's and Women's Tennis Handbooks 
+					 <unitdate era="ce" calendar="gregorian">1990-1994</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Track and Field</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">14</container>
+              <unittitle>NCAA Championships 
+					 <unitdate era="ce" calendar="gregorian">1994 </unitdate>Men's and Women's Outdoor Track &amp;
+					 Field Handbooks</unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">15</container>
+              <unittitle>NCAA Championships 
+					 <unitdate era="ce" calendar="gregorian">1994 </unitdate>Men's and Women's Indoor Track &amp;
+					 Field Handbooks</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">16</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1995 </unitdate>NCAA Track and Field/Cross-Country
+					 Rules</unittitle>
+              <physdesc>(4 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">17</container>
+              <unittitle>NCAA Championships Men's and Women's Cross Country
+					 Handbooks 
+					 <unitdate era="ce" calendar="gregorian">1991-1993</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Volleyball</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">18</container>
+              <unittitle>NCAA Division I Women's Volleyball Championship
+					 Programs 
+					 <unitdate era="ce" calendar="gregorian">1990-1994</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">19</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1994 </unitdate>NCAA Division I Women's Volleyball
+					 Championship Pressbook</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">20</container>
+              <unittitle>NCAA Championships Women's Volleyball Handbooks 
+					 <unitdate era="ce" calendar="gregorian">1982-1994</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">21</container>
+              <unittitle><unitdate era="ce" calendar="gregorian">1992 </unitdate>NCAA Women's Volleyball Clip
+					 Art</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Manuals</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">22</container>
+              <unittitle>NCAA Interpretations Committee: Compilation of
+					 1989-1991 Interpretations</unittitle>
+              <physdesc>(2 copies)</physdesc>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Periodicals</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">1</container>
+              <unittitle>NCAA Convention</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">2</container>
+              <unittitle>NCAA Sports Sciences</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">3</container>
+              <unittitle>NCAA Register</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">4</container>
+              <unittitle>NCAA News 
+					 <unitdate era="ce" calendar="gregorian">1984</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">5</container>
+              <unittitle>NCAA News 
+					 <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">1</container>
+              <unittitle>NCAA News 
+					 <unitdate era="ce" calendar="gregorian">June-January 1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">2</container>
+              <unittitle>NCAA News 
+					 <unitdate era="ce" calendar="gregorian">November-December 1988</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">3</container>
+              <unittitle>NCAA News 
+					 <unitdate era="ce" calendar="gregorian">1989 (Except May)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">1</container>
+              <unittitle>NCAA News 
+					 <unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">1</container>
+              <unittitle>NCAA News 
+					 <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">2</container>
+              <unittitle>NCAA News 
+					 <unitdate era="ce" calendar="gregorian">1992</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">1</container>
+              <unittitle>NCAA News 
+					 <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">2</container>
+              <unittitle>NCAA News 
+					 <unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">15</container>
+              <container type="folder">1</container>
+              <unittitle>NCAA News 
+					 <unitdate era="ce" calendar="gregorian">1995</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">15</container>
+              <container type="folder">2</container>
+              <unittitle>NCAA News 
+					 <unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Annual Reports</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">16</container>
+              <container type="folder">1</container>
+              <unittitle>NCAA Annual Reports, 
+					 <unitdate era="ce" calendar="gregorian">1965-1978</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Convention Material</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">16</container>
+              <container type="folder">2</container>
+              <unittitle>Programs, 
+					 <unitdate era="ce" calendar="gregorian">1967-1974</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">16</container>
+              <container type="folder">3</container>
+              <unittitle>Programs, 
+					 <unitdate era="ce" calendar="gregorian">1975-1982</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Handbooks</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">16</container>
+              <container type="folder">4</container>
+              <unittitle>Of the Intercollegiate Conference, 
+					 <unitdate era="ce" calendar="gregorian">1965-1972</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">16</container>
+              <container type="folder">5</container>
+              <unittitle>Survey of Playing and Practice Season, 
+					 <unitdate era="ce" calendar="gregorian">1953</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Brochures</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">1</container>
+              <unittitle>National Collegiate Championship Events, 
+					 <unitdate era="ce" calendar="gregorian">1973-1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">2</container>
+              <unittitle>Television Committee, 
+					 <unitdate era="ce" calendar="gregorian">1972-1979</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Compliance</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">3</container>
+              <unittitle>Study of Freshman Eligilibity Standards, 
+					 <unitdate era="ce" calendar="gregorian">1984</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Convention Material</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">4</container>
+              <unittitle>Proceedings, 
+					 <unitdate era="ce" calendar="gregorian">1967-1977</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">5</container>
+              <unittitle>Summary of Proposals, 
+					 <unitdate era="ce" calendar="gregorian">1995</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Directories</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">6</container>
+              <unittitle>NCAA Directory, 
+					 <unitdate era="ce" calendar="gregorian">1976-1978</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Health Information</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">7</container>
+              <unittitle>Drug-Testing Education Programs, 
+					 <unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Manuals</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">8</container>
+              <unittitle>Constitution, Bylaws, Interpretations, etc., 
+					 <unitdate era="ce" calendar="gregorian">1969-1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">9</container>
+              <unittitle>Division III Operating Manual, 
+					 <unitdate era="ce" calendar="gregorian">1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">10</container>
+              <unittitle>Implementation of 1.6 Rule</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">11</container>
+              <unittitle>Guide to Title IX and Intercollegiate Athletics, 
+					 <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Media Relations</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">12</container>
+              <unittitle>Television Committee, 
+					 <unitdate era="ce" calendar="gregorian">1976-1978</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">13</container>
+              <unittitle>Collegiate Commissioners Association, 
+					 <unitdate era="ce" calendar="gregorian">1979-1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">14</container>
+              <unittitle>Pamphlets and Brochures, 
+					 <unitdate era="ce" calendar="gregorian">1976-1979 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Recruiting</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">15</container>
+              <unittitle>Guides, 
+					 <unitdate era="ce" calendar="gregorian">1994 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Reports</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">16</container>
+              <unittitle>Financial Aid and Reporting, 
+					 <unitdate era="ce" calendar="gregorian">1970-1974</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">17</container>
+              <unittitle>Notification and Acceptance of Appointments, 
+					 <unitdate era="ce" calendar="gregorian">1972-1979</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Student Athlete Information</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">18</container>
+              <unittitle>Division I Graduation-Rates Disclosure Form, 
+					 <unitdate era="ce" calendar="gregorian">1996</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">19</container>
+              <unittitle>Guide for the College Bound Student-Athlete, 
+					 <unitdate era="ce" calendar="gregorian">1974-1979</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">20</container>
+              <unittitle>Women's Enhancement Program Postgraduate
+					 Scholarships</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Baseball</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">18</container>
+              <container type="folder">1</container>
+              <unittitle>Guides and Handbook, 
+					 <unitdate era="ce" calendar="gregorian">1977-1982</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Basketball</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">18</container>
+              <container type="folder">2</container>
+              <unittitle>Guides and Handbook, 
+					 <unitdate era="ce" calendar="gregorian">1976-1994</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Basketball (Women's)</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">18</container>
+              <container type="folder">3</container>
+              <unittitle>Record Book, 
+					 <unitdate era="ce" calendar="gregorian">1982</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Cross Country</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">18</container>
+              <container type="folder">4</container>
+              <unittitle>Handbooks, 
+					 <unitdate era="ce" calendar="gregorian">1978-1979</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Golf</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">18</container>
+              <container type="folder">5</container>
+              <unittitle>Handbooks, 
+					 <unitdate era="ce" calendar="gregorian">1978-1979</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Gymastics</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">18</container>
+              <container type="folder">6</container>
+              <unittitle>Handbooks, 
+					 <unitdate era="ce" calendar="gregorian">1978</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Soccer</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">18</container>
+              <container type="folder">7</container>
+              <unittitle>Handbooks, 
+					 <unitdate era="ce" calendar="gregorian">1978-1979</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Swimming and Diving</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">18</container>
+              <container type="folder">8</container>
+              <unittitle>Guides and Handbooks, 
+					 <unitdate era="ce" calendar="gregorian">1978-1990</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Tennis</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">18</container>
+              <container type="folder">9</container>
+              <unittitle>Handbooks, 
+					 <unitdate era="ce" calendar="gregorian">1978-1979</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Track and Field</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">18</container>
+              <container type="folder">10</container>
+              <unittitle>Guides and Handbooks, 
+					 <unitdate era="ce" calendar="gregorian">1978-1981</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Volleyball</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">18</container>
+              <container type="folder">11</container>
+              <unittitle>Handbook, 
+					 <unitdate era="ce" calendar="gregorian">1978</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Football</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">18</container>
+              <container type="folder">12</container>
+              <unittitle>Rules, National Alliance Edition, 
+					 <unitdate era="ce" calendar="gregorian">1965-1976</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">18</container>
+              <container type="folder">13</container>
+              <unittitle>Rules, Collegiate Commissioners Association, 
+					 <unitdate era="ce" calendar="gregorian">1968-1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">19</container>
+              <container type="folder">1</container>
+              <unittitle>Questions and Answers, 
+					 <unitdate era="ce" calendar="gregorian">1940-1960</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">19</container>
+              <container type="folder">2</container>
+              <unittitle>Rules and Interpretations, 
+					 <unitdate era="ce" calendar="gregorian">1940-1979</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">19</container>
+              <container type="folder">3</container>
+              <unittitle>Official Guide, 
+					 <unitdate era="ce" calendar="gregorian">1948-1949</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">19</container>
+              <container type="folder">4</container>
+              <unittitle>Handbook, National Federation Edition, 
+					 <unitdate era="ce" calendar="gregorian">1965-1977</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">19</container>
+              <container type="folder">5</container>
+              <unittitle>Statisticians Manual and Handbook, 
+					 <unitdate era="ce" calendar="gregorian">1978-1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">19</container>
+              <container type="folder">6</container>
+              <unittitle>Records, 
+					 <unitdate era="ce" calendar="gregorian">1977-1984</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">19</container>
+              <container type="folder">7</container>
+              <unittitle>Records, 
+					 <unitdate era="ce" calendar="gregorian">1969-1975</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Basketball</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">19</container>
+              <container type="folder">8</container>
+              <unittitle>Manuals and Record Books, 
+					 <unitdate era="ce" calendar="gregorian">1987-1994</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Championships</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">19</container>
+              <container type="folder">9</container>
+              <unittitle>Records, 
+					 <unitdate era="ce" calendar="gregorian">1956-1971</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

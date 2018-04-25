@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00119</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>United Confederate (Civil War) Veterans:</titleproper>
+        <subtitle>An Inventory of the Collection, 1863-1967 and undated, at the
+			 Southwest Collection/Special Collections Library</subtitle>
+        <author>Abel Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">August 2000</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services; revised by Robert Weaver 
+		  <date era="ce" calendar="gregorian">October 2000; March 2017.</date></creation>
+      <langusage>Finding aid written in
+		  <language>English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Tue Jul 22 15:22:40 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00119 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the United Confederate (Civil War) Veterans
+		  Collection, 1863-1967 and undated</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">August 2000</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <corpname encodinganalog="110">United Confederate
+			 Veterans</corpname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">United Confederate
+		  Veterans Collection, 
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1863-1967 and undated</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">Papers collected by E.
+		  E. Ellis concerning the United Confederate Veterans.</abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 1105.2</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname>Texas Tech University, </corpname>
+        <subarea>Southwest
+		  Collection/Special Collections Library</subarea>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:"> 4 boxes (6.0 linear
+		  feet)</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>The materials in this collection were once the property of E. E.
+		  Ellis, who collected them for his personal library. The significance of the
+		  Robert E. Lee Camp No. 158, which met in Fort Worth, Texas, was the
+		  accumulation of the stories and other accounts of the veterans who fought for
+		  the Confederate States of America. The United Confederate Veterans gathered for
+		  several years in the late 19th Century and into the early 20th Century to
+		  relive the glory days of the struggle within the United States that tore the
+		  country apart. The soldiers overcame odds and hardships during and after the
+		  war.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The collection contains material concerning Confederate Civil War
+		  Veterans and the reunions they had at the Robert E. Lee Camp No. 158 in Fort
+		  Worth, Texas during the late 1890s through the 1920s.</p>
+      <p>The correspondence materials contain the veterans' written experiences
+		  in the war. The ledgers are rosters of members who attended the reunions. Also
+		  includes publications of the 
+		<title render="italic">Century Warbook: Battles and Leaders of the Civil
+		  War </title>and 
+		<title render="italic">The Confederate Soldier in the Civil War
+		  </title>series.</p>
+      <p>Digital copies of both of these publications, as well as digital copies of all of the correspondence contained in the 
+        Records, may be found among the <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" 
+          xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/10605/45428">Southwest Collection's Digital Collections.</extref></p>
+    </scopecontent>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname encodinganalog="610" source="lcnaf">Confederate States of
+			 America. Army.</corpname>
+        <corpname encodinganalog="610" source="lcnaf">United Confederate
+			 Veterans.</corpname>
+        <corpname encodinganalog="610" source="local">United Confederate
+			 Veterans. Robert E. Lee Camp No. 158.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Places</head>
+        <geogname encodinganalog="651" source="lcnaf">United
+			 States--History--Civil War, 1861-1865.</geogname>
+        <geogname encodinganalog="651" source="lcnaf">United
+			 States--History--Civil War, 1861-1865--Personal narratives.</geogname>
+        <geogname encodinganalog="651" source="lcnaf">United
+			 States--History--Civil War, 1861-1865--Veterans.</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">Reunions--Texas.</subject>
+        <subject encodinganalog="650" source="lcsh">Veterans--Texas.</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <p>Collection accession #(s): 
+			 <num type="accession">97-0096-A, 1999-0166-B</num></p>
+      <p>Gifts, 1997-1999</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, August 2000</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>United Confederate (Civil War) Veterans Collection, 1863-1967 and
+			 undated, Southwest Collection/Special Collections Library, Texas Tech
+			 University, Lubbock, Texas</p>
+    </prefercite>
+    <bibliography id="a10">
+      <head>Additional Sources</head>
+      <bibref>Askew, H. G. 
+			 <title render="doublequote">Second Texas Brigade, United Confederate
+				Veterans (The Banner Brigade of the U. C. V. in 1916). </title>Austin, Texas,
+			 1916.</bibref>
+     
+      <bibref>Philpott, William Bledsoe. 
+			 <title render="doublequote">The Sponsor Souvenir Album and History of the
+				United Confederate Veterans' Reunion, 1895.</title></bibref>
+     
+      <bibref><title render="doublequote">Patriotic Poems, War Songs, Romantic
+				Incidents, Biographical and Historical Sketches. </title>Houston: Sponsor
+			 Souvenir Company, 1895.</bibref>
+    
+    </bibliography>
+    <relatedmaterial encodinganalog="544 1" id="a6">
+      <p>For related materials located in the Southwest Collection/Special
+			 Collections Library, see the following collections:</p>
+      <list type="simple">
+        <item>George Washington Littlefield Papers, 1860-1922.</item>
+        <item>United Confederate Veterans Collection, 1909-1919.</item>
+        <item><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" 
+          xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/10605/45428">United Confederate (Civil War) Veterans Collection, 
+          1863-1967 and undated (digital Collection).</extref></item>
+      </list>
+    </relatedmaterial>
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+      <c01>
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>United Confederate Veterans- Descriptive Lists and
+				  Letters of Affirmation (A-M), 
+				  <unitdate era="ce" calendar="gregorian">1899-1909</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>United Confederate Veterans- Descriptive Lists and
+				  Letters of Affirmation (N-Z), 
+				  <unitdate era="ce" calendar="gregorian">1899-1909</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>United Confederate Veterans- Descriptive Lists and
+				  Letters of Affirmation, 
+				  <unitdate era="ce" calendar="gregorian">1910-1921</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>United Confederate Veterans- Memorial Resolutions and
+				  Obituary Notices, 
+				  <unitdate era="ce" calendar="gregorian">1903-1922</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Miscellaneous- Letters and Thomas A. Mattox Papers, 
+				  <unitdate era="ce" calendar="gregorian">1863-1956</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Financial Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Miscellaneous- Bank Statement, Canceled Checks and
+				  Receipts, 
+				  <unitdate era="ce" calendar="gregorian">1910-1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Ledger- UCV Cash Book, 
+				  <unitdate era="ce" calendar="gregorian">1903-1910</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Printed Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Robert E. Lee Camp No. 158, UCV- Constitution and
+				  By-laws, 
+				  <unitdate era="ce" calendar="gregorian">1905</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>Minutes of 24th Annual Reunion, General Orders and
+				  Funeral Notices, 
+				  <unitdate era="ce" calendar="gregorian">1903-1921</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>Annual Reports- Texas Confederate Home and Confederate
+				  Woman's Home (Austin, TX), 
+				  <unitdate era="ce" calendar="gregorian">1895-1924</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle><emph render="italic">Confederate Veteran
+				  </emph>Magazine (4 Issues), 
+				  <unitdate era="ce" calendar="gregorian">1917-1931</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle><title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="doublequote" xlink:href="">Bulletin of the United Daughters of the
+					 Confederacy </title> (6 Issues), 
+				  <unitdate era="ce" calendar="gregorian">1938-1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle>Newspaper Clippings and Magazine Articles on Civil War
+				  and United Confederate Veterans Affairs, 
+				  <unitdate era="ce" calendar="gregorian">1920-1955 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unittitle>Newspaper Clippings and Articles on Texas and Western
+				  Frontier History, 
+				  <unitdate era="ce" calendar="gregorian">1923-1941 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle>Miscellaneous Newspaper Clippings, 
+				  <unitdate era="ce" calendar="gregorian">1939-1967 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Scrapbook Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle>UCV Scrapbook with Newspaper Clippings, Train Tickets,
+				  Ads and Cards, 
+				  <unitdate era="ce" calendar="gregorian">1901-1953 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+            <unittitle>Photographs of George W. Coe and Billy the Kid post
+				  card, 
+				  <unitdate era="ce" calendar="gregorian">1941</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <container type="box">OS Box 1</container>
+          <unittitle><title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="doublequote" xlink:href="">The Century Warbook: Battles and Leaders of
+				  the Civil War </title>,Vols. 1-18 (18 items), 
+				<unitdate era="ce" calendar="gregorian">1894</unitdate></unittitle>
+          <note>
+            <p>(Note: Some Volumes are Water Damaged)</p>
+          </note>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container type="box">OS Box 2</container>
+          <unittitle>Ledgers - Rosters of Robert E. Lee Camp No. 158 of the UCV
+				(2 items), 
+				<unitdate era="ce" calendar="gregorian">1906-1921</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container type="box">OS Box 3</container>
+          <unittitle>Louisville (KY) Courier-Journal Company- 
+				<title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="doublequote" xlink:href=""> The Confederate Soldier in the Civil War
+				  </title>, Series (19 items), 
+				<unitdate era="ce" calendar="gregorian">April 29-October 4, 1897</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container type="box">OS Box 3</container>
+          <unittitle><title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="doublequote" xlink:href="">Black Hills Pioneer</title>, Vol. 1, No. 1
+				(Reproduction), 
+				<unitdate era="ce" calendar="gregorian">June 8, 1876</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container type="box">OS Box 3</container>
+          <unittitle><title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="doublequote" xlink:href="">Dixieland </title>Magazine, Vol. 5, No. 3, 
+				<unitdate era="ce" calendar="gregorian">December 1906</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container type="box">OS Box 3</container>
+          <unittitle>Copy of Governor Sam Houston's Proclamation
+				(Reproduction), 
+				<unitdate era="ce" calendar="gregorian">February 9, 1861</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container type="box">OS Box 3</container>
+          <unittitle>Oversized correspondence from UCV Letters of Affirmation
+				file (2 items)</unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container type="box">OS Box 3</container>
+          <unittitle>Proposal by United Daughters of the Confederacy to make
+				Jefferson Davis' Birthday a Legal Holiday in the State of Texas, 
+				<unitdate era="ce" calendar="gregorian">December 1903</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container type="box">OS Box 3</container>
+          <unittitle><title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="doublequote" xlink:href="">Home State </title>newsletter (Dallas, TX), 
+				<unitdate era="ce" calendar="gregorian">December 6, 1913</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container type="box">OS Box 3</container>
+          <unittitle>Picture Section of 
+				<title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="doublequote" xlink:href="">Chicago Sunday Tribune, </title><unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">March 24, 1935-
+				  </unitdate> Includes Colored Lithographs of the Civil War Battles of
+				Chancellorsville and Chickamauga (1863) and a Photograph of the U. S. S.
+				Arizona (6 years before Pearl Harbor)</unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container type="othertype">Oversized Item</container>
+          <unittitle>Map of the Vicinity of Richmond, VA, and Part of the
+				Peninsula (Reproduction), 
+				<unitdate era="ce" calendar="gregorian">1864</unitdate></unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

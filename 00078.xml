@@ -1,0 +1,2417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00078</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>City of Post, Texas, Blueprints:</titleproper>
+        <subtitle>An Inventory of the Collection, 1908-1915 and undated, at the
+			 Southwest Collection/Special Collections Library</subtitle>
+        <author>Abel Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">2000</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">December 2000.</date></creation>
+      <langusage>Finding aid written in
+		  <language>English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Tue Jul 22 15:21:52 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00078 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the City of Post, Texas Blueprint Collection,
+		  1908-1915 and undated</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">2000</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <corpname encodinganalog="110">Post (Tex.) </corpname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">City of Post, Texas,
+		  Blueprint Collection, 
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1908-1915 and undated</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">This collection
+		  consists blueprints of various structures in the City of Post,
+		  Texas.</abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">M 5.1</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:">837 blueprints (6.0
+		  linear feet)</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>The county seat of Garza County, Post was established as a town in
+		  1907 when cereal magnate Charles William Post bought 200,000 acres of ranch
+		  land and created the Double U Company. The company was responsible for the
+		  construction of the town and landscaping, as well as renting and selling farm
+		  land and buildings.</p>
+      <p>The Handbook of Texas has published a more in-depth online biography
+		  of Post, Texas at http://www.tsha.utexas.edu/handbook/online/search.html</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>This collection consists blueprints of residential homes, commercial
+		  and agricultural structures, miscellaneous buildings and structures for the
+		  city of Post, Texas. The materials were donated along with the Double U Ranch
+		  records.</p>
+    </scopecontent>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+      <controlaccess>
+        <head>Places</head>
+        <geogname encodinganalog="651" source="lcnaf">Post (Tex.)</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Post (Tex.)--Buildings,
+			 structures, etc.</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">Architecture--Texas--Post</subject>
+        <subject encodinganalog="650" source="lcsh">Architecture,
+			 Domestic--Texas--Post</subject>
+        <subject encodinganalog="650" source="lcsh">Blueprints</subject>
+        <subject encodinganalog="650" source="lcsh">Buildings--Texas--Post</subject>
+        <subject encodinganalog="650" source="lcsh">Cities and towns--Texas,
+			 West</subject>
+        <subject encodinganalog="650" source="lcsh">Commercial
+			 buildings--Texas--Post</subject>
+        <subject encodinganalog="650" source="lcsh">Dwellings--Texas--Post</subject>
+        <subject encodinganalog="650" source="lcsh">Farm
+			 buildings--Texas--Post</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <p>Collection accession # (s): 
+			 <num type="accession">84-0015-B, 85-0024-B</num></p>
+      <p>Gifts, 1984-195</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, 2000</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>City of Post, Texas, Blueprint Collection, 1908-1915 and undated,
+			 Southwest Collection/Special Collections Library, Texas Tech University,
+			 Lubbock, Texas</p>
+    </prefercite>
+    <bibliography id="a10">
+      <head>Additional Sources</head>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Didway, Charles, ed. 
+			 <title xlink:type="simple" render="doublequote" xlink:href="">A History of Garza County. </title>Seagraves,
+			 Texas: Pioneer, 1973.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Eaves, Charles Dudley and C.A. Hutchinson. 
+			 <title xlink:type="simple" render="doublequote" xlink:href="">Post City, Texas: C.W. Post's Colonizing
+				Activities in West Texas. </title>Austin: Texas State Historical Association,
+			 1952.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Macik, Gregory S. 
+			 <title xlink:type="simple" render="doublequote" xlink:href="">What Makes Main Street?: a Study of the Main
+				Street Programs in Plainview, Post, and Littlefield, Texas. </title>Thesis (M.
+			 of Arch.)--Texas Tech University, 1994.</bibref>
+    </bibliography>
+    <relatedmaterial encodinganalog="544 1" id="a6">
+      <p>For related materials located in the Southwest Collection/Special
+			 Collections Library, see the following collections:</p>
+      <list type="simple">
+        <item>Rick Dingus Photographs, 1994</item>
+      </list>
+    </relatedmaterial>
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+      <c01 level="series">
+        <did>
+          <unitid countrycode="US" repositorycode="US-TxLT-SW">Part #1</unitid>
+          <unittitle>Drawings/Blueprints of Residential Homes</unittitle>
+        </did>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 498</unitid>
+            <unittitle>Buffet for C.W. Post, Also See Houseplan Drawing
+				  #11010A,</unittitle>
+            <unitdate era="ce" calendar="gregorian">November 1911, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 702 P</unitid>
+            <unittitle>Two Story House, Four Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">May 1909, </unitdate>
+            <physdesc>4 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 708 P</unitid>
+            <unittitle>Two Story House, Three Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">May 1909, </unitdate>
+            <physdesc>9 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 2001 P</unitid>
+            <unittitle>Two Story House, Three Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">May 1909, </unitdate>
+            <physdesc>12 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 2002 P</unitid>
+            <unittitle>Two Story House, Four Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">May 1909, </unitdate>
+            <physdesc>7 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 2107 P</unitid>
+            <unittitle>Two Story House, Three Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">May 1909, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8001</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">January 1908, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8002</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>6 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8008 A</unitid>
+            <unittitle>Drawing of Andiron for House G,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8011 A</unitid>
+            <unittitle>One Story House, Three? Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>6 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8012 A</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>11 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8013 A</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">April 1908, </unitdate>
+            <physdesc>4 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8018 A</unitid>
+            <unittitle>Two Story House, Four Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">April 1908, </unitdate>
+            <physdesc>5 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8028 A</unitid>
+            <unittitle>Water Piping Plans for House #34,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8032 A</unitid>
+            <unittitle>Two Story House, Three Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">July 1908, </unitdate>
+            <physdesc>12 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8039 A</unitid>
+            <unittitle>Two Story House, Three Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>6 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8051 A</unitid>
+            <unittitle>Drawing of Fireplace for House D,</unittitle>
+            <unitdate era="ce" calendar="gregorian">September 1908, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8055 A</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">October 1908, </unitdate>
+            <physdesc>9 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8056 A</unitid>
+            <unittitle>Two Story House,</unittitle>
+            <unitdate era="ce" calendar="gregorian">November 1908, </unitdate>
+            <physdesc>4 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8060 A</unitid>
+            <unittitle>Two Story House,</unittitle>
+            <unitdate era="ce" calendar="gregorian">November 1908, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8062 A</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">November 1908, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8063 A</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">November 1908, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8064 A</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">November 1908, </unitdate>
+            <physdesc>5 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8065 A</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">November 1908, </unitdate>
+            <physdesc>5 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9003 A</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">October 1908, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9006 A</unitid>
+            <unittitle>One Story House, Three Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">February 1909, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9007 A</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">February 1909, </unitdate>
+            <physdesc>12 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9014 A</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">March 1909, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9022 A</unitid>
+            <unittitle>Two Story House, Three Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">April 1909, </unitdate>
+            <physdesc>6 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9025 A</unitid>
+            <unittitle>Two Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">May 1909, </unitdate>
+            <physdesc>8 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9026 A</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">May 1909, </unitdate>
+            <physdesc>4 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9029 A</unitid>
+            <unittitle>Two Story House, Three Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">July 1909, </unitdate>
+            <physdesc>12 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9031 A</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">June 1909, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9032 A</unitid>
+            <unittitle>Two Story House, Four? Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">June 1909, </unitdate>
+            <physdesc>4 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9038 A</unitid>
+            <unittitle>Two Story House, Three Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">July 1909, </unitdate>
+            <physdesc>9 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9039 A</unitid>
+            <unittitle>Two Story House,</unittitle>
+            <unitdate era="ce" calendar="gregorian">May 1909, </unitdate>
+            <physdesc>9 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9040 A</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">August 1909, </unitdate>
+            <physdesc>4 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9041 A</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">August 1909, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9042</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">August 1909, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9043 A</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">August 1909, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9044 A</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">August 1909, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9045 A</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">August 1909, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9046 A</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">August 1909, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9047 A</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">August 1909, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9049 A</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">August 1909, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9052 A</unitid>
+            <unittitle>Two Story House, Three Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">August 1909, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9053 A</unitid>
+            <unittitle>Two Story House, Three Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">August 1909, </unitdate>
+            <physdesc>6 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9054 A</unitid>
+            <unittitle>Two Story House, Three Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">September 1909, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9055 A</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">September 1909, </unitdate>
+            <physdesc>6 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9056 A</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">September 1909, </unitdate>
+            <physdesc>6 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9058 A</unitid>
+            <unittitle>Two Story House, Three Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">October 1909, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9060 A</unitid>
+            <unittitle>Two Story House, Three Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">October 1909, </unitdate>
+            <physdesc>6 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9061 A</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">November 1909, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9062 A</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">November 1909, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9070 A</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">December 1909, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 10006 A</unitid>
+            <unittitle>Two Story House, Two? Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">September 1909, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 10010 A</unitid>
+            <unittitle>Two Story House, Three Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">April 1910, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 10019 A</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">July 1910, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 10031 A</unitid>
+            <unittitle>One Story House, Three Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">September 1910, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 10038 A</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">December 1910, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 11003 A</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">March 1911, </unitdate>
+            <physdesc>4 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 11004 A</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">April 1911, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 11008 A</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">April 1911, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 11010 A</unitid>
+            <unittitle>House for C.W. Post,</unittitle>
+            <unitdate era="ce" calendar="gregorian">August 1911, </unitdate>
+            <physdesc>9 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 12002 A</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">January 1912, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 12003</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">February 1912, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 12004 A</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">December 1911, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 12008</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">April 1912, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 12011</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">November 1912, </unitdate>
+            <physdesc>7 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 12012</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">December 1912, </unitdate>
+            <physdesc>9 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 12013</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">December 1912, </unitdate>
+            <physdesc>7 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 12014</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">December 1912, </unitdate>
+            <physdesc>15 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 12015</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">December 1912, </unitdate>
+            <physdesc>5 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 12016</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">December 1912, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 12017</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">December 1912, </unitdate>
+            <physdesc>7 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 12018</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">December 1912, </unitdate>
+            <physdesc>7 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 12019</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">December 1912, </unitdate>
+            <physdesc>7 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 12020</unitid>
+            <unittitle>Detail of Window Blind,</unittitle>
+            <unitdate era="ce" calendar="gregorian">December 1912, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 12021</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">December 1912, </unitdate>
+            <physdesc>7 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 12022</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">December 1912, </unitdate>
+            <physdesc>7 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 12023</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">December 1912, </unitdate>
+            <physdesc>7 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 13001</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">January 1913, </unitdate>
+            <physdesc>6 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 13002</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">January 1913, </unitdate>
+            <physdesc>6 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 13003</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">January 1913, </unitdate>
+            <physdesc>8 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 13004</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">January 1913, </unitdate>
+            <physdesc>10 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 13005</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">January 1913, </unitdate>
+            <physdesc>6 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 13006</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">January 1913, </unitdate>
+            <physdesc>8 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 13007</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">January 1913, </unitdate>
+            <physdesc>5 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 13009</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">January 1913, </unitdate>
+            <physdesc>8 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 13010</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">January 1913, </unitdate>
+            <physdesc>6 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 13011</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">January 1913, </unitdate>
+            <physdesc>16 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 13012</unitid>
+            <unittitle>One Story House (exterior only),</unittitle>
+            <unitdate era="ce" calendar="gregorian">1912, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 14003</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">January 1914, </unitdate>
+            <physdesc>7 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 14007</unitid>
+            <unittitle>One Bedroom House, with barn and chicken
+				  house,</unittitle>
+            <unitdate era="ce" calendar="gregorian">March 1914, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 14015</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">August 1914, </unitdate>
+            <physdesc>5 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 14016</unitid>
+            <unittitle>One Story House (front exterior only),</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 14017</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 14019</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>5 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 14025</unitid>
+            <unittitle>One Story House, Two Bedroom (floor plan with small
+				  exterior sketch),</unittitle>
+            <unitdate era="ce" calendar="gregorian">October 1914, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 14026</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">November 1914, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15003</unitid>
+            <unittitle>Two Bedroom House (floor plan only),</unittitle>
+            <unitdate era="ce" calendar="gregorian">February 1915, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15007</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">March 1915, </unitdate>
+            <physdesc>6 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15011</unitid>
+            <unittitle>Two Story House, Four Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">April 1915, </unitdate>
+            <physdesc>8 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15012</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">May 1915, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15018</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">June 1915, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15019</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">June 1915, </unitdate>
+            <physdesc>4 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15019 A</unitid>
+            <unittitle>One Story House, Three Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">June 1915, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15024</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">June 1915, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15025</unitid>
+            <unittitle>One Story House, Three Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">July 1915, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15027</unitid>
+            <unittitle>Side Exterior View Only,</unittitle>
+            <unitdate era="ce" calendar="gregorian">July 1915, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15028</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">July 1915, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15030</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">August 1915, </unitdate>
+            <physdesc>4 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15031</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">August 1915, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15033</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">August 1915, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15034</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">September 1915, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15037</unitid>
+            <unittitle>One Story House, Two Bedroom (floor plan
+				  only),</unittitle>
+            <unitdate era="ce" calendar="gregorian">September 1915, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15041</unitid>
+            <unittitle>One Story House, Two Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">September 1915, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20004</unitid>
+            <unittitle>Drawing of Window Frame Detail,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20005</unitid>
+            <unittitle>Two Story Floorplan, with plumbing plans,</unittitle>
+            <unitdate era="ce" calendar="gregorian">June 1909, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20006</unitid>
+            <unittitle>Plumbing Plans for unidentified building,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20007</unitid>
+            <unittitle>Front View of Small One Story House,</unittitle>
+            <unitdate era="ce" calendar="gregorian">April 1908, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20008</unitid>
+            <unittitle>Front View and Floorplan of One Bedroom
+				  House,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20009</unitid>
+            <unittitle>Front and Side Views of Farm House,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20010</unitid>
+            <unittitle>One Story House, One Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20011</unitid>
+            <unittitle>Front View and Floor Plans of One Story, Two Bedroom
+				  House,</unittitle>
+            <unitdate era="ce" calendar="gregorian">September 1910, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20012</unitid>
+            <unittitle>Front View and Floor Plans of One Story, Two Bedroom
+				  House,</unittitle>
+            <unitdate era="ce" calendar="gregorian">April 1912, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20013</unitid>
+            <unittitle>Front View and Floor Plans of Two Bedroom
+				  House,</unittitle>
+            <unitdate era="ce" calendar="gregorian">December 1911, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20014</unitid>
+            <unittitle>Front View and Floor Plans of Two Bedroom
+				  House,</unittitle>
+            <unitdate era="ce" calendar="gregorian">December 1911, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20015</unitid>
+            <unittitle>Front View and Floor Plans of Two Bedroom
+				  House,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20016</unitid>
+            <unittitle>Front View and Floor Plans of One Story, Two Bedroom
+				  House,</unittitle>
+            <unitdate era="ce" calendar="gregorian">March 1909, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20017</unitid>
+            <unittitle>Two Story House, Three Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">August 1909, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20018</unitid>
+            <unittitle>Floor Plan Only, Two Story, Three Bedroom
+				  House,</unittitle>
+            <unitdate era="ce" calendar="gregorian">February 1909, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20019</unitid>
+            <unittitle>Two Story House (floor plans missing),</unittitle>
+            <unitdate era="ce" calendar="gregorian">1908, </unitdate>
+            <physdesc>9 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20020</unitid>
+            <unittitle>Two Story House, Four Bedroom,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20021</unitid>
+            <unittitle>Floor Plan Only for Two Story, Three Bedroom
+				  House,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid countrycode="US" repositorycode="US-TxLT-SW">Part #2</unitid>
+          <unittitle>Drawings/Blueprints of Commercial and Agricultural
+				Structures,</unittitle>
+        </did>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8005 A</unitid>
+            <unittitle>Details of Hotel and Restaurant,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8006 A</unitid>
+            <unittitle>Foundation/Floor Plan for Unidentified
+				  Building,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8015 A</unitid>
+            <unittitle>Drawing of File Cases, Unidentified
+				  Building,</unittitle>
+            <unitdate era="ce" calendar="gregorian">May 1908, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8016 A</unitid>
+            <unittitle>Livestock Shed with Attached Grain Room,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>4 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8017 A</unitid>
+            <unittitle>Drawings of Store Front,</unittitle>
+            <unitdate era="ce" calendar="gregorian">May 1908, </unitdate>
+            <physdesc>7 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8019 A</unitid>
+            <unittitle>Drawing of Fork for Maize/Kaffir Planter,</unittitle>
+            <unitdate era="ce" calendar="gregorian">April 1908, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8021 A</unitid>
+            <unittitle>Details of Restaurant Building,</unittitle>
+            <unitdate era="ce" calendar="gregorian">April 1908, </unitdate>
+            <physdesc>4 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8023 A</unitid>
+            <unittitle>Details of Storefront Cases,</unittitle>
+            <unitdate era="ce" calendar="gregorian">April 1908, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8024 A</unitid>
+            <unittitle>Detail of Column Arch, Unidentified
+				  Building,</unittitle>
+            <unitdate era="ce" calendar="gregorian">May 1908, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8026 A</unitid>
+            <unittitle>Drawing of Blue Print Frame,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8027 A</unitid>
+            <unittitle>Details of Hotel,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8031 A</unitid>
+            <unittitle>Unidentified Building Front and Pot Sink,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8033 A</unitid>
+            <unittitle>Details of Hotel Awnings,</unittitle>
+            <unitdate era="ce" calendar="gregorian">July 1908, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8034 A</unitid>
+            <unittitle>Livery Barn and Carriage Room,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8035 A</unitid>
+            <unittitle>Hotel Facade and Awning,</unittitle>
+            <unitdate era="ce" calendar="gregorian">June 1908, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8036 A</unitid>
+            <unittitle>Details of Hotel (front desk and kitchen),</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>6 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8037 A</unitid>
+            <unittitle>Unidentified, Probably Details of Hotel,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8038 A</unitid>
+            <unittitle>Paint House,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8041 A</unitid>
+            <unittitle>Plumbing Plans for Hotel,</unittitle>
+            <unitdate era="ce" calendar="gregorian">June 1908, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8044 A</unitid>
+            <unittitle>Keyboard Case, Unidentified Location,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8045 A</unitid>
+            <unittitle>Kitchen Screen and Plumbing Sketch, Unidentified
+				  Location,</unittitle>
+            <unitdate era="ce" calendar="gregorian">July 1908, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8046</unitid>
+            <unittitle>Machinery Room and Elevator, Unidentified
+				  Location,</unittitle>
+            <unitdate era="ce" calendar="gregorian">July 1908, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8047 A</unitid>
+            <unittitle>Livestock Sheds, Tool and Grain Rooms, Bill of
+				  Materials,</unittitle>
+            <unitdate era="ce" calendar="gregorian">July 1908, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8048 A</unitid>
+            <unittitle>Boxes with Movable Partitions, Unidentified
+				  Location,</unittitle>
+            <unitdate era="ce" calendar="gregorian">August 1908, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8049</unitid>
+            <unittitle>Wall Case with Partitions, Unidentified
+				  Location,</unittitle>
+            <unitdate era="ce" calendar="gregorian">August 1908, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8050 A</unitid>
+            <unittitle>Drawing of Rope Reel and Spool Bearing,</unittitle>
+            <unitdate era="ce" calendar="gregorian">August 1908, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8052 A</unitid>
+            <unittitle>Drawings of Gate and Grain Shed, Also Labeled as Drawing
+				  8053A,</unittitle>
+            <unitdate era="ce" calendar="gregorian">September 1908, </unitdate>
+            <physdesc>10 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8054 A</unitid>
+            <unittitle>Livestock Shed with Tool and Grain Rooms,</unittitle>
+            <unitdate era="ce" calendar="gregorian">October 1908, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8055 A</unitid>
+            <unittitle>Blacksmith Shop,</unittitle>
+            <unitdate era="ce" calendar="gregorian">April 1908, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8058 A</unitid>
+            <unittitle>Bunk House for Commissary,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8059 A</unitid>
+            <unittitle>Hay Shed,</unittitle>
+            <unitdate era="ce" calendar="gregorian">November 1908, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8061 A</unitid>
+            <unittitle>Counter and Case for Store #6,</unittitle>
+            <unitdate era="ce" calendar="gregorian">November 1908, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8066 A</unitid>
+            <unittitle>Livestock Shed with Grain and Tool Rooms,</unittitle>
+            <unitdate era="ce" calendar="gregorian">December 1908, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8067 A</unitid>
+            <unittitle>Gate Plans, Unidentified Location,</unittitle>
+            <unitdate era="ce" calendar="gregorian">November 1908, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9001 A</unitid>
+            <unittitle>Plans for 12 ft x 50 ft Shed,</unittitle>
+            <unitdate era="ce" calendar="gregorian">December 1908, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9002</unitid>
+            <unittitle>Plans for Grain Sheds,</unittitle>
+            <unitdate era="ce" calendar="gregorian">January 1909, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9006 A</unitid>
+            <unittitle>Plans for 40 ft Wall Case, Unidentified
+				  Location,</unittitle>
+            <unitdate era="ce" calendar="gregorian">January 1909, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9013 A</unitid>
+            <unittitle>Small Wagon Shed, Stall, Grain Room,</unittitle>
+            <unitdate era="ce" calendar="gregorian">March 1909, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9015 A</unitid>
+            <unittitle>Small Wagon Shed, Stall, Grain Room,</unittitle>
+            <unitdate era="ce" calendar="gregorian">March 1909, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9018 A</unitid>
+            <unittitle>Plans for Wall Mounted Drawers, Unidentified
+				  Location,</unittitle>
+            <unitdate era="ce" calendar="gregorian">March 1909, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9019 A</unitid>
+            <unittitle>Plans for Wall Mounted Drawers, Unidentified
+				  Location,</unittitle>
+            <unitdate era="ce" calendar="gregorian">April 1909, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9023 A</unitid>
+            <unittitle>Girder Tower (probably a windmill),</unittitle>
+            <unitdate era="ce" calendar="gregorian">May 1909, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9024 A</unitid>
+            <unittitle>Plans for Wall Cases and Prescription Counter, Store
+				  #4,</unittitle>
+            <unitdate era="ce" calendar="gregorian">January 1909, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9027 A</unitid>
+            <unittitle>16 ft x 85 ft Wagon Shed,</unittitle>
+            <unitdate era="ce" calendar="gregorian">May 1909, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9028 A</unitid>
+            <unittitle>50 ft x 100 ft Warehouse, Job #443,</unittitle>
+            <unitdate era="ce" calendar="gregorian">June 1909, </unitdate>
+            <physdesc>10 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9030 A</unitid>
+            <unittitle>18 ft x 60 ft Shed,</unittitle>
+            <unitdate era="ce" calendar="gregorian">June 1909, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9033 A</unitid>
+            <unittitle>Shelves and Counters for Restaurant
+				  Building,</unittitle>
+            <unitdate era="ce" calendar="gregorian">June 1909, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9034 A</unitid>
+            <unittitle>19 ft x 100 ft Shed,</unittitle>
+            <unitdate era="ce" calendar="gregorian">June 1909, </unitdate>
+            <physdesc>8 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9035 A</unitid>
+            <unittitle>Shelving for Bank Vault,</unittitle>
+            <unitdate era="ce" calendar="gregorian">July 1909, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9036 A</unitid>
+            <unittitle>19 ft x 80 ft Shed,</unittitle>
+            <unitdate era="ce" calendar="gregorian">July 1909, </unitdate>
+            <physdesc>6 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9037 A</unitid>
+            <unittitle>19 ft x 80 ft Shed,</unittitle>
+            <unitdate era="ce" calendar="gregorian">July 1909, </unitdate>
+            <physdesc>4 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9059 A</unitid>
+            <unittitle>12 ft x 50 ft Livestock Shed and Grain Room,</unittitle>
+            <unitdate era="ce" calendar="gregorian">August 1909, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9063 A</unitid>
+            <unittitle>18 ft x 140 ft Storage Shed,</unittitle>
+            <unitdate era="ce" calendar="gregorian">November 1909, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9064 A</unitid>
+            <unittitle>Floor Plan, South Elevation of Church,</unittitle>
+            <unitdate era="ce" calendar="gregorian">November 1909, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9065 A</unitid>
+            <unittitle>Detail of Skylight, Unidentified Location,</unittitle>
+            <unitdate era="ce" calendar="gregorian">December 1909, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9066 A</unitid>
+            <unittitle>40 ft x 120 ft Warehouse,</unittitle>
+            <unitdate era="ce" calendar="gregorian">November 1909, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9068 A</unitid>
+            <unittitle>20 ft x 100 ft Storage Shed,</unittitle>
+            <unitdate era="ce" calendar="gregorian">December 1909, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 9069 A</unitid>
+            <unittitle>Hog Shed,</unittitle>
+            <unitdate era="ce" calendar="gregorian">December 1909, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 10001 A</unitid>
+            <unittitle>Lift and Pulley Mechanism,</unittitle>
+            <unitdate era="ce" calendar="gregorian">January 1910, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 10002 A</unitid>
+            <unittitle>18 ft x 60 ft Grain Room and Shed,</unittitle>
+            <unitdate era="ce" calendar="gregorian">January 1910, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 10003 A</unitid>
+            <unittitle>Foundation and Floor Plan for Unidentified
+				  Building,</unittitle>
+            <unitdate era="ce" calendar="gregorian">January 1910, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 10013 A</unitid>
+            <unittitle>Commercial Laundry,</unittitle>
+            <unitdate era="ce" calendar="gregorian">May 1910, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 10014</unitid>
+            <unittitle>16 ft x 32 ft Unidentified Building,</unittitle>
+            <unitdate era="ce" calendar="gregorian">May 1910, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 10016 A</unitid>
+            <unittitle>Drawing of Storefront,</unittitle>
+            <unitdate era="ce" calendar="gregorian">May 1910, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 10023 A</unitid>
+            <unittitle>Plans for Grain Building, with two pages of
+				  specification sheets,</unittitle>
+            <unitdate era="ce" calendar="gregorian">September 1910, </unitdate>
+            <physdesc>6 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 10027 A</unitid>
+            <unittitle>Structural Drawing Showing Sink, Closet, Lavatory
+				  Backing,</unittitle>
+            <unitdate era="ce" calendar="gregorian">October 1910, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 10034 A</unitid>
+            <unittitle>Grain Store,</unittitle>
+            <unitdate era="ce" calendar="gregorian">November 1910, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 11006 A</unitid>
+            <unittitle>Bank Building,</unittitle>
+            <unitdate era="ce" calendar="gregorian">June 1911, </unitdate>
+            <physdesc>10 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 11008</unitid>
+            <unittitle>Windmill Tower,</unittitle>
+            <unitdate era="ce" calendar="gregorian">July 1911, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 11010 A</unitid>
+            <unittitle>Detail of Fence,</unittitle>
+            <unitdate era="ce" calendar="gregorian">September 1912, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 12027</unitid>
+            <unittitle>Steel Girder Tower,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>4 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 13008</unitid>
+            <unittitle>Wall Sized Mirrors and Base Moldings, Unidentified
+				  Building,</unittitle>
+            <unitdate era="ce" calendar="gregorian">January 1913, </unitdate>
+            <physdesc>4 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 13015</unitid>
+            <unittitle>Plans for Drawing Table, Filing Cabinet, and
+				  Bleacher,</unittitle>
+            <unitdate era="ce" calendar="gregorian">March 1913, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 13016</unitid>
+            <unittitle>Drawing Table and Filing Cabinet,</unittitle>
+            <unitdate era="ce" calendar="gregorian">March 1913, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 13017</unitid>
+            <unittitle>Toilets for Postex Cotton Mill,</unittitle>
+            <unitdate era="ce" calendar="gregorian">June 1913, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 13019</unitid>
+            <unittitle>Details of Concrete Forms, Unidentified
+				  Building,</unittitle>
+            <unitdate era="ce" calendar="gregorian">March 1913, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 13020</unitid>
+            <unittitle>Bleachery Toilet, Postex Cotton Mill,</unittitle>
+            <unitdate era="ce" calendar="gregorian">July 1913, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 13025</unitid>
+            <unittitle>Cattle Shed, 18 ft x 64 ft,</unittitle>
+            <unitdate era="ce" calendar="gregorian">November 1913, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 14004</unitid>
+            <unittitle>Septic Tank for Algeria Hotel,</unittitle>
+            <unitdate era="ce" calendar="gregorian">January 1914, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 14010</unitid>
+            <unittitle>Small Shed,</unittitle>
+            <unitdate era="ce" calendar="gregorian">June 1914, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 14012</unitid>
+            <unittitle>Details of Bank,</unittitle>
+            <unitdate era="ce" calendar="gregorian">July 1914, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 14013</unitid>
+            <unittitle>Farm Buildings,</unittitle>
+            <unitdate era="ce" calendar="gregorian">July 1914, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 14014</unitid>
+            <unittitle>Half Pit Silo,</unittitle>
+            <unitdate era="ce" calendar="gregorian">July 1914, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15010</unitid>
+            <unittitle>18 ft x 34 ft Office,</unittitle>
+            <unitdate era="ce" calendar="gregorian">April 1915, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15013</unitid>
+            <unittitle>Awning for Tower Building,</unittitle>
+            <unitdate era="ce" calendar="gregorian">May 1915, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15017 A</unitid>
+            <unittitle>Basement Plans for Unidentified Building,</unittitle>
+            <unitdate era="ce" calendar="gregorian">June 1915, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15020</unitid>
+            <unittitle>31 ft x 48 ft Barn,</unittitle>
+            <unitdate era="ce" calendar="gregorian">August 1915, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15026</unitid>
+            <unittitle>Shopfront. Unidentified Location,</unittitle>
+            <unitdate era="ce" calendar="gregorian">July 1915, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15036</unitid>
+            <unittitle>Grain Room,</unittitle>
+            <unitdate era="ce" calendar="gregorian">September 1915, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15038</unitid>
+            <unittitle>Stalls and Grain Room,</unittitle>
+            <unitdate era="ce" calendar="gregorian">September 1915, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15040</unitid>
+            <unittitle>Plans for Vault, Unidentified Building,</unittitle>
+            <unitdate era="ce" calendar="gregorian">September 1915, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 15053</unitid>
+            <unittitle>Sheeting Inspection Building for Postex Cotton
+				  Mills,</unittitle>
+            <unitdate era="ce" calendar="gregorian">December 1915, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 16029</unitid>
+            <unittitle>Grounds of Postex Cotton Mills,</unittitle>
+            <unitdate era="ce" calendar="gregorian">April 1916, </unitdate>
+            <physdesc>4 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 16039</unitid>
+            <unittitle>Packing House Site,</unittitle>
+            <unitdate era="ce" calendar="gregorian">June 1916, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20050</unitid>
+            <unittitle>Inventory List of Building Materials,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20051</unitid>
+            <unittitle>Roof Line for Unidentified Building,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20052</unitid>
+            <unittitle>Cross Section of Roof, Unidentified
+				  Building,</unittitle>
+            <unitdate era="ce" calendar="gregorian">June 1909, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20053</unitid>
+            <unittitle>Detail of Pilasters, Unidentified Building,</unittitle>
+            <unitdate era="ce" calendar="gregorian">August 1911, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20054</unitid>
+            <unittitle>Detail of Roof Supports, Unidentified
+				  Building,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20055</unitid>
+            <unittitle>Detail of Staircase,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20056</unitid>
+            <unittitle>Detail of Storefront Entryway,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20057</unitid>
+            <unittitle>Details of Pilasters and Moldings, Unidentified
+				  Building,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20058</unitid>
+            <unittitle>Floor Plan of Restroom, Unidentified
+				  Building,</unittitle>
+            <unitdate era="ce" calendar="gregorian">June 1919, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20059</unitid>
+            <unittitle>Drawing of Blueprint Frame,</unittitle>
+            <unitdate era="ce" calendar="gregorian">April 1908, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20060</unitid>
+            <unittitle>Detail of Molding,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20061</unitid>
+            <unittitle>Grate Doors for Doorway, Window,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20062</unitid>
+            <unittitle>Counters for Store #467,</unittitle>
+            <unitdate era="ce" calendar="gregorian">September 1909, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20063</unitid>
+            <unittitle>Details of Elevator Machinery,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20064</unitid>
+            <unittitle>Unidentified Grounds Plan,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20065</unitid>
+            <unittitle>Foundation Plan for Unidentified Building,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20066</unitid>
+            <unittitle>Detail of Line Fence,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20067</unitid>
+            <unittitle>Detail of Fence Corner,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20068</unitid>
+            <unittitle>Detail of Gate Fastener for Hotel Front
+				  Door,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20069</unitid>
+            <unittitle>Drawing of House, Shed, Silo, and Orchard,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20070</unitid>
+            <unittitle>Orchard Plot,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20071</unitid>
+            <unittitle>Floor Plans and Front Facade for Storefront,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20072</unitid>
+            <unittitle>Elevator and Machine Room,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20073</unitid>
+            <unittitle>Silo with Wooden Exterior,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20074</unitid>
+            <unittitle>20ft x 80ft Paint Store, with Lumber Bill,</unittitle>
+            <unitdate era="ce" calendar="gregorian">April 1908, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20075</unitid>
+            <unittitle>20ft x 40 ft Paint Store,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20076</unitid>
+            <unittitle>34 ft x 100 ft Barn,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20077</unitid>
+            <unittitle>12 ft x 50 ft Open Livestock Shed, Grain Room and Wagon
+				  Shed,</unittitle>
+            <unitdate era="ce" calendar="gregorian">December 1908, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20078</unitid>
+            <unittitle>Roofline, Exterior View of Open Barn,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20079</unitid>
+            <unittitle>Postex Cotton Mills Bleachery,</unittitle>
+            <unitdate era="ce" calendar="gregorian">June 1912, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20080</unitid>
+            <unittitle>Well House,</unittitle>
+            <unitdate era="ce" calendar="gregorian">October 1911, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20081</unitid>
+            <unittitle>Unidentified Survey or Structural Drawing,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20082</unitid>
+            <unittitle>Unidentified Survey or Structural Drawing,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid countrycode="US" repositorycode="US-TxLT-SW">Part #3</unitid>
+          <unittitle>Drawings/Blueprints of City of Post Buildings and
+				Structures,</unittitle>
+        </did>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8009</unitid>
+            <unittitle>Post Cemetery,</unittitle>
+            <unitdate era="ce" calendar="gregorian">August 1908, </unitdate>
+            <physdesc>3 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 8031 A</unitid>
+            <unittitle>Drawings of School Furniture,</unittitle>
+            <unitdate era="ce" calendar="gregorian">July 1908, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 12002</unitid>
+            <unittitle>Parks Near Main Street, West of Courthouse,</unittitle>
+            <unitdate era="ce" calendar="gregorian">January 1912, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 12015</unitid>
+            <unittitle>Railroad Depot Park,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 12026</unitid>
+            <unittitle>Park in Front of 
+				  <title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="doublequote" xlink:href="">Double U</title> Office,</unittitle>
+            <unitdate era="ce" calendar="gregorian">July 1912, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 12031</unitid>
+            <unittitle>Concrete Arch Bridge,</unittitle>
+            <unitdate era="ce" calendar="gregorian">October 1912, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 14033</unitid>
+            <unittitle>Park Near Railroad Depot,</unittitle>
+            <unitdate era="ce" calendar="gregorian">October 1914, </unitdate>
+            <physdesc>4 items</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20100</unitid>
+            <unittitle>Post School House,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20101</unitid>
+            <unittitle>Post Engine House,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20102</unitid>
+            <unittitle>Sketch of Barns for City Lots,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20103</unitid>
+            <unittitle>Feed Trough for Post City Stables,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>1 item</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unitid countrycode="US" repositorycode="US-TxLT-SW">Item 20104</unitid>
+            <unittitle>Gate and Fencing for Canyons/Low Spots,</unittitle>
+            <unitdate era="ce" calendar="gregorian">undated, </unitdate>
+            <physdesc>2 items</physdesc>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

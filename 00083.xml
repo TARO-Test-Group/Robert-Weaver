@@ -1,0 +1,1243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00083</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Tent Shows:</titleproper>
+        <subtitle>An Inventory of the Records, 1902-1953 and undated, at the
+			 Southwest Collection/Special Collections Library</subtitle>
+        <author>Abel Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">August 2000</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">February 2001.</date></creation>
+      <langusage>Finding aid written in
+		  <language>English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Tue Jul 22 15:21:57 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00083 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the Tent Shows Records, 1902-1953 and
+		  undated,</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">August 2000</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <persname encodinganalog="100">Ashby, Clifford</persname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Tent Shows Records, 
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1902-1953 and undated</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">The papers, donated by
+		  Texas Tech theatre professor Clifford Ashby, concern Tent Shows from 1902-1953
+		  and undated.</abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 1015.1</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:">12 boxes (12.0 linear
+		  feet)</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>From the turn of the century through the era of the Great Depression,
+		  tent shows were a popular medium of entertainment particularly in rural areas.
+		  Harley Sadler and Harvey Haverstock were among the famous tent show owners in
+		  Texas and the Southwest.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The collection of play scripts is arranged in alphabetical order by
+		  title.</p>
+    </scopecontent>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+      <controlaccess>
+        <head>Subjects (Persons)</head>
+        <persname encodinganalog="600" source="lcnaf">Sadler, Harley,
+			 1892-1954</persname>
+        <persname encodinganalog="600" source="lcnaf">Sadler, Harley,
+			 1892-1954--Career in tent shows</persname>
+        <persname encodinganalog="600" source="lcnaf">Sadler, Harley,
+			 1892-1954--Contributions in politics and government</persname>
+        <persname encodinganalog="600" source="lcnaf">Sadler family</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname encodinganalog="610" source="lcnaf">Brunk's
+			 Comedians</corpname>
+        <corpname encodinganalog="610" source="local">Harley Sadler's Own
+			 Show</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Places</head>
+        <geogname encodinganalog="651" source="lcnaf">Texas--Genealogy</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Texas--Politics and
+			 government</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Texas--Social life and
+			 customs</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">Drama</subject>
+        <subject encodinganalog="650" source="lcsh">Entertainers--Texas,
+			 West</subject>
+        <subject encodinganalog="650" source="lcsh">Politics,
+			 Practical--Texas</subject>
+        <subject encodinganalog="690" source="local">Tent
+			 shows--History--Sources</subject>
+        <subject encodinganalog="690" source="local">Tent
+			 shows--Texas--History</subject>
+        <subject encodinganalog="650" source="lcsh">Theater, Open-air</subject>
+        <subject encodinganalog="650" source="lcsh">Theatrical producers and
+			 directors--Texas--History</subject>
+        <subject encodinganalog="650" source="lcsh">Traveling theater</subject>
+        <subject encodinganalog="650" source="lcsh">Vaudeville--Texas</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <head>Acquisition</head>
+      <p>Gifts, undated</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, August 2000</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>Tent Shows Records, 1902-1953 and undated, Southwest
+			 Collection/Special Collections Library, Texas Tech University, Lubbock,
+			 Texas</p>
+    </prefercite>
+    <bibliography id="a10">
+      <head>Biographical Sources</head>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Ashby, Clifford. 
+			 <title xlink:type="simple" render="doublequote" xlink:href="">Trouping Through Texas: Harley Sadler and His
+				Tent Show. </title>Ohio: Bowling Green University Popular Press, 1982.</bibref>
+    </bibliography>
+    <relatedmaterial encodinganalog="544 1" id="a6">
+      <p>For related materials located in the Southwest Collection/Special
+			 Collections Library, see the following collections:</p>
+      <list type="simple">
+        <item>Clifford Ashby Papers, 1977</item>
+        <item>Zachary Ball Papers, 1922-1934</item>
+        <item>Zachary Ball oral history interview [sound recording], 1975</item>
+        <item>Maurice Brooks, Tom Gordon and J. F. Connaly oral history interview
+			 [sound recording], 1975</item>
+        <item>Henry L. and Mercedes Brunk oral history interview [sound
+			 recording], 1979</item>
+        <item>Henry L. Brunk Papers, 1922-1975</item>
+        <item>Harvey Haverstock Papers, 1893-1976</item>
+        <item>Paul C. Kalmbacher Papers, 1878-1970</item>
+        <item>Jerry Sadler oral history interview [sound recording], 1981</item>
+      </list>
+    </relatedmaterial>
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+      <c01>
+        <did>
+          <container type="box">1</container>
+          <container type="othertype">Index Cards</container>
+          <unittitle>Index to Identified Material, 
+				<unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Titled Scripts</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Aaron Slick from Pumpkin Crick - Ada Beats the Drum, 
+				  <unitdate era="ce" calendar="gregorian">1942-1947 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Adam and Eva, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Alias the Deacon- Ann's Little Affair, 
+				  <unitdate era="ce" calendar="gregorian">1928</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Are you a Mason?, 
+				  <unitdate era="ce" calendar="gregorian">Undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>The Awakening of John Slater, 
+				  <unitdate era="ce" calendar="gregorian">1902-1953 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>The Balloon Girl, 
+				  <unitdate era="ce" calendar="gregorian">1902-1953 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Beans, Beans, Beans and Black Ghost, 
+				  <unitdate era="ce" calendar="gregorian">1922 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>Blind Alley and Broken Dishes, 
+				  <unitdate era="ce" calendar="gregorian">1916-1936 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>Broken Road and The Burglar and Thed the Lady, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>Business before Pleasure, 
+				  <unitdate era="ce" calendar="gregorian">1902-1950 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle>Call of the Woods, 
+				  <unitdate era="ce" calendar="gregorian">1902-1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>By the Waters of Minnetonka, Cockling Toby, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>Caprice, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>Checkers, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle>Cinderella O'Reiley, Clodhopper, 
+				  <unitdate era="ce" calendar="gregorian">1939-1949 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle>Clouds and Sunshine, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle>Clouds and Sunshine and Cloverdale Farm, 
+				  <unitdate era="ce" calendar="gregorian">1911 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle>The Cokesbury Stunt Book, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unittitle>The Comeback, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unittitle>The Counterfeiters and The Clash, 
+				  <unitdate era="ce" calendar="gregorian">1948 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">12</container>
+            <unittitle>The Constant Wife, The Cowboy, She... 
+				  <unitdate era="ce" calendar="gregorian">1927-1930</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+            <unittitle>The Cow Puncher, Dawn of the Mountains, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">14</container>
+            <unittitle>Dawn of the Mountains, 
+				  <unitdate era="ce" calendar="gregorian">1902-1953 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle>Dearie, Bill Dance, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle>Dollar Down and Dollar a Week, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle>Dolly of the Follies, Dotty and Daffy, 
+				  <unitdate era="ce" calendar="gregorian">1934 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle>The Elder Brother, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle>Father and Son, 
+				  <unitdate era="ce" calendar="gregorian">1949 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">6</container>
+            <unittitle>The First Mrs. Fraser, Fool Proof, 
+				  <unitdate era="ce" calendar="gregorian">1949 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">7</container>
+            <unittitle>For Cryin' Out Loud!, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">8</container>
+            <unittitle>Forgotten Men, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">9</container>
+            <unittitle>The Gate to Happiness, The Genius of Gentle Men, 
+				  <unitdate era="ce" calendar="gregorian">1930 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">10</container>
+            <unittitle>The Fortune Hunters, The Front Page, 
+				  <unitdate era="ce" calendar="gregorian">1949 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">11</container>
+            <unittitle>The Ghost Bird, The Girl He Couldn't Buy, 
+				  <unitdate era="ce" calendar="gregorian">1927 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">12</container>
+            <unittitle>The Girl Who Ran Away, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">13</container>
+            <unittitle>God's Child, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">1</container>
+            <unittitle>Good for Nothing Husband, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">2</container>
+            <unittitle>The Governor's Lady, First Love, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">3</container>
+            <unittitle>Hardboiled, The Haunted Hunt, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">4</container>
+            <unittitle>The Haunted House, Heart of Peggy, 
+				  <unitdate era="ce" calendar="gregorian">1926 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">5</container>
+            <unittitle>Help Wanted, Her Compassionate Marriage, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">6</container>
+            <unittitle>Her Own Money, Her Unborn Child, 
+				  <unitdate era="ce" calendar="gregorian">1927 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">7</container>
+            <unittitle>Here Comes the Bride, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">8</container>
+            <unittitle>Hiring Time, Hootin-Nonny Papa, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">9</container>
+            <unittitle>Hot Air, Husbands for Sale, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">10</container>
+            <unittitle>If the Wind Had Only Blown the Other Way, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">11</container>
+            <unittitle>In the Wrong Bed, the Infidel, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">1</container>
+            <unittitle>The If Girl, Its in the Bag, 
+				  <unitdate era="ce" calendar="gregorian">1944 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">2</container>
+            <unittitle>The Invaders, Is I in love? I is!, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">3</container>
+            <unittitle>The If Girl, (Director's Scripts) 
+				  <unitdate era="ce" calendar="gregorian">1929 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">4</container>
+            <unittitle>The Jailbird, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">5</container>
+            <unittitle>Jealous Wives, Jensen Hypex Projectors, 
+				  <unitdate era="ce" calendar="gregorian">1945 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">6</container>
+            <unittitle>Jess of the Bar-Z Ranch, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">7</container>
+            <unittitle>Just like Judy and Keep to the Right, 
+				  <unitdate era="ce" calendar="gregorian">1922-1929 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">8</container>
+            <unittitle>Johnny's in Town, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">9</container>
+            <unittitle>Kempy, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">10</container>
+            <unittitle>Kidnapped, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">11</container>
+            <unittitle>Kidnapped, Law of the North, The Laurels, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">12</container>
+            <unittitle>Lena Rivers, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">1</container>
+            <unittitle>Life of Dora Thorne, Little Chiesler, 
+				  <unitdate era="ce" calendar="gregorian">1917 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">2</container>
+            <unittitle>A Little Clodhopper, The Little Homestead, 
+				  <unitdate era="ce" calendar="gregorian">1918-1943 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">3</container>
+            <unittitle>Live and Let Live, The Lunatic's Lullaby, 
+				  <unitdate era="ce" calendar="gregorian">1948 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">4</container>
+            <unittitle>Ma, He's Making Eyes at Me and Mad Honeymoon, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">5</container>
+            <unittitle>The Man from Texas, The Man Worth While, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">6</container>
+            <unittitle>Mary's Ankle, Meal Ticket, 
+				  <unitdate era="ce" calendar="gregorian">1932 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">7</container>
+            <unittitle>The Meanest Man in the World, Meet the Family, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>Meet the Wife, 
+				  <unitdate era="ce" calendar="gregorian">1926 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">9</container>
+            <unittitle>Meet the Wife, The Midnight Murder, 
+				  <unitdate era="ce" calendar="gregorian">1923-1926 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">10</container>
+            <unittitle>The Millionaire's Son and The Shopgirl, The Misfit, 
+				  <unitdate era="ce" calendar="gregorian">1947</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>The Mouse, My Dad from Wyoming, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>My Friend From <emph render="doublequote">Arkansaw</emph>, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">3</container>
+            <unittitle>The Mysterious Doctor <emph render="doublequote">X</emph>,
+				  The Mystic Island, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">4</container>
+            <unittitle>Naughty, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">5</container>
+            <unittitle>New Brooms, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">6</container>
+            <unittitle>New Brooms (Director's Scripts), 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">7</container>
+            <unittitle>New Deal, the New Editor, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">8</container>
+            <unittitle>New Toys, 
+				  <unitdate era="ce" calendar="gregorian">1924 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">9</container>
+            <unittitle>No Wedding Bells or The Unmarried Mother, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">10</container>
+            <unittitle>No Wedding Bells, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">11</container>
+            <unittitle>On the Road to Casa Grande, and The Only Son, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">12</container>
+            <unittitle>The Open Road, Out of the Field, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">1</container>
+            <unittitle>Out of the Night, 
+				  <unitdate era="ce" calendar="gregorian">1929 and Undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">2</container>
+            <unittitle>Over the Hills, Over the Hills to the Poorhouse, 
+				  <unitdate era="ce" calendar="gregorian">1929</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">3</container>
+            <unittitle>Pat Piper's Place, Puppy Love, 
+				  <unitdate era="ce" calendar="gregorian">1929 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">4</container>
+            <unittitle>Raggedy Nan and Restless Place, 
+				  <unitdate era="ce" calendar="gregorian">1939 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">5</container>
+            <unittitle>Retribution, Ring Around Elizabeth, 
+				  <unitdate era="ce" calendar="gregorian">1942 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">6</container>
+            <unittitle>Rip Van Winkle, Rodeo Ranch, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">7</container>
+            <unittitle>The Rosary, Rose of the Range, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">8</container>
+            <unittitle>S.S Florida, St. Elmo, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">9</container>
+            <unittitle>Saintly Hypocrites and Honest Sinners, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">10</container>
+            <unittitle>The Sap, Sealed Lips, 
+				  <unitdate era="ce" calendar="gregorian">1931 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">1</container>
+            <unittitle>A Sense of Honor, 
+				  <unitdate era="ce" calendar="gregorian">Undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">2</container>
+            <unittitle>Sherlock Holmes, The Show-off, 
+				  <unitdate era="ce" calendar="gregorian">1924 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">3</container>
+            <unittitle>Shure Microphones, Skidding, 
+				  <unitdate era="ce" calendar="gregorian">1949 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">4</container>
+            <unittitle>She Got What She Wanted, Shepherd of the Hills, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">5</container>
+            <unittitle>So This is Arizona, Some Baby, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">6</container>
+            <unittitle>Spider's Web, Sputters, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">7</container>
+            <unittitle>Strictly Dishonorable, Sundown on Honeymoon Ranch, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">8</container>
+            <unittitle>Sunshine Around the Corner, Sweetest Girl in the World, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">9</container>
+            <unittitle>Take My Advice, Ten Nights in a Barroom, 
+				  <unitdate era="ce" calendar="gregorian">1928-1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">10</container>
+            <unittitle>Tennessee's Partner, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">1</container>
+            <unittitle>Tess of the Storm Country, Three's a Family, 
+				  <unitdate era="ce" calendar="gregorian">1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">2</container>
+            <unittitle>Thundering Herd, Tildy Ann, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">3</container>
+            <unittitle>Toby Buts In, Toby Goes to Washington, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">4</container>
+            <unittitle>Toby the High-Pot-Nist, Toby the Yankee Doodle Dandy, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">5</container>
+            <unittitle>Toby's Legacy, Tommy, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">6</container>
+            <unittitle>Tommy, Director's Scripts, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">7</container>
+            <unittitle>Tonight, Tomorrow and After That, Treat Me Kindly, 
+				  <unitdate era="ce" calendar="gregorian">1935 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">8</container>
+            <unittitle>Tropical Love, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">9</container>
+            <unittitle>Tumbleweed, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">10</container>
+            <unittitle>Turn to the Right, Two Ton Tessie, 
+				  <unitdate era="ce" calendar="gregorian">1931 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">1</container>
+            <unittitle>Uncle Tom's Cabin, Under Clover, 
+				  <unitdate era="ce" calendar="gregorian">Undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">2</container>
+            <unittitle>Under Arizona Skies, 
+				  <unitdate era="ce" calendar="gregorian">1910</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">3</container>
+            <unittitle>Underdog and Until you Return, 
+				  <unitdate era="ce" calendar="gregorian">1945 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">4</container>
+            <unittitle>Unwanted Child, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">5</container>
+            <unittitle>Valley Center, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">6</container>
+            <unittitle>Virtue Awakened, The Vinegar Tree, 
+				  <unitdate era="ce" calendar="gregorian">1931</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">7</container>
+            <unittitle>Wages of Sin and Wandering Spirit, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">8</container>
+            <unittitle>The Watts Family, The Wedding of the Painted Doll, 
+				  <unitdate era="ce" calendar="gregorian">1923-1929 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">9</container>
+            <unittitle>What Anne Brought Home, When a Girl Loves, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">10</container>
+            <unittitle>When a Woman Marries, When Dreams Come True, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">1</container>
+            <unittitle>When Night Falls, Why Girls Walk Home, 
+				  <unitdate era="ce" calendar="gregorian">1926 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">2</container>
+            <unittitle>Why Lindy Ran Away, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">3</container>
+            <unittitle>A Wise Fool, Won by Waiting, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">4</container>
+            <unittitle>Yes My Darling Daughter and Your Uncle Dooley, 
+				  <unitdate era="ce" calendar="gregorian">1936-1947</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">5</container>
+            <unittitle>Play Advertisements, 
+				  <unitdate era="ce" calendar="gregorian">1953 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">6</container>
+            <unittitle>Unidentified Scripts, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">7</container>
+            <unittitle>Scripts, 
+				  <unitdate era="ce" calendar="gregorian">1910-1931 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">8</container>
+            <unittitle>Scripts, 
+				  <unitdate era="ce" calendar="gregorian">1910-1931 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">9</container>
+            <unittitle>Scripts, Leathey Robert, <emph render="doublequote">Meal
+				  Ticket,</emph> and <emph render="doublequote">Singer and the Fool</emph>, 
+				  <unitdate era="ce" calendar="gregorian">1929-1934</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">10</container>
+            <unittitle>News clippings, 
+				  <unitdate era="ce" calendar="gregorian">1932 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,4573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00031</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Energy Information:</titleproper>
+        <subtitle>Inventory of Records, 1960s-1990s, at the Southwest
+			 Collection/Special Collections Library</subtitle>
+        <author>Abel Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">May 2000</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">September 2000.</date></creation>
+      <langusage>Finding aid written in
+		  <language>English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Tue Jul 22 15:20:55 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00031 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the Energy Information Records,
+		  1960s-1990s</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">May 2000</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <corpname encodinganalog="110">W. I. Dykes
+			 Library</corpname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Energy Information
+		  Records, 
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1960s-1990s</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">Publications on the
+		  energy industry in the State of Texas from the 1960s to 1990s. </abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 1523.1</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:">80 boxes (80.0 linear
+		  feet)</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>The collection was managed by the W. I. Dykes Library of the
+		  University of Houston-Downtown. It was used by patrons researching information
+		  on the energy industry.</p>
+      <p>Energy has played a major role in society and human evolution for
+		  thousands of years. In the 20th Century, energy resources such as oil, water,
+		  gas not to mention lesser sources such as wind and solar have effect the
+		  economy world-wide. Energy resources have the potential to make or break an
+		  industrial nation.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The collection consists of printed material composed of news releases,
+		  news clippings, other publications, and pamphlets pertaining to energy
+		  resources and the energy industry in the State of Texas and City of Houston. It
+		  also relates to energy resources found throughout the world.</p>
+    </scopecontent>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">Coal</subject>
+        <subject encodinganalog="650" source="lcsh">Coal trade</subject>
+        <subject encodinganalog="650" source="lcsh">Energy
+			 conservation</subject>
+        <subject encodinganalog="650" source="lcsh">Fossil fuels--Economic
+			 aspects--United States</subject>
+        <subject encodinganalog="650" source="lcsh">Fossil fuels--Environmental
+			 aspects--United States</subject>
+        <subject encodinganalog="650" source="lcsh">Gas industry</subject>
+        <subject encodinganalog="650" source="lcsh">Mineral
+			 industries</subject>
+        <subject encodinganalog="650" source="lcsh">Natural gas</subject>
+        <subject encodinganalog="650" source="lcsh">Oil and gas
+			 leases</subject>
+        <subject encodinganalog="650" source="lcsh">Petroleum</subject>
+        <subject encodinganalog="650" source="lcsh">Petroleum industry and
+			 trade</subject>
+        <subject encodinganalog="650" source="lcsh">Power resources</subject>
+        <subject encodinganalog="650" source="lcsh">Solar energy</subject>
+        <subject encodinganalog="650" source="lcsh">Wind power--Texas</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <head>Acquisition</head>
+      <p>Collection accession #(s): 
+			 <num type="accession">2000-0115-B</num></p>
+      <p>Gift, 2000</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, May, 2000</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>Energy Information Records, 1960s-1990s, Southwest
+			 Collection/Special Collections Library, Texas Tech University, Lubbock,
+			 Texas</p>
+    </prefercite>
+    <relatedmaterial encodinganalog="544 1" id="a6">
+      <p>For related materials located in the Southwest Collection/Special
+			 Collections Library, see the following collections:</p>
+      <list type="simple">
+        <item>Crosbyton Solar Power Project Records, 1974-1986 and undated</item>
+        <item>Crosbyton Solar Power Project Records, 1962-1987 and undated</item>
+      </list>
+    </relatedmaterial>
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+      <c01>
+        <did>
+          <unittitle>Publication Files</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>State- Texas</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">1</container>
+              <unittitle>1. Natural Gas</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">1</container>
+              <unittitle>2. Natural Gas Taxes</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">1</container>
+              <unittitle>3. Oil Facts</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">1</container>
+              <unittitle>4. Oil General (1)</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Taxes</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">2</container>
+              <unittitle>1. Clark's Column</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">2</container>
+              <unittitle>2. Editorial Comment</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">2</container>
+              <unittitle>3. Foreign</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">2</container>
+              <unittitle>4. General</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">2</container>
+              <unittitle>5. History</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">2</container>
+              <unittitle>6. Non Petroleum</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">2</container>
+              <unittitle>7. Roll Call Votes</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">2</container>
+              <unittitle>8. Speeches and Statements</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">2</container>
+              <unittitle>9. Williams, Bill</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">3</container>
+              <unittitle>1. Diversion</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">3</container>
+              <unittitle>2. Foreign Tax Credit</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <unittitle>3. Gasoline (Folder 1)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">3</container>
+              <unittitle>4. Gasoline (Folder 2)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">4</container>
+              <unittitle>1. Kennedy Tax Program</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">4</container>
+              <unittitle>2. Natural Gas Taxes</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">4</container>
+              <unittitle>3. Tax Reform</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">4</container>
+              <unittitle>4. Statistics of Income, IRS— 
+					 <unitdate era="ce" calendar="gregorian">1957-58</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">4</container>
+              <unittitle>5. Subsidy</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">4</container>
+              <unittitle>6. Tax Economics Bulletins</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">4</container>
+              <unittitle>7. U. S. 1976 Tax Bill</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">4</container>
+              <unittitle>8. Windfall Taxes</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">5</container>
+              <unittitle>1. General</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">5</container>
+              <unittitle>2. History</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">5</container>
+              <unittitle>3. Income Tax</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Taxes Depletion Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>Texas Energy (Pamphlets) Box 1</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle>Taxes Depletion Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>Exploration Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>Oil and Gas Exploration, A-L</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>Oil and Gas Exploration, M-Z</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Companies</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">1</container>
+              <unittitle>Companies A</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">2</container>
+              <unittitle>Companies B</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">3</container>
+              <unittitle>Companies C</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">4</container>
+              <unittitle>Companies D-G</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">5</container>
+              <unittitle>Companies Exxon</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">1</container>
+              <unittitle>Companies Gulf</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">2</container>
+              <unittitle>Companies, Gulf-Miss</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">3</container>
+              <unittitle>Companies H-I</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">4</container>
+              <unittitle>Companies J-Lion Oil</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">5</container>
+              <unittitle>Companies LJ-Mitchell</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">1</container>
+              <unittitle>Companies MJ-O</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">2</container>
+              <unittitle>Companies P-PG</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">3</container>
+              <unittitle>Companies PH-R</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">4</container>
+              <unittitle>Companies S-SM</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">5</container>
+              <unittitle>Companies SN-SZ</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">1</container>
+              <unittitle>Companies Standard Oil</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">2</container>
+              <unittitle>Companies T-Texas</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">3</container>
+              <unittitle>Companies, Texas F-TXL</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">4</container>
+              <unittitle>Companies U-Z</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Fields/Areas</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">5</container>
+              <unittitle>Fields/Areas, Texas A-EA</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">1</container>
+              <unittitle>Fields/Areas, Texas EB-L</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">2</container>
+              <unittitle>Fields/Areas, Texas M-R</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">3</container>
+              <unittitle>Fields/Areas, Texas S-Z</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">4</container>
+              <unittitle>Fields/Areas A-F</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">5</container>
+              <unittitle>Fields/Areas G-O</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">1</container>
+              <unittitle>Fields/Areas P-Z</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Foreign</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">2</container>
+              <unittitle>Foreign- Africa A-K</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">3</container>
+              <unittitle>Foreign- Africa L-Z</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">4</container>
+              <unittitle>Foreign- Antilles</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">5</container>
+              <unittitle>Foreign- Asia A-I</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">1</container>
+              <unittitle>Foreign- Asia J-Z</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">2</container>
+              <unittitle>Foreign- Australia</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">3</container>
+              <unittitle>Foreign- Central America</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">4</container>
+              <unittitle>Foreign- Europe A-G</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">5</container>
+              <unittitle>Foreign- Europe H-Z</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">6</container>
+              <unittitle>Foreign- Europe, North Sea</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">1</container>
+              <unittitle>Foreign- General and Latin America</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">2</container>
+              <unittitle>Foreign- Middle East, A-Iran</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">3</container>
+              <unittitle>Foreign- Middle East, Iraq-O</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">4</container>
+              <unittitle>Foreign- North America, Canada A-L</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">5</container>
+              <unittitle>Foreign- North America, Canada M-Z</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">1</container>
+              <unittitle>Foreign- North America, Mexico</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">2</container>
+              <unittitle>Foreign- Middle East, P-Z</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">3</container>
+              <unittitle>Foreign- Russia, A-N</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">4</container>
+              <unittitle>Foreign- Russia, O-Z</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">5</container>
+              <unittitle>Foreign- South America, A-Z</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">1</container>
+              <unittitle>Foreign- South America, Venezuela</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Historical</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">2</container>
+              <unittitle>Historical, A-Economics O</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">3</container>
+              <unittitle>Historical, Economics, Prices-H</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">4</container>
+              <unittitle>Historical, I-Legislature</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">5</container>
+              <unittitle>Historical, Litigation-LZ</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">1</container>
+              <unittitle>Historical M-N</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">2</container>
+              <unittitle>Historical O-United States S</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">3</container>
+              <unittitle>Historical Pamphlets</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">4</container>
+              <unittitle>Historical, United States T-Z</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">5</container>
+              <unittitle>Historical Pamphlets</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">1</container>
+            <unittitle>Litigation and Marketing A-Z</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">2</container>
+            <unittitle>Legislation A-Z</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">3</container>
+            <unittitle>Miscellaneous, Agriculture-Moho/Project
+				  Mohole</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">4</container>
+            <unittitle>Miscellaneous, National Security-Synthetic
+				  Rubber</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">5</container>
+            <unittitle>Divestiture II</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">1</container>
+            <unittitle>Museums</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">2</container>
+            <unittitle>Organizations, Alliance-Arctic</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">3</container>
+            <unittitle>American Petroleum Institute, History- The
+				  Monogram</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Organizations</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">15</container>
+              <container type="folder">4</container>
+              <unittitle>Organizations, Asphalt-Authors' League</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">16</container>
+              <container type="folder">1</container>
+              <unittitle>Organizations, Better Business Bureau-
+					 General</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">16</container>
+              <container type="folder">2</container>
+              <unittitle>Organizations, Land &amp; Royalty Owners of Louisiana-
+					 National Petroleum Reniers Association</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">16</container>
+              <container type="folder">3</container>
+              <unittitle>Organizations, National Science Foundation-
+					 Roxana</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">16</container>
+              <container type="folder">4</container>
+              <unittitle>Organizations, Gas Industry- Houston
+					 Museum</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">16</container>
+              <container type="folder">5</container>
+              <unittitle>Organizations, OPEC (Organizations Petroleum Exporting
+					 Countries)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">1</container>
+              <unittitle>Organizations, International Gas- Interstate Oil
+					 Compact</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">2</container>
+              <unittitle>Organizations, Society of Exploration- Texas
+					 Independent</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">3</container>
+              <unittitle>Organizations, Texas Mid-Continent- Texas
+					 Water</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>People</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">4</container>
+              <unittitle>People, Bellmon- Booth</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">5</container>
+              <unittitle>People, Bagge-Bell</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">17</container>
+              <container type="folder">6</container>
+              <unittitle>People A</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">18</container>
+              <container type="folder">1</container>
+              <unittitle>People, Boren-Bryan</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">18</container>
+              <container type="folder">2</container>
+              <unittitle>People, Bryant-Byrd</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">18</container>
+              <container type="folder">3</container>
+              <unittitle>People, Calhoun-Clark</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">18</container>
+              <container type="folder">4</container>
+              <unittitle>People, Clayton-Cutbirth</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">18</container>
+              <container type="folder">5</container>
+              <unittitle>People, Dahlgreen-Degolyer</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">18</container>
+              <container type="folder">6</container>
+              <unittitle>People, Dennis-Dyer</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">19</container>
+              <container type="folder">1</container>
+              <unittitle>People, A-F</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">19</container>
+              <container type="folder">2</container>
+              <unittitle>People, Gayley-Gracey</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">19</container>
+              <container type="folder">3</container>
+              <unittitle>People, Graham-Hamill</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">19</container>
+              <container type="folder">4</container>
+              <unittitle>People, Hamm-Hooks</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">19</container>
+              <container type="folder">5</container>
+              <unittitle>People, Hoover-Ikard</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">20</container>
+              <container type="folder">1</container>
+              <unittitle>People, Jablonski-Josephson</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">20</container>
+              <container type="folder">2</container>
+              <unittitle>People, K</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">20</container>
+              <container type="folder">3</container>
+              <unittitle>People, L</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">20</container>
+              <container type="folder">4</container>
+              <unittitle>People, Jim C. Langdon-Railroad Commission of
+					 Texas</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">20</container>
+              <container type="folder">5</container>
+              <unittitle>People, MacArthur-McCollum</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">21</container>
+              <container type="folder">1</container>
+              <unittitle>People, McCormick-Mitchell</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">21</container>
+              <container type="folder">2</container>
+              <unittitle>People, Moncrief-Northen</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">21</container>
+              <container type="folder">3</container>
+              <unittitle>People, O'Brien-Proxmire</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">21</container>
+              <container type="folder">4</container>
+              <unittitle>People, Ramsey-Reistley</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">21</container>
+              <container type="folder">5</container>
+              <unittitle>People, Skelly-Symonds</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">22</container>
+              <container type="folder">1</container>
+              <unittitle>People, Richardson-Sinclair</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">22</container>
+              <container type="folder">2</container>
+              <unittitle>People, Teagle-Thompson</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">22</container>
+              <container type="folder">3</container>
+              <unittitle>People, Townsend-West</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">22</container>
+              <container type="folder">4</container>
+              <unittitle>People, Weaver-Zijkler</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">22</container>
+            <container type="folder">5</container>
+            <unittitle>Taxes Depletion- Folders 1 and 2</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">22</container>
+            <container type="folder">6</container>
+            <unittitle>Politics</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">22</container>
+              <container type="folder">6</container>
+              <unittitle>1. Democratic Platforms</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">22</container>
+              <container type="folder">6</container>
+              <unittitle>2. Elections</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">22</container>
+              <container type="folder">6</container>
+              <unittitle>3. Energy (Oil) and Politics</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">22</container>
+              <container type="folder">6</container>
+              <unittitle>4. General</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">22</container>
+              <container type="folder">6</container>
+              <unittitle>5. Kennedy Team</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">22</container>
+              <container type="folder">6</container>
+              <unittitle>6. Republican Platforms</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">23</container>
+            <container type="folder">1</container>
+            <unittitle>Petroleum Products</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">1</container>
+              <unittitle>1. Asphalt</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">1</container>
+              <unittitle>2. Brine</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">1</container>
+              <unittitle>3. Butadine</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">1</container>
+              <unittitle>4. Carbon Black</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">1</container>
+              <unittitle>5. Diesel Fuel</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">1</container>
+              <unittitle>6. Ethane</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">1</container>
+              <unittitle>7. Ethylene</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">1</container>
+              <unittitle>8. Fuel Aviation/Rockets</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">1</container>
+              <unittitle>9. Fuels, General</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">1</container>
+              <unittitle>10. Fuel Oil</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">1</container>
+              <unittitle>11. Ram Jet</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">1</container>
+              <unittitle>12. Rockets Fuel</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">2</container>
+              <unittitle>1. Heating Oil</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">2</container>
+              <unittitle>2. Insecticides</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">2</container>
+              <unittitle>3. Kerosene</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">2</container>
+              <unittitle>4. Liquid Petroleum Gas</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">2</container>
+              <unittitle>5. Lubricants</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">2</container>
+              <unittitle>6. Methanol</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">2</container>
+              <unittitle>7. Napthenets</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">2</container>
+              <unittitle>8. Naptha</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">2</container>
+              <unittitle>9. Natural Gasoline Plants Survey</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">2</container>
+              <unittitle>10. Petrochemical</unittitle>
+              <physdesc>(2 folders)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">3</container>
+              <unittitle>1. Plastics</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">3</container>
+              <unittitle>2. Propane Gas</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">3</container>
+              <unittitle>3. Propylenes</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">3</container>
+              <unittitle>4. Rubber</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">3</container>
+              <unittitle>5. Wax</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">23</container>
+            <container type="folder">4</container>
+            <unittitle>Storage</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">4</container>
+              <unittitle>1. Stockpiles</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">4</container>
+              <unittitle>2. Miscellaneous</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">4</container>
+              <unittitle>3. L. P. Gas</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">4</container>
+              <unittitle>4. Natural Gas</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">4</container>
+              <unittitle>5. Tankers</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">4</container>
+              <unittitle>6. Salt Domes</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">4</container>
+              <unittitle>7. Emergency Strategic Reserves</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">4</container>
+              <unittitle>8. Underground</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">23</container>
+            <container type="folder">5</container>
+            <unittitle>Production</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">5</container>
+              <unittitle>1. Energy Supplies</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">5</container>
+              <unittitle>2. Facturing</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">5</container>
+              <unittitle>3. Gasoline</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">5</container>
+              <unittitle>4. General</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">5</container>
+              <unittitle>5. Natural Gas</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">5</container>
+              <unittitle>6. Oil Mining</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">5</container>
+              <unittitle>7. Recovery (Oil)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">5</container>
+              <unittitle>8. Stripper Wells (2)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">5</container>
+              <unittitle>9. World Oil Supplies</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">23</container>
+            <container type="folder">6</container>
+            <unittitle>Public Relations</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">6</container>
+              <unittitle>1. Energy Ads 1 &amp; 2</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">6</container>
+              <unittitle>2. Energy Ads Envelope</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">6</container>
+              <unittitle>3. Mobil Energy Ads</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">23</container>
+              <container type="folder">6</container>
+              <unittitle>4. Oil Public Relations</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">24</container>
+            <container type="folder">1</container>
+            <unittitle>States</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">1</container>
+              <unittitle>1. Kentucky</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">1</container>
+              <unittitle>2. Louisiana</unittitle>
+              <physdesc>(2 folders)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">1</container>
+              <unittitle>3. Michigan</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">1</container>
+              <unittitle>4. Mississippi</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">1</container>
+              <unittitle>5. Missouri</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">1</container>
+              <unittitle>6. Montana</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">24</container>
+            <container type="folder">2</container>
+            <unittitle>State Energy Data Reports</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">24</container>
+            <container type="folder">3</container>
+            <unittitle>Energy Outlook Reports</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">24</container>
+            <container type="folder">4</container>
+            <unittitle>International Energy Annuals</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">24</container>
+            <container type="folder">5</container>
+            <unittitle>Publications</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">5</container>
+              <unittitle>1. Effects of Lower World Oil Prices</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">5</container>
+              <unittitle>2. Minerals in the U. S. Economy (2)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">24</container>
+              <container type="folder">5</container>
+              <unittitle>3. Profiles of Foreign Direct Investment
+					 (5)</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">24</container>
+            <container type="folder">6</container>
+            <unittitle>Monthly Energy Indicators</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">1</container>
+            <unittitle>Annual Energy Reviews</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">2</container>
+            <unittitle>Annual Reports to Congress</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">3</container>
+            <unittitle>States- Alaska</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">25</container>
+            <container type="folder">4</container>
+            <unittitle>Petroleum Supply Monthly</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">1</container>
+            <unittitle>Monthly Energy Review 
+				  <unitdate era="ce" calendar="gregorian">(1988)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">2</container>
+            <unittitle>Petroleum Supply and Marketing Annuals</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">3</container>
+            <unittitle>Coal Production and Statistics</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">4</container>
+            <unittitle>Department of Energy: Weekly Coal Production 
+				  <unitdate era="ce" calendar="gregorian">(1980-82)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">26</container>
+            <container type="folder">5</container>
+            <unittitle>Department of Energy: Weekly Coal Production 
+				  <unitdate era="ce" calendar="gregorian">(1984)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">1</container>
+            <unittitle>Department of Energy: Weekly Coal Production 
+				  <unitdate era="ce" calendar="gregorian">(1987)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">2</container>
+            <unittitle>Department of Energy: Annual Coal Reports 
+				  <unitdate era="ce" calendar="gregorian">(1974-80)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">3</container>
+            <unittitle>Department of the Interior</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">27</container>
+              <container type="folder">3</container>
+              <unittitle>1. The Coal Situation</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">27</container>
+              <container type="folder">3</container>
+              <unittitle>2. News Release</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">27</container>
+              <container type="folder">3</container>
+              <unittitle>3. World Coal Trade 
+					 <unitdate era="ce" calendar="gregorian">(1971 Edition)</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">4</container>
+            <unittitle>Electricity Statistics-Edison Electric
+				  Institute</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">5</container>
+            <unittitle>Electric Power Annuals</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">27</container>
+            <container type="folder">6</container>
+            <unittitle>Edison Electric Institute: Statistical
+				  Yearbooks</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">1</container>
+            <unittitle>Coal Mining Industry</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">28</container>
+              <container type="folder">1</container>
+              <unittitle>1. Coal Data 
+					 <unitdate era="ce" calendar="gregorian">(1987)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">28</container>
+              <container type="folder">1</container>
+              <unittitle>2. Quarterly Coal Reports 
+					 <unitdate era="ce" calendar="gregorian">(1984-88)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">28</container>
+              <container type="folder">1</container>
+              <unittitle>3. Annual Outlook for U. S. Coal</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">28</container>
+              <container type="folder">1</container>
+              <unittitle>4. Annual Prospects for World Coal Trade</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">2</container>
+            <unittitle>Miscellaneous-Electricity</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">28</container>
+              <container type="folder">2</container>
+              <unittitle>1. Electric Power Statistics</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">28</container>
+              <container type="folder">2</container>
+              <unittitle>2. Electric Power Monthly 
+					 <unitdate era="ce" calendar="gregorian">(1984)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">28</container>
+              <container type="folder">2</container>
+              <unittitle>3. Electric Power Research Institute Annual Report 
+					 <unitdate era="ce" calendar="gregorian">(1984)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">28</container>
+              <container type="folder">2</container>
+              <unittitle>4. Electric Power Supply and Demand 
+					 <unitdate era="ce" calendar="gregorian">(1984)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">28</container>
+              <container type="folder">2</container>
+              <unittitle>5. Statistics of Publicly Owned Electric Utilities in
+					 the U. S. 
+					 <unitdate era="ce" calendar="gregorian">(1969-71)</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">3</container>
+            <unittitle>Natural Gas and Pipeline Companies</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">28</container>
+              <container type="folder">3</container>
+              <unittitle>1. Statistics of Interstate 
+					 <unitdate era="ce" calendar="gregorian">(1983-84)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">28</container>
+              <container type="folder">3</container>
+              <unittitle>2. Gas Supplies 
+					 <unitdate era="ce" calendar="gregorian">(1983-85)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">28</container>
+              <container type="folder">3</container>
+              <unittitle>3. Federal Power Commission Annual Report 
+					 <unitdate era="ce" calendar="gregorian">(1966-75)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">28</container>
+              <container type="folder">3</container>
+              <unittitle>4. Surveys and Demand Outlooks</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">4</container>
+            <unittitle>American Gas Association</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">5</container>
+            <unittitle>Department of Energy-Liquified Natural Gas
+				  Statistics</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">28</container>
+            <container type="folder">6</container>
+            <unittitle>Electric Outlook (Weekly, 
+				  <unitdate era="ce" calendar="gregorian">1981-85)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">29</container>
+            <container type="folder">1</container>
+            <unittitle>Department of Energy</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">29</container>
+              <container type="folder">1</container>
+              <unittitle>1. Federal Power Commission-Statistics of Natural Gas
+					 Companies 
+					 <unitdate era="ce" calendar="gregorian">(1957-62)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">29</container>
+              <container type="folder">1</container>
+              <unittitle>2. FPC Annual Report 
+					 <unitdate era="ce" calendar="gregorian">(1965)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">29</container>
+              <container type="folder">1</container>
+              <unittitle>3. Natural Gas Consumption and Statistics 
+					 <unitdate era="ce" calendar="gregorian">(1981-85)</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">29</container>
+            <container type="folder">2</container>
+            <unittitle>DOE-Crude Oil, Products and Gas Liquids Annual
+				  Statistics</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">29</container>
+            <container type="folder">3</container>
+            <unittitle>International Petroleum Statistics</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">29</container>
+            <container type="folder">4</container>
+            <unittitle>DOE-Monthly Petroleum Statistics 
+				  <unitdate era="ce" calendar="gregorian">(1980-81)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">29</container>
+            <container type="folder">5</container>
+            <unittitle>Weekly Petroleum Statistics 
+				  <unitdate era="ce" calendar="gregorian">(1980-81)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">30</container>
+            <container type="folder">1</container>
+            <unittitle>Mineral Statistics</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">30</container>
+              <container type="folder">1</container>
+              <unittitle>1. World Mineral Production, Annual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">30</container>
+              <container type="folder">1</container>
+              <unittitle>2. Nickel, Annual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">30</container>
+              <container type="folder">1</container>
+              <unittitle>3. Nickel, Monthly</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">30</container>
+            <container type="folder">2</container>
+            <unittitle>American Petroleum Institute</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">30</container>
+              <container type="folder">2</container>
+              <unittitle>1. Project Gasbuggy 
+					 <unitdate era="ce" calendar="gregorian">(1965)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">30</container>
+              <container type="folder">2</container>
+              <unittitle>2. Petroleum Facts and Figures 
+					 <unitdate era="ce" calendar="gregorian">(1967 ed.)</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">30</container>
+            <container type="folder">3</container>
+            <unittitle>Handbook of Labor Statistics 
+				  <unitdate era="ce" calendar="gregorian">(1975)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">30</container>
+            <container type="folder">4</container>
+            <unittitle>Weekly Petroleum Statistics 
+				  <unitdate era="ce" calendar="gregorian">(1982)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">30</container>
+            <container type="folder">5</container>
+            <unittitle>Weekly Petroleum Statistics 
+				  <unitdate era="ce" calendar="gregorian">(1983)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">1</container>
+            <unittitle>Weekly Petroleum Statistics 
+				  <unitdate era="ce" calendar="gregorian">(1984)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">2</container>
+            <unittitle>Biomass/Alcohol</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">31</container>
+              <container type="folder">2</container>
+              <unittitle>1. Alcohol</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">31</container>
+              <container type="folder">2</container>
+              <unittitle>2. Biomass Production</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">31</container>
+              <container type="folder">2</container>
+              <unittitle>3. Garbage, Waste</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">31</container>
+              <container type="folder">2</container>
+              <unittitle>4. Gasohol</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">31</container>
+              <container type="folder">2</container>
+              <unittitle>5. Methanol</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">3</container>
+            <unittitle>Biomass/Alcohol-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">31</container>
+            <container type="folder">4</container>
+            <unittitle>Drilling A-Z</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">32</container>
+            <container type="folder">1</container>
+            <unittitle>Drilling History A-Z</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">32</container>
+            <container type="folder">2</container>
+            <unittitle>Drilling-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">32</container>
+            <container type="folder">3</container>
+            <unittitle>Conservation-How to Conserve Tips</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">32</container>
+            <container type="folder">4</container>
+            <unittitle>Conservation-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">32</container>
+            <container type="folder">5</container>
+            <unittitle>Miscellaneous Annual Statistics</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">32</container>
+              <container type="folder">5</container>
+              <unittitle>1. API Annual Statistical Review</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">32</container>
+              <container type="folder">5</container>
+              <unittitle>2. AAPG Petroleum Information Packages</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">32</container>
+              <container type="folder">5</container>
+              <unittitle>3. Petroleum Industry War Council/Trends in Petroleum
+					 Industry</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">32</container>
+              <container type="folder">5</container>
+              <unittitle>4. Exxon Petroleum Industry/Statistical
+					 Record</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">32</container>
+              <container type="folder">5</container>
+              <unittitle>5. DOE Development of the Oil and Gas Resources of the
+					 UK</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">33</container>
+            <container type="folder">1</container>
+            <unittitle>Petroleum Statistics-API Weekly Statistical Bulletin 
+				  <unitdate era="ce" calendar="gregorian">(1979)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">33</container>
+            <container type="folder">2</container>
+            <unittitle>Petroleum Statistics-API Weekly Statistical Bulletin 
+				  <unitdate era="ce" calendar="gregorian">(1980)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">33</container>
+            <container type="folder">3</container>
+            <unittitle>Petroleum Statistics-API Weekly Statistical Bulletin 
+				  <unitdate era="ce" calendar="gregorian">(1981)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">33</container>
+            <container type="folder">4</container>
+            <unittitle>Petroleum Statistics-API Weekly Statistical Bulletin 
+				  <unitdate era="ce" calendar="gregorian">(1982)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">33</container>
+            <container type="folder">5</container>
+            <unittitle>Petroleum Statistics-API Weekly Statistical Bulletin 
+				  <unitdate era="ce" calendar="gregorian">(1983)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">33</container>
+            <container type="folder">6</container>
+            <unittitle>Coke and Coal Chemical Statistics (DOE)</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">33</container>
+              <container type="folder">6</container>
+              <unittitle>1. Coke and Coal Chemical Statistics,
+					 Monthly</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">33</container>
+              <container type="folder">6</container>
+              <unittitle>2. Coke and Coal Chemical Statistics,
+					 Annual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">33</container>
+              <container type="folder">6</container>
+              <unittitle>3. Coke Distribution, Annual</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">33</container>
+              <container type="folder">6</container>
+              <unittitle>4. Coke Producers, Annual</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">34</container>
+            <container type="folder">1</container>
+            <unittitle>Coal-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">34</container>
+            <container type="folder">2</container>
+            <unittitle>Coal-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">34</container>
+            <container type="folder">3</container>
+            <unittitle>Coal, General-Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">34</container>
+            <container type="folder">4</container>
+            <unittitle>Coal Clippings, A-F</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">34</container>
+            <container type="folder">5</container>
+            <unittitle>Coal-Environmental Effects and Regulatory
+				  Programs</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">35</container>
+            <container type="folder">1</container>
+            <unittitle>Coal Gasification and Liquefaction-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">35</container>
+            <container type="folder">2</container>
+            <unittitle>Coal Gasification and Liquefaction-Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">35</container>
+            <container type="folder">3</container>
+            <unittitle>International Coal Trade 
+				  <unitdate era="ce" calendar="gregorian">(1974-76)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">35</container>
+            <container type="folder">4</container>
+            <unittitle>International Coal Trade/Coal International 
+				  <unitdate era="ce" calendar="gregorian">(1977-79)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">36</container>
+            <container type="folder">1</container>
+            <unittitle>Petroleum-Magazines and Miscellaneous
+				  Publications</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">36</container>
+            <container type="folder">2</container>
+            <unittitle>DOE Weekly Petroleum Status Reports 
+				  <unitdate era="ce" calendar="gregorian">(1985)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">36</container>
+            <container type="folder">3</container>
+            <unittitle>DOE Weekly Petroleum Status Reports 
+				  <unitdate era="ce" calendar="gregorian">(1986)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">36</container>
+            <container type="folder">4</container>
+            <unittitle>DOE Weekly Petroleum Status Reports 
+				  <unitdate era="ce" calendar="gregorian">(1987)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">36</container>
+            <container type="folder">5</container>
+            <unittitle>American Petroleum Institute-Monthly Statistical Reports
+				  
+				  <unitdate era="ce" calendar="gregorian">(1979-86)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">1</container>
+            <unittitle>DOE Petroleum Price Statistics-Monthly Petroleum Product
+				  Price Report 
+				  <unitdate era="ce" calendar="gregorian">(1978-1981)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">2</container>
+            <unittitle>Independent Petroleum Association of America</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">37</container>
+              <container type="folder">2</container>
+              <unittitle>1. U. S. Weekly Oil Trends 
+					 <unitdate era="ce" calendar="gregorian">(1984)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">37</container>
+              <container type="folder">2</container>
+              <unittitle>2. Supply and Demand Outlook 
+					 <unitdate era="ce" calendar="gregorian">(1984)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">37</container>
+              <container type="folder">2</container>
+              <unittitle>3. Petroleum Price Statistics 
+					 <unitdate era="ce" calendar="gregorian">(1979-1980)</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">3</container>
+            <unittitle>DOE Petroleum Statistics 
+				  <unitdate era="ce" calendar="gregorian">(1977-1980; </unitdate>Replaced by Petroleum Supply
+				  Monthly)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">4</container>
+            <unittitle>Petroleum Price Statistics 
+				  <unitdate era="ce" calendar="gregorian">(1980-1984)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">37</container>
+            <container type="folder">5</container>
+            <unittitle>DOE Monthly Petroleum Statistics 
+				  <unitdate era="ce" calendar="gregorian">(1977-1979)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">38</container>
+            <container type="folder">1</container>
+            <unittitle>Department of Energy (DOE)</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">38</container>
+              <container type="folder">1</container>
+              <unittitle>1. Quarterly Reports 
+					 <unitdate era="ce" calendar="gregorian">(1981-1982)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">38</container>
+              <container type="folder">1</container>
+              <unittitle>2. World Oil Inventories 
+					 <unitdate era="ce" calendar="gregorian">(1981)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">38</container>
+              <container type="folder">1</container>
+              <unittitle>3. Comparative Analysis-1978 Crude Oil and Natural Gas
+					 Production Data (State; 
+					 <unitdate era="ce" calendar="gregorian">1981)</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">38</container>
+            <container type="folder">2</container>
+            <unittitle>Conservation- Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">38</container>
+            <container type="folder">3</container>
+            <unittitle>Conservation- Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">38</container>
+            <container type="folder">4</container>
+            <unittitle>Conservation- Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">39</container>
+            <container type="folder">1</container>
+            <unittitle>Conservation A-G</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">39</container>
+            <container type="folder">2</container>
+            <unittitle>Conservation H-L</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">39</container>
+            <container type="folder">3</container>
+            <unittitle>Conservation M-Z</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">39</container>
+            <container type="folder">4</container>
+            <unittitle>Chase Manhattan Bank-Financial Analysis of a Group of
+				  Petroleum Companies 
+				  <unitdate era="ce" calendar="gregorian">(1954-1982)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">39</container>
+            <container type="folder">5</container>
+            <unittitle>Chase Manhattan Bank-Capital Investments of World
+				  Petroleum Industry 
+				  <unitdate era="ce" calendar="gregorian">(1965-1982)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">40</container>
+            <container type="folder">1</container>
+            <unittitle>U. S. Reserves</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">40</container>
+              <container type="folder">1</container>
+              <unittitle>1. U. S. Crude Oil, Natural Gas and Natural Gas
+					 Liquids 
+					 <unitdate era="ce" calendar="gregorian">(1981-1985)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">40</container>
+              <container type="folder">1</container>
+              <unittitle>2. Saloman Brothers, Inc.-Proved Petroleum Reserves of
+					 30 Large Energy Companies 
+					 <unitdate era="ce" calendar="gregorian">(1978-1986)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">40</container>
+              <container type="folder">1</container>
+              <unittitle>3. U. S. Oil and Gas Reserve Transactions 
+					 <unitdate era="ce" calendar="gregorian">(1983-1987)</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">40</container>
+            <container type="folder">2</container>
+            <unittitle>Reserves-U. S. and Canada 
+				  <unitdate era="ce" calendar="gregorian">(1966-1978)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">40</container>
+            <container type="folder">3</container>
+            <unittitle>Reserves-U. S. and Canada 
+				  <unitdate era="ce" calendar="gregorian">(1979)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">40</container>
+            <container type="folder">4</container>
+            <unittitle>DOE and U. S. Geological Survey</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">40</container>
+              <container type="folder">4</container>
+              <unittitle>1. Libya, Algeria and Egypt-Crude Oil Potential 
+					 <unitdate era="ce" calendar="gregorian">(1982)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">40</container>
+              <container type="folder">4</container>
+              <unittitle>2. Geological Estimates of Undiscovered Recoverable
+					 Resources</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">40</container>
+              <container type="folder">4</container>
+              <unittitle>3. Oil and Gas Field Code Master List 
+					 <unitdate era="ce" calendar="gregorian">(1986)</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">40</container>
+            <container type="folder">5</container>
+            <unittitle>DOE-Indexes and Estimates of Domestic Well Drilling
+				  Costs 
+				  <unitdate era="ce" calendar="gregorian">(1982-85)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">40</container>
+            <container type="folder">6</container>
+            <unittitle>Drilling Statistics</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">41</container>
+            <container type="folder">1</container>
+            <unittitle>Drilling Statistics</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">41</container>
+              <container type="folder">1</container>
+              <unittitle>1. Hughes Tool Company</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">41</container>
+              <container type="folder">1</container>
+              <unittitle>2. International Rotary Drilling-Rig Report 
+					 <unitdate era="ce" calendar="gregorian">(1981-1983)</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">41</container>
+            <container type="folder">2</container>
+            <unittitle>Drilling Statistics-Rotary Rigs Actually Making Hole 
+				  <unitdate era="ce" calendar="gregorian">(1979-1986)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">41</container>
+            <container type="folder">3</container>
+            <unittitle>Drilling Statistics</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">41</container>
+              <container type="folder">3</container>
+              <unittitle>1. Monthly Seismic Crew Count 
+					 <unitdate era="ce" calendar="gregorian">91974-1984)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">41</container>
+              <container type="folder">3</container>
+              <unittitle>2. DOE-Costs and Indexes for Domestic Oil and Gas 
+					 <unitdate era="ce" calendar="gregorian">(1982-1983)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">41</container>
+              <container type="folder">3</container>
+              <unittitle>3. Lessons on U. S. and World Energy Trends and
+					 Outlook</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">41</container>
+            <container type="folder">4</container>
+            <unittitle>Drilling Statistics-American Petroleum
+				  Institute</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">42</container>
+            <container type="folder">1</container>
+            <unittitle>Drilling Statistics-Quarterly Review 
+				  <unitdate era="ce" calendar="gregorian">(1973-1977)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">42</container>
+            <container type="folder">2</container>
+            <unittitle>Drilling Statistics-Quarterly Review 
+				  <unitdate era="ce" calendar="gregorian">(1978-1981)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">42</container>
+            <container type="folder">3</container>
+            <unittitle>Drilling Statistics-Oil Services Monthly 
+				  <unitdate era="ce" calendar="gregorian">(1982-1986)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">42</container>
+            <container type="folder">4</container>
+            <unittitle>Drillings Statistics-Oil Services Monthly 
+				  <unitdate era="ce" calendar="gregorian">(1986-1987)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">42</container>
+            <container type="folder">5</container>
+            <unittitle>Batteries-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">43</container>
+            <container type="folder">1</container>
+            <unittitle>U. S. Monthly Energy Facts 
+				  <unitdate era="ce" calendar="gregorian">(1978-1980)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">43</container>
+            <container type="folder">2</container>
+            <unittitle>U. S. Monthly Energy Facts 
+				  <unitdate era="ce" calendar="gregorian">(1981-1983)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">43</container>
+            <container type="folder">3</container>
+            <unittitle>Salomon Brothers-Industry Analysis/Petroleum Monthly 
+				  <unitdate era="ce" calendar="gregorian">(1980-1982)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">43</container>
+            <container type="folder">4</container>
+            <unittitle>Salomon Brothers-Industry Analysis/Petroleum Monthly 
+				  <unitdate era="ce" calendar="gregorian">(1983-1988)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">44</container>
+            <container type="folder">1</container>
+            <unittitle>Economics-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">44</container>
+            <container type="folder">2</container>
+            <unittitle>Economics-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">44</container>
+            <container type="folder">3</container>
+            <unittitle>Economics A-E, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">44</container>
+            <container type="folder">4</container>
+            <unittitle>Economics F-K, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">44</container>
+            <container type="folder">5</container>
+            <unittitle>Economics L-Z, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">45</container>
+            <container type="folder">1</container>
+            <unittitle>Economics- Prices A-F, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">45</container>
+            <container type="folder">2</container>
+            <unittitle>Economics- Prices G, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">45</container>
+            <container type="folder">3</container>
+            <unittitle>Economics- Prices H-Z, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">45</container>
+            <container type="folder">4</container>
+            <unittitle>Electricity- Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">45</container>
+            <container type="folder">5</container>
+            <unittitle>Electricity A-Z, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">46</container>
+            <container type="folder">1</container>
+            <unittitle>Electricity Statistics</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">46</container>
+              <container type="folder">1</container>
+              <unittitle>1. All Electric Homes in the U. S.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">46</container>
+              <container type="folder">1</container>
+              <unittitle>2. Typical Electric Bills 
+					 <unitdate era="ce" calendar="gregorian">(1970-1986)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">46</container>
+              <container type="folder">1</container>
+              <unittitle>3. Department of Energy (DOE)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">46</container>
+              <container type="folder">1</container>
+              <unittitle>4. Residential Electric Bills in Major Cities (500
+					 kwh), Monthly</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">46</container>
+            <container type="folder">2</container>
+            <unittitle>Environment-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">46</container>
+            <container type="folder">3</container>
+            <unittitle>Environment-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">46</container>
+            <container type="folder">4</container>
+            <unittitle>Environment-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">46</container>
+            <container type="folder">5</container>
+            <unittitle>Energy Consumption-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">47</container>
+            <container type="folder">1</container>
+            <unittitle>Energy Crisis</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">47</container>
+              <container type="folder">1</container>
+              <unittitle>1. General</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">47</container>
+              <container type="folder">1</container>
+              <unittitle>2. NBC White Paper</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">47</container>
+            <container type="folder">2</container>
+            <unittitle>Energy Crisis A-GD</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">47</container>
+            <container type="folder">3</container>
+            <unittitle>Energy Crises NAT-Z</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Energy Outlook</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">47</container>
+              <container type="folder">4</container>
+              <unittitle>Energy Outlook- Pamphlets</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">47</container>
+              <container type="folder">5</container>
+              <unittitle>Energy Outlook- Pamphlets</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">48</container>
+              <container type="folder">1</container>
+              <unittitle>Energy Outlook- Pamphlets</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">48</container>
+              <container type="folder">2</container>
+              <unittitle>Energy Outlook- Pamphlets</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">48</container>
+              <container type="folder">3</container>
+              <unittitle>Energy Outlook- Pamphlets</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">48</container>
+              <container type="folder">4</container>
+              <unittitle>Energy Outlook- Pamphlets</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">48</container>
+              <container type="folder">5</container>
+              <unittitle>Energy Outlook A-I</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">48</container>
+              <container type="folder">6</container>
+              <unittitle>Energy Outlook J-Z</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">49</container>
+              <container type="folder">1</container>
+              <unittitle>Energy Outlook- Forecasts</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">49</container>
+            <container type="folder">2</container>
+            <unittitle>Energy Sources-Pamphlets in General</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">49</container>
+            <container type="folder">3</container>
+            <unittitle>Energy Sources-Pamphlets</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">49</container>
+              <container type="folder">3</container>
+              <unittitle>1. Tar Sands</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">49</container>
+              <container type="folder">3</container>
+              <unittitle>2. Water</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">49</container>
+              <container type="folder">3</container>
+              <unittitle>3. Uranium</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">49</container>
+              <container type="folder">3</container>
+              <unittitle>4. Spectroscopy</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">49</container>
+              <container type="folder">3</container>
+              <unittitle>5. Wood</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">49</container>
+              <container type="folder">4</container>
+              <unittitle>1. Ocean Energy</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">49</container>
+              <container type="folder">4</container>
+              <unittitle>2. Microwave Energy</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">49</container>
+              <container type="folder">4</container>
+              <unittitle>3. Mining</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">49</container>
+              <container type="folder">4</container>
+              <unittitle>4. Flywheel</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">49</container>
+              <container type="folder">4</container>
+              <unittitle>5. Synthetic Fuels</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">50</container>
+              <container type="folder">1</container>
+              <unittitle>1. Wind Energy (Windmills)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">50</container>
+              <container type="folder">1</container>
+              <unittitle>2. Hydroelectric Power</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">50</container>
+              <container type="folder">1</container>
+              <unittitle>3. Hydropower</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">50</container>
+            <container type="folder">2</container>
+            <unittitle>Energy Sources A-G, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">50</container>
+            <container type="folder">3</container>
+            <unittitle>Energy Sources H, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">50</container>
+            <container type="folder">4</container>
+            <unittitle>Energy Sources I-SU, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">51</container>
+            <container type="folder">1</container>
+            <unittitle>Energy Sources SV-T, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">51</container>
+            <container type="folder">2</container>
+            <unittitle>Energy Sources U-Z, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">51</container>
+            <container type="folder">3</container>
+            <unittitle>Energy Sources-Project Independence</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">51</container>
+            <container type="folder">4</container>
+            <unittitle>Energy Research A-G, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">51</container>
+            <container type="folder">5</container>
+            <unittitle>Energy Research H-Z, Clippings and Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">52</container>
+            <container type="folder">1</container>
+            <unittitle>Energy Technology-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">52</container>
+            <container type="folder">2</container>
+            <unittitle>Gasoline-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">52</container>
+            <container type="folder">3</container>
+            <unittitle>Gasoline A-Z, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">52</container>
+            <container type="folder">4</container>
+            <unittitle>Geothermal A-Z, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">52</container>
+            <container type="folder">5</container>
+            <unittitle>Geothermal-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">52</container>
+            <container type="folder">6</container>
+            <unittitle>Imports-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">53</container>
+            <container type="folder">1</container>
+            <unittitle>Imports A-Z, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">53</container>
+            <container type="folder">2</container>
+            <unittitle>Liquefied Natural Gas-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">53</container>
+            <container type="folder">3</container>
+            <unittitle>Natural Gas-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">53</container>
+            <container type="folder">4</container>
+            <unittitle>Natural Gas-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">53</container>
+            <container type="folder">5</container>
+            <unittitle>Natural Gas-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">54</container>
+            <container type="folder">1</container>
+            <unittitle>Natural Gas-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">54</container>
+            <container type="folder">2</container>
+            <unittitle>Natural Gas A-G, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">54</container>
+            <container type="folder">3</container>
+            <unittitle>Natural Gas H-R, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">54</container>
+            <container type="folder">4</container>
+            <unittitle>Natural Gas S-Z, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">54</container>
+            <container type="folder">5</container>
+            <unittitle>Nuclear Power-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">55</container>
+            <container type="folder">1</container>
+            <unittitle>Nuclear Power-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">55</container>
+            <container type="folder">2</container>
+            <unittitle>Nuclear Power-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">55</container>
+            <container type="folder">3</container>
+            <unittitle>Nuclear Power-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">55</container>
+            <container type="folder">4</container>
+            <unittitle>Nuclear Power-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">55</container>
+            <container type="folder">5</container>
+            <unittitle>Nuclear Power-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">56</container>
+            <container type="folder">1</container>
+            <unittitle>Nuclear Power-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">56</container>
+            <container type="folder">2</container>
+            <unittitle>Nuclear Power A-E, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">56</container>
+            <container type="folder">3</container>
+            <unittitle>Nuclear Power F-J, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">56</container>
+            <container type="folder">4</container>
+            <unittitle>Nuclear Power K-Reactor Safety 
+				  <unitdate era="ce" calendar="gregorian">(1976), </unitdate>Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">56</container>
+            <container type="folder">5</container>
+            <unittitle>Nuclear Power-Reactor Safety 
+				  <unitdate era="ce" calendar="gregorian">(1977)-</unitdate>Z, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">57</container>
+            <container type="folder">1</container>
+            <unittitle>Offshore-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">57</container>
+            <container type="folder">2</container>
+            <unittitle>Offshore-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">57</container>
+            <container type="folder">3</container>
+            <unittitle>Offshore A-C, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">57</container>
+            <container type="folder">4</container>
+            <unittitle>Offshore D-G, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">58</container>
+            <container type="folder">1</container>
+            <unittitle>Offshore H-L, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">58</container>
+            <container type="folder">2</container>
+            <unittitle>Offshore M-R, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">58</container>
+            <container type="folder">3</container>
+            <unittitle>Offshore S-Z, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">58</container>
+            <container type="folder">4</container>
+            <unittitle>Pipelines-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">58</container>
+            <container type="folder">5</container>
+            <unittitle>Pipelines-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">59</container>
+            <container type="folder">1</container>
+            <unittitle>Pipelines Safety-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">59</container>
+            <container type="folder">2</container>
+            <unittitle>Pipelines A-R, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">59</container>
+            <container type="folder">3</container>
+            <unittitle>Pipelines S-Z, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">59</container>
+            <container type="folder">4</container>
+            <unittitle>Pollution-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">59</container>
+            <container type="folder">5</container>
+            <unittitle>Oil and Gas-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">60</container>
+            <container type="folder">1</container>
+            <unittitle>Oil Spills A-Z, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">60</container>
+            <container type="folder">2</container>
+            <unittitle>Oil Spills-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">60</container>
+            <container type="folder">3</container>
+            <unittitle>Pollution-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">60</container>
+            <container type="folder">4</container>
+            <unittitle>Pollution-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">60</container>
+            <container type="folder">5</container>
+            <unittitle>Refining A-Z, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">61</container>
+            <container type="folder">1</container>
+            <unittitle>Refining-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">61</container>
+            <container type="folder">2</container>
+            <unittitle>Reserves-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">61</container>
+            <container type="folder">3</container>
+            <unittitle>Reserves A-Z, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">61</container>
+            <container type="folder">4</container>
+            <unittitle>Shale Oil-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">61</container>
+            <container type="folder">5</container>
+            <unittitle>Shale Oil N-Z, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">62</container>
+            <container type="folder">1</container>
+            <unittitle>Solar Power-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">62</container>
+            <container type="folder">2</container>
+            <unittitle>Solar Power-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">62</container>
+            <container type="folder">3</container>
+            <unittitle>Solar Power-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">62</container>
+            <container type="folder">4</container>
+            <unittitle>Solar Power A-G, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">62</container>
+            <container type="folder">5</container>
+            <unittitle>Solar Power H-Z, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">63</container>
+            <container type="folder">1</container>
+            <unittitle>Solar Power</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">63</container>
+              <unittitle>1. Solar Collector Manufacturing 
+					 <unitdate era="ce" calendar="gregorian">(1980-1982)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">63</container>
+              <unittitle>2. Solar Installations Survey 
+					 <unitdate era="ce" calendar="gregorian">(1980-1984)</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">63</container>
+            <container type="folder">2</container>
+            <unittitle>Transportation-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">63</container>
+            <container type="folder">3</container>
+            <unittitle>Transportation A-S, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">63</container>
+            <container type="folder">4</container>
+            <unittitle>Transportation T-Z, Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">63</container>
+            <container type="folder">5</container>
+            <unittitle>Current-Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">64</container>
+            <container type="folder">1</container>
+            <unittitle>Current-Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">64</container>
+            <container type="folder">2</container>
+            <unittitle>Drilling Contractor 
+				  <unitdate era="ce" calendar="gregorian">(1981)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">64</container>
+            <container type="folder">3</container>
+            <unittitle>Drilling Contractor 
+				  <unitdate era="ce" calendar="gregorian">(1982)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">64</container>
+            <container type="folder">4</container>
+            <unittitle>Drilling Contractor 
+				  <unitdate era="ce" calendar="gregorian">(1983-1985)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">65</container>
+            <container type="folder">1</container>
+            <unittitle>Energy Today 
+				  <unitdate era="ce" calendar="gregorian">(1979-1981)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">65</container>
+            <container type="folder">2</container>
+            <unittitle>Energy Today 
+				  <unitdate era="ce" calendar="gregorian">(1982-1984)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">65</container>
+            <container type="folder">3</container>
+            <unittitle>Gas Energy Review 
+				  <unitdate era="ce" calendar="gregorian">(1980-1981)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">66</container>
+            <container type="folder">1</container>
+            <unittitle>Gas Energy Review 
+				  <unitdate era="ce" calendar="gregorian">(1982-1984)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">66</container>
+            <container type="folder">2</container>
+            <unittitle>National Water Conditions 
+				  <unitdate era="ce" calendar="gregorian">(1983-1989)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">66</container>
+            <container type="folder">3</container>
+            <unittitle>IPAA-The Oil Producing Industry in Your State (Annual, 
+				  <unitdate era="ce" calendar="gregorian">1970-1983)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">66</container>
+            <container type="folder">4</container>
+            <unittitle>IPAA-The Oil Producing Industry in Your State 
+				  <unitdate era="ce" calendar="gregorian">(1954-1970)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">66</container>
+            <container type="folder">5</container>
+            <unittitle>Texas Water Resources 
+				  <unitdate era="ce" calendar="gregorian">(1989-1990)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">66</container>
+            <container type="folder">6</container>
+            <unittitle>Comp Flash</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">66</container>
+              <container type="folder">6</container>
+              <unittitle>1. Solar Energy Intelligence Report 
+					 <unitdate era="ce" calendar="gregorian">(1982-1983)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">66</container>
+              <container type="folder">6</container>
+              <unittitle>2. Texas Energy and Mineral Resources 
+					 <unitdate era="ce" calendar="gregorian">(1984-1988)</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">67</container>
+            <container type="folder">1</container>
+            <unittitle>Solar Energy Intelligence Report 
+				  <unitdate era="ce" calendar="gregorian">(1979)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">67</container>
+            <container type="folder">2</container>
+            <unittitle>Texas Energy and Mineral Resources 
+				  <unitdate era="ce" calendar="gregorian">(1982-1985)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">68</container>
+            <container type="folder">1</container>
+            <unittitle>U. S. Department of the Interior</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">68</container>
+              <container type="folder">1</container>
+              <unittitle>1. National Water Conditions 
+					 <unitdate era="ce" calendar="gregorian">(1990-1992)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">68</container>
+              <container type="folder">1</container>
+              <unittitle>2. U. S. Bureau of Mines-News and Mineral Industry
+					 Survey 
+					 <unitdate era="ce" calendar="gregorian">(1989-1990)</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">68</container>
+            <container type="folder">2</container>
+            <unittitle>Louisiana Department of Natural Resources-Lease Sales 
+				  <unitdate era="ce" calendar="gregorian">(1988)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">68</container>
+            <container type="folder">3</container>
+            <unittitle>U. S. Department of Transportation</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">68</container>
+              <container type="folder">3</container>
+              <unittitle>1. Federal Highway Administration-Monthly Motor Fuel
+					 Reports by States 
+					 <unitdate era="ce" calendar="gregorian">(1989-1993)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">68</container>
+              <container type="folder">3</container>
+              <unittitle>2. Research and Special Programs Administration 
+					 <unitdate era="ce" calendar="gregorian">(1989-1991)</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">68</container>
+            <container type="folder">4</container>
+            <unittitle>Energy Periodicals</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">68</container>
+              <container type="folder">4</container>
+              <unittitle>1. Texas Water Resources 
+					 <unitdate era="ce" calendar="gregorian">(1989-1993)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">68</container>
+              <container type="folder">4</container>
+              <unittitle>2. New Waves 
+					 <unitdate era="ce" calendar="gregorian">(1990-1992)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">68</container>
+              <container type="folder">4</container>
+              <unittitle>3. The Energy Laboratory-Annual Report 
+					 <unitdate era="ce" calendar="gregorian">(1989-1990)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">68</container>
+              <container type="folder">4</container>
+              <unittitle>4. Minerals Today 
+					 <unitdate era="ce" calendar="gregorian">(September 1990) </unitdate>and Seventy Six 
+					 <unitdate era="ce" calendar="gregorian">(1990)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">68</container>
+              <container type="folder">4</container>
+              <unittitle>5. Texas Energy 
+					 <unitdate era="ce" calendar="gregorian">(1990-1993)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">68</container>
+              <container type="folder">5</container>
+              <unittitle>1. Shell News 
+					 <unitdate era="ce" calendar="gregorian">(1990-1992)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">68</container>
+              <container type="folder">5</container>
+              <unittitle>2. Pipeliner 
+					 <unitdate era="ce" calendar="gregorian">(1990-1993)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">68</container>
+              <container type="folder">5</container>
+              <unittitle>3. Catalogue of Publications Services and Maps 
+					 <unitdate era="ce" calendar="gregorian">(January 1970)</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">68</container>
+              <container type="folder">5</container>
+              <unittitle>4. Electric Power Research Institute Guide 
+					 <unitdate era="ce" calendar="gregorian">(Summer 1981)</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">68</container>
+            <container type="folder">5</container>
+            <unittitle>Interdisciplinary Student/Teacher Materials in Energy,
+				  the Environment and the Economy 
+				  <unitdate era="ce" calendar="gregorian">(1978-1980)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">68</container>
+            <container type="folder">6</container>
+            <unittitle>HPI Market Data and World Oil Market/Media Data 
+				  <unitdate era="ce" calendar="gregorian">(1976-1979)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">68</container>
+            <container type="folder">7</container>
+            <unittitle>Career Informational and Instructional
+				  Materials-Clippings</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">69</container>
+            <container type="folder">1</container>
+            <unittitle>Alaska (General)</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">69</container>
+              <container type="folder">1</container>
+              <unittitle>1. Cook Inlet</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">69</container>
+              <container type="folder">1</container>
+              <unittitle>2. Financial</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">69</container>
+              <container type="folder">1</container>
+              <unittitle>3. General</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">69</container>
+              <container type="folder">1</container>
+              <unittitle>4. Historical-Book 1</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">69</container>
+              <container type="folder">1</container>
+              <unittitle>5. Historical-Book 2</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">69</container>
+              <container type="folder">1</container>
+              <unittitle>6. Leasing</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">69</container>
+              <container type="folder">1</container>
+              <unittitle>7. S. S. Manhattan</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">69</container>
+              <container type="folder">1</container>
+              <unittitle>8. Marketing Alaskan Oil</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">69</container>
+              <container type="folder">1</container>
+              <unittitle>9. Minerals</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">69</container>
+              <container type="folder">1</container>
+              <unittitle>10. National Petroleum Reserve</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">69</container>
+              <container type="folder">1</container>
+              <unittitle>11. Natural Gas</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">69</container>
+              <container type="folder">1</container>
+              <unittitle>12. Pollution</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">69</container>
+              <container type="folder">1</container>
+              <unittitle>13. Reserves</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">69</container>
+              <container type="folder">1</container>
+              <unittitle>14. South Alaska</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">69</container>
+              <container type="folder">1</container>
+              <unittitle>15. Taxes</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">69</container>
+              <container type="folder">1</container>
+              <unittitle>16. Transportation</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">69</container>
+            <container type="folder">2</container>
+            <unittitle>Alaska-North Slope</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">69</container>
+              <container type="folder">2</container>
+              <unittitle>1. Drilling Activity</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">69</container>
+              <container type="folder">2</container>
+              <unittitle>2. Exploration</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">69</container>
+              <container type="folder">2</container>
+              <unittitle>3. Natural Gas Pipeline</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">69</container>
+              <container type="folder">2</container>
+              <unittitle>4. North Slope General</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">69</container>
+            <container type="folder">3</container>
+            <unittitle>The Alaskan Economy-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">69</container>
+            <container type="folder">4</container>
+            <unittitle>Alaska-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">70</container>
+            <container type="folder">1</container>
+            <unittitle>Alaska-Pamphlets</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">70</container>
+            <container type="folder">2</container>
+            <unittitle>Alaska Pipeline-Folders 1 and 2</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">70</container>
+            <container type="folder">3</container>
+            <unittitle>Alaska Pipeline</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">70</container>
+              <container type="folder">3</container>
+              <unittitle>1. Canadian Route</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">70</container>
+              <container type="folder">3</container>
+              <unittitle>2. Controversy</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">70</container>
+            <container type="folder">4</container>
+            <unittitle>States</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">70</container>
+              <container type="folder">4</container>
+              <unittitle>1. Alabama</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">70</container>
+              <container type="folder">4</container>
+              <unittitle>2. Arkansas</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">70</container>
+              <container type="folder">4</container>
+              <unittitle>3. Arizona</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">70</container>
+              <container type="folder">4</container>
+              <unittitle>4. California</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">70</container>
+              <container type="folder">4</container>
+              <unittitle>5. Florida</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">70</container>
+              <container type="folder">4</container>
+              <unittitle>6. Georgia</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">70</container>
+              <container type="folder">4</container>
+              <unittitle>7. Illinois</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">70</container>
+              <container type="folder">4</container>
+              <unittitle>8. Iowa</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">70</container>
+              <container type="folder">4</container>
+              <unittitle>9. Kansas</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">70</container>
+            <container type="folder">5</container>
+            <unittitle>Texas Energy-Pamphlets (Box 1)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">71</container>
+            <container type="folder">1</container>
+            <unittitle>States</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">1</container>
+              <unittitle>1. Nebraska</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">1</container>
+              <unittitle>2. Nevada</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">1</container>
+              <unittitle>3. New Mexico</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">1</container>
+              <unittitle>4. New York</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">1</container>
+              <unittitle>5. North Carolina</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">1</container>
+              <unittitle>6. North Dakota</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">1</container>
+              <unittitle>7. Oklahoma</unittitle>
+              <physdesc>(2 folders)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">1</container>
+              <unittitle>8. Oregon</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">71</container>
+            <container type="folder">2</container>
+            <unittitle>States (Texas)</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">2</container>
+              <unittitle>1. Houston Energy</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">2</container>
+              <unittitle>2. Houston Historical</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">2</container>
+              <unittitle>3. Conservation</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">2</container>
+              <unittitle>4. Houston</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">2</container>
+              <unittitle>5. Drilling</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">2</container>
+              <unittitle>6. Industrial Expansion</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">2</container>
+              <unittitle>7. Legislature</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">2</container>
+              <unittitle>8. Miscellaneous</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">2</container>
+              <unittitle>9. Advertising Amendment</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">3</container>
+              <unittitle>1. Oil General</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">3</container>
+              <unittitle>2. Petrochemicals</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">3</container>
+              <unittitle>3. Production</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">71</container>
+            <container type="folder">4</container>
+            <unittitle>States</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">4</container>
+              <unittitle>1. Texas Rangers</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">4</container>
+              <unittitle>2. Texas Refining</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">4</container>
+              <unittitle>3. Texas Tax Study Commission</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">4</container>
+              <unittitle>4. Texas Revenue and Expenditures</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">4</container>
+              <unittitle>5. Texas Taxes</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">4</container>
+              <unittitle>6. Texas Utility Commission</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">4</container>
+              <unittitle>7. Utah</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">4</container>
+              <unittitle>8. Vermont</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">4</container>
+              <unittitle>9. Virginia</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">4</container>
+              <unittitle>10. Washington</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">4</container>
+              <unittitle>11. West Virginia</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">4</container>
+              <unittitle>12. Wisconsin</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">71</container>
+              <container type="folder">4</container>
+              <unittitle>13. Wyoming</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">72</container>
+              <container type="folder">1</container>
+              <unittitle>News From Railroad Commission of Texas</unittitle>
+              <physdesc>(2 binders)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">73</container>
+              <container type="folder">1</container>
+              <unittitle>Maps World-wide</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">73</container>
+              <container type="folder">2</container>
+              <unittitle>Maps Texas State-wide</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">74</container>
+              <container type="folder">1</container>
+              <unittitle>Maps Texas State-wide</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">74</container>
+              <container type="folder">2</container>
+              <unittitle>Maps U.S.</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">74</container>
+              <container type="folder">3</container>
+              <unittitle>Salomon Brothers files</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">74</container>
+              <container type="folder">4</container>
+              <unittitle>Alaska Testimony</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">75</container>
+              <container type="folder">1</container>
+              <unittitle>U.S. Monthly Energy Facts 
+					 <unitdate era="ce" calendar="gregorian">(1977-1980) </unitdate>several files</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">76</container>
+              <container type="folder">1</container>
+              <unittitle>U.S. Energy Facts, several files</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">77</container>
+              <container type="folder">1</container>
+              <unittitle>U.S. Energy Facts, several files</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">78</container>
+              <container type="folder">1</container>
+              <unittitle>U.S. Energy Facts, several files</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">79</container>
+            <unittitle>Ledger Sheets with contact names</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">80</container>
+            <unittitle>Subscription Card Files</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

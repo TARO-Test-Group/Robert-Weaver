@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00088</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>S. D. Myres Saddle Company:</titleproper>
+        <subtitle>An Inventory of Its Records, 1898-1969 and undated, at the
+			 Southwest Collection/Special Collections Library</subtitle>
+        <author>Lynn Whitfield</author>
+      </titlestmt>
+   
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">2000</date>
+      </publicationstmt>
+    </filedesc>
+  
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">December 2000.</date></creation>
+      <langusage>Finding aid written in <language>English.</language></langusage>
+      <descrules>Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+  
+    <revisiondesc>
+      <change> 
+        <date normal="2017-06" era="ce" calendar="gregorian">June 2017</date> 
+        <item>Collection level metadata was revised. All files/items were linked to their digitized counterparts.</item> 
+      </change> 
+      <change>
+        <date normal="2005-09-02" era="ce" calendar="gregorian">Sept 2 2005</date>
+        <item>This electronic finding aid was updated by Abel Ramirez due to
+			 reprocessing of the collection.</item>
+      </change>
+      <change>
+        <date normal="2003-07-22" era="ce" calendar="gregorian">Tue Jul 22 15:21:59 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00088 converted from EAD 1.0 to 2002 by
+			 v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+     
+  </eadheader>
+ 
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the S. D. Myres Saddle Company Records,
+		  1898-1969 and undated</titleproper>
+      <author>Lynn Whitfield</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">2000</date>
+    </titlepage>
+  </frontmatter>
+ 
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <corpname encodinganalog="110">S. D. Myres Saddle Company</corpname>
+      </origination>
+     
+      <unittitle label="Title:" encodinganalog="245$a">S. D. Myres Saddle Company Records, 
+		
+        <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1898-1969 and undated</unitdate></unittitle>
+    
+      <abstract label="Abstract:" encodinganalog="520$a">These records pertain
+		  to the operations of the S. D. Myres Saddle Company, which became famous for
+		  its superior leather craftsmanship.</abstract>
+    
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 744.1</unitid>
+    
+      <repository label="Repository:" encodinganalog="852$a">
+        <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest"  xlink:href="http://swco.ttu.edu/"> 
+          <corpname><subarea>Southwest Collection/Special Collections Library,</subarea>
+            Texas Tech University</corpname></extref>
+      </repository>
+        
+      <physdesc encodinganalog="300$a" label="Quantity:"><extent>4 boxes (4.0 linear
+        feet)</extent></physdesc>
+     
+      <langmaterial label="Language" encodinganalog="546$a">
+        <language langcode="eng" scriptcode="Latn">English</language>
+      </langmaterial>
+      
+    </did>
+   
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>Born on November 22, 1871 in Johnson County, Texas, Samuel Dale Myres
+		  was the son of David Rittenhouse and Mary Jane Dale Myres. The oldest of six
+		  children, Myres opened the S. D. Myres Saddle Company in Sweetwater, Texas, in
+		  1898. He was involved in many civic organizations including serving as
+		  president of the Sweetwater Commercial Club, serving on the local school board
+		  from 1914-1915, and being the mayor of Sweetwater from 1908-1911. In 1920,
+		  Myres moved his company to El Paso, Texas. The company became famous for its
+		  superior craftsmanship and Myres mingled with many famous western actors and
+		  personalities of his day. Myres's marriage to Drusa Rogers produced three
+		  children-S. D., Jr., William James, and Melrose, and his second marriage to Eva
+		  Forkner resulted in no offspring. In 1953 Myres passed away and was buried in
+		  El Paso.</p>
+      <p>The Handbook of Texas has published this <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" 
+        xlink:href="https://tshaonline.org/handbook/online/articles/fmy04">more in-depth online biography of Samuel Dale Myres.</extref></p>
+    </bioghist>
+   
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The materials include correspondence, financial material, legal
+		  material, photographs of company products, and printed material consisting
+		  primarily of company advertisements, calendars, stationery, and catalogs.</p>
+      <p>Conservation Note: The collection contains 214 prints, many of which
+		  have some spots of mold growth. 19 of the prints were sent to the conservation
+		  lab due to very active mold growth, as well as 2 leaves of paper.</p>
+    </scopecontent>
+   
+    <arrangement encodinganalog="351$a" id="a4">
+      <head>Organization</head>
+      <p>The S. D. Myres Saddle Company Records is organized by the following series:
+        <list>
+          <item><ref target="ser1">Correspondence</ref></item>
+          <item><ref target="ser2">Customer Orders</ref></item>
+          <item><ref target="ser3">Oversized Materials</ref></item>
+        </list>
+      </p>
+    </arrangement>
+    
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+     
+      <controlaccess>
+        <head>Subjects (Persons)</head>
+        <persname encodinganalog="600" source="local">Myres, Samuel D. (Samuel Dale), 1871-1953.</persname>
+      </controlaccess>
+     
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname encodinganalog="610" source="local">S. D. Myres Saddle Company.</corpname>
+      </controlaccess>
+      
+      <controlaccess>
+        <head>Places</head>
+        <geogname encodinganalog="651" source="lcnaf">El Paso (Tex.)--Social life and customs.</geogname>
+        <geogname encodinganalog="651" source="lcnaf">El Paso (Tex.)--Economic conditions.</geogname>
+        <geogname encodinganalog="651" source="lcnaf">El Paso (Tex.)--History.</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Sweetwater (Tex.)--Social life and customs.</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Sweetwater (Tex.)--History.</geogname>
+      </controlaccess>
+    
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">Civic leaders--Texas--Sweetwater--History.</subject>
+        <subject encodinganalog="650" source="lcsh">Cowboys.</subject>
+        <subject encodinganalog="650" source="lcsh">Leather industry and trade--Texas--History.</subject>
+        <subject encodinganalog="650" source="lcsh">Rodeos--West (U.S.)--History.</subject>
+        <subject encodinganalog="650" source="lcsh">Saddlery.</subject>
+        <subject encodinganalog="650" source="lcsh">Saddlery--Texas--History.</subject>
+        <subject encodinganalog="650" source="lcsh">World War, 1939-1945--Economic aspects--Texas--El Paso.</subject>
+      </controlaccess>
+    </controlaccess>
+   
+    <acqinfo encodinganalog="541" id="a19">
+      <head>Accession Information</head>
+      <p>Gift, 1962</p>
+    </acqinfo>
+    
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+   
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processing Information</head>
+      <p>Processed by: Lynn Whitfield, 2000</p>
+    </processinfo>
+   
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>S. D. Myres Saddle Company Records, 1898-1969 and undated, Southwest
+		  Collection/Special Collections Library, Texas Tech University, Lubbock,
+		  Texas</p>
+    </prefercite>
+   
+    <bibliography id="a10">
+      <head>Bibliography</head>
+      <bibref>Myres, Sandra L. 
+        <title render="italic">S. D. Myres: Saddlemaker.
+			 </title>Thesis (M.A.)--Texas Technological College, 1961.</bibref>
+    
+      <bibref><title render="italic">Big Spring Daily Herald, 
+			 </title>July 7, 1953.</bibref>
+     
+      <bibref>Cunningham, Eugene. 
+        <title render="italic">Tio Sam-Saddle
+          Man.</title><title render="italic">Horselover Magazine,
+			 </title>February-March 1951.</bibref>
+    </bibliography>
+   
+    <relatedmaterial encodinganalog="544 1" id="a6">
+      <head>Related Materials:</head>
+      <relatedmaterial> 
+        <p>
+          <repository>
+            <emph render="bold">Southwest Collection/Special Collections Library:</emph></repository></p>
+        <list type="simple">
+           <item><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" 
+            xlink:actuate="onRequest" xlink:href="http://legacy.lib.utexas.edu/taro/ttusw/00087/tsw-00087.html">
+            S. D. Myres Papers, 1879-1962 and undated.</extref></item>
+        </list>
+      </relatedmaterial>
+
+        <relatedmaterial>
+          <p>
+            <repository>
+              <emph render="bold">Southwest Collection/Special Collections Library Oral History Collection:</emph></repository></p>
+          <list type="simple">
+            <item><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" 
+              xlink:actuate="onRequest" xlink:href="http://swco.ttu.edu/ohc/index.php?title=Myres,_Lee_Pop_1970-02-18">
+              Lee <emph render="doublequote">Pop</emph> Myres oral history interview [sound recording], 1970.</extref></item>
+        <item>S. D. Myres oral history interview [sound recording], 1950.</item>
+      </list>
+    </relatedmaterial>
+      </relatedmaterial>
+  
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+
+      <c01 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321710">Catalog Proof Pages, <unitdate era="ce" calendar="gregorian" normal="1898/1969">undated</unitdate></extref></unittitle>
+          </did>
+      </c01>
+
+        <c01 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321711">Catalogs with Myres Saddle Company Work, <unitdate era="ce" calendar="gregorian" normal="1920/1959">1920-1959 and undated</unitdate></extref></unittitle>
+          </did>
+        </c01>     
+
+      <c01 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321712">Copyright on Myres' Pendulum Saddle, <unitdate era="ce" calendar="gregorian" normal="1954">1954</unitdate></extref></unittitle>
+          </did>
+        </c01>     
+
+      <c01 level="series" id="ser1"> <did>
+            <unittitle>Correspondence </unittitle>
+          </did> 
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321713">General, <unitdate era="ce" calendar="gregorian" normal="1913/1929">1913-1929</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321714">General, <unitdate era="ce" calendar="gregorian" normal="1921/1929">1921-1929</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321715">General, <unitdate era="ce" calendar="gregorian" normal="1930/1936">1930-1936</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321716">General, (3 prints included), <unitdate era="ce" calendar="gregorian" normal="1940/1949">1940-1949</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321717">General, <unitdate era="ce" calendar="gregorian" normal="1950/1954">1950-1954</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321718">Advertising, <unitdate era="ce" calendar="gregorian" normal="1954/1955">1954-1955 and undated</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321719">Jackling, Daniel C., <unitdate era="ce" calendar="gregorian" normal="1925/1926">1925-1926</unitdate></extref></unittitle>
+          </did>
+        </c02>  
+      </c01>
+
+      <c01 level="series" id="ser2"> <did>
+            <unittitle>Customer Orders </unittitle>
+          </did>
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321720">"A, <unitdate era="ce" calendar="gregorian" normal="1943">1943</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321721">"B," <unitdate era="ce" calendar="gregorian" normal="1943">1943</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321722">"C," <unitdate era="ce" calendar="gregorian" normal="1941/1943">1941-1943</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321723">"D," <unitdate era="ce" calendar="gregorian" normal="1943">1943</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321724">"E," <unitdate era="ce" calendar="gregorian" normal="1943">1943</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321725">"F," <unitdate era="ce" calendar="gregorian" normal="1943">1943</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321726">"G," <unitdate era="ce" calendar="gregorian" normal="1943">1943</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321727">"H," <unitdate era="ce" calendar="gregorian" normal="1943">1943</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321728">"I," <unitdate era="ce" calendar="gregorian" normal="1943">1943</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321729">"J," <unitdate era="ce" calendar="gregorian" normal="1943">1943</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321730">"L," <unitdate era="ce" calendar="gregorian" normal="1943">1943</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321731">"M," <unitdate era="ce" calendar="gregorian" normal="1943">1943</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321732">"N," <unitdate era="ce" calendar="gregorian" normal="1943">1943</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321733">"O," <unitdate era="ce" calendar="gregorian" normal="1943">1943</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321734">"P," <unitdate era="ce" calendar="gregorian" normal="1943">1943</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321735">"Q and R," <unitdate era="ce" calendar="gregorian" normal="1943/1944">1943-1944</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321736">"S," <unitdate era="ce" calendar="gregorian" normal="1943">1943</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321737">"T," <unitdate era="ce" calendar="gregorian" normal="1943">1943</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">12</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321738">"U and V," <unitdate era="ce" calendar="gregorian" normal="1943">1943</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321739">"W," <unitdate era="ce" calendar="gregorian" normal="1943">1943</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">14</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321740">"Y and Z," <unitdate era="ce" calendar="gregorian" normal="1943">1943</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+      </c01>
+
+      <c01 level="file"> <did>
+            <container type="box">2</container>
+            <container type="folder">15</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321741">Deposit Books, <unitdate era="ce" calendar="gregorian" normal="1909/1920">1909-1920</unitdate></extref></unittitle>
+          </did>
+        </c01>     
+
+      <c01 level="file"> <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321742">Financial Material, <unitdate era="ce" calendar="gregorian" normal="1989/1963">1898-1963</unitdate></extref></unittitle>
+          </did>
+        </c01>     
+
+      <c01 level="file"> <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321743">Hat Catalog Material, <unitdate era="ce" calendar="gregorian" normal="1939">1939 and undated</unitdate></extref></unittitle>
+          </did>
+        </c01>     
+
+      <c01 level="file"> <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321744">Legal Documents, <unitdate era="ce" calendar="gregorian" normal="1953/1954">1953-1954 and undated</unitdate></extref></unittitle>
+          </did>
+        </c01>     
+
+      <c01 level="file"> <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321745">Notebooks, <unitdate era="ce" calendar="gregorian" normal="1905/1935">1905-1935 and undated</unitdate></extref></unittitle>
+          </did>
+        </c01>     
+
+      <c01 level="file"> <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321746">Patent on Holster, <unitdate era="ce" calendar="gregorian" normal="1936/1940">1936-1940</unitdate></extref></unittitle>
+          </did>
+        </c01>     
+
+      <c01 level="file"> <did>
+            <container type="box">3</container>
+            <container type="folder">6</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321747">Postcards: Myres Saddle Company, <unitdate era="ce" calendar="gregorian" normal="1898/1969">undated</unitdate></extref></unittitle>
+          </did>
+        </c01>     
+
+      <c01 level="file"> <did>
+            <container type="box">3</container>
+            <container type="folder">7</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321748">Printed Material, <unitdate era="ce" calendar="gregorian" normal="1938/1969">1938-1969 and undated</unitdate></extref></unittitle>
+          </did>
+        </c01>     
+
+      <c01 level="series" id="ser3"> <did>
+            <unittitle>Oversized Materials </unittitle>
+          </did>
+
+      <c02 level="file"> <did>
+            <container type="box">4</container>
+            <container type="folder">1</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321749">Ten Thousand Dollar Saddle, <unitdate era="ce" calendar="gregorian" normal="1914/1916">1914-1916</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">4</container>
+            <container type="folder">2</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321750">War Department, <unitdate era="ce" calendar="gregorian" normal="1943">1943</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+      <c02 level="file"> <did>
+            <container type="box">4</container>
+            <container type="folder">3</container>
+            <unittitle><extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" 
+xlink:show="new" xlink:actuate="onRequest" 
+xlink:href="http://hdl.handle.net/10605/321751">World War II Preference Rating, <unitdate era="ce" calendar="gregorian" normal="1942/1943">1942-1943</unitdate></extref></unittitle>
+          </did>
+        </c02>     
+
+
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

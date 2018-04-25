@@ -1,0 +1,2832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00060</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Ed Havran:</titleproper>
+        <subtitle>An Inventory of His Papers, 1862-1991 and undated, at the
+			 Southwest Collection/Special Collections Library</subtitle>
+        <author>Abel Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">2000</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">February 2001.</date></creation>
+      <langusage>Finding aid written in
+		  <language>English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Tue Jul 22 15:21:42 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00060 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the Ed Havran Papers, 1862-1991 and
+		  undated</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">2000</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <persname encodinganalog="100">Havran, Edward
+			 Frank</persname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Edward Frank Havran
+		  Papers, 
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1862-1991 and undated</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">The papers pertain to
+		  Ed Havran's involvement and interest in the Texas dairy industry.</abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 421.1</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:">15 boxes (15.0 linear
+		  feet)</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>Ed Havran, a long time resident of Colleyville, Texas, was an alumnus
+		  of Texas Tech University who had worked with the Texas dairy industry from
+		  1947-1984. He and his wife, Muriel, had collected material from the Texas dairy
+		  industry for thirty years. Most of Havran's life had been involved with the
+		  dairy industry. His father sold milk in Oklahoma during the 1920's and later
+		  moved the Havran family to Texas. As a member of the Future Farmers of America,
+		  Havran showed dairy cattle for competition. He received his master's degree in
+		  agricultural economics from Texas Tech and served as a vocational agriculture
+		  teacher at one time. As a result of his participation in the dairy business, he
+		  was an active member of the Texas Jersey Cattle Club and founder of the Texas
+		  Dairy Heritage Foundation.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The Havran Papers located at Texas Tech University are mainly in
+		  manuscript form and photographs. Also included are Texas oral history
+		  interviews conducted by Havran with individuals such as B. Shaw, Joe Crouch,
+		  and Ed Knolle. Additionally, he managed to acquire material from Metzger Dairy,
+		  Knolle Farms, and the Texas Brown Swiss Association. The heritage material is
+		  subdivided into correspondence, financial, legal, literary productions,
+		  printed, and scrapbook material.</p>
+    </scopecontent>
+    <arrangement encodinganalog="351$a">
+      <head>Organization</head>
+      <p>The Havran collection is arranged into three series:</p>
+      <p>Dairy Heritage Foundation is the first part of Havran's Papers. As a
+		  result of his accumulation of information, Havran, in collaboration with Bob
+		  Claussen from the Tarrant County Junior College, began soliciting the public
+		  for any information concerning the past history of the Texas dairy industry. He
+		  founded the Texas Dairy Heritage Foundation in 1986 for the sole purpose of
+		  preserving Texas dairy records and documenting Texas dairy history. The Tarrant
+		  County Junior College-Northwest Campus had in the past displayed some museum
+		  pieces from Havran's Collection.</p>
+      <p>The Texas Jersey Cattle Club, representing the second part, is an
+		  affiliate of the American Jersey Cattle Club and is an organization consisting
+		  of Jersey cattle raisers. Havran had been a member and at one time a manager of
+		  the organization. While a member, he collected breeder records, membership
+		  mailing lists, and accounting records. This particular part of the collection
+		  is dated between 1906-1990 and is subdivided into correspondence, financial,
+		  legal, literary productions, printed material, and scrapbook material.</p>
+      <p>The third series is Photographs, 1908-1986 and undated. It comprises
+		  of boxes 14-15 and is filed in alphabetical order. Included are mostly prints,
+		  a few slides, and some negatives pertaining to both the Texas Dairy Heritage
+		  Foundation and the Texas Jersey Cattle Club. Most photographs show Havran's
+		  participation in the dairy industry. Some however are collected historic prints
+		  from past dairy companies such as Metzger Dairy and the Lily Ice Cream
+		  Company</p>
+      <p>For purposes of better organization and preservation, some items such
+		  as books, oversize material, films, and cassettes were transferred to other
+		  areas.</p>
+    </arrangement>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname encodinganalog="610" source="local">Lily Ice Cream
+			 Company</corpname>
+        <corpname encodinganalog="610" source="local">Metzger Dairy</corpname>
+        <corpname encodinganalog="610" source="lcnaf">Tarrant County Junior
+			 College</corpname>
+        <corpname encodinganalog="610" source="lcnaf">Texas Association of
+			 Future Farmers of America</corpname>
+        <corpname encodinganalog="610" source="local">Texas Brown Swiss
+			 Association</corpname>
+        <corpname encodinganalog="610" source="local">Texas Jersey Cattle
+			 Club</corpname>
+        <corpname encodinganalog="610" source="local">Texas Dairy Heritage
+			 Foundation</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Places</head>
+        <geogname encodinganalog="651" source="local">Knolle Farms
+			 (Tex.)</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">Cheese
+			 industry--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Dairy
+			 cattle--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Dairy products
+			 industry</subject>
+        <subject encodinganalog="650" source="lcsh">Dairy products
+			 industry--Texas--History</subject>
+        <subject encodinganalog="650" source="lcsh">Dairying--Texas--History</subject>
+        <subject encodinganalog="650" source="lcsh">Milk trade--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Milk trade--Texas,
+			 West</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <p>Collection accession #(s): 
+			 <num type="accession">99-0175-B</num></p>
+      <p>Gift, 1991</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, 2000</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>Ed Havran Papers, 1862-1991 and undated, Southwest
+			 Collection/Special Collections Library, Texas Tech University, Lubbock,
+			 Texas</p>
+    </prefercite>
+    <bibliography id="a10">
+      <head>Additional Sources</head>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Clem, Kyke Dwayne.<emph render="italic">Impact of Bovine
+			 Somatotropin on Consumer Concern and Purchase Behavior of Fluid Milk in Texas.
+			 </emph> Thesis (M.S.)--Texas Tech University, 1996.</bibref>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Hallum, Wiliford. <emph render="italic">Milk Production Cost in
+			 a Six-County Area Around Lubbock, Texas. </emph> Thesis (M.S.)--Texas
+			 Technological College, 1967.</bibref>
+    </bibliography>
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Dieterich, Arthur, 
+				  <unitdate era="ce" calendar="gregorian">1972-1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1976-1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Johnson County, Texas-Dairy Day, 
+				  <unitdate era="ce" calendar="gregorian">1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Southwest Collection, 
+				  <unitdate era="ce" calendar="gregorian">1987-1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Southwest Dairy Museum, 
+				  <unitdate era="ce" calendar="gregorian">1983-1986</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Financial Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Blank Checks, 
+				  <unitdate era="ce" calendar="gregorian">1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Dairy Tester's Day Book, 
+				  <unitdate era="ce" calendar="gregorian">1921-1922</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Internal Revenue Service, 
+				  <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>Metzger Brothers Accounting Records, 
+				  <unitdate era="ce" calendar="gregorian">1918-1923</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>Metzger Dairies' Patrons List, 
+				  <unitdate era="ce" calendar="gregorian">1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle>Receipts, 
+				  <unitdate era="ce" calendar="gregorian">1983-1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle>Receptions, 
+				  <unitdate era="ce" calendar="gregorian">1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle>Texas Brown Swiss Membership Dues Receipt, 
+				  <unitdate era="ce" calendar="gregorian">1953-1962</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Legal Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unittitle>Breeding Receipts, 
+				  <unitdate era="ce" calendar="gregorian">1959-1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle>Certificate of Ownership, 
+				  <unitdate era="ce" calendar="gregorian">1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle>Constitution and By-Laws, 
+				  <unitdate era="ce" calendar="gregorian">1986 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+            <unittitle>Crowell, Ray A., Papers, 
+				  <unitdate era="ce" calendar="gregorian">1949-1963</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+            <unittitle>Dallas County Grand Jury, 
+				  <unitdate era="ce" calendar="gregorian">1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">19</container>
+            <unittitle>Gibson, W. M., Papers, 
+				  <unitdate era="ce" calendar="gregorian">1930-1933</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+            <unittitle>Minutes, 
+				  <unitdate era="ce" calendar="gregorian">1983-1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+            <unittitle>Texas Brown Swiss Association Directory, 
+				  <unitdate era="ce" calendar="gregorian">1951-1980</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+            <unittitle>Asburn's Dairy and Ice Cream Notes, 
+				  <unitdate era="ce" calendar="gregorian">1979-1986 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Literary Productions</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+            <unittitle>Communities Foundation of Texas, Incorporated, 
+				  <unitdate era="ce" calendar="gregorian">1982-1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+            <unittitle>Confederate Research Center, 
+				  <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">25</container>
+            <unittitle>Dairy Cooperatives and Their Role in the U. S., 
+				  <unitdate era="ce" calendar="gregorian">1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+            <unittitle>Dairy Goat Research, 
+				  <unitdate era="ce" calendar="gregorian">1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">27</container>
+            <unittitle>Dairy Industry, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">28</container>
+            <unittitle>Dairy Industry Research Paper, 
+				  <unitdate era="ce" calendar="gregorian">1971</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">29</container>
+            <unittitle>Dairy Industry's Determination to Deliver, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">30</container>
+            <unittitle>Dairy Month, 
+				  <unitdate era="ce" calendar="gregorian">June 1986</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">31</container>
+            <unittitle>Dairy Shrine Club, 
+				  <unitdate era="ce" calendar="gregorian">1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">32</container>
+            <unittitle>Dairyman to Manner Born, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">33</container>
+            <unittitle>Directory of Texas Manufacturers, 
+				  <unitdate era="ce" calendar="gregorian">1936</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">34</container>
+            <unittitle>Edward Cunningham Lasater: His Life and Accomplishments,
+				  
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">35</container>
+            <unittitle>Embryo Transfers in Dairy Herds, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">36</container>
+            <unittitle>Establishing Historical Foundations and Museums, 
+				  <unitdate era="ce" calendar="gregorian">1981-1986 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">37</container>
+            <unittitle>Estate Tax Planning and Endowment Programming for
+				  Charitable, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">38</container>
+            <unittitle>First Dairy in Texas Notes, 
+				  <unitdate era="ce" calendar="gregorian">1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">39</container>
+            <unittitle>Foremost Foods Company, 
+				  <unitdate era="ce" calendar="gregorian">1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">40</container>
+            <unittitle>Fulcher, Martin, 
+				  <unitdate era="ce" calendar="gregorian">1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">41</container>
+            <unittitle>Fund Raising Project, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">42</container>
+            <unittitle>Handbook for Research and Writing of Local Business
+				  History, 
+				  <unitdate era="ce" calendar="gregorian">1980</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">43</container>
+            <unittitle>Hearing Committee, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">44</container>
+            <unittitle>Heritage Room Collection Development Policy and
+				  Operational, 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">45</container>
+            <unittitle>Jerseys in Hopkins County, 
+				  <unitdate era="ce" calendar="gregorian">1949</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">46</container>
+            <unittitle>Known Dairy History Material in Barker Library, 
+				  <unitdate era="ce" calendar="gregorian">1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">47</container>
+            <unittitle>List of Dairy Manufacturing Plants in Texas: Period, 
+				  <unitdate era="ce" calendar="gregorian">1930-1935 undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">48</container>
+            <unittitle>Memorial Services, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">49</container>
+            <unittitle>Milk Bottle Story, 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">50</container>
+            <unittitle>Milk Paper, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">51</container>
+            <unittitle>Milk's Trip to Your Table, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>National Dairy Heritage Foundation, 
+				  <unitdate era="ce" calendar="gregorian">1983-1986 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle>Onate Notes, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>Ontario Agricultural Museum, 
+				  <unitdate era="ce" calendar="gregorian">1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>Oral History for Texans, 
+				  <unitdate era="ce" calendar="gregorian">1981</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>Recollections of J. F. Cadenhead, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle>Reminiscence, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle>Research Materials, 
+				  <unitdate era="ce" calendar="gregorian">1986-1987 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle>Rough Notes, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle>Round Rock Cheese Company, 
+				  <unitdate era="ce" calendar="gregorian">1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unittitle>Sanitary Farm Dairies Salesman Manual, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unittitle>Sidney Wanzer and Sons, Incorporated, 
+				  <unitdate era="ce" calendar="gregorian">1970</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">12</container>
+            <unittitle>Southwest Dairy Museum, Incorporated, 
+				  <unitdate era="ce" calendar="gregorian">1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+            <unittitle>St. Cloud Farm: San Antonio, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1906</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">14</container>
+            <unittitle>Sulpher Springs Dairy Event, 
+				  <unitdate era="ce" calendar="gregorian">1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">15</container>
+            <unittitle>Tarrant County Dairy History Notes, 
+				  <unitdate era="ce" calendar="gregorian">1986-1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">16</container>
+            <unittitle>Texas Independence Association Handbook of Organization,
+				  
+				  <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">17</container>
+            <unittitle>Udder Morning, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">18</container>
+            <unittitle>Why Graze Coastal Bermuda Grass Intensively?, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">19</container>
+            <unittitle>Why I Selected A Jersey for My Scramble Project?, 
+				  <unitdate era="ce" calendar="gregorian">1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">20</container>
+            <unittitle>Winning Tradition: The Dallas Cowboys and Heifer A. I., 
+				  <unitdate era="ce" calendar="gregorian">1984</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">21</container>
+            <unittitle>American Association of Retired Persons News, 
+				  <unitdate era="ce" calendar="gregorian">1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">22</container>
+            <unittitle>American Dairy Association Yearbook, 
+				  <unitdate era="ce" calendar="gregorian">1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">23</container>
+            <unittitle>Brochures and Pamphlets, 
+				  <unitdate era="ce" calendar="gregorian">1926-1991 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Printed Materials</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">24</container>
+            <unittitle>Carnation, 
+				  <unitdate era="ce" calendar="gregorian">1969</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">25</container>
+            <unittitle>Carnation Company: People, Plants, and Products, 
+				  <unitdate era="ce" calendar="gregorian">1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">26</container>
+            <unittitle>Contempory Views on World Dairy Education, 
+				  <unitdate era="ce" calendar="gregorian">1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">27</container>
+            <unittitle>Creutzburg Supply Catalog, 
+				  <unitdate era="ce" calendar="gregorian">1951-1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">28</container>
+            <unittitle>Dairying and Dairy Cattle, 
+				  <unitdate era="ce" calendar="gregorian">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">29</container>
+            <unittitle>Delta Star, 
+				  <unitdate era="ce" calendar="gregorian">1984</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">30</container>
+            <unittitle>Fifty Years of Progress: Carnation Company, 
+				  <unitdate era="ce" calendar="gregorian">1899-1949 and 1950</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">31</container>
+            <unittitle>Financial Professional, 
+				  <unitdate era="ce" calendar="gregorian">1984</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">32</container>
+            <unittitle>Heritage, 
+				  <unitdate era="ce" calendar="gregorian">1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">33</container>
+            <unittitle>History of Seven Decades of Service to Virginia's Dairy
+				  Industry, 
+				  <unitdate era="ce" calendar="gregorian">1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">34</container>
+            <unittitle>History of the Milking Machine, 
+				  <unitdate era="ce" calendar="gregorian">1966</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">35</container>
+            <unittitle>Holstein-Friesian Association of America, 
+				  <unitdate era="ce" calendar="gregorian">1918-1963 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">36</container>
+            <unittitle>Intercourse Review, 
+				  <unitdate era="ce" calendar="gregorian">1970</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">37</container>
+            <unittitle>Kiplinger Texas Letter, 
+				  <unitdate era="ce" calendar="gregorian">1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle>Knolle Jersey Farms, 
+				  <unitdate era="ce" calendar="gregorian">1942-1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle>Leadership Fort Worth Directory, 
+				  <unitdate era="ce" calendar="gregorian">1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle>Milk Bottle Collecting, 
+				  <unitdate era="ce" calendar="gregorian">1970-1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle>Milk Goats Booklets, 
+				  <unitdate era="ce" calendar="gregorian">1918-1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle>Milk Recording Research Results, 
+				  <unitdate era="ce" calendar="gregorian">1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">6</container>
+            <unittitle>Newsclippings, 
+				  <unitdate era="ce" calendar="gregorian">1935-1991 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">7</container>
+            <unittitle>Nonprofit World Report, 
+				  <unitdate era="ce" calendar="gregorian">1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">8</container>
+            <unittitle>One Thousand Pound Story of the Jersey Cow, 
+				  <unitdate era="ce" calendar="gregorian">1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">9</container>
+            <unittitle>Parliamentary Procedures, 
+				  <unitdate era="ce" calendar="gregorian">1971</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">10</container>
+            <unittitle>Past Times, 
+				  <unitdate era="ce" calendar="gregorian">1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">11</container>
+            <unittitle>Saddle and Sirloin Club Yearbook, 
+				  <unitdate era="ce" calendar="gregorian">1970</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">12</container>
+            <unittitle>Senior Sentinel, 
+				  <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">13</container>
+            <unittitle>South Plains Electric Co-op Power, 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">14</container>
+            <unittitle>Tarrant County Historical Review, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">15</container>
+            <unittitle>Texas Clubwoman, 
+				  <unitdate era="ce" calendar="gregorian">1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">16</container>
+            <unittitle>Texas Gold Ice Cream Ad, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">17</container>
+            <unittitle>Texas National Dispatch, 
+				  <unitdate era="ce" calendar="gregorian">1983-1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">18</container>
+            <unittitle>Thirtieth Anniversary San Antonio Stock Show and Rodeo, 
+				  <unitdate era="ce" calendar="gregorian">1980</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">19</container>
+            <unittitle>Traveler, 
+				  <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Scrapbook Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">20</container>
+            <unittitle>Cards and Invitations, 
+				  <unitdate era="ce" calendar="gregorian">1958-1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">21</container>
+            <unittitle>Certificates and Awards, 
+				  <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">22</container>
+            <unittitle>Civil War Material, 
+				  <unitdate era="ce" calendar="gregorian">1862-1888</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">23</container>
+            <unittitle>Dairy Promotions, 
+				  <unitdate era="ce" calendar="gregorian">1945-1972 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">24</container>
+            <unittitle>Printed Material, 
+				  <unitdate era="ce" calendar="gregorian">1961-1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">25</container>
+            <unittitle>Programs, 
+				  <unitdate era="ce" calendar="gregorian">1977-1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">1</container>
+            <unittitle>Texas Brown Swiss Association, 
+				  <unitdate era="ce" calendar="gregorian">1950-1973 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">2</container>
+            <unittitle>Texas Brown Swiss Association, 
+				  <unitdate era="ce" calendar="gregorian">1950-1973 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">3</container>
+            <unittitle>Miscellaneous, 
+				  <unitdate era="ce" calendar="gregorian">1946-1986 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Framed Photographs</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">4</container>
+            <unittitle>Foremost Dairies, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">5</container>
+            <unittitle>Metzger Certificate, 
+				  <unitdate era="ce" calendar="gregorian">1905</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">6</container>
+            <unittitle>American Jersey Cattle Club, 
+				  <unitdate era="ce" calendar="gregorian">1941-1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">7</container>
+            <unittitle>Bartee, Wayne, 
+				  <unitdate era="ce" calendar="gregorian">1971</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">8</container>
+            <unittitle>General, 
+				  <unitdate era="ce" calendar="gregorian">1951-1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">9</container>
+            <unittitle>Internal Revenue Service, 
+				  <unitdate era="ce" calendar="gregorian">1944-1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">10</container>
+            <unittitle>South Texas Producers Association, 
+				  <unitdate era="ce" calendar="gregorian">1966</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Financial Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">11</container>
+            <unittitle>Accounting Records, 
+				  <unitdate era="ce" calendar="gregorian">1954-1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">1</container>
+            <unittitle>Associated Milk Producers' Mailing List, 
+				  <unitdate era="ce" calendar="gregorian">1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">2</container>
+            <unittitle>Audit Report, 
+				  <unitdate era="ce" calendar="gregorian">1946-1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">3</container>
+            <unittitle>Awards Program Results, 
+				  <unitdate era="ce" calendar="gregorian">1962-1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">4</container>
+            <unittitle>Bank Statements, 
+				  <unitdate era="ce" calendar="gregorian">1946-1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">5</container>
+            <unittitle>Bills Paid, 
+				  <unitdate era="ce" calendar="gregorian">1955-1986 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">6</container>
+            <unittitle>Breeders' Recorders, 
+				  <unitdate era="ce" calendar="gregorian">1945-1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">7</container>
+            <unittitle>Check Stubs, 
+				  <unitdate era="ce" calendar="gregorian">1957-1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">8</container>
+            <unittitle>Contractor Mailing List, 
+				  <unitdate era="ce" calendar="gregorian">c. 1940's</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">9</container>
+            <unittitle>Convention Committee Fund Records, 
+				  <unitdate era="ce" calendar="gregorian">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">10</container>
+            <unittitle>Dairy Cattle Production Records, 
+				  <unitdate era="ce" calendar="gregorian">1961-1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">11</container>
+            <unittitle>Dairy Cattle Sale Records, 
+				  <unitdate era="ce" calendar="gregorian">1956-1990 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">12</container>
+            <unittitle>Dollar Program Application, 
+				  <unitdate era="ce" calendar="gregorian">1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">13</container>
+            <unittitle>Due Books, 
+				  <unitdate era="ce" calendar="gregorian">1958-1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">13</container>
+            <unittitle>Due Books 
+				  <unitdate era="ce" calendar="gregorian">1958-1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">14</container>
+            <unittitle>Financial Statements, 
+				  <unitdate era="ce" calendar="gregorian">1922-1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">15</container>
+            <unittitle>Fort Worth National Bank Account Records, 
+				  <unitdate era="ce" calendar="gregorian">1951-1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">16</container>
+            <unittitle>Havran's Insurance Information, 
+				  <unitdate era="ce" calendar="gregorian">1963</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">17</container>
+            <unittitle>Income Tax, 
+				  <unitdate era="ce" calendar="gregorian">1951-1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">18</container>
+            <unittitle>Insurance Pamphlets, 
+				  <unitdate era="ce" calendar="gregorian">1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">19</container>
+            <unittitle>Jersey Journal Mail List, 
+				  <unitdate era="ce" calendar="gregorian">1980</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">20</container>
+            <unittitle>Livestock Judging Results, 
+				  <unitdate era="ce" calendar="gregorian">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">21</container>
+            <unittitle>Members, 
+				  <unitdate era="ce" calendar="gregorian">1958-1975 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">22</container>
+            <unittitle>Membership Mailing List, 
+				  <unitdate era="ce" calendar="gregorian">1960-1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">23</container>
+            <unittitle>Receipt Book, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">24</container>
+            <unittitle>Statistical Data, 
+				  <unitdate era="ce" calendar="gregorian">1954-1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">1</container>
+            <unittitle>Texas All-Jersey Incorporated Monthly Milk Report, 
+				  <unitdate era="ce" calendar="gregorian">1967-1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">2</container>
+            <unittitle>Texas Dairymen Federal Credit Union Account, 
+				  <unitdate era="ce" calendar="gregorian">1958-1978</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Legal Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">3</container>
+            <unittitle>Annual Meeting, 
+				  <unitdate era="ce" calendar="gregorian">1948-1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">4</container>
+            <unittitle>Application Forms, 
+				  <unitdate era="ce" calendar="gregorian">1965 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">5</container>
+            <unittitle>Awards Banquet, 
+				  <unitdate era="ce" calendar="gregorian">1963-1968 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">6</container>
+            <unittitle>Constitution and By-Laws, 
+				  <unitdate era="ce" calendar="gregorian">1928-1969 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">7</container>
+            <unittitle>Dairy Cattle Registration Certificate, 
+				  <unitdate era="ce" calendar="gregorian">1913-1929</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle>Finance Agreement, 
+				  <unitdate era="ce" calendar="gregorian">1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">9</container>
+            <unittitle>Jersey Manual, 
+				  <unitdate era="ce" calendar="gregorian">1977-1981</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">10</container>
+            <unittitle>Livestock Agricultural Marketing Appraisal Service, 
+				  <unitdate era="ce" calendar="gregorian">1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">11</container>
+            <unittitle>Texas Laws and Acts Governing Dairy Industry, 
+				  <unitdate era="ce" calendar="gregorian">1932-1985 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Literary Productions</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">12</container>
+            <unittitle>Alternative Proposal, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">13</container>
+            <unittitle>American Dairy Science Association, 
+				  <unitdate era="ce" calendar="gregorian">1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">14</container>
+            <unittitle>Comments on Component Pricing Implication, 
+				  <unitdate era="ce" calendar="gregorian">1977</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">15</container>
+            <unittitle>Component Pricing of Milk as Viewed by Processors, 
+				  <unitdate era="ce" calendar="gregorian">1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">16</container>
+            <unittitle>Crash of the Long Wave, 
+				  <unitdate era="ce" calendar="gregorian">1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">17</container>
+            <unittitle>Current Study of ADA and Dairy Council, 
+				  <unitdate era="ce" calendar="gregorian">1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">18</container>
+            <unittitle>D.T. Simons Award, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">19</container>
+            <unittitle>Economic Rationale for Using Both Nonfat and Fat Values
+				  in 
+				  <unitdate era="ce" calendar="gregorian">1977</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">20</container>
+            <unittitle>Establishing Marketwide Pool, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">21</container>
+            <unittitle>Excess Production Still Plaguing Dairies, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">22</container>
+            <unittitle>Farmers' Short Course, 
+				  <unitdate era="ce" calendar="gregorian">1914-1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">23</container>
+            <unittitle>General Narrative on Dairying, 
+				  <unitdate era="ce" calendar="gregorian">1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">24</container>
+            <unittitle>Illusion of Freedom, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">25</container>
+            <unittitle>Jersey Breed Field Work, 
+				  <unitdate era="ce" calendar="gregorian">1981</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">26</container>
+            <unittitle>Jersey Cow-Patience, 
+				  <unitdate era="ce" calendar="gregorian">1963</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">27</container>
+            <unittitle>Jersey Notes, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">28</container>
+            <unittitle>Jersey Programs Activities, 
+				  <unitdate era="ce" calendar="gregorian">1971</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">29</container>
+            <unittitle>Milk Prices and the Market System, 
+				  <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">30</container>
+            <unittitle>Milk Pricing: Not So Tough When an Expert Explains It, 
+				  <unitdate era="ce" calendar="gregorian">1977</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">31</container>
+            <unittitle>Milk Production, 
+				  <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">32</container>
+            <unittitle>New Pricing System, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">33</container>
+            <unittitle>Program for the Future, 
+				  <unitdate era="ce" calendar="gregorian">1968-1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">34</container>
+            <unittitle>Reconstituted Milk Products, 
+				  <unitdate era="ce" calendar="gregorian">1980</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">36</container>
+            <unittitle>Sixty-Eight Years of Service, 
+				  <unitdate era="ce" calendar="gregorian">1960</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">36</container>
+            <unittitle>Sixty-Eight Years of Service, 
+				  <unitdate era="ce" calendar="gregorian">1960</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">37</container>
+            <unittitle>Tested Sires, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">38</container>
+            <unittitle>Texas Dairy Industry, 
+				  <unitdate era="ce" calendar="gregorian">1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">39</container>
+            <unittitle>Texas Holstein Workshop, 
+				  <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">40</container>
+            <unittitle>Texas Milk Marketing Area, 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Printed Materials</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">41</container>
+            <unittitle>A. I. Digest, 
+				  <unitdate era="ce" calendar="gregorian">1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">42</container>
+            <unittitle>Agribusiness Countdown, 
+				  <unitdate era="ce" calendar="gregorian">1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">43</container>
+            <unittitle>Agricultural Income, 
+				  <unitdate era="ce" calendar="gregorian">1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">44</container>
+            <unittitle>Agricultural Policy in the European Community, 
+				  <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">6</container>
+            <container type="folder">45</container>
+            <unittitle>American Jersey Cattle Club Annual Meetings, 
+				  <unitdate era="ce" calendar="gregorian">1869-1881 undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle>American Jersey Cattle Club Annual Report, 
+				  <unitdate era="ce" calendar="gregorian">1947-1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle>Australian Jersey Journal, 
+				  <unitdate era="ce" calendar="gregorian">1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">3</container>
+            <unittitle>Ayrshire Digest, 
+				  <unitdate era="ce" calendar="gregorian">1938</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">4</container>
+            <unittitle>Balanced Dairying Economics Letter, 
+				  <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">5</container>
+            <unittitle>California Jersey News, 
+				  <unitdate era="ce" calendar="gregorian">1960</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">6</container>
+            <unittitle>Canadian Jersey Breeder, 
+				  <unitdate era="ce" calendar="gregorian">1975-1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">7</container>
+            <unittitle>Carnation Genetics: Sires, 
+				  <unitdate era="ce" calendar="gregorian">1981</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">8</container>
+            <unittitle>Carolinas Jersey Breeders Review, 
+				  <unitdate era="ce" calendar="gregorian">1949</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">9</container>
+            <unittitle>Certificates, Awards and Citations of American Jersey
+				  Cattle, 
+				  <unitdate era="ce" calendar="gregorian">circa 1940's</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">10</container>
+            <unittitle>Changes in the Texas Dairy Industry, 
+				  <unitdate era="ce" calendar="gregorian">1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">11</container>
+            <unittitle>Cheese Reporter, 
+				  <unitdate era="ce" calendar="gregorian">1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">12</container>
+            <unittitle>Credit Union Magazine, 
+				  <unitdate era="ce" calendar="gregorian">1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">13</container>
+            <unittitle>Crisis in Texas Agriculture, 
+				  <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">14</container>
+            <unittitle>Dairy Booklets, 
+				  <unitdate era="ce" calendar="gregorian">1914-1990 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">15</container>
+            <unittitle>Dairy Councilor, 
+				  <unitdate era="ce" calendar="gregorian">1945-1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">16</container>
+            <unittitle>Dairy Industry Newsletter, 
+				  <unitdate era="ce" calendar="gregorian">1963</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">17</container>
+            <unittitle>Dairy Members, 
+				  <unitdate era="ce" calendar="gregorian">1926-1991 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">18</container>
+            <unittitle>Dairy News, 
+				  <unitdate era="ce" calendar="gregorian">1953-1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">19</container>
+            <unittitle>Dairy Shrine, 
+				  <unitdate era="ce" calendar="gregorian">1983-1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">20</container>
+            <unittitle>Declarations of Interdependence: Proceedings First
+				  Southern D, 
+				  <unitdate era="ce" calendar="gregorian">1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">21</container>
+            <unittitle>Directories, 
+				  <unitdate era="ce" calendar="gregorian">1941-1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">22</container>
+            <unittitle>Examining Dairy Policy Alternatives, 
+				  <unitdate era="ce" calendar="gregorian">1979</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">23</container>
+            <unittitle>Famous Jersey Cattle, 
+				  <unitdate era="ce" calendar="gregorian">1922</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">24</container>
+            <unittitle>Farm Journal, 
+				  <unitdate era="ce" calendar="gregorian">1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">25</container>
+            <unittitle>Food and Fiber Economics, 
+				  <unitdate era="ce" calendar="gregorian">1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">26</container>
+            <unittitle>Foodline, 
+				  <unitdate era="ce" calendar="gregorian">1979</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">27</container>
+            <unittitle>Foremost Dairies Auction Catalogs, 
+				  <unitdate era="ce" calendar="gregorian">1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">28</container>
+            <unittitle>Four-H Material, 
+				  <unitdate era="ce" calendar="gregorian">1984 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">29</container>
+            <unittitle>Grapevine Newsletter, 
+				  <unitdate era="ce" calendar="gregorian">1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">30</container>
+            <unittitle>Guernsey Breeder's Journal, 
+				  <unitdate era="ce" calendar="gregorian">1977</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">7</container>
+            <container type="folder">31</container>
+            <unittitle>Houston Livestock Show Booklet, 
+				  <unitdate era="ce" calendar="gregorian">1950-1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">1</container>
+            <unittitle>Houston Press, 
+				  <unitdate era="ce" calendar="gregorian">1963</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">2</container>
+            <unittitle>Jersey, 
+				  <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">3</container>
+            <unittitle>Jersey at Home, 
+				  <unitdate era="ce" calendar="gregorian">1977-1979 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">4</container>
+            <unittitle>Jersey Booster, 
+				  <unitdate era="ce" calendar="gregorian">1941-1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">5</container>
+            <unittitle>Jersey Bulletin Index, 
+				  <unitdate era="ce" calendar="gregorian">1928-1935</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">6</container>
+            <unittitle>Jersey Journal Supplements, 
+				  <unitdate era="ce" calendar="gregorian">1971-1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">7</container>
+            <unittitle>Jersey Review, 
+				  <unitdate era="ce" calendar="gregorian">1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">8</container>
+            <unittitle>Jersey Tested Sires and Dams, 
+				  <unitdate era="ce" calendar="gregorian">1948</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">9</container>
+            <unittitle>Jerseys at the St. Louis Exposition, 
+				  <unitdate era="ce" calendar="gregorian">1906</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">10</container>
+            <unittitle>Jerseys in Texas, 
+				  <unitdate era="ce" calendar="gregorian">1948</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">11</container>
+            <unittitle>Kenedy Times, 
+				  <unitdate era="ce" calendar="gregorian">1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">12</container>
+            <unittitle>Livestock Show Booklets, 
+				  <unitdate era="ce" calendar="gregorian">1940-1966</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">13</container>
+            <unittitle>Livestock Show Programs, 
+				  <unitdate era="ce" calendar="gregorian">1956-1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">14</container>
+            <unittitle>Marketing Service Bulletin, 
+				  <unitdate era="ce" calendar="gregorian">1962-1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">15</container>
+            <unittitle>Milk Industry Foundation Newsletters, 
+				  <unitdate era="ce" calendar="gregorian">1987-1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">16</container>
+            <unittitle>Milk Producer, 
+				  <unitdate era="ce" calendar="gregorian">1960-1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">17</container>
+            <unittitle>Milkweed, 
+				  <unitdate era="ce" calendar="gregorian">1986-1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">18</container>
+            <unittitle>Missouri Jerseyman, 
+				  <unitdate era="ce" calendar="gregorian">1968-1970</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">19</container>
+            <unittitle>News Release, 
+				  <unitdate era="ce" calendar="gregorian">1963-1989 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">8</container>
+            <container type="folder">20</container>
+            <unittitle>Newsletters, 
+				  <unitdate era="ce" calendar="gregorian">1959-1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">1</container>
+            <unittitle>Newsletters, 
+				  <unitdate era="ce" calendar="gregorian">1959-1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">2</container>
+            <unittitle>Newsletters, 
+				  <unitdate era="ce" calendar="gregorian">1959-1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">3</container>
+            <unittitle>Newsletters, 
+				  <unitdate era="ce" calendar="gregorian">1959-1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">4</container>
+            <unittitle>Ninety-fifth Annual Meeting Brown Swiss Cattle Breeders'
+				  Association, 
+				  <unitdate era="ce" calendar="gregorian">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">5</container>
+            <unittitle>North Texas Dairyman, 
+				  <unitdate era="ce" calendar="gregorian">1963-1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">6</container>
+            <unittitle>Oklahoma Dairymen (formerly Central Oklahoma Dairymen), 
+				  <unitdate era="ce" calendar="gregorian">1964-1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">7</container>
+            <unittitle>Opinion Request: All Jersey Milk, 
+				  <unitdate era="ce" calendar="gregorian">1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">8</container>
+            <unittitle>Panhandle-Plains Dairy Show Booklet, 
+				  <unitdate era="ce" calendar="gregorian">1942-1966</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">9</container>
+            <unittitle>Parade of the Stars, 
+				  <unitdate era="ce" calendar="gregorian">1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">10</container>
+            <unittitle>Plain Truth, 
+				  <unitdate era="ce" calendar="gregorian">1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">11</container>
+            <unittitle>Production Champions on Parade, 
+				  <unitdate era="ce" calendar="gregorian">1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">9</container>
+            <container type="folder">12</container>
+            <unittitle>Romancer, 
+				  <unitdate era="ce" calendar="gregorian">1951-1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">1</container>
+            <unittitle>Sale Catalogs: Non-Southwest Region, 
+				  <unitdate era="ce" calendar="gregorian">1919-1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">2</container>
+            <unittitle>Sale Catalogs: Non-Southwest Region, 
+				  <unitdate era="ce" calendar="gregorian">1919-1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">3</container>
+            <unittitle>Sale Catalogs: Non-Southwest Region, 
+				  <unitdate era="ce" calendar="gregorian">1919-1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">10</container>
+            <container type="folder">4</container>
+            <unittitle>Sale Catalogs: Non-Southwest Region, 
+				  <unitdate era="ce" calendar="gregorian">1919-1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">1</container>
+            <unittitle>Sale Catalogs: Non-Southwest Region, 
+				  <unitdate era="ce" calendar="gregorian">1919-1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">2</container>
+            <unittitle>Sale Catalogs: Non-Southwest Region, 
+				  <unitdate era="ce" calendar="gregorian">1919-1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">3</container>
+            <unittitle>Sale Catalogs: Southwest Region, 
+				  <unitdate era="ce" calendar="gregorian">1919-1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">11</container>
+            <container type="folder">4</container>
+            <unittitle>Sale Catalogs: Southwest Region, 
+				  <unitdate era="ce" calendar="gregorian">1919-1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">1</container>
+            <unittitle>Sale Catalogs: Southwest Region, 
+				  <unitdate era="ce" calendar="gregorian">1919-1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">2</container>
+            <unittitle>Sale Catalogs: Southwest Region, 
+				  <unitdate era="ce" calendar="gregorian">1919-1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">3</container>
+            <unittitle>Saudi Agricultural Enterprises, 
+				  <unitdate era="ce" calendar="gregorian">1978-1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">4</container>
+            <unittitle>South African Jersey, 
+				  <unitdate era="ce" calendar="gregorian">1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">5</container>
+            <unittitle>Southern Dairy Industry, 
+				  <unitdate era="ce" calendar="gregorian">1978-1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">6</container>
+            <unittitle>State Fair of Texas Livestock, 
+				  <unitdate era="ce" calendar="gregorian">1986-1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">7</container>
+            <unittitle>Tarrant County Dairy Newsletter, 
+				  <unitdate era="ce" calendar="gregorian">1987-1988</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">8</container>
+            <unittitle>Texas Agriculture, 
+				  <unitdate era="ce" calendar="gregorian">1987</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">9</container>
+            <unittitle>Texas Brown Swiss Association Newsletter, 
+				  <unitdate era="ce" calendar="gregorian">1980-1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">10</container>
+            <unittitle>Texas Farmer-Stockman, 
+				  <unitdate era="ce" calendar="gregorian">1974</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">11</container>
+            <unittitle>Texas Four-H Award Programs, 
+				  <unitdate era="ce" calendar="gregorian">1959-1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">12</container>
+            <unittitle>Texas Future Farmer, 
+				  <unitdate era="ce" calendar="gregorian">1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">12</container>
+            <container type="folder">13</container>
+            <unittitle>Texas Jerseys, 
+				  <unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">13</container>
+            <container type="folder">1</container>
+            <unittitle>Texas Jerseys (Originally The Contactor), 
+				  <unitdate era="ce" calendar="gregorian">1942-1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">13</container>
+            <container type="folder">2</container>
+            <unittitle>Texas Milk Market Report, 
+				  <unitdate era="ce" calendar="gregorian">1974-1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">13</container>
+            <container type="folder">3</container>
+            <unittitle>Texas Young Farmer, 
+				  <unitdate era="ce" calendar="gregorian">1982-1984</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">13</container>
+            <container type="folder">4</container>
+            <unittitle>Twenty-seventh Annual National Dairy Show: Texas
+				  Centennial, 
+				  <unitdate era="ce" calendar="gregorian">1936</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">13</container>
+            <container type="folder">5</container>
+            <unittitle>United States Department of Agriculture, 
+				  <unitdate era="ce" calendar="gregorian">1919-1977</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">13</container>
+            <container type="folder">6</container>
+            <unittitle>World Jersey Cattle Bureau Conference Papers, 
+				  <unitdate era="ce" calendar="gregorian">1968-1982</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Scrapbook Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">13</container>
+            <container type="folder">7</container>
+            <unittitle>Certificates and Awards, 
+				  <unitdate era="ce" calendar="gregorian">1956-1984 and undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">13</container>
+            <container type="folder">8</container>
+            <unittitle>Programs, 
+				  <unitdate era="ce" calendar="gregorian">1947-1982</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Photographs</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">1</container>
+            <unittitle>All-American Jersey Show, 
+				  <unitdate era="ce" calendar="gregorian">1973</unitdate></unittitle>
+            <physdesc>(3 items)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">2</container>
+            <unittitle>Armstrong, S. and B., 
+				  <unitdate era="ce" calendar="gregorian">1982</unitdate></unittitle>
+            <physdesc>(15 items)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">3</container>
+            <unittitle>Awards and Banquet, 
+				  <unitdate era="ce" calendar="gregorian">1964-1970 and undated</unitdate></unittitle>
+            <physdesc>(8 items)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">4</container>
+            <unittitle>Baby with Milk Bottle, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            <physdesc>(7 items)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">5</container>
+            <unittitle>Bluebonnet Sale at JFD Farm (Slides), 
+				  <unitdate era="ce" calendar="gregorian">1978</unitdate></unittitle>
+            <physdesc>(19 items)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">6</container>
+            <unittitle>Dairy Cow-Patience, 
+				  <unitdate era="ce" calendar="gregorian">1962</unitdate></unittitle>
+            <physdesc>(9 items)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">7</container>
+            <unittitle>Houston Livestock Show and Rodeo, 
+				  <unitdate era="ce" calendar="gregorian">1968-1979</unitdate></unittitle>
+            <physdesc>(26 items)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">8</container>
+            <unittitle>Lily Ice Cream Company, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            <physdesc>(61 items)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">9</container>
+            <unittitle>Metzger Brothers Dairy, 
+				  <unitdate era="ce" calendar="gregorian">1930-1960</unitdate></unittitle>
+            <physdesc>(20 items)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">10</container>
+            <unittitle>Metzger Dairy Employees at Work, 
+				  <unitdate era="ce" calendar="gregorian">1908</unitdate></unittitle>
+            <physdesc>(1 item)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">10</container>
+            <unittitle>Metzger's Dairy Cattle Display #1, 
+				  <unitdate era="ce" calendar="gregorian">1916</unitdate></unittitle>
+            <physdesc>(1 item)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">10</container>
+            <unittitle>Metzger's Dairy Cattle and Employee Display, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">10</container>
+            <unittitle>Metzger's Dairy Van Display, 
+				  <unitdate era="ce" calendar="gregorian">1921</unitdate></unittitle>
+            <physdesc>(1 item)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">10</container>
+            <unittitle>Metzger's Butter, 
+				  <unitdate era="ce" calendar="gregorian">1920</unitdate></unittitle>
+            <physdesc>(1 item)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">10</container>
+            <unittitle>Metzger Brothers Dairy Fair Booth, 
+				  <unitdate era="ce" calendar="gregorian">1927</unitdate></unittitle>
+            <physdesc>(1 item)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">10</container>
+            <unittitle>Metzger Brothers Dairy Fair Booth, 
+				  <unitdate era="ce" calendar="gregorian">1925</unitdate></unittitle>
+            <physdesc>(1 item)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">10</container>
+            <unittitle>Metzger Brothers Dairy Fair Booth, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            <physdesc>(1 item)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">10</container>
+            <unittitle>Metzger's Dairy Wagon Display, 
+				  <unitdate era="ce" calendar="gregorian">1908</unitdate></unittitle>
+            <physdesc>(1 item)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">14</container>
+            <container type="folder">10</container>
+            <unittitle>Metzger's Dairy Cattle Display #2, 
+				  <unitdate era="ce" calendar="gregorian">1908</unitdate></unittitle>
+            <physdesc>(1 item)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">1</container>
+            <unittitle>Pan-American Livestock Exposition, 
+				  <unitdate era="ce" calendar="gregorian">1961-1982</unitdate></unittitle>
+            <physdesc>(10 items)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">2</container>
+            <unittitle>Parker County Livestock Improvement Association, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            <physdesc>(18 items)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">3</container>
+            <unittitle>Promotionals, 
+				  <unitdate era="ce" calendar="gregorian">1950-1961</unitdate></unittitle>
+            <physdesc>(10 items)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">4</container>
+            <unittitle>Shaw Brothers Ideal Dairy, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            <physdesc>(1 item)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">5</container>
+            <unittitle>Tarrant County Dairy Association, 
+				  <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+            <physdesc>(38 items)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">6</container>
+            <unittitle>Texas A&amp;M University, 
+				  <unitdate era="ce" calendar="gregorian">1971-1976 and undated</unitdate></unittitle>
+            <physdesc>(23 items)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">7</container>
+            <unittitle>Texas Brown Swiss Association, 
+				  <unitdate era="ce" calendar="gregorian">1951-1980</unitdate></unittitle>
+            <physdesc>(18 items)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">8</container>
+            <unittitle>Texas Jersey Cattle Club, 
+				  <unitdate era="ce" calendar="gregorian">1949-1986 and undated</unitdate></unittitle>
+            <physdesc>(375 items)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">9</container>
+            <unittitle>Texas Jersey Cattle Club, 
+				  <unitdate era="ce" calendar="gregorian">1952-1980 and undated</unitdate></unittitle>
+            <physdesc>(171 items)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">15</container>
+            <container type="folder">10</container>
+            <unittitle>Texas Jersey Cattle Club Meeting, 
+				  <unitdate era="ce" calendar="gregorian">1978</unitdate></unittitle>
+            <physdesc>(13 items)</physdesc>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

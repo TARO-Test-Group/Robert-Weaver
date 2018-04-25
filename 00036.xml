@@ -1,0 +1,3627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00036</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Lauro F. Cavazos:</titleproper>
+        <subtitle>An Inventory of His Papers, 1932-1994 and undated, at the
+			 Southwest Collection/Special Collections Library</subtitle>
+        <author>Abel Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">August 2000</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">September 2000.</date></creation>
+      <langusage>Finding aid written in
+		  <language>English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Tue Jul 22 15:21:07 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00036 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the Lauro F. Cavazos Papers, 1932-1994 and
+		  undated</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">August 2000</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <persname encodinganalog="100">Cavazos, Lauro</persname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Lauro F. Cavazos Papers,
+		  
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1932-1994 and undated</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">The papers of Lauro
+		  Fred Cavazos, a former President of Texas Tech University who later became
+		  Secretary of Education in 1988.</abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 170.2</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:"> 15 boxes (15.0 linear
+		  feet)</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>A sixth generation Texan, Lauro Fred Cavazos was born on January 4,
+		  1927 on the vast King Ranch in South Texas, where his father was the foreman of
+		  the showcase Santa Gertrudis Division. He earned his B.A. and M.A. in zoology
+		  at Texas Tech University and a doctoral degree in physiology from Iowa State
+		  University. In addition, he received honorary degrees from several universities
+		  and colleges. He married the former Peggy Murdock, and together they had ten
+		  children. </p>
+      <p>Dr. Cavazos served in various professional and administrative
+		  positions. He taught at the Medical College of Virginia and at Tufts University
+		  School of Medicine in Boston, where he was also Dean from 1975 to 1980. He
+		  returned to Texas Tech University in 1980 to become its tenth president, and
+		  the first Hispanic and first graduate of the school to hold the office. </p>
+      <p>A recognized expert in both the field of medicine and the field of
+		  education, Cavazos was a consultant to national and international health
+		  organizations, including the World Health Organization and a variety of
+		  inter-American health groups. He authored or co-authored approximately 75
+		  publications in the areas of physiology and reproduction, fine structure of
+		  cells and tissues, and medical education. Cavazos also received a number of
+		  awards recognizing his efforts in education. In 1984 President Ronald Reagan
+		  presented him with an award for Outstanding Leadership in the Field of
+		  Education. In 1985 he was awarded the Distinguished Service Medal from the
+		  Uniformed Services University for the Health Sciences, and in 1987 he accepted
+		  an award designed in his honor from the Texas Tech University Ex- Student
+		  Association. The next year he received the National Hispanic Leadership Award
+		  in the field of education from the League of United Latin American
+		  Citizens.</p>
+      <p>On August 9, 1988 President Reagan nominated Cavazos for Secretary of
+		  Education, and on September 20, 1988 he was unanimously confirmed by the United
+		  States Senate. President George Bush asked him to continue as Secretary
+		  following the November 1988 election. He remained in the position until
+		  resigning in December 1990. As Secretary, Cavazos concentrated on reforming
+		  American Education through raising the expectations of students, teachers, and
+		  parents. He also targeted federal resources to improve opportunities for those
+		  most in need, and initiated special programs to combat drug and alcohol use. As
+		  a strong advocate of parental involvement in education, he provided leadership
+		  to encourage parental and community participation in education reform. </p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>Papers from Dr. Lauro Fred Cavazos' collection consists of personal
+		  records, as well as records from his tenure as president of Texas Tech
+		  University, as Secretary of Education, and as a professor at Tufts
+		  University.</p>
+    </scopecontent>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+      <controlaccess>
+        <head>Subjects (Persons)</head>
+        <persname encodinganalog="600" source="lcnaf">Cavazos, Lauro</persname>
+        <persname encodinganalog="600" source="lcnaf">Cavazos,
+			 Lauro--Archives</persname>
+        <persname encodinganalog="600" source="lcnaf">Cavazos,
+			 Lauro--Correspondence</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname encodinganalog="610" source="lcnaf">Texas Tech
+			 University--Administration</corpname>
+        <corpname encodinganalog="610" source="lcnaf">Texas Tech
+			 University--History</corpname>
+        <corpname encodinganalog="610" source="lcnaf">Texas Tech
+			 University--Presidents</corpname>
+        <corpname encodinganalog="610" source="lcnaf">United States. Dept. of
+			 Education</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Places</head>
+        <geogname encodinganalog="651" source="lcnaf">King Ranch
+			 (Tex.)</geogname>
+        <geogname encodinganalog="651" source="lcnaf">United States--Politics
+			 and government</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">College presidents--Texas,
+			 West</subject>
+        <subject encodinganalog="650" source="lcsh">Education--United
+			 States</subject>
+        <subject encodinganalog="650" source="lcsh">Education and state--United
+			 States</subject>
+        <subject encodinganalog="650" source="lcsh">Mexican
+			 Americans--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Minorities--Education</subject>
+        <subject encodinganalog="650" source="lcsh">Speeches, addresses, etc.
+			 American</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <p>Collection accession #(s): 
+			 <num type="accession">94-0147-B</num></p>
+      <p>Gift, 1994</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, August 2000</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>Lauro F. Cavazos Papers, 1932-1994 and undated, Southwest
+			 Collection/Special Collections Library, Texas Tech University, Lubbock,
+			 Texas</p>
+    </prefercite>
+    <relatedmaterial encodinganalog="544 1" id="a6">
+      <p>For related materials located in the Southwest Collection/Special
+			 Collections Library, see the following collections:</p>
+      <list type="simple">
+        <item>Lauro Cavazos oral history interview [sound recording], 1991</item>
+        <item>Lauro Cavazos oral history interview [sound recording], 1994</item>
+      </list>
+    </relatedmaterial>
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+      <c01 level="series">
+        <did>
+          <unittitle>Texas Tech: President's Office, 
+				<unitdate era="ce" calendar="gregorian">1932-1989 and undated</unitdate></unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Editorials, 
+				  <unitdate era="ce" calendar="gregorian">1984-1987 and undated</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">1</container>
+              <unittitle>Journal of Medical Education, 
+					 <unitdate era="ce" calendar="gregorian">June 1984</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">2</container>
+              <unittitle>Medical Students Attitude, Whose Responsibility?, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">3</container>
+              <unittitle>Pacific News Service, 
+					 <unitdate era="ce" calendar="gregorian">Fall 1987: </unitdate><emph render="doublequote">The Vital
+					 Link of the Family in Hispanic Education</emph></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Speeches, 
+				  <unitdate era="ce" calendar="gregorian">1980-1988 and undated</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">4</container>
+              <unittitle>Abilene Christian College, 
+					 <unitdate era="ce" calendar="gregorian">August 27, 1981 </unitdate>(Pre Session Family
+					 Conference)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">5</container>
+              <unittitle>Academic Leadership Development Program, 
+					 <unitdate era="ce" calendar="gregorian">April 16, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">6</container>
+              <unittitle>Agrichemical Medicine, San Antonio, 
+					 <unitdate era="ce" calendar="gregorian">October 23, 1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">7</container>
+              <unittitle>Accounting Recognition Banquet, 
+					 <unitdate era="ce" calendar="gregorian">April 21, 1983: </unitdate><emph render="doublequote">Who
+					 Will be Our Leaders?</emph></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">8</container>
+              <unittitle>Alderson Junior High School, 
+					 <unitdate era="ce" calendar="gregorian">November 11, 1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">9</container>
+              <unittitle>Amarillo Area Foundation, 
+					 <unitdate era="ce" calendar="gregorian">Spring 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">10</container>
+              <unittitle>American Business Women, 
+					 <unitdate era="ce" calendar="gregorian">Summer 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">11</container>
+              <unittitle>Appreciation Dinner, 
+					 <unitdate era="ce" calendar="gregorian">April 24, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">12</container>
+              <unittitle>Arnold Air Society Area J Conclave, 
+					 <unitdate era="ce" calendar="gregorian">February 19, 1983 </unitdate><emph render="doublequote">The Worst of Times, The Best of Times (II)</emph></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">13</container>
+              <unittitle>Black Awareness Month, 11th Annual, 
+					 <unitdate era="ce" calendar="gregorian">February 3, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">14</container>
+              <unittitle>Black Awareness Month, 
+					 <unitdate era="ce" calendar="gregorian">February 1, 1983 - </unitdate>Introductory
+					 Remarks</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">15</container>
+              <unittitle>Block, John R., U. S. Secretary of Agriculture, 
+					 <unitdate era="ce" calendar="gregorian">February 24, 1982, </unitdate><emph render="doublequote">Welcome and Introduction</emph></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">16</container>
+              <unittitle>Burns Barbecue Pavilion, 
+					 <unitdate era="ce" calendar="gregorian">March 14, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">17</container>
+              <unittitle>Brotherhood Citation Dinner, 
+					 <unitdate era="ce" calendar="gregorian">May 25, 1983, </unitdate>National Conference of
+					 Christians/Jews: The Simplest Reality</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">18</container>
+              <unittitle>Campaign of 2004, 
+					 <unitdate era="ce" calendar="gregorian">1987-1988 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">19</container>
+              <unittitle>Carol of Lights, 
+					 <unitdate era="ce" calendar="gregorian">December 5, 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">20</container>
+              <unittitle>Carol of Lights, 
+					 <unitdate era="ce" calendar="gregorian">December 4, 1981 and December 2,
+						1983</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">21</container>
+              <unittitle>Cavazos, El Paso, 
+					 <unitdate era="ce" calendar="gregorian">May 19, 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">22</container>
+              <unittitle>Century Club, 
+					 <unitdate era="ce" calendar="gregorian">November 14, 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">23</container>
+              <unittitle>Charge to the Graduates, Health Sciences Center, 
+					 <unitdate era="ce" calendar="gregorian">May 31, 1986, </unitdate>Civic Center</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">24</container>
+              <unittitle>Charge to the Graduates, Health Sciences Center, 
+					 <unitdate era="ce" calendar="gregorian">May 28, 1988</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">25</container>
+              <unittitle>Charge to the Graduates, 
+					 <unitdate era="ce" calendar="gregorian">December 17, 1988</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">26</container>
+              <unittitle>Christ the King Commencement, 
+					 <unitdate era="ce" calendar="gregorian">May 17, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">27</container>
+              <unittitle>Civil Engineering, 
+					 <unitdate era="ce" calendar="gregorian">Fall 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">28</container>
+              <unittitle>College of Education, 
+					 <unitdate era="ce" calendar="gregorian">November 3, 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">29</container>
+              <unittitle>College and University Physical Education Admin.
+					 Council Pre-Convention Workshop, 
+					 <unitdate era="ce" calendar="gregorian">April 22, 1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">30</container>
+              <unittitle>Comerciantes Organizados Mexico Americanos (COMA), 
+					 <unitdate era="ce" calendar="gregorian">Spring 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">31</container>
+              <unittitle>Comerciantes Organizados Mexico Americanos (COMA), 
+					 <unitdate era="ce" calendar="gregorian">January 17, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">32</container>
+              <unittitle>Comerciantes Organizados Mexico Americanos (COMA), 
+					 <unitdate era="ce" calendar="gregorian">March 27, 1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">33</container>
+              <unittitle>Dad's Association: Mid Winter Trustee Meeting, 
+					 <unitdate era="ce" calendar="gregorian">February 28, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">34</container>
+              <unittitle>Dad's Association: First Distinguished Visiting
+					 Lecutre, Dr. Melvin Calvin, 
+					 <unitdate era="ce" calendar="gregorian">April 4, 1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">35</container>
+              <unittitle>Dad's Day, 
+					 <unitdate era="ce" calendar="gregorian">Fall 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">36</container>
+              <unittitle>Dallas, Texas, 
+					 <unitdate era="ce" calendar="gregorian">April 16, 1987</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">37</container>
+              <unittitle>Dimmitt High School Commencement, 
+					 <unitdate era="ce" calendar="gregorian">May 27, 1983: </unitdate><emph render="doublequote">The
+					 Worst of Times, The Best of Times</emph></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">38</container>
+              <unittitle>Distinguished Engineer's Luncheon, 
+					 <unitdate era="ce" calendar="gregorian">April 16, 1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">39</container>
+              <unittitle>Education for Hispanics (Dallas), 
+					 <unitdate era="ce" calendar="gregorian">September 17, 1986: </unitdate><emph render="doublequote">Education: Solution or Dilemma for
+					 Hispanics?</emph></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">40</container>
+              <unittitle>Educational Excellence, Bankers, TTU School of
+					 Banking, 
+					 <unitdate era="ce" calendar="gregorian">May 15, 1983</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">41</container>
+              <unittitle>Engineering Honors Banquet, 
+					 <unitdate era="ce" calendar="gregorian">November 20, 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">42</container>
+              <unittitle>Engineers Week Banquet, 
+					 <unitdate era="ce" calendar="gregorian">February 24, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">43</container>
+              <unittitle>Family Festival, 
+					 <unitdate era="ce" calendar="gregorian">February 13, 1983 </unitdate><emph render="doublequote">The Importance of Family Enrichment</emph></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">44</container>
+              <unittitle>First Christian Church, Family Night, 
+					 <unitdate era="ce" calendar="gregorian">September 10, 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">45</container>
+              <unittitle>First Christian Church, High School Senior Banquet, 
+					 <unitdate era="ce" calendar="gregorian">Spring 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">46</container>
+              <unittitle>Foundation Notes, 
+					 <unitdate era="ce" calendar="gregorian">Fall 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">47</container>
+              <unittitle>G. I. State Forum, 
+					 <unitdate era="ce" calendar="gregorian">June 18, 1982: </unitdate><emph render="doublequote">For
+					 Whom the School Bells Toll</emph></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">48</container>
+              <unittitle>Association of Texas Graduate Schools Annual Meeting, 
+					 <unitdate era="ce" calendar="gregorian">April 2, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">49</container>
+              <unittitle>ISCALS, West Texas Resources, etc., 
+					 <unitdate era="ce" calendar="gregorian">April 22, 1983</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">50</container>
+              <unittitle>Inaugural Speech, 
+					 <unitdate era="ce" calendar="gregorian">Spring 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">51</container>
+              <unittitle>Juarez, 
+					 <unitdate era="ce" calendar="gregorian">April 28, 1982 - </unitdate>First Pan-American
+					 Psychiatric Symposium - Welcome</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">52</container>
+              <unittitle>Kingsville High School, <emph render="doublequote">Our
+					 Choicest Treasures</emph>, 
+					 <unitdate era="ce" calendar="gregorian">July 17, 1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">53</container>
+              <unittitle>Lions and Rotary Clubs, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">54</container>
+              <unittitle>Lubbock Apartment Association, 
+					 <unitdate era="ce" calendar="gregorian">Summer 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">55</container>
+              <unittitle>Lubbock Board of Realtors, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">56</container>
+              <unittitle>Lubbock Executives Club, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">57</container>
+              <unittitle>Lubbock Independent School District, 
+					 <unitdate era="ce" calendar="gregorian">August 21, 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">58</container>
+              <unittitle>Lubbock Kiwanis Club, 
+					 <unitdate era="ce" calendar="gregorian">June 2, 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">59</container>
+              <unittitle>Lubbock LULAC (League of United Latin-American
+					 Voters), 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">60</container>
+              <unittitle>LULAC Council 272 5th Annual Scholarship Awards
+					 Banquet, Dallas, TX, 
+					 <unitdate era="ce" calendar="gregorian">June 11, 1983</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">61</container>
+              <unittitle>LULAC 52nd Annual Meeting, 
+					 <unitdate era="ce" calendar="gregorian">February 19, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">62</container>
+              <unittitle>Mass Communications, Welcome and Presentation, 
+					 <unitdate era="ce" calendar="gregorian">February 25, 1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">63</container>
+              <unittitle>Mass Communications, Advisory Committee, 
+					 <unitdate era="ce" calendar="gregorian">Fall 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">64</container>
+              <unittitle>MBFA (No Speech), 
+					 <unitdate era="ce" calendar="gregorian">1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">65</container>
+              <unittitle>Medical Education, 
+					 <unitdate era="ce" calendar="gregorian">1984</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">66</container>
+              <unittitle>Methodist Hospital Trustees, 
+					 <unitdate era="ce" calendar="gregorian">October 16, 1990</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">67</container>
+              <unittitle>Mexican American Awareness Week, 
+					 <unitdate era="ce" calendar="gregorian">April 6, 1981, </unitdate>TTU Univ. Center:
+					 <emph render="doublequote">Mexican Americans in the 80's</emph></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">68</container>
+              <unittitle>Mexican American Awareness Week, Sul Ross University,
+					 Alpine, 
+					 <unitdate era="ce" calendar="gregorian">May 3, 1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">69</container>
+              <unittitle>Mexican American Awareness Week, 
+					 <unitdate era="ce" calendar="gregorian">Spring 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">70</container>
+              <unittitle>Mexican American Awareness Week, 
+					 <unitdate era="ce" calendar="gregorian">April 11, 1983, </unitdate>University Center of
+					 TTU</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">71</container>
+              <unittitle>Abilene Christian University, 
+					 <unitdate era="ce" calendar="gregorian">April 12, 1986: </unitdate><emph render="doublequote">Mexican Americans in Texas: Past, Present,
+					 Potential</emph></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">72</container>
+              <unittitle>Midland College Commencement, 
+					 <unitdate era="ce" calendar="gregorian">May 12, 1984: </unitdate><emph render="doublequote">Winning and Losing</emph></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">73</container>
+              <unittitle>Mortar Board Initiation Banquet, 
+					 <unitdate era="ce" calendar="gregorian">April 25, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">74</container>
+              <unittitle>Muleshoe, Texas Chamber of Commerce, 
+					 <unitdate era="ce" calendar="gregorian">April 2, 1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">75</container>
+              <unittitle>National Cowgirl Hall of Fame and Western Heritage
+					 Center, Hereford, Texas, 
+					 <unitdate era="ce" calendar="gregorian">April 17, 1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">76</container>
+              <unittitle>National Golden Spur Award, 
+					 <unitdate era="ce" calendar="gregorian">September 16, 1983: </unitdate>to J.
+					 Armstrong</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">77</container>
+              <unittitle>National Hispanic Institute, Austin Young Leaders
+					 Conference, Austin, 
+					 <unitdate era="ce" calendar="gregorian">February 19, 1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">78</container>
+              <unittitle>National Honor Society, New Deal High School, New
+					 Deal, 
+					 <unitdate era="ce" calendar="gregorian">April 8, 1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">79</container>
+              <unittitle>News Day, 
+					 <unitdate era="ce" calendar="gregorian">March 12, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">80</container>
+              <unittitle>Nixon High School Commencement, Laredo, TX, 
+					 <unitdate era="ce" calendar="gregorian">May 26, 1982: </unitdate><emph render="doublequote">Choices</emph></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">81</container>
+              <unittitle><emph render="doublequote">Partners in Education</emph>, 
+					 <unitdate era="ce" calendar="gregorian">October 7, 1983, </unitdate>TTU University Center
+					 Coronado Room</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">82</container>
+              <unittitle>Phi Kappa Phi Banquet, 
+					 <unitdate era="ce" calendar="gregorian">April 15, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">83</container>
+              <unittitle>Plainview Rotary Club, 
+					 <unitdate era="ce" calendar="gregorian">June 10, 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">84</container>
+              <unittitle>Plainview Texas State Teacher's Association, 
+					 <unitdate era="ce" calendar="gregorian">January 7, 1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">85</container>
+              <unittitle>Post High School Patriotic Assembly, 
+					 <unitdate era="ce" calendar="gregorian">April 30, 1985: </unitdate><emph render="doublequote">Why
+					 a Revolution</emph></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">86</container>
+              <unittitle>Post Texas Chamber of Commerce, 
+					 <unitdate era="ce" calendar="gregorian">March 2, 1982 </unitdate><emph render="doublequote">Issues
+					 Facing West Texans</emph></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">87</container>
+              <unittitle>National Prayer Breakfast, Reese Air Force Base, 
+					 <unitdate era="ce" calendar="gregorian">February 13, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">88</container>
+              <unittitle>Qualities of Leadership, All-University Leadership
+					 Conference, 
+					 <unitdate era="ce" calendar="gregorian">February 2, 1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">89</container>
+              <unittitle>Ranch Day, 
+					 <unitdate era="ce" calendar="gregorian">September 20, 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">90</container>
+              <unittitle>Rayburn Symposium, 
+					 <unitdate era="ce" calendar="gregorian">April 8, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">91</container>
+              <unittitle>Reese Air Force Base, <emph render="doublequote">Hispanic
+					 Heritage,</emph><unitdate era="ce" calendar="gregorian">September 14, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">92</container>
+              <unittitle>Research in Action - Introduction, Rita Crocker
+					 Clements, 
+					 <unitdate era="ce" calendar="gregorian">March 31, 1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">93</container>
+              <unittitle>Research in Action - National Early Childhood
+					 Conference, 
+					 <unitdate era="ce" calendar="gregorian">April 1, 1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">1</container>
+              <unittitle>ROTC Lecture Outline, 
+					 <unitdate era="ce" calendar="gregorian">April 1, 1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">2</container>
+              <unittitle>San Marcos, Southwest Texas State, 
+					 <unitdate era="ce" calendar="gregorian">Fall 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">3</container>
+              <unittitle>SER - 15th Annual Conference, 
+					 <unitdate era="ce" calendar="gregorian">April 21, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">4</container>
+              <unittitle>Sigma Xi Banquet, 
+					 <unitdate era="ce" calendar="gregorian">April 16, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">5</container>
+              <unittitle>Silver Bar Awards, Texas Commerce Bank, Odessa, TX, 
+					 <unitdate era="ce" calendar="gregorian">April 6, 1983</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">6</container>
+              <unittitle>South Plains Health Systems, 
+					 <unitdate era="ce" calendar="gregorian">September 10, 1981 </unitdate>(Medical)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">7</container>
+              <unittitle>South Plains Mortgage Association, 
+					 <unitdate era="ce" calendar="gregorian">December 3, 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">8</container>
+              <unittitle>South Plains Association of Governments (SPAG), Police
+					 Academy, 
+					 <unitdate era="ce" calendar="gregorian">September 30, 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">9</container>
+              <unittitle>St. John Newman's Catholic Parent/Teacher
+					 Organization, 
+					 <unitdate era="ce" calendar="gregorian">February 2, 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">10</container>
+              <unittitle>Student Leadership Seminar, 
+					 <unitdate era="ce" calendar="gregorian">January 7, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">11</container>
+              <unittitle>Symposium - Surgical Infections, 
+					 <unitdate era="ce" calendar="gregorian">October 31, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">12</container>
+              <unittitle>Tahoka Rotary Club Banquet, 
+					 <unitdate era="ce" calendar="gregorian">November 11, 1982: </unitdate><emph render="doublequote">Our Best Investment</emph></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">13</container>
+              <unittitle>Tejano Day, South Plains College, 
+					 <unitdate era="ce" calendar="gregorian">March 9, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">14</container>
+              <unittitle>Texas Association of Chicanos in Higher Education
+					 (TACHE), 
+					 <unitdate era="ce" calendar="gregorian">July 30, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">15</container>
+              <unittitle>Texas Philosophical Society, Fairmont Hotel, Dallas, 
+					 <unitdate era="ce" calendar="gregorian">December 5, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">16</container>
+              <unittitle>Texas and Southwestern Cattle Raisers Association, 
+					 <unitdate era="ce" calendar="gregorian">October 25, 1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">17</container>
+              <unittitle>Texas Tech University Commencement, 
+					 <unitdate era="ce" calendar="gregorian">May 15, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">18</container>
+              <unittitle>Texas Tech University Commencement, 
+					 <unitdate era="ce" calendar="gregorian">May 15, 1981 - </unitdate>Introduction of Charles H.
+					 Feltz</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">19</container>
+              <unittitle>Texas Tech University Commencement, 
+					 <unitdate era="ce" calendar="gregorian">December 18, 1981 - </unitdate>Introduction of
+					 Preston Smith</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">20</container>
+              <unittitle>Texas Tech University Commencement, 
+					 <unitdate era="ce" calendar="gregorian">May 14/15, 1982 - </unitdate>Four
+					 Speeches</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">21</container>
+              <unittitle>Texas Tech University Commencement, 
+					 <unitdate era="ce" calendar="gregorian">Dec. 17, 1982 - </unitdate>Intro. of Mayor Henry G.
+					 Cisneros, San Antonio</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">22</container>
+              <unittitle>Texas Tech University Commencement, 
+					 <unitdate era="ce" calendar="gregorian">Spring 1983 - </unitdate>Intro. of Billy Clayton,
+					 Charge to Graduates</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">23</container>
+              <unittitle>Texas Tech University Commencement, 
+					 <unitdate era="ce" calendar="gregorian">May 11, 1984 - </unitdate>Intro. of Senator John
+					 Tower, Charge to Grads</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">24</container>
+              <unittitle>Texas Tech University Commencement, 
+					 <unitdate era="ce" calendar="gregorian">December 1985 - </unitdate><emph render="doublequote">Your
+					 Kind of World</emph></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">25</container>
+              <unittitle>Texas Tech University Commencement, 
+					 <unitdate era="ce" calendar="gregorian">May 17, 1986 - </unitdate>Charge to the
+					 Graduates</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">26</container>
+              <unittitle>Texas Tech University Commencement, 
+					 <unitdate era="ce" calendar="gregorian">December 20, 1986 - 1986 - </unitdate>Commencement
+					 Welcome/Address</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">27</container>
+              <unittitle>Texas Tech University Commencement, 
+					 <unitdate era="ce" calendar="gregorian">December 20, 1986 -</unitdate>Charge to the
+					 Graduates</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">28</container>
+              <unittitle>Texas Tech University Commencement, 
+					 <unitdate era="ce" calendar="gregorian">December 19, 1987 -</unitdate>Charge to the
+					 Graduates</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">29</container>
+              <unittitle>Texas Tech University Commencement, 
+					 <unitdate era="ce" calendar="gregorian">May 14, 1988 -</unitdate>Charge to the
+					 Graduates</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">30</container>
+              <unittitle>Thomas Jefferson Award Banquet, Mass Communications
+					 Week, 
+					 <unitdate era="ce" calendar="gregorian">February 19, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">31</container>
+              <unittitle>Thomas Jefferson Award Banquet, 
+					 <unitdate era="ce" calendar="gregorian">February 19, 1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">32</container>
+              <unittitle>Thomas Jefferson Award Banquet, World Freedom of
+					 Information, 
+					 <unitdate era="ce" calendar="gregorian">February 18, 1983</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">33</container>
+              <unittitle>University Women's Club, 
+					 <unitdate era="ce" calendar="gregorian">October 1, 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">34</container>
+              <unittitle>Wesley Foundation, 
+					 <unitdate era="ce" calendar="gregorian">March 16, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">35</container>
+              <unittitle>Western Texas College, 
+					 <unitdate era="ce" calendar="gregorian">Spring 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">36</container>
+              <unittitle>West Texas Museum Association, 
+					 <unitdate era="ce" calendar="gregorian">October 21, 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">37</container>
+              <unittitle>Index to Speeches, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Lauro F. Cavazos, 
+				  <unitdate era="ce" calendar="gregorian">1980-1988</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">38</container>
+              <unittitle>President's Retreat, 
+					 <unitdate era="ce" calendar="gregorian">February 9, 1984</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">39</container>
+              <unittitle>Travel, 
+					 <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">40</container>
+              <unittitle>Memos From, 
+					 <unitdate era="ce" calendar="gregorian">1981-1988</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">41</container>
+              <unittitle>Memos To, 
+					 <unitdate era="ce" calendar="gregorian">1980-1988</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">42</container>
+              <unittitle>Executive Council, 
+					 <unitdate era="ce" calendar="gregorian">May 31, 1980-December 29, 1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">43</container>
+              <unittitle>Executive Council, 
+					 <unitdate era="ce" calendar="gregorian">January 6-December 23, 1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">44</container>
+              <unittitle>Bee for Lauro F. Cavazos, 
+					 <unitdate era="ce" calendar="gregorian">1983-1986</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Media Files, 
+				  <unitdate era="ce" calendar="gregorian">1932-1989 and undated</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">45</container>
+              <unittitle>Tip Sheets (Press Releases), 
+					 <unitdate era="ce" calendar="gregorian">June 20-23, 1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">46</container>
+              <unittitle>Tip Sheets (Press Releases), 
+					 <unitdate era="ce" calendar="gregorian">June 26-30, 1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">47</container>
+              <unittitle>Tip Sheets (Press Releases), 
+					 <unitdate era="ce" calendar="gregorian">July 3-7, 1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">48</container>
+              <unittitle>Tip Sheets (Press Releases), 
+					 <unitdate era="ce" calendar="gregorian">July 10-14, 1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">49</container>
+              <unittitle>Tip Sheets (Press Releases), 
+					 <unitdate era="ce" calendar="gregorian">July 17-20, 1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">50</container>
+              <unittitle>Tip Sheets (Press Releases), 
+					 <unitdate era="ce" calendar="gregorian">July 25-August 3, 1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">51</container>
+              <unittitle>Tip Sheets (Press Releases), 
+					 <unitdate era="ce" calendar="gregorian">August 7-11, 1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">52</container>
+              <unittitle>Tip Sheets (Press Releases), 
+					 <unitdate era="ce" calendar="gregorian">August 14-18, 1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">53</container>
+              <unittitle>Tip Sheets (Press Releases), 
+					 <unitdate era="ce" calendar="gregorian">August 22-25, 1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">54</container>
+              <unittitle>Tip Sheets (Press Releases), 
+					 <unitdate era="ce" calendar="gregorian">August 28-September 1, 1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">1</container>
+              <unittitle>Tip Sheets (Press Releases), 
+					 <unitdate era="ce" calendar="gregorian">September 5-8, 1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">2</container>
+              <unittitle>Tip Sheets (Press Releases), 
+					 <unitdate era="ce" calendar="gregorian">September 11-15, 1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">3</container>
+              <unittitle>Tip Sheets (Press Releases), 
+					 <unitdate era="ce" calendar="gregorian">September 18-22, 1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">4</container>
+              <unittitle>Tip Sheets (Press Releases), 
+					 <unitdate era="ce" calendar="gregorian">September 25-29, 1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">5</container>
+              <unittitle>Tip Sheets (Press Releases), 
+					 <unitdate era="ce" calendar="gregorian">October 2-6, 1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">6</container>
+              <unittitle>Tip Sheets (Press Releases), 
+					 <unitdate era="ce" calendar="gregorian">October 9-13, 1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">7</container>
+              <unittitle>Tip Sheets (Press Releases), 
+					 <unitdate era="ce" calendar="gregorian">October 16-20, 1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">8</container>
+              <unittitle>Tip Sheets (Press Releases), 
+					 <unitdate era="ce" calendar="gregorian">October 23-27, 1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">9</container>
+              <unittitle>Tip Sheets (Press Releases), 
+					 <unitdate era="ce" calendar="gregorian">October 30-November 3, 1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">10</container>
+              <unittitle>Tip Sheets (Press Releases), 
+					 <unitdate era="ce" calendar="gregorian">November 6-10, 1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">11</container>
+              <unittitle>Tip Sheets (Press Releases), 
+					 <unitdate era="ce" calendar="gregorian">November 13-17, 1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">12</container>
+              <unittitle>ABC - 20/20, 
+					 <unitdate era="ce" calendar="gregorian">1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">13</container>
+              <unittitle>Magazine, Annual Reports, 
+					 <unitdate era="ce" calendar="gregorian">1978-1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">14</container>
+              <unittitle>Bad News File, 
+					 <unitdate era="ce" calendar="gregorian">1982-1985</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">15</container>
+              <unittitle>Goodies, File 1, 
+					 <unitdate era="ce" calendar="gregorian">1982-1983</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">16</container>
+              <unittitle>Goodies, File 2, 
+					 <unitdate era="ce" calendar="gregorian">1982-1983</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">1</container>
+              <unittitle>Goodie File 
+					 <unitdate era="ce" calendar="gregorian">1983</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">2</container>
+              <unittitle>Goodie File 
+					 <unitdate era="ce" calendar="gregorian">1984</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">3</container>
+              <unittitle>Goodie to be Reported, 
+					 <unitdate era="ce" calendar="gregorian">1984</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">4</container>
+              <unittitle>Goodies, 
+					 <unitdate era="ce" calendar="gregorian">1985</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">5</container>
+              <unittitle>Committee Appointments, Task Force, etc., 
+					 <unitdate era="ce" calendar="gregorian">1980-1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">6</container>
+              <unittitle>Governor's Task Force on Illegal Aliens, 
+					 <unitdate era="ce" calendar="gregorian">1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">7</container>
+              <unittitle>Hispanic American Leadership Meeting, State
+					 Department, Washington, D. C., 
+					 <unitdate era="ce" calendar="gregorian">1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">8</container>
+              <unittitle>Hispanic Education Symposium II, 
+					 <unitdate era="ce" calendar="gregorian">1987</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">9</container>
+              <unittitle>Letters, 
+					 <unitdate era="ce" calendar="gregorian">1981-1982 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">10</container>
+              <unittitle>Lubbock Public Schools, Drop Out Task Force, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">11</container>
+              <unittitle>LULAC (League of United Latin-American Voters)
+					 Hispanic Educator of 1983, 
+					 <unitdate era="ce" calendar="gregorian">1983</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">12</container>
+              <unittitle>National Library of Medicine News, 
+					 <unitdate era="ce" calendar="gregorian">1985-1987</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">13</container>
+              <unittitle>Ranching Heritage Center II (General File), 
+					 <unitdate era="ce" calendar="gregorian">1975-1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">14</container>
+              <unittitle>Recreational Sports and Aquatic Center, 
+					 <unitdate era="ce" calendar="gregorian">1980-1982 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">15</container>
+              <unittitle>Research - Beef Cattle Nutrition, 
+					 <unitdate era="ce" calendar="gregorian">1984</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">16</container>
+              <unittitle>Research - Brush Control Studies, 
+					 <unitdate era="ce" calendar="gregorian">1969-1983 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">17</container>
+              <unittitle>Research - Cell Bank, 
+					 <unitdate era="ce" calendar="gregorian">1979</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">18</container>
+              <unittitle>Research - Crosbyton Solar Project, 
+					 <unitdate era="ce" calendar="gregorian">1974-1984</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">19</container>
+              <unittitle>Residence Halls, 
+					 <unitdate era="ce" calendar="gregorian">1968-1983 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">20</container>
+              <unittitle>Residence Halls: Wiggins Complex, 
+					 <unitdate era="ce" calendar="gregorian">1932-1984 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">4</container>
+              <container type="folder">21</container>
+              <unittitle>Hispanic Education Symposium, 
+					 <unitdate era="ce" calendar="gregorian">1984</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">1</container>
+              <unittitle>Retired Faculty, 
+					 <unitdate era="ce" calendar="gregorian">1968-1981 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">2</container>
+              <unittitle>Rhodes Scholarship, 
+					 <unitdate era="ce" calendar="gregorian">1978-1979</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">3</container>
+              <unittitle>Rodeo Association and Texas Tech Rodeo, 
+					 <unitdate era="ce" calendar="gregorian">1966-1986 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">4</container>
+              <unittitle>Saddle Tramps, 
+					 <unitdate era="ce" calendar="gregorian">1967-1986 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">5</container>
+              <unittitle>Harley Sadler, 
+					 <unitdate era="ce" calendar="gregorian">1974-1976</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">6</container>
+              <unittitle>Science and Technology Council, 
+					 <unitdate era="ce" calendar="gregorian">1986 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">7</container>
+              <unittitle>Seal of Texas Tech, 
+					 <unitdate era="ce" calendar="gregorian">1953-1976 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">8</container>
+              <unittitle>Sesquicentennial, 
+					 <unitdate era="ce" calendar="gregorian">1982-1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">9</container>
+              <unittitle>Self Study, 
+					 <unitdate era="ce" calendar="gregorian">1972-1984</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">10</container>
+              <unittitle>Shake Hands With Your Future, 
+					 <unitdate era="ce" calendar="gregorian">1982-1986 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">11</container>
+              <unittitle>Shrine Game, 
+					 <unitdate era="ce" calendar="gregorian">1972-1983</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">12</container>
+              <unittitle>Sigma Xi, 
+					 <unitdate era="ce" calendar="gregorian">1969-1981 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">13</container>
+              <unittitle>Soccer, 
+					 <unitdate era="ce" calendar="gregorian">1970-1974 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">14</container>
+              <unittitle>Solicitations and Publications Sales - Policy, 
+					 <unitdate era="ce" calendar="gregorian">1971</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">15</container>
+              <unittitle>Southern Regional Education Board, 
+					 <unitdate era="ce" calendar="gregorian">1978-1981 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">16</container>
+              <unittitle>Southwest Alliance for Latin America
+					 (SALA)</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">17</container>
+              <unittitle>Southwest Conference, 
+					 <unitdate era="ce" calendar="gregorian">1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">18</container>
+              <unittitle>Southwest Collection: Press Releases, 
+					 <unitdate era="ce" calendar="gregorian">1980-1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">19</container>
+              <unittitle>Southwest Collection: Printed Materials, 
+					 <unitdate era="ce" calendar="gregorian">1965-1986 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">20</container>
+              <unittitle>Southwest Collection: News Clippings, 
+					 <unitdate era="ce" calendar="gregorian">1980-1986 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">21</container>
+              <unittitle>Southwest Collection: Correspondence with Donors, 
+					 <unitdate era="ce" calendar="gregorian">1964-1986 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">22</container>
+              <unittitle>Southwest Collection: Reaugh Art, 
+					 <unitdate era="ce" calendar="gregorian">1940-1984</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">23</container>
+              <unittitle>Southwest Regional Broadcast Conference and Clinic, 
+					 <unitdate era="ce" calendar="gregorian">1973-1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">24</container>
+              <unittitle>Southwestern Bell - Texas Tech Publicity, 
+					 <unitdate era="ce" calendar="gregorian">1978</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">25</container>
+              <unittitle>Space and Facilities Committee, 
+					 <unitdate era="ce" calendar="gregorian">1971-1972</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">5</container>
+              <container type="folder">26</container>
+              <unittitle>Speaker's Brochure, 
+					 <unitdate era="ce" calendar="gregorian">1985 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">1</container>
+              <unittitle>Speaker's Bureau at Tech, 
+					 <unitdate era="ce" calendar="gregorian">1965-1985 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">2</container>
+              <unittitle>Special Requests, 
+					 <unitdate era="ce" calendar="gregorian">1971-1987</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">3</container>
+              <unittitle>Special Services, 
+					 <unitdate era="ce" calendar="gregorian">1973-1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">4</container>
+              <unittitle>Speech and Hearing Clinic, 
+					 <unitdate era="ce" calendar="gregorian">1967-1988</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">5</container>
+              <unittitle>Stadium, 
+					 <unitdate era="ce" calendar="gregorian">1973-1983</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">6</container>
+              <unittitle>Statistics and Reports, 
+					 <unitdate era="ce" calendar="gregorian">1968-1988</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">7</container>
+              <unittitle>Streaking, 
+					 <unitdate era="ce" calendar="gregorian">1974</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">8</container>
+              <unittitle>Student Action Organization, 
+					 <unitdate era="ce" calendar="gregorian">1968</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">9</container>
+              <unittitle>Student Affairs, Office of, 
+					 <unitdate era="ce" calendar="gregorian">1967-1986 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">10</container>
+              <unittitle>Student Association, 
+					 <unitdate era="ce" calendar="gregorian">1968-1986 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">11</container>
+              <unittitle>Student Foundation, 
+					 <unitdate era="ce" calendar="gregorian">1981-1984</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">12</container>
+              <unittitle>Student Health Services/Center, 
+					 <unitdate era="ce" calendar="gregorian">1967-1987 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">13</container>
+              <unittitle>Student Information System (SIS), 
+					 <unitdate era="ce" calendar="gregorian">1983-1984</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">14</container>
+              <unittitle>Student ID Cards, 
+					 <unitdate era="ce" calendar="gregorian">1969-1970</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">15</container>
+              <unittitle>Student Life, 
+					 <unitdate era="ce" calendar="gregorian">1971-1986 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">6</container>
+              <container type="folder">16</container>
+              <unittitle>Student Organizations, 
+					 <unitdate era="ce" calendar="gregorian">1970-1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">1</container>
+              <unittitle>Student Organizations of Black Unity, 
+					 <unitdate era="ce" calendar="gregorian">1968-1984 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">2</container>
+              <unittitle>SOS Monthly Newsletter, 
+					 <unitdate era="ce" calendar="gregorian">1984</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">3</container>
+              <unittitle>Student Publications, 
+					 <unitdate era="ce" calendar="gregorian">1969-1986 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">4</container>
+              <unittitle>Student Publications, 
+					 <unitdate era="ce" calendar="gregorian">September 4, 1981 - March 5,
+						1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">5</container>
+              <unittitle>Surveys/Questionnaires, 
+					 <unitdate era="ce" calendar="gregorian">1984</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">6</container>
+              <unittitle>Systems and Procedures Office, 
+					 <unitdate era="ce" calendar="gregorian">1972-1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">7</container>
+              <unittitle>Teaching Awards, General, 
+					 <unitdate era="ce" calendar="gregorian">1970 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">8</container>
+              <unittitle>Tech Freeway, 
+					 <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">9</container>
+              <unittitle>Tech Press, 
+					 <unitdate era="ce" calendar="gregorian">1981-1988</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">10</container>
+              <unittitle>Tech Times, 
+					 <unitdate era="ce" calendar="gregorian">1951-1966</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">11</container>
+              <unittitle>Tech Times, 
+					 <unitdate era="ce" calendar="gregorian">1965-1969</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">12</container>
+              <unittitle>Tech Times, 
+					 <unitdate era="ce" calendar="gregorian">1967-1970</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">13</container>
+              <unittitle>Technique, 
+					 <unitdate era="ce" calendar="gregorian">1977-1979</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">14</container>
+              <unittitle>Tenure, 
+					 <unitdate era="ce" calendar="gregorian">1979-1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">15</container>
+              <unittitle>Telephone Directories and Service (General), 
+					 <unitdate era="ce" calendar="gregorian">1967-1974</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">16</container>
+              <unittitle>Techmail, 
+					 <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">17</container>
+              <unittitle>Texas Academy of Science, 
+					 <unitdate era="ce" calendar="gregorian">1971-1978</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">18</container>
+              <unittitle>Texas Association of College Teachers (TACT), 
+					 <unitdate era="ce" calendar="gregorian">1972</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">7</container>
+              <container type="folder">19</container>
+              <unittitle>Texas Association of State Senior Colleges and
+					 Universities BS Officers (TASSCUBO), 
+					 <unitdate era="ce" calendar="gregorian">1968</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">1</container>
+              <unittitle>Texas College and University Systems Coordinating
+					 Board, 
+					 <unitdate era="ce" calendar="gregorian">1968-1987</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">2</container>
+              <unittitle>Texas Commission on Arts and Humanities, 
+					 <unitdate era="ce" calendar="gregorian">1973 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">3</container>
+              <unittitle>Texas Fine Arts Commission, 
+					 <unitdate era="ce" calendar="gregorian">1970-1971 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">4</container>
+              <unittitle>Texas Monthly, 
+					 <unitdate era="ce" calendar="gregorian">October 1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">5</container>
+              <unittitle>Texas Select Committee on Higher Education, 
+					 <unitdate era="ce" calendar="gregorian">1985-1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">6</container>
+              <unittitle>Texas Tech University, 
+					 <unitdate era="ce" calendar="gregorian">1980 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">7</container>
+              <unittitle>Texas Tech Appreciation Dinner, 
+					 <unitdate era="ce" calendar="gregorian">1986-1987</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">8</container>
+              <unittitle>Texas Tech News Roundup, 
+					 <unitdate era="ce" calendar="gregorian">1967</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">9</container>
+              <unittitle>Texas Tech Reports, 
+					 <unitdate era="ce" calendar="gregorian">1967-1969</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">10</container>
+              <unittitle>Texas Tech University - A Proud Tradition of
+					 Excellence, 
+					 <unitdate era="ce" calendar="gregorian">1978 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">11</container>
+              <unittitle>Texas Tech University Bulletin Board, 
+					 <unitdate era="ce" calendar="gregorian">1967-1968</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">12</container>
+              <unittitle>Texas Tech University - Amarillo, 
+					 <unitdate era="ce" calendar="gregorian">1964-1968 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">13</container>
+              <unittitle>Texas Tech University - Junction, 
+					 <unitdate era="ce" calendar="gregorian">1971-1986 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">14</container>
+              <unittitle>Texas Tech University Foundation, 
+					 <unitdate era="ce" calendar="gregorian">1967-1985 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">15</container>
+              <unittitle>Texas Tech University Foundation - Clippings, 
+					 <unitdate era="ce" calendar="gregorian">1971-1983 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">16</container>
+              <unittitle>Texas Tech University Foundation - Continued, 
+					 <unitdate era="ce" calendar="gregorian">1966-1986 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">17</container>
+              <unittitle>Texas Tech University - East Campus 
+					 <unitdate era="ce" calendar="gregorian">1984-1985</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">18</container>
+              <unittitle>Texas Tech University System, 
+					 <unitdate era="ce" calendar="gregorian">1985-1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">19</container>
+              <unittitle>Texas Tech Foundation - Student Foundation, 
+					 <unitdate era="ce" calendar="gregorian">1975-1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">20</container>
+              <unittitle>Texas Tech University - Lubbock Week, 
+					 <unitdate era="ce" calendar="gregorian">1971-1972</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">8</container>
+              <container type="folder">21</container>
+              <unittitle>Texas Tech University - Organization, 
+					 <unitdate era="ce" calendar="gregorian">1979-1986 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">1</container>
+              <unittitle>Texas Tech University -1970 Tornado, 
+					 <unitdate era="ce" calendar="gregorian">1970-1980 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">2</container>
+              <unittitle>Texas Tech University - Scene, 
+					 <unitdate era="ce" calendar="gregorian">1982 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">3</container>
+              <unittitle>Texas Tech University - Role and Scope, 
+					 <unitdate era="ce" calendar="gregorian">1977</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">4</container>
+              <unittitle>Top Techsans, 
+					 <unitdate era="ce" calendar="gregorian">1973-1984</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">5</container>
+              <unittitle>Tuition, 
+					 <unitdate era="ce" calendar="gregorian">1967-1984 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">6</container>
+              <unittitle>University Police, 
+					 <unitdate era="ce" calendar="gregorian">1967-1986 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">7</container>
+              <unittitle>United Mexican American Students, 
+					 <unitdate era="ce" calendar="gregorian">1981-1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">8</container>
+              <unittitle>U.S. Geological Survey, 
+					 <unitdate era="ce" calendar="gregorian">1973 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">9</container>
+              <unittitle>U.S. Information Agency, 
+					 <unitdate era="ce" calendar="gregorian">1969-1973 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">10</container>
+              <unittitle>U.S. Savings Bond, 
+					 <unitdate era="ce" calendar="gregorian">1973-1974</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">11</container>
+              <unittitle>Universidad de San Luis Potosi, 
+					 <unitdate era="ce" calendar="gregorian">1968</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">12</container>
+              <unittitle>University Avenue, 
+					 <unitdate era="ce" calendar="gregorian">1980-1982 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">13</container>
+              <unittitle>University Ballroom, 
+					 <unitdate era="ce" calendar="gregorian">1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">14</container>
+              <unittitle>United Way, 
+					 <unitdate era="ce" calendar="gregorian">1970-1988 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">15</container>
+              <unittitle>United Way Campaign, 
+					 <unitdate era="ce" calendar="gregorian">1979</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">16</container>
+              <unittitle>United Way Campaign General Information, 
+					 <unitdate era="ce" calendar="gregorian">1976-1982 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">17</container>
+              <unittitle>United Way Campaign Jane Brandenburger, 
+					 <unitdate era="ce" calendar="gregorian">1978</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">18</container>
+              <unittitle>United Way Campaign - Campaign Fundamentals, 
+					 <unitdate era="ce" calendar="gregorian">1976-1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">19</container>
+              <unittitle>United Way Campaign - Personnel, 
+					 <unitdate era="ce" calendar="gregorian">1976</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">20</container>
+              <unittitle>Agricultural Economics, 
+					 <unitdate era="ce" calendar="gregorian">1985-1987</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">21</container>
+              <unittitle>Agricultural Education, 
+					 <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">22</container>
+              <unittitle>Agricultural Service, 
+					 <unitdate era="ce" calendar="gregorian">1985-1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">23</container>
+              <unittitle>Animal Science, 
+					 <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">24</container>
+              <unittitle>Entomology, 
+					 <unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">25</container>
+              <unittitle>University Center, 
+					 <unitdate era="ce" calendar="gregorian">1968-1987 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">9</container>
+              <container type="folder">26</container>
+              <unittitle>University Center, Activities, 
+					 <unitdate era="ce" calendar="gregorian">1968-1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">1</container>
+              <unittitle>University Committees, 
+					 <unitdate era="ce" calendar="gregorian">1976-1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">2</container>
+              <unittitle>Universities Council on Water Resources, 
+					 <unitdate era="ce" calendar="gregorian">1973</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">3</container>
+              <unittitle>University Day, 
+					 <unitdate era="ce" calendar="gregorian">1982-1986 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">4</container>
+              <unittitle>University Daily, 
+					 <unitdate era="ce" calendar="gregorian">1967-1988</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">5</container>
+              <unittitle>University Magazines, 
+					 <unitdate era="ce" calendar="gregorian">1982-1985 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">6</container>
+              <unittitle>University News and Publications, 
+					 <unitdate era="ce" calendar="gregorian">1966-1986 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">7</container>
+              <unittitle>University News and Publications, Job Applications, 
+					 <unitdate era="ce" calendar="gregorian">1969-1979 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">8</container>
+              <unittitle>University News and Publications, Policy, 
+					 <unitdate era="ce" calendar="gregorian">1975-1980 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">9</container>
+              <unittitle>University News and Publications, Publications
+					 Clearinghouse, 
+					 <unitdate era="ce" calendar="gregorian">1980-1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">10</container>
+              <unittitle>University News and Publications, Subject File Guides,
+					 
+					 <unitdate era="ce" calendar="gregorian">1967-1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">11</container>
+              <unittitle>University News and Publications, Equipment:
+					 Correspondence, etc, 
+					 <unitdate era="ce" calendar="gregorian">1967-1977 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">12</container>
+              <unittitle>University News and Publications, Stylebook, 
+					 <unitdate era="ce" calendar="gregorian">1967-1979 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">13</container>
+              <unittitle>University News and Publications, Electronics, 
+					 <unitdate era="ce" calendar="gregorian">1980 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">14</container>
+              <unittitle>University News and Publications, Office Copies, 
+					 <unitdate era="ce" calendar="gregorian">1979</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">15</container>
+              <unittitle>University News and Publications, Space, 
+					 <unitdate era="ce" calendar="gregorian">1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">16</container>
+              <unittitle>University Orchestra, 
+					 <unitdate era="ce" calendar="gregorian">1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">17</container>
+              <unittitle>University Professors, 
+					 <unitdate era="ce" calendar="gregorian">1973-1974</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">18</container>
+              <unittitle>University Speakers, 
+					 <unitdate era="ce" calendar="gregorian">1965-1978 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">10</container>
+              <container type="folder">19</container>
+              <unittitle>University of Texas, Dallas, 
+					 <unitdate era="ce" calendar="gregorian">1967-1968</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">1</container>
+              <unittitle>University Theatre - Summer Repertory, 
+					 <unitdate era="ce" calendar="gregorian">1967-1985</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">2</container>
+              <unittitle>University Women's Club, 
+					 <unitdate era="ce" calendar="gregorian">1967-1983</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">3</container>
+              <unittitle>Upward Bound, 
+					 <unitdate era="ce" calendar="gregorian">1968-1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">4</container>
+              <unittitle>Urban Studies Program, 
+					 <unitdate era="ce" calendar="gregorian">1972-1974 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">5</container>
+              <unittitle>Views of Tech, 
+					 <unitdate era="ce" calendar="gregorian">1967 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">6</container>
+              <unittitle>Water, 
+					 <unitdate era="ce" calendar="gregorian">1981-1983</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">7</container>
+              <unittitle>Water Management Office, 
+					 <unitdate era="ce" calendar="gregorian">1968-1984</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">8</container>
+              <unittitle>Water Resources Center, 
+					 <unitdate era="ce" calendar="gregorian">1966-1986 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">9</container>
+              <unittitle>Welch Foundation, 
+					 <unitdate era="ce" calendar="gregorian">1962-1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">10</container>
+              <unittitle>Western Information Network, 
+					 <unitdate era="ce" calendar="gregorian">1967-1972</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">11</container>
+              <unittitle>Clippings/Cavazos, 
+					 <unitdate era="ce" calendar="gregorian">1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">12</container>
+              <unittitle>Clippings/Cavazos, 
+					 <unitdate era="ce" calendar="gregorian">1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">13</container>
+              <unittitle>Clippings/Cavazos, 
+					 <unitdate era="ce" calendar="gregorian">1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">14</container>
+              <unittitle>Clippings/Cavazos, 
+					 <unitdate era="ce" calendar="gregorian">1983</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">11</container>
+              <container type="folder">15</container>
+              <unittitle>Clippings/Cavazos, 
+					 <unitdate era="ce" calendar="gregorian">1984-1985</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">1</container>
+              <unittitle>Ranch Day, 
+					 <unitdate era="ce" calendar="gregorian">1972-1986 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">2</container>
+              <unittitle>National Golden Spur Award, 
+					 <unitdate era="ce" calendar="gregorian">1978 </unitdate>Albert K. Mitchell</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">3</container>
+              <unittitle>National Golden Spur Award, 
+					 <unitdate era="ce" calendar="gregorian">1979 </unitdate>Jay Littleton Taylor</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">4</container>
+              <unittitle>National Golden Spur Award, 
+					 <unitdate era="ce" calendar="gregorian">1980 </unitdate>Fred H. Dressler</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">5</container>
+              <unittitle>National Golden Spur Award, 
+					 <unitdate era="ce" calendar="gregorian">1981, </unitdate>Watt Matthews</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">6</container>
+              <unittitle>National Golden Spur Award, 
+					 <unitdate era="ce" calendar="gregorian">1982, </unitdate>J. Ernest Browning</unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">7</container>
+              <unittitle>Wesley Foundation, 
+					 <unitdate era="ce" calendar="gregorian">1967-1986</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">8</container>
+              <unittitle>West Texas Chamber of Commerce, 
+					 <unitdate era="ce" calendar="gregorian">1972-1979 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">9</container>
+              <unittitle>West Texas Environmental Studies, 
+					 <unitdate era="ce" calendar="gregorian">1974 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">10</container>
+              <unittitle>West Texas Press Association, 
+					 <unitdate era="ce" calendar="gregorian">1971-1987</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">11</container>
+              <unittitle>Who's Who in American Universities and Colleges, 
+					 <unitdate era="ce" calendar="gregorian">1969-1989 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">12</container>
+              <unittitle>Wildlife Research Laboratory, 
+					 <unitdate era="ce" calendar="gregorian">1978-1979</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">13</container>
+              <unittitle>Will Rogers Statue, 
+					 <unitdate era="ce" calendar="gregorian">1967-1985 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">14</container>
+              <unittitle>Wilson Lecture Series, 
+					 <unitdate era="ce" calendar="gregorian">1969-1971</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">15</container>
+              <unittitle>Winners and Sinners, 
+					 <unitdate era="ce" calendar="gregorian">1970-1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">16</container>
+              <unittitle>Woman of the Year, 
+					 <unitdate era="ce" calendar="gregorian">1974-1979</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">17</container>
+              <unittitle>Woman's Day, 
+					 <unitdate era="ce" calendar="gregorian">1967-1985</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">18</container>
+              <unittitle>Women in Communications, 
+					 <unitdate era="ce" calendar="gregorian">1975-1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">19</container>
+              <unittitle>Women's Service Organizations, 
+					 <unitdate era="ce" calendar="gregorian">1974-1977</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">20</container>
+              <unittitle>Women's Swing Choir, 
+					 <unitdate era="ce" calendar="gregorian">1977</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">21</container>
+              <unittitle>Woodrow Wilson National Fellowship Foundation, 
+					 <unitdate era="ce" calendar="gregorian">1967-1971</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">22</container>
+              <unittitle>World Affairs Conference (Model United Nations until
+					 1968), 
+					 <unitdate era="ce" calendar="gregorian">1967-1975</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">23</container>
+              <unittitle>Writer's Tour, 
+					 <unitdate era="ce" calendar="gregorian">1968-1970</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">24</container>
+              <unittitle>Council of Presidents Meeting, 
+					 <unitdate era="ce" calendar="gregorian">1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">25</container>
+              <unittitle>Registrar's Office, 
+					 <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">26</container>
+              <unittitle>Registration Prior to 1980-1981, 
+					 <unitdate era="ce" calendar="gregorian">1968-1979</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">12</container>
+              <container type="folder">27</container>
+              <unittitle>Registration, 
+					 <unitdate era="ce" calendar="gregorian">1980-1984</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Personal Papers, 
+				<unitdate era="ce" calendar="gregorian">1952-1994 and undated</unitdate></unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Correspondence, 
+				  <unitdate era="ce" calendar="gregorian">1977-1994 and undated</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">1</container>
+              <unittitle>Correspondence, 
+					 <unitdate era="ce" calendar="gregorian">1988-1992 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">2</container>
+              <unittitle>Correspondence, Cards and Invitations, 
+					 <unitdate era="ce" calendar="gregorian">1991-1993 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">3</container>
+              <unittitle>Correspondence, Resignation, 
+					 <unitdate era="ce" calendar="gregorian">1990-1991</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Events, 
+				  <unitdate era="ce" calendar="gregorian">1980-1993</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">4</container>
+              <unittitle>American Institute of Biological Sciences (AIBS), San
+					 Antonio Convention Center, 
+					 <unitdate era="ce" calendar="gregorian">Aug. 4, 1991</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">5</container>
+              <unittitle>Association of Anatomy Chairmen, 
+					 <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">6</container>
+              <unittitle>Cavazos Junior High School, Lubbock, TX, 
+					 <unitdate era="ce" calendar="gregorian">1992-1993</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">7</container>
+              <unittitle>International Talent Association, Utah State
+					 University, 
+					 <unitdate era="ce" calendar="gregorian">Nov. 21, 1991</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">8</container>
+              <unittitle>Inauguration as President, Texas Tech University, 
+					 <unitdate era="ce" calendar="gregorian">1980</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Literary Materials, 
+				  <unitdate era="ce" calendar="gregorian">1990-1994</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">9</container>
+              <unittitle>Speeches: American Association of University Students,
+					 Texas A&amp;#38;M University, 
+					 <unitdate era="ce" calendar="gregorian">March 1, 1990</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">10</container>
+              <unittitle>Speeches: American Federation of Teachers Convention, 
+					 <unitdate era="ce" calendar="gregorian">July 5, 1990</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">11</container>
+              <unittitle>Speeches: Choice in Education Press Conference, 
+					 <unitdate era="ce" calendar="gregorian">Dec. 4, 1990</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">12</container>
+              <unittitle>Speeches: Latinos en Salud Conference, 
+					 <unitdate era="ce" calendar="gregorian">April 16, 1994</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">13</container>
+              <unittitle>Speeches: Pre-service Program for Administrators,
+					 Laredo ISD, 
+					 <unitdate era="ce" calendar="gregorian">Aug. 17, 1990</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">14</container>
+              <unittitle>Speeches: Quality Through Flexibility and
+					 Accountability, 
+					 <unitdate era="ce" calendar="gregorian">Dec. 4, 1990</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">15</container>
+              <unittitle>Speeches: Task Force on Minority Teachers Forum, 
+					 <unitdate era="ce" calendar="gregorian">March 27, 1990</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">16</container>
+              <unittitle>Speeches: Tennessee College Association, 
+					 <unitdate era="ce" calendar="gregorian">April 18, 1991</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">17</container>
+              <unittitle>Speeches: Texas Christian University, Fall
+					 Convocation, 
+					 <unitdate era="ce" calendar="gregorian">Sept. 11, 1990</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">18</container>
+              <unittitle>Speeches: Texas Legislative Joint Session, 
+					 <unitdate era="ce" calendar="gregorian">March 6, 1990</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">19</container>
+              <unittitle>Article: Corpus Christi Caller-Times, 
+					 <unitdate era="ce" calendar="gregorian">April 20, 1991</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">20</container>
+              <unittitle>Speech and Article: Philosophical Society of Texas, 
+					 <unitdate era="ce" calendar="gregorian">1990-1991</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">21</container>
+              <unittitle>Desk Calendars and Appointments, 
+					 <unitdate era="ce" calendar="gregorian">1992-1994</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>U.S. Department of Education, 
+				  <unitdate era="ce" calendar="gregorian">1989-1990</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">22</container>
+              <unittitle>Personnel Directory, Cabinet Members, 
+					 <unitdate era="ce" calendar="gregorian">1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">23</container>
+              <unittitle>Personnel List, 
+					 <unitdate era="ce" calendar="gregorian">1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">24</container>
+              <unittitle>Organizational Directory, 
+					 <unitdate era="ce" calendar="gregorian">1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">25</container>
+              <unittitle>Task Force For Hispanic Education, 
+					 <unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Printed Material, 
+				  <unitdate era="ce" calendar="gregorian">1952-1994</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">26</container>
+              <unittitle>News Clippings: Lauro Cavazos, 
+					 <unitdate era="ce" calendar="gregorian">1973-1994 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">27</container>
+              <unittitle>News Clippings: Education, 
+					 <unitdate era="ce" calendar="gregorian">1982-1993</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">28</container>
+              <unittitle>News Clippings: King Ranch, 
+					 <unitdate era="ce" calendar="gregorian">1956-1991 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">29</container>
+              <unittitle>News Clippings: Miscellaneous, 
+					 <unitdate era="ce" calendar="gregorian">1993 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">30</container>
+              <unittitle>Magazines: Hispanic, 
+					 <unitdate era="ce" calendar="gregorian">January 1988</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">31</container>
+              <unittitle>Magazines: Hispanic Business, 
+					 <unitdate era="ce" calendar="gregorian">April 1994</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">32</container>
+              <unittitle>Magazines: Hispanic Engineer, 
+					 <unitdate era="ce" calendar="gregorian">Winter, 1990</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">33</container>
+              <unittitle>Magazines: The Ricochet, 
+					 <unitdate era="ce" calendar="gregorian">December 21, 1993</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">34</container>
+              <unittitle>Magazines: The Scarab, 
+					 <unitdate era="ce" calendar="gregorian">November 1959</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">35</container>
+              <unittitle>Magazines: Texas Techsan, 
+					 <unitdate era="ce" calendar="gregorian">January 1994</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">36</container>
+              <unittitle>Magazines: Time, 
+					 <unitdate era="ce" calendar="gregorian">January 31, 1994</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">13</container>
+              <container type="folder">37</container>
+              <unittitle>Magazines: Tufts Medicine, Centennial Edition, 
+					 <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+              <physdesc>(2 Copies)</physdesc>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">1</container>
+              <unittitle>Reports: Diamond Shamrock, Reports, 
+					 <unitdate era="ce" calendar="gregorian">1990, 1992-1993</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">2</container>
+              <unittitle>Reports: Diamond Shamrock, Notice of Meetings, 
+					 <unitdate era="ce" calendar="gregorian">1994</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">3</container>
+              <unittitle>Reports: Luby's, Report, 
+					 <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">4</container>
+              <unittitle>Program: American Association of College for Teacher
+					 Education, 
+					 <unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">5</container>
+              <unittitle>Calendar: Newport News School District, 
+					 <unitdate era="ce" calendar="gregorian">1990-1991</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">6</container>
+              <unittitle>Journal: Harvard Journal of Law and Public Policy, 
+					 <unitdate era="ce" calendar="gregorian">Spring 1991</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">7</container>
+              <unittitle>Journal: Proceedings of 70th Annual Meeting, Tennessee
+					 College Association, 
+					 <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">8</container>
+              <unittitle>Newsletters: 
+					 <unitdate era="ce" calendar="gregorian">1991-1994</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">9</container>
+              <unittitle>Directories: American Association of Anatomists,
+					 Departments of Anatomy, 
+					 <unitdate era="ce" calendar="gregorian">1979-1983</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">10</container>
+              <unittitle>Yearbooks: Tufts University 
+					 <unitdate era="ce" calendar="gregorian">1969, 1974, 1976, 1980-1981</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">11</container>
+              <unittitle>Paperback Book: Teachers Make A Difference, 
+					 <unitdate era="ce" calendar="gregorian">1991</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">12</container>
+              <unittitle>Miscellaneous, 
+					 <unitdate era="ce" calendar="gregorian">1983-1993 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unittitle>Memorabilia, 
+				  <unitdate era="ce" calendar="gregorian">1989-1993 and undated</unitdate></unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">13</container>
+              <unittitle>Photo Album, Texas A&amp;#38;M University
+					 Commencement, 
+					 <unitdate era="ce" calendar="gregorian">December 10, 1982</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">14</container>
+              <unittitle>Awards and Certificates, 
+					 <unitdate era="ce" calendar="gregorian">1990-1992</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">15</container>
+              <unittitle>President Bush's Pen, 
+					 <unitdate era="ce" calendar="gregorian">April 1989</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">14</container>
+              <container type="folder">16</container>
+              <unittitle>Name Tags, 
+					 <unitdate era="ce" calendar="gregorian">1991 and undated</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">15</container>
+              <container type="folder">1</container>
+              <unittitle>Plaques: Gregory-Portland High School, 
+					 <unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">15</container>
+              <container type="folder">2</container>
+              <unittitle>Plaques: Top 50 Banquet, Abilene, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1992</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">15</container>
+              <container type="folder">3</container>
+              <unittitle>Plaques: COMA, Lubbock, 
+					 <unitdate era="ce" calendar="gregorian">1993</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">15</container>
+              <container type="folder">4</container>
+              <unittitle>Plaques: Madison Hotel, 
+					 <unitdate era="ce" calendar="gregorian">1990</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">15</container>
+              <container type="folder">5</container>
+              <unittitle>Plaques: Base, San Diego, California, 
+					 <unitdate era="ce" calendar="gregorian">1989</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

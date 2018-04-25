@@ -1,0 +1,1685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00114</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>W. P. (William Pulver) Soash:</titleproper>
+        <subtitle>An Inventory of His Papers, 1894-1967 and undated, at the
+			 Southwest Collection/Special Collections Library</subtitle>
+        <author>Abel Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">August 2000</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">December 2000.</date></creation>
+      <langusage>Finding aid written in <language>English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Mon Dec 6, 2004</date>
+        <item>urn:taro:ttu.sw.00114 revised by Abel Ramirez.</item>
+      </change>
+      <change>
+        <date>Tue Jul 22 15:22:28 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00114 converted from EAD 1.0 to 2002 by
+			 v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the W. P. (William Pulver) Soash Papers,
+		  1894-1967 and undated</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">August 2000</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <persname encodinganalog="100">Soash, W. P. (William Pulver),
+			 1877-1961</persname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">W. P. Soash Papers, 
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1904-1967 and undated</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">The papers of William
+		  Pulver Soash, a real estate developer and land colonizer who founded the W. P.
+		  Soash Land Company and the Lone Star Land Company.</abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 944.1</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:"> 5 boxes (5.0 linear
+		  feet)</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>A real estate developer and land colonizer in the early twentieth
+		  century, Soash was born in 1877. He founded the W. P. Soash Land Company in
+		  1905. Operating from Waterloo, Iowa, and later in Florida and West Texas, he
+		  sold land developments in the Midwest, the Plains States, and Florida, but
+		  principally in Texas. Soash founded, with members of the C. C. Slaughter
+		  family, the Lone Star Land Company in 1924, and was extensively engaged in the
+		  sale and purchase of oil leases and royalties, generally for others, in the
+		  late 1930s. He opened West Texas and Panhandle ranch lands for colonization,
+		  including lands in Hockley, Cochran, Lamb, Hale, Borden, Martin, and Howard
+		  counties. The towns of Ware and Olton, Texas, were two of his successful
+		  projects. He was married to Minnie Hasse, and served in World War I as a second
+		  lieutenant in the Texas Cavalry. Soash was also a member of the Methodist
+		  church and a Mason. He died in 1961.</p>
+      <p>The Handbook of Texas has published a more in-depth online biography
+		  of William Pulver Soash at
+		  http://www.tsha.utexas.edu/handbook/online/search.html</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The collection includes business and personal correspondence, legal
+		  and financial material, printed and scrapbook materials, land advertisements,
+		  maps, and posters. It bulks (1900-1950) with business files and correspondence,
+		  of Soash's real estate company, and also includes copies of the Soash-produced
+		  magazine, 
+		<title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="doublequote" xlink:href="">The Golden West</title> and
+		information on C. C. Slaughter. </p>
+    </scopecontent>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+      <controlaccess>
+        <head>Subjects (Persons)</head>
+        <persname encodinganalog="600" source="lcnaf">Soash, W. P. (William
+			 Pulver), 1877-1961</persname>
+        <persname encodinganalog="600" source="lcnaf">Slaughter, C. C.
+			 (Christopher Columbus), 1837-1919</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname encodinganalog="610" source="lcnaf">Lone Star Land
+			 Company</corpname>
+        <corpname encodinganalog="610" source="local">W. P. Soash Land
+			 Company</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">Agriculture--Texas,
+			 West--History</subject>
+        <subject encodinganalog="650" source="lcsh">Depressions--1929</subject>
+        <subject encodinganalog="650" source="lcsh">Land settlement--Texas, West</subject>
+        <subject encodinganalog="650" source="lcsh">Land
+			 companies--Texas--History--Sources</subject>
+        <subject encodinganalog="650" source="lcsh">Land
+			 settlement--Texas--Littlefield--History--Sources</subject>
+        <subject encodinganalog="650" source="lcsh">Real estate
+			 business--Texas, West</subject>
+        <subject encodinganalog="650" source="lcsh">Real estate
+			 development--Texas, West</subject>
+        <subject encodinganalog="650" source="lcsh">Ranches--Texas,
+			 West</subject>
+        <subject encodinganalog="650" source="lcsh">Ranching--Texas,
+			 West</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <head>Acquisition</head>
+      <p>Gifts, 1963-1978</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, August 2000</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>W. P. (William Pulver) Soash Papers, 1894-1967 and undated, Southwest
+		  Collection/Special Collections Library, Texas Tech University, Lubbock,
+		  Texas</p>
+    </prefercite>
+    <bibliography id="a10">
+      <head>Additional Sources</head>
+      <bibref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">Seymour V. Connor, ed. 
+		  <title xlink:type="simple" render="italic" xlink:href="">Builders of the Southwest.
+			 </title>Lubbock: Southwest Collection, Texas Technological College,
+		  1959.</bibref>
+    </bibliography>
+    <relatedmaterial encodinganalog="544 1" id="a6">
+      <p>For related materials located in the Southwest Collection/Special
+		  Collections Library, see the following collections:</p>
+      <list type="simple">
+        <item>Lee Cooper oral history interview [sound recording], 1970</item>
+        <item>Jimmy DeLoach oral history interview [sound recording],
+			 1969</item>
+        <item>David B. Gracy Papers, 1966-1968</item>
+        <item>Owen McWhorter oral history interview [sound recording],
+			 1976</item>
+        <item>R. L. Slaughter Papers, 1892-1969</item>
+        <item>Hanley Wasson oral history interview [sound recording],
+			 1959</item>
+        <item>W. P. Soash Oversized Materials, O7.1</item>
+        <item>Soash, Texas photograph collection, SWCPC 381</item>
+        <item>W. P. Soash microfilmed papers, S676 and S676W</item>
+      </list>
+    </relatedmaterial>
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+      <c01>
+        <did>
+          <unittitle>General Office Files</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Akin, Minnie, 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Amicable Life Insurance, 
+				  <unitdate era="ce" calendar="gregorian">1937-1938</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Angley, Professor W. E., 
+				  <unitdate era="ce" calendar="gregorian">1953-1955</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Bean, George R., 
+				  <unitdate era="ce" calendar="gregorian">1937-1955</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Bell, H. D., 
+				  <unitdate era="ce" calendar="gregorian">1942-1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Benson, George E., 
+				  <unitdate era="ce" calendar="gregorian">1940-1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Benson, W. J., Leases, closed, 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Bessent, Inez, 
+				  <unitdate era="ce" calendar="gregorian">1937-1938</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>Borden County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle>Borden County, Texas, NW Section 19-32-3N, 
+				  <unitdate era="ce" calendar="gregorian">1926-1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Broadhurst, William</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">11</container>
+              <unittitle>Helmerich, and Payne, Inc., Tulsa, Oklahoma, 
+					 <unitdate era="ce" calendar="gregorian">1943-1944</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">12</container>
+              <unittitle>Helmerich and Payne, Inc., Lehman Block, 
+					 <unitdate era="ce" calendar="gregorian">1943-1945</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">13</container>
+              <unittitle>Helmerich and Payne, Inc., Tract 14 Well, Hendricks,
+					 Castle and Sanders Titles, 
+					 <unitdate era="ce" calendar="gregorian">1944-1946</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">1</container>
+              <container type="folder">14</container>
+              <unittitle>Helmerich and Payne, Inc., Wright #1, 
+					 <unitdate era="ce" calendar="gregorian">1943-1944</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle>Broyles, William G., Dallas, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle>Burleson, J. A., 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+            <unittitle>Cascade Petroleum, Davidson, C. J. "Red", 
+				  <unitdate era="ce" calendar="gregorian">1937-1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+            <unittitle>Castro County, Texas plats, 
+				  <unitdate era="ce" calendar="gregorian">1938</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">19</container>
+            <unittitle>Causseaux, T. L., 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+            <unittitle>Citizens National Bank, Lubbock, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1938-1948</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+            <unittitle>Cobb and Daniel: Vealmoor Drilling Contract, Mrs. Veal, 
+				  <unitdate era="ce" calendar="gregorian">1941-1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+            <unittitle>Collier, S. F. and Estate of W. L. Ellwood, 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+            <unittitle>Collier, W. J., 
+				  <unitdate era="ce" calendar="gregorian">1937-1938</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+            <unittitle>Constantine, E., Jr., Dallas, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1943-1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">25</container>
+            <unittitle>Constantine, E., Jr., Pep Block, Free Leases, 
+				  <unitdate era="ce" calendar="gregorian">1943-1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+            <unittitle>Cook, Bob, Big Spring, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1939-1947</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">27</container>
+            <unittitle>Cook, J. T., Dallas, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">28</container>
+            <unittitle>Cottle County Drilling, Bill Stinson, Paducah, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1935-1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">29</container>
+            <unittitle>Cotton Land Company, Slaughter Lands, 
+				  <unitdate era="ce" calendar="gregorian">1923-1926</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">30</container>
+            <unittitle>Crenshaw, Dupree and Milam, 
+				  <unitdate era="ce" calendar="gregorian">1947-1957</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">31</container>
+            <unittitle>Davis, T. J., 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">32</container>
+            <unittitle>Denton, L. C., Lubbock County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">33</container>
+            <unittitle>Duggan, Arthur P., 
+				  <unitdate era="ce" calendar="gregorian">1926-1935</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">34</container>
+            <unittitle>Dunn, Sam G., J. E. Alexander, Cochran County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1949</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">35</container>
+            <unittitle>Dunnam, W. D., Royalty, 
+				  <unitdate era="ce" calendar="gregorian">1938-1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">36</container>
+            <unittitle>Ellwood, W. L., Estate and E. M. May, 
+				  <unitdate era="ce" calendar="gregorian">May, 1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">37</container>
+            <unittitle>Flippen, W. H., Attorney, Dallas, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1931-1949</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">38</container>
+            <unittitle>Ford, Phil, Bean Leases, 
+				  <unitdate era="ce" calendar="gregorian">1937-1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">39</container>
+            <unittitle>Fox, A. T., Lynn County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">40</container>
+            <unittitle>General American Oil Corporation, 
+				  <unitdate era="ce" calendar="gregorian">1957</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">41</container>
+            <unittitle>Griffin, Gordon, McAllen, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1927-1931</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">42</container>
+            <unittitle>Guthrie, C. W., Big Spring, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1953-1957</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">43</container>
+            <unittitle>Hale County, Texas, No. 1, 
+				  <unitdate era="ce" calendar="gregorian">1944-1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">44</container>
+            <unittitle>Hamilton, P. L., 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">45</container>
+            <unittitle>Handley, W. B., Attorney, Dallas, 
+				  <unitdate era="ce" calendar="gregorian">1942-1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">46</container>
+            <unittitle>Harp, D. Leon and Wallace Scott, Securities
+				  Commissioners of Texas, 
+				  <unitdate era="ce" calendar="gregorian">1938-1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>Hilton, J. L., Lease, 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle>Hults, L. E., 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>Instruments and Titles, Old, 
+				  <unitdate era="ce" calendar="gregorian">1925-1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>Jones, C. B., Lease and A. L. Cromer Lease, 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>Kahlick, Fred, 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle>Kay, R. C., 
+				  <unitdate era="ce" calendar="gregorian">1939-1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle>Kay, R. C., 
+				  <unitdate era="ce" calendar="gregorian">1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle>Kay, R. C., 
+				  <unitdate era="ce" calendar="gregorian">1916-1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle>Kay, R. C., 
+				  <unitdate era="ce" calendar="gregorian">1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unittitle>Kay, R. C., List, 
+				  <unitdate era="ce" calendar="gregorian">1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unittitle>Kearby, Allen, McAllen, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1928</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">12</container>
+            <unittitle>Kelsey, John H., Midland, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1946-1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+            <unittitle>Kelso, Lena, 
+				  <unitdate era="ce" calendar="gregorian">1937-1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">14</container>
+            <unittitle>Kidd, J. T., Borden County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1926-1930</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">15</container>
+            <unittitle>Landon, Jame C., Ranch for Sale, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">16</container>
+            <unittitle>Lehman Farms, 
+				  <unitdate era="ce" calendar="gregorian">1948</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">17</container>
+            <unittitle>Livermore Drilling Contract, 
+				  <unitdate era="ce" calendar="gregorian">1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">18</container>
+            <unittitle>Lone Star Land Company, 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">19</container>
+            <unittitle>Louden, Mrs. Cora, 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">20</container>
+            <unittitle>Lund Real Estate Company, 
+				  <unitdate era="ce" calendar="gregorian">1906</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">21</container>
+            <unittitle>Lynn County Abstract Company, 
+				  <unitdate era="ce" calendar="gregorian">1937-1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">22</container>
+            <unittitle>Mahon, George H., 
+				  <unitdate era="ce" calendar="gregorian">1934-1936</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">23</container>
+            <unittitle>Mahoney, Henry, 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">24</container>
+            <unittitle>Markham, Jack, 
+				  <unitdate era="ce" calendar="gregorian">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">25</container>
+            <unittitle>McClellan, Noah, Lynn County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">26</container>
+            <unittitle>McElreath and Suggett, Oil Operators, 
+				  <unitdate era="ce" calendar="gregorian">1937-1947</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">27</container>
+            <unittitle>McKee, Mrs. Addie, 
+				  <unitdate era="ce" calendar="gregorian">1955</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">28</container>
+            <unittitle>McMillan, J. W., Midland, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1937-1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">29</container>
+            <unittitle>McNeely, A. A., Texas Company, 
+				  <unitdate era="ce" calendar="gregorian">1937-1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">30</container>
+            <unittitle>Middleton, R. V., 
+				  <unitdate era="ce" calendar="gregorian">1946-1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Miller, John W.</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">31</container>
+              <unittitle>Correspondence on Various Titles at Vealmoor, 
+					 <unitdate era="ce" calendar="gregorian">1953-1955</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">32</container>
+              <unittitle>Mrs, Veal, Borden and Howard Counties, Map and Royalty
+					 Statement, 
+					 <unitdate era="ce" calendar="gregorian">1950-1955</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">33</container>
+              <unittitle>Mrs. Veal, Carl McKee, Royalty Agreement, 
+					 <unitdate era="ce" calendar="gregorian">1950</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">34</container>
+              <unittitle>Mrs. Veal, Charles H. Priddy and Joe W. McSpadden, 
+					 <unitdate era="ce" calendar="gregorian">1953</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">35</container>
+              <unittitle>Mrs. Veal, E. L. Clanton, Royalty Agreement, 
+					 <unitdate era="ce" calendar="gregorian">1950</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">36</container>
+              <unittitle>Mrs. Veal, H. S. Moss and Oil and Gas Leases, 
+					 <unitdate era="ce" calendar="gregorian">1939-1950</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">37</container>
+              <unittitle>Mrs. Veal, Honolulu Oil Corporation, Oil and Gas
+					 Leases, 
+					 <unitdate era="ce" calendar="gregorian">1953-1954</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">38</container>
+              <unittitle>Mrs. Veal, J. A. Lavender Drilling Block Near Ackerly,
+					 
+					 <unitdate era="ce" calendar="gregorian">1954</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">39</container>
+              <unittitle>Mrs. Veal, Miscellaneous, 
+					 <unitdate era="ce" calendar="gregorian">1948-1952</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">40</container>
+              <unittitle>Mrs. Veal, Morton Lands, 
+					 <unitdate era="ce" calendar="gregorian">1953</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">41</container>
+              <unittitle>Mrs. Veal, Oceanic Oil Company, Vealmoor Townsite,
+					 Howard County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1954-1955</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">2</container>
+              <container type="folder">42</container>
+              <unittitle>Mrs. Veal, Sunray Oil Corporation, 
+					 <unitdate era="ce" calendar="gregorian">1950-1955</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">43</container>
+            <unittitle>Mrs. Veal, Warren Petroleum Corporation, 
+				  <unitdate era="ce" calendar="gregorian">1953-1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">44</container>
+            <unittitle>Morrison and Morrison, Attorneys, 
+				  <unitdate era="ce" calendar="gregorian">1946-1947</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">45</container>
+            <unittitle>Murrah, G. M., Lynn County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">46</container>
+            <unittitle>Murray, P. F. and J. E. Alexander, McCulloch County
+				  Block, 
+				  <unitdate era="ce" calendar="gregorian">1950-1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">47</container>
+            <unittitle>Nelson, Anna, 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">48</container>
+            <unittitle>Oil Leases, Deals Submitted on, Drilling Contracts and
+				  Royalty Production, 
+				  <unitdate era="ce" calendar="gregorian">1941-1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">49</container>
+            <unittitle>O'Neal, W. E., McElreath and Suggett, County Line
+				  Leases, 
+				  <unitdate era="ce" calendar="gregorian">1938-1948</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">50</container>
+            <unittitle>O'Pry, Alvin, 
+				  <unitdate era="ce" calendar="gregorian">1940-1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">51</container>
+            <unittitle>Overstreet, R. W., et. al., Lynn County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1937-1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">52</container>
+            <unittitle>Pep Drilling Block, 
+				  <unitdate era="ce" calendar="gregorian">1943-1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">53</container>
+            <unittitle>Phifer O. R., Lease, 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">54</container>
+            <unittitle>Polk, S. J. T., 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">55</container>
+            <unittitle>Porter, J. C. and Owen Thomas, cancelled, 
+				  <unitdate era="ce" calendar="gregorian">1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle>Redfern, John J., Jr., 
+				  <unitdate era="ce" calendar="gregorian">1939-1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle>Republic National Bank, Dallas, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1934-1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle>Republic National Bank, Dallas Texas, 
+				  <unitdate era="ce" calendar="gregorian">1944-1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle>San Andres Production Company, 
+				  <unitdate era="ce" calendar="gregorian">1944-1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle>Seale, Mid, Royalty, Hockley County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">6</container>
+            <unittitle>Sherrod, J. F., 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">7</container>
+            <unittitle>Showalter, M. R., Sundown Townsite, 
+				  <unitdate era="ce" calendar="gregorian">1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">8</container>
+            <unittitle>Simmons, Bay, 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">9</container>
+            <unittitle>Slaughter, C. C. and W. P. Soash, Cochran County Lands
+				  Contract, 
+				  <unitdate era="ce" calendar="gregorian">1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">10</container>
+            <unittitle>Slaughter, R. L., Jr., 
+				  <unitdate era="ce" calendar="gregorian">1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">11</container>
+            <unittitle>Soash W. P., Subdivision in Lubbock, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1931</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">12</container>
+            <unittitle>Soash, W. P. and G. W. Soash, Interest's in McCulloch
+				  County, Texas, Oil and Gas Leases, 
+				  <unitdate era="ce" calendar="gregorian">1950-1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">13</container>
+            <unittitle>Tax Receipts, 
+				  <unitdate era="ce" calendar="gregorian">1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">14</container>
+            <unittitle>Texas Company, 
+				  <unitdate era="ce" calendar="gregorian">1937-1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">15</container>
+            <unittitle>Thomas, Owen, 
+				  <unitdate era="ce" calendar="gregorian">1936-1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">16</container>
+            <unittitle>Thomas, Owen, 
+				  <unitdate era="ce" calendar="gregorian">1937-1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">17</container>
+            <unittitle>Thomas, Owen, 
+				  <unitdate era="ce" calendar="gregorian">1940-1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">18</container>
+            <unittitle>Thomas, Owen and Robert B. Violette, Lynn County, Texas
+				  Lease, 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">19</container>
+            <unittitle>Thomason, M. H., Wichita Falls, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1939-1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">20</container>
+            <unittitle>Thomerson, Cora and Lofton L. and Dwight M. Johnson,
+				  Gaines County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1944-1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">21</container>
+            <unittitle>Thompson, Hattie J., 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">22</container>
+            <unittitle>Veal, Dr. and Mrs. George T. (Minnie Slaughter), 
+				  <unitdate era="ce" calendar="gregorian">1925-1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">23</container>
+            <unittitle>Veal, Dr. and Mrs. George T., Mineral Rights, Vealmoor
+				  Lands, 
+				  <unitdate era="ce" calendar="gregorian">1927-1948</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">24</container>
+            <unittitle>Vealmoor, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1924-1929</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">25</container>
+            <unittitle>Vealmoor Missionary Baptist Church, 
+				  <unitdate era="ce" calendar="gregorian">1941-1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">26</container>
+            <unittitle>Walker, Andree and Walker Abstract Company, 
+				  <unitdate era="ce" calendar="gregorian">1953-1957</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">27</container>
+            <unittitle>Watkins, S. M., Lease, 
+				  <unitdate era="ce" calendar="gregorian">1937 and
+					 undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">28</container>
+            <unittitle>Weaver, O. J., and W. G. Burrage, 
+				  <unitdate era="ce" calendar="gregorian">1932-1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">29</container>
+            <unittitle>Whiteface Drilling Block, 
+				  <unitdate era="ce" calendar="gregorian">1943-1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">30</container>
+            <unittitle>Whiteface Drilling Block, 
+				  <unitdate era="ce" calendar="gregorian">1943-1948</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Wiley, R. D.</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">31</container>
+              <unittitle>Lease in Lynn County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">32</container>
+              <unittitle>Lease, Violette, Robert Violette, Lynn County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">33</container>
+              <unittitle>Soash and Mid-Continent Petroleum Corporation, Lynn
+					 County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box">3</container>
+              <container type="folder">34</container>
+              <unittitle>Soash and Texas Company, Lynn County, Texas, 
+					 <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">35</container>
+            <unittitle>Williams, B. C., Leases, 
+				  <unitdate era="ce" calendar="gregorian">1940-1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">36</container>
+            <unittitle>Wilson, Andy, Drilling Contract, Lubbock County, Texas, 
+				  <unitdate era="ce" calendar="gregorian">1937</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">37</container>
+            <unittitle>Wright, Ben F. and Owen Thomas (cancelled), 
+				  <unitdate era="ce" calendar="gregorian">1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">38</container>
+            <unittitle>Young, C. V., 
+				  <unitdate era="ce" calendar="gregorian">1937-1938</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">39</container>
+            <unittitle>Zant Family letters, 
+				  <unitdate era="ce" calendar="gregorian">1945-1946</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Personal Files</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">1</container>
+            <unittitle>Halsell, H. H., 
+				  <unitdate era="ce" calendar="gregorian">1944-1947</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">2</container>
+            <unittitle>Hamner, Laura V. 
+				  <unitdate era="ce" calendar="gregorian">1935-1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">3</container>
+            <unittitle>Hunter, Tom, Bills, 
+				  <unitdate era="ce" calendar="gregorian">1934-1936 and
+					 undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">4</container>
+            <unittitle>Jameson, W. R., 
+				  <unitdate era="ce" calendar="gregorian">1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">5</container>
+            <unittitle>Larson, C. E., 
+				  <unitdate era="ce" calendar="gregorian">1908</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">6</container>
+            <unittitle>O'Neal, John Tullis, Jr., 
+				  <unitdate era="ce" calendar="gregorian">1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">7</container>
+            <unittitle>Peterson, Maurenus "Dynamite", 
+				  <unitdate era="ce" calendar="gregorian">1927-1936</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">8</container>
+            <unittitle>Schwingel, C. C., 
+				  <unitdate era="ce" calendar="gregorian">1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">9</container>
+            <unittitle>Slaughter, W. B., 
+				  <unitdate era="ce" calendar="gregorian">1924</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">10</container>
+            <unittitle>Soash, W. P., personal, 
+				  <unitdate era="ce" calendar="gregorian">1908-1928</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">11</container>
+            <unittitle>Woerth, Paul, 
+				  <unitdate era="ce" calendar="gregorian">1940-1941</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">12</container>
+            <unittitle>Letter Press Book concerning W. P. Soash's real estate
+				  business in Iowa, 
+				  <unitdate era="ce" calendar="gregorian">1904</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">13</container>
+            <unittitle>Gracy, Alice Duggan and W. P. Soash, 
+				  <unitdate era="ce" calendar="gregorian">1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">14</container>
+            <unittitle>Personal, 
+				  <unitdate era="ce" calendar="gregorian">1909-1961 and
+					 undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>C. C. Slaughter</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">15</container>
+            <unittitle>Correspondence, Manuscript and News clippings, 
+				  <unitdate era="ce" calendar="gregorian">1928-1942 and
+					 undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Financial Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">16</container>
+            <unittitle>Miscellaneous, 
+				  <unitdate era="ce" calendar="gregorian">1910-1936</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">17</container>
+            <unittitle>Oil and Gas Deals, 
+				  <unitdate era="ce" calendar="gregorian">1946-1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">18</container>
+            <unittitle>W. P. Soash Land Company Financial Statement, 
+				  <unitdate era="ce" calendar="gregorian">1949</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Gulf, Soash and Pacific Railroad</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">19</container>
+            <unittitle>Correspondence, Financial and Legal Documents and Map, 
+				  <unitdate era="ce" calendar="gregorian">1909</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Legal Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">20</container>
+            <unittitle>Leases, Contracts and Titles, 
+				  <unitdate era="ce" calendar="gregorian">1909-1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">21</container>
+            <unittitle>Olton, Texas lot for W. P. Soash Land Company, 
+				  <unitdate era="ce" calendar="gregorian">1908</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">22</container>
+            <unittitle>Standolin Oil and Gas Company, 
+				  <unitdate era="ce" calendar="gregorian">1942-1954 and undated
+					 </unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Literary Production</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">23</container>
+            <unittitle>Federal Writers’ Project Material, 
+				  <unitdate era="ce" calendar="gregorian">1906-1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">24</container>
+            <unittitle>History of Soash family and Pulver, 
+				  <unitdate era="ce" calendar="gregorian">1922-1928</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">25</container>
+            <unittitle>Interview Transcript of W. P. Soash, 
+				  <unitdate era="ce" calendar="gregorian">1936</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">26</container>
+            <unittitle>Radio Script, 
+				  <unitdate era="ce" calendar="gregorian">1954</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Printed Material</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">27</container>
+            <unittitle><title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="italic" xlink:href="">The Golden West Magazine</title>, 
+				  <unitdate era="ce" calendar="gregorian">1909</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">28</container>
+            <unittitle><title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" render="italic" xlink:href="">The Minute Man</title> bulletin, 
+				  <unitdate era="ce" calendar="gregorian">1930</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">29</container>
+            <unittitle>News clippings, 
+				  <unitdate era="ce" calendar="gregorian">1909-1967 and undated
+					 </unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">30</container>
+            <unittitle>Promotional and Other Publications, 
+				  <unitdate era="ce" calendar="gregorian">1894-1955</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Scrapbook Material I</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">31</container>
+            <unittitle>Soash, Texas photo album, 
+				  <unitdate era="ce" calendar="gregorian">1908-1909 and
+					 undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Memorabilia</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">32</container>
+            <unittitle>Button of W. P. Soash Land Company, 
+				  <unitdate era="ce" calendar="gregorian">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Scrapbook Material II</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">1</container>
+            <unittitle>Photographs of Soash, Texas and Soash office, 
+				  <unitdate era="ce" calendar="gregorian">1906-1909</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">5</container>
+            <container type="folder">2</container>
+            <unittitle>Scrapbook on Soash and his company, torn and fragile, 
+				  <unitdate era="ce" calendar="gregorian">1905-1933</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

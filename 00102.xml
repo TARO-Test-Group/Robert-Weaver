@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" id="a0" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw.00102</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Lane and Nancy Arthur:</titleproper>
+        <subtitle>An Inventory of Their Papers, 1913-1984 and undated, at the
+			 Southwest Collection/Special Collections Library</subtitle>
+        <author>Abel Ramirez</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The Southwest Collection/Special Collections
+			 Library</publisher>
+        <address>
+          <addressline>The Southwest Collection/Special Collections
+				Library</addressline>
+          <addressline>Texas Tech University</addressline>
+          <addressline>MS 41041</addressline>
+          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Phone: (806) 742-3749</addressline>
+          <addressline>Fax: (806) 742-0496</addressline>
+          <addressline>Webpage: http://swco.ttu.edu</addressline>
+          <addressline>Contact Person: Reference Archivist</addressline>
+        </address>
+        <date era="ce" calendar="gregorian">August 2000</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, 
+		  <date era="ce" calendar="gregorian">October 2000.</date></creation>
+      <langusage>Finding aid written in
+		  <language>English.</language></langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>Tue Jul 22 15:22:20 CDT 2003</date>
+        <item>urn:taro:ttu.sw.00102 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Inventory for the Lane and Nancy Arthur Papers 1913-1984 and
+		  undated</titleproper>
+      <author>Abel Ramirez</author>
+      <publisher>The Southwest Collection/Special Collections
+		  Library,</publisher>
+      <date era="ce" calendar="gregorian">August 2000</date>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" type="inventory">
+    <did id="a1">
+      <head>Descriptive Summary</head>
+      <origination label="Creator">
+        <persname encodinganalog="100">Arthur, Lane</persname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Lane and Nancy Arthur
+		  Papers, 
+		  <unitdate type="inclusive" encodinganalog="245$f" label="Dates:" era="ce" calendar="gregorian">1913-1984 and undated</unitdate></unittitle>
+      <abstract label="Abstract:" encodinganalog="520$a">The papers of Lane and
+		  Nancy Arthur deal with the Single Member District Discrimination Suit of
+		  Lubbock, Texas. </abstract>
+      <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 1183.1</unitid>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname><subarea>Southwest Collection/Special Collections
+			 Library,</subarea> Texas Tech University</corpname>
+      </repository>
+      <physdesc encodinganalog="300$a" label="Quantity:">4 boxes (4.0 linear
+		  feet)</physdesc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical Sketch</head>
+      <p>The papers deal with the Single Member District Discrimination Suit of
+		  Lubbock, Texas. It affected the way minorities were represented in the city and
+		  county government of Lubbock based on population growth in certain precincts.
+		  Lane and Nancy Arthur served as attorneys for the plaintiff-intervenors. They
+		  were also active in the Lubbock City and County government.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The collection consists of hand written notes, transcripts of
+		  proceedings, news clippings, affidavits, correspondence, voter registration and
+		  census information, and subpoenas dealing mostly with the Single Member
+		  District Discrimination Suit in Lubbock, Texas. Also included were files on
+		  campaign contributions, 41 color slides, and 2 oversized maps.</p>
+    </scopecontent>
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>The subject headings used by the Southwest Collection/Special
+		  Collections Library are derived from the Library of Congress and/or locally
+		  developed. </p>
+      <controlaccess>
+        <head>Subjects (Persons)</head>
+        <persname encodinganalog="600" source="local">Arthur, Lane</persname>
+        <persname encodinganalog="700" source="local">Arthur, Nancy</persname>
+        <persname encodinganalog="600" source="lcnaf">Benson, Daniel H.,
+			 1936-</persname>
+        <persname encodinganalog="600" source="local">Jones, Roy,
+			 Rev.</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname encodinganalog="610" source="lcnaf">United States. District
+			 Court (Texas : Northern District)</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Places</head>
+        <geogname encodinganalog="651" source="lcnaf">Lubbock (Tex.)--Politics
+			 and government</geogname>
+        <geogname encodinganalog="651" source="lcnaf">Texas--Politics and
+			 government</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">Apportionment (Election
+			 law)--Texas--Lubbock</subject>
+        <subject encodinganalog="650" source="lcsh">City council
+			 members--Texas--Lubbock</subject>
+        <subject encodinganalog="650" source="lcsh">Court
+			 records--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">District
+			 courts--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Election
+			 districts--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Election
+			 law--Texas</subject>
+        <subject encodinganalog="650" source="lcsh">Representative government
+			 and representation--Texas--Lubbock</subject>
+      </controlaccess>
+    </controlaccess>
+    <acqinfo encodinganalog="541" id="a19">
+      <p>Collection accession #(s): 
+			 <num type="accession">84-0102-C</num></p>
+      <p>Gift, 1984</p>
+    </acqinfo>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Access Restrictions</head>
+      <p>Open for research</p>
+    </accessrestrict>
+    <processinfo encodinganalog="583" id="a20">
+      <head>Processed by</head>
+      <p>Abel Ramirez, August 2000</p>
+    </processinfo>
+    <prefercite encodinganalog="524" id="a18">
+      <head>Preferred Citation</head>
+      <p>Lane and Nancy Arthur Papers, 1913-1984 and undated, Southwest
+			 Collection/Special Collections Library, Texas Tech University, Lubbock,
+			 Texas</p>
+    </prefercite>
+    <relatedmaterial encodinganalog="544 1" id="a6">
+      <p>For related materials located in the Southwest Collection/Special
+			 Collections Library, see the following collections:</p>
+      <list type="simple">
+        <item>Lane Arthur Papers [microfilm], 1909-1984</item>
+      </list>
+    </relatedmaterial>
+    <dsc type="combined" id="a23">
+      <head>Collection Inventory</head>
+      <c01>
+        <did>
+          <unittitle>Manuscript Files</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Rev. Roy Jones v. City of Lubbock- U. S. Court of
+				  Appeals (5th Circuit), Case No. 79-2774, 
+				  <unitdate era="ce" calendar="gregorian">1979, 1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>U. S. District Court for Northern District of
+				  Texas-Pleadings, Vol. 2, 
+				  <unitdate era="ce" calendar="gregorian">1980-1984</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle>Jones v. Lubbock- U. S. District Court for Northern
+				  District of Texas (Lubbock Division), Case No. 5-76-34</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle>Transcripts for Jones v. Lubbock- U. S. Court of Appeals
+				  (5th Circuit), No. 83-1196, 
+				  <unitdate era="ce" calendar="gregorian">1983-1984</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle>Jones v. Lubbock- Transcripts for U. S. Supreme Court, 
+				  <unitdate era="ce" calendar="gregorian">Undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle>Stipulations, 
+				  <unitdate era="ce" calendar="gregorian">1980-1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle>Lubbock City Council- Expenditures and Contributions
+				  Records, 
+				  <unitdate era="ce" calendar="gregorian">1980-1982</unitdate></unittitle>
+            <physdesc>(2 Copies)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle>Subpoenas, 
+				  <unitdate era="ce" calendar="gregorian">1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle>Miscellaneous Material- City Council Minutes, Amendment
+				  Proposals, etc., 
+				  <unitdate era="ce" calendar="gregorian">1970-1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle>Jones v. Lubbock- Reporter's Transcript of Proceedings,
+				  Vols. 1-4, 
+				  <unitdate era="ce" calendar="gregorian">1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle>Jones v. Lubbock- Reporter's Transcript of Proceedings,
+				  Vols. 5-7, 
+				  <unitdate era="ce" calendar="gregorian">1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle>Jones v. Lubbock- Reporter's Transcript of Proceedings,
+				  Vols. 8-10, 
+				  <unitdate era="ce" calendar="gregorian">1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle>Jones v. Lubbock- Pre-trial Orders and Briefs, 
+				  <unitdate era="ce" calendar="gregorian">1980-1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle>Jones v. Lubbock- Post-trial Memorandum, Briefs,
+				  Judgments, 
+				  <unitdate era="ce" calendar="gregorian">1979</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle>Jones v Lubbock- Stipulations, List of Witnesses,
+				  Proceedings, 
+				  <unitdate era="ce" calendar="gregorian">1978-1979</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle>Gene A. Gaines v. City of Lubbock-Proceedings, Witness
+				  Statements, 
+				  <unitdate era="ce" calendar="gregorian">1977-1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle>Other Discrimination Lawsuits, 
+				  <unitdate era="ce" calendar="gregorian">1977-1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle>Lubbock <emph render="italic">Avalanche-Journal
+				  </emph>Invoices, 
+				  <unitdate era="ce" calendar="gregorian">1976-1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle>Campaign Contribution and Expenditures
+				  Statements-Municipal General Elections and Runoffs, 
+				  <unitdate era="ce" calendar="gregorian">1972-1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle>Attorneys' Affidavits on Fees and Expenses; Time and
+				  Expense Logs; Bills and Awards of Fees, Costs and Expenses, 
+				  <unitdate era="ce" calendar="gregorian">1983-1984</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">6</container>
+            <unittitle>Correspondence- Legal Department of Lubbock, 
+				  <unitdate era="ce" calendar="gregorian">1977-1984</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">7</container>
+            <unittitle>Miscellaneous- Housing and Zoning Codes, Lubbock City
+				  Ordinances, Copies of Voting Rights Act Amendments, 
+				  <unitdate era="ce" calendar="gregorian">1913-1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">8</container>
+            <unittitle>Transparencies Used as Exhibits, 
+				  <unitdate era="ce" calendar="gregorian">Undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">9</container>
+            <unittitle>Student Evaluation Forms from Texas Tech Mass
+				  Communications Department, Excerpts from Lawrence Graves (ed.),
+				  <emph render="italic">A History of Lubbock, </emph>and Printed Leaflets of
+				  Jones v Lubbock, 
+				  <unitdate era="ce" calendar="gregorian">1960-1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">3</container>
+            <container type="folder">10</container>
+            <unittitle>Court Briefs, Census Tracts, Population Statistics, 
+				  <unitdate era="ce" calendar="gregorian">1970-1983 </unitdate>(Note: Slides transferred to
+				  Photographs)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">1</container>
+            <unittitle>Southwest Voter Registration Project- Inquiry into
+				  Voting Irregularities in Texas, 
+				  <unitdate era="ce" calendar="gregorian">October 22, 1980</unitdate></unittitle>
+            <physdesc>(2 Copies)</physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">2</container>
+            <unittitle>Jones v Lubbock- Copies of Maps and Reports on
+				  Affirmative Action, Community Development, Proposed Redistricting, Population
+				  Trends and Voting Precincts, 
+				  <unitdate era="ce" calendar="gregorian">1968-1978 </unitdate>(Note: Oversize Maps transferred
+				  to Maps)</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">3</container>
+            <unittitle>Newspaper Clippings, 
+				  <unitdate era="ce" calendar="gregorian">1923-1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">4</container>
+            <unittitle>Handwritten Notes on Jones v. Lubbock Proceedings, 
+				  <unitdate era="ce" calendar="gregorian">1977-1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">5</container>
+            <unittitle>Gaines v. Lubbock, 
+				  <unitdate era="ce" calendar="gregorian">1976-1978 and Undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">4</container>
+            <container type="folder">6</container>
+            <unittitle>S. M. D. and Miscellaneous Notes - Other Lawsuits Used
+				  as References, 
+				  <unitdate era="ce" calendar="gregorian">1976-1978 and Undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
